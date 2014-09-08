@@ -1,0 +1,10 @@
+====== Open Bible Stories (fr) ======
+
+
+Bienvenue à Open Bible Stories! Sentez vous libre de traduire cette page ainsi que les histoires (en incluant les titres) ci-dessous. Si vous avez besoin d'aide [[http://distantshoresmedia.org/contact|demandez !]]
+
+
+{{page>en:obs:active}}
+
+
+{{page>fr:obs:stories}}
