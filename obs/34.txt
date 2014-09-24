@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg}}
 
-Jésus dit beaucoup d'autres paraboles au sujet du royaume de Dieu.  Par exemple, Il dit, "Le Royaume de Dieu est semblable à une graine de moutarde que quelqu'un a semé dans son champ.  Vous savez que la graine de moutarde est la plus petite de toutes les semences."
+Jésus dit beaucoup d'autres paraboles au sujet du royaume de Dieu.  Par exemple, Il dit, "Le royaume de Dieu est semblable à une graine de moutarde que quelqu'un a semé dans son champ.  Vous savez que la graine de moutarde est la plus petite de toutes les semences."
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg}}
 
 "Mais quand la graine de moutarde a poussé, elle dépasse toutes les autres plantes du potager et devient un arbuste, de sorte que les oiseaux du ciel viennent nicher dans ses branches."
@@ -17,7 +17,7 @@ Jésus dit cette autre parabole, "Le royaume de Dieu est semblable à du levain 
 "Le royaume de Dieu est aussi semblable à une perle sans défaut et de grande valeur. Quand un marchand de perles la trouva, il est allé vendre tout ce qu'il possède, et avec cet argent il l'a achetée."
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg}}
 
-Puis Jésus dit une parabole au sujet des gens qui aiment leurs richesses, leurs bonnes actions et haïent les autres personnes. Il dit "Deux hommes allèrent dans le Temple pour prier. Un des deux était un collecteur d'impôts, l'autre était un chef religieux."
+Puis Jésus dit une parabole au sujet des gens qui aiment leurs richesses, leurs bonnes actions et haïssent les autres personnes. Il dit "Deux hommes allèrent dans le Temple pour prier. Un des deux était un collecteur d'impôts, l'autre était un chef religieux."
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg}}
 
 "Le chef religieux a prié comme ceci, 'Je te remercie Dieu que je ne suis pas un pécheur comme les autres gens qui volent, les hommes qui sont injustes, les adultères, ou même comme le collecteur d'impôt.'"
