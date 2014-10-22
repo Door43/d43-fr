@@ -1,7 +1,8 @@
 **unfoldingWord | OPEN BIBLE STORIES**
+**unfoldingWord | OPEN BIBLE STORIES**
 
 **an unrestricted visual mini-Bible in any language**
-**un visuel sans restriction d'une mini-bible dans n'importe qu'elle langue.
+**un accès non limité à une mini-bible dans toutes les langues.
 
 http://openbiblestories.com
 http://openbiblestories.com
@@ -10,14 +11,14 @@ Open Bible Stories, v. 3.1
 Open Bible Stories, v. 3.1
 
 Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
-Crées par Distant Shores Media  (http://distantshores.org) et Door43 de la communauté des missions mondiales
+Créé par Distant Shores Media  (http://distantshores.org) et La Porte 43 de la communauté des missions mondiales
 (http://door43.org).
 
 **License:**
-**License:**
+**Licence:**
 
 This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/).
-Cet ouvrage est disponible sous la "Creative Commons Attibution-ShareAlike 4.0 International License"
+Cet ouvrage est disponible sous la licence internationale "Creative Commons Attibution-ShareAlike 4.0 
 (http://creativecommons.org/licenses/by-sa/4.0/)
 
 You are free:
@@ -25,8 +26,8 @@ Vous êtes libre:
 
 * **Share** — copy and redistribute the material in any medium or format
 * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-* **De partager**, de copier, et de redistribuer cette matière dans n'importe qu'elle publicité ou format
-* **D'adapter**, re-mélanger, transformer et incorporer d'autres choses à la matière, à toutes fins utiles, même commercialement
+* **De partager**, de copier, et de redistribuer ce document sur tous les médias et dans n'importe quel format 
+* **D'adapter**, mélanger, transformer et ajouter d'autres choses à ce document, quelque soit le but même commercial
 
 Under the following conditions:
 Sous les conditions suivantes:
@@ -34,17 +35,18 @@ Sous les conditions suivantes:
 * **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-* ** Attribution** - Vous devez attribuer l'ouvrage comme suit:  L'ouvrage d'origine est disponible à http://openbiblestories.com." les infirmations de l'Attribution dérivées de l'ouvrage ne devraient pas en aucune façon suggérer que nous vous approuvons ou votre utilisation de cet ouvrage.
-* **ShareAlike** - Si vous re-mélangez, transformez, ou dévelopez cette matière, vous devez distribuer vos contributions sous la même license d'origine.
+* ** Origine de l'ouvrage** - Vous devez attribuer l'ouvrage comme suit:  L'ouvrage d'origine est disponible à http://openbiblestories.com." Les mentions d'origine dans des oeuvres dérivées doivent en aucun cas laissé comprendre que nous approuvons ou que nous approuvons l'usage que vous en faites.
+
+* **ShareAlike** - Si vous re-mélangez, transformez, ou développez le document, vous devez diffuser vos contributions sous la même licence que celle de l'original.
 
 Use of trademarks: **unfoldingWord** is a trademark of Distant Shores Media and may not be included on any derivative works created from this content.  Unaltered content from http://openbiblestories.com must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
 
-Utilisation des marque déposées: **unfordingWord** est une marque déposée de Distant Shore Media et ne peut être inclue dans tout ouvrage crée de ce contenu. Le contenue inchangé de http://openbible stories.com devrait inclure le logo de **unfoldingWord** quand c'est distribué aux autres.  Mais si vous changez ou modifiez le contenue d'une façon quelconque, vous devez enlever le logo de **unfoldingWord avant la distribution de votre ouvrage.
+Utilisation des marque déposées: **unfoldingWord** est une marque déposée de Distant Shore Media et ne peut être incluse dans tout ouvrage dérivé, créé à partir de ce contenu. Le contenu inchangé de http://openbible stories.com doit inclure le logo de **unfoldingWord** quand il est diffusé.  Mais si vous changez ou modifiez le contenu de quelque façon que ce soit, vous devez enlever le logo de **unfoldingWord avant la distribution de votre travail.
 
 Attribution of artwork: All images used in these stories are © Sweet Publishing (www.sweetpublishing.com) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0).
 
-Attribution de l'art:  Toutes images utilisées dans ces histoires sont de "Sweet Publishing.com) et sont disponibles sous "Creative Commons Attibution-Share Alike License (http://creative commons.org/licenses/by-sa/3.0)
+Attribution du travail artistique:  Toutes les images utilisées dans ces histoires sont de (Sweet Publishing.com) et sont disponibles sous la licence "Creative Commons Attibution-Share Alike License (http://creative commons.org/licenses/by-sa/3.0)
 
 To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
 
-A nos frères et soeurs en Christ dans le monde entier- l"Eglise Globale. C'est notre prière que Dieu utilise cet aperçu visuel de Sa Parole pour vous bénir, vous fortifier et vous encourager.
+A nos frères et soeurs dans le Christ partout dans le monde - l"Eglise Globale. C'est notre prière que Dieu utilise cet aperçu visuel de Sa Parole pour vous bénir, vous rendre plus fort et vous encourager.
