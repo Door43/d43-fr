@@ -26,8 +26,9 @@ Vous êtes libre:
 
 * **Share** — copy and redistribute the material in any medium or format
 * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
 * **De partager**, de copier, et de redistribuer ce document sur tous les médias et dans n'importe quel format 
-* **D'adapter**, mélanger, transformer et ajouter d'autres choses à ce document, quelque soit le but même commercial
+* **D'adapter**, mélanger, transformer et ajouter d'autres choses à ce document, quelque soit le but même commercial.
 
 Under the following conditions:
 Sous les conditions suivantes:
@@ -35,7 +36,7 @@ Sous les conditions suivantes:
 * **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-* ** Origine de l'ouvrage** - Vous devez attribuer l'ouvrage comme suit:  L'ouvrage d'origine est disponible à http://openbiblestories.com." Les mentions d'origine dans des oeuvres dérivées doivent en aucun cas laissé comprendre que nous approuvons ou que nous approuvons l'usage que vous en faites.
+* ** Origine de l'ouvrage** - Vous devez attribuer l'ouvrage comme suit:  "L'ouvrage d'origine est disponible à http://openbiblestories.com." Les mentions d'origine dans des oeuvres dérivées ne doivent en aucun cas laissé comprendre que nous approuvons ou que nous approuvons l'usage que vous en faites.
 
 * **ShareAlike** - Si vous re-mélangez, transformez, ou développez le document, vous devez diffuser vos contributions sous la même licence que celle de l'original.
 
