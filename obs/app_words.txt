@@ -1,5 +1,5 @@
-//Translation for the unfoldingWord mobile app interface // 
-Traduction de l'interface de l'application mobile pour "unfoldingWord"
+//Translation for the unfoldingWord mobile app interface//
+//Traduction de l'interface de l'application mobile pour "unfoldingWord"//
 
 Select a language: Select a Language
 Choisir une langue
