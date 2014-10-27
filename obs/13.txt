@@ -81,7 +81,7 @@ Quand Moïse a descendu de la montagne, il a vu l'idole et il est devenu très f
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg}}
 
 
-<font 13px background-color: rgb(255, 255, 255);/arial, sans-serif;;#000000;;rgb(34, 34, 34) font-family: arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);>Après, Moïse à écrasé l'idole jusque ce que l'idole soit une poudre. Moïse a mis la poudre dans une quantité d'eau et il a dit aux Israélites de la boire. Dieu leur a envoyé une maladie et quelques gens sont morts.</font> 
+Après, Moïse à écrasé l'idole jusque ce que l'idole soit une poudre. Moïse a mis la poudre dans une quantité d'eau et il a dit aux Israélites de la boire. Dieu leur a envoyé une maladie et quelques gens sont morts.
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg}}
