@@ -48,6 +48,6 @@
   - [[fr:obs:48|Jésus est le Messie Promis]]
   - [[fr:obs:49|La Nouvelle Alliance de Dieu]]
   - [[fr:obs:50|Jésus Reviens]]
-  * [[fr:obs:front-matter][Front Matter]]Page Préliminaire
-  * [[fr:obs:back-matter|Back Matter]]Dernière Page
-  * [[fr:obs:app_words|Mobile App Words]]Consignes pour les applications mobiles
+  * [[fr:obs:front-matter|Page Préliminaire]]
+  * [[fr:obs:back-matter|Dernière Page]]
+  * [[fr:obs:app_words|Consignes pour les applications mobiles]]
