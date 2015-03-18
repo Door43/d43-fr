@@ -1,30 +1,23 @@
-====== 33. L'Histoire du Semeur ======
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+====== 33. L'Histoire du semeur ======
 
-Un jour, Jésus enseignait une grande foule au bord du lac.  Tant de gens venaient l'écouter que Jésus monta dans une barque au bord de l'eau pour qu'il ait plus de place pour leur parler.  Il s'est assis dans la barque et leur parla en paraboles.
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-Jésus leur dit cette histoire. "Un semeur sortit pour semer des grains.  Quand il semait, une partie de la semence tomba le long du chemin, et les oiseaux vinrent et la mangèrent."
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+Un jour, Jésus enseignait une grande foule au bord du lac. Il y avait tellement de personnes venues l'écouter que Jésus monta dans une barque au bord de l'eau pour qu'il ait plus de place pour leur parler. Il s'assit dans la barque et leur enseigna en paraboles. {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-"Une autre partie de la semence tomba dans les endroits pierreux, où elle n'avait pas beaucoup de terre.  La semence dans les endroits pierreux, se leva aussitôt.  Mais quand le soleil parut, elle fut brûlée et sécha faute de racines parce qu'elle ne trouva pas un sol profond.
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+Jésus leur raconta cette histoire. "Un semeur sortit pour semer des grains. Quand il semait, une partie de la semence tomba le long du chemin, et les oiseaux vinrent et la mangèrent." {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-"Une autre partie de la semence tomba parmi les épines.  Les épines montèrent et étouffèrent la semence qui ne produisit pas de grain."
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+"Une autre partie de la semence tomba dans les endroits pierreux, où elle n'avait pas beaucoup de terre. La semence dans les endroits pierreux, se leva aussitôt. Mais quand le soleil parut, elle fut brûlée et sécha faute de racines parce qu'elle ne trouva pas un sol profond. {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-"Une autre partie de la semence tomba dans la bonne terre.  Elle porta du fruit, avec un rendement de 30, 60 ou même 100 pour un grain. Que celui qui a des oreilles pour entendre, entende!"
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+"Une autre partie de la semence tomba parmi les épines. Les épines montèrent et étouffèrent la semence qui ne produisit pas de grain." {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-Cette histoire confût les disciples.  Alors Jésus expliqua, "La semence représente la Parole de Dieu.  La semence, le long du chemin, représente une personne qui entend la Parole de Dieu et ne la comprend pas, et le diable lui enlève la Parole de Dieu." 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
+"Une autre partie de la semence tomba dans la bonne terre. Elle porta du fruit, avec un rendement de 30, 60 ou même 100 pour un grain. Que celui qui a des oreilles pour entendre, entende!" {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
-"L'endroits pierreux est une personne qui entend la Parole de Dieu et la reçoit aussitôt avec joie.  Mais dès que survient une tribulation ou une persécution à cause de la parole, elle y trouve une occasion de chute."
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
+Cette histoire embrouilla les disciples. Alors Jésus expliqua, "La semence représente la Parole de Dieu. La semence, le long du chemin, représente une personne qui entend la Parole de Dieu et ne la comprend pas, et le diable lui enlève la Parole de Dieu." {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-"L'endroit parmi les épines, est une personne qui entend la parole, mais quand le temps passe, les soucis, et la séduction des richesses étouffent son amour pour Dieu.  En conséquence, la parole qu'il a entendu ne produit pas de fruit."
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
+"L'endroit pierreux est une personne qui entend la Parole de Dieu et la reçoit aussitôt avec joie. Mais dès que survient une tribulation ou une persécution à cause de la parole, elle y trouve une occasion de chute." {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-"Mais celui qui a reçu la semence dans la bonne terre, est une personne qui entend la parole de Dieu, La comprend, et porte du fruit."
+"L'endroit parmi les épines, est une personne qui entend la parole, mais avec le temps, les soucis, et la séduction des richesses étouffent son amour pour Dieu. En conséquence, la parole qu'elle a entendu ne produit pas de fruit." {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-//Cette histoire de la Bible vient de: Matthieu 13:1-8, 18-23; Marc 4:1-8, 13-20; Luc 8:4-15//
+"Mais celui qui a reçu la semence dans la bonne terre, est une personne qui entend la parole de Dieu, la comprend, et porte du fruit."
+
+//Une histoire biblique tirée de: Matthieu 13:1-8, 18-23; Marc 4:1-8, 13-20; Luc 8:4-15//
