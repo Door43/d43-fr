@@ -1,1 +1,1 @@
-<nspages fr:obs:notes:questions -sortID -title -exclude:home -nbCol=3 -textPages="​List of all OBS French Questions Pages:"​>
+<nspages fr:obs:notes:questions -title -exclude:home -nbCol=3 -textPages="List of all OBS Questions Pages:">
