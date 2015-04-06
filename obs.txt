@@ -1,5 +1,7 @@
 ====== Open Bible Stories (fr) ======
 
+{{  :en:obs-pic_360p.jpg?nolink&300}}**50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+
 Bienvenue à Open Bible Stories! Sentez vous libre de traduire cette page ainsi que les histoires (en incluant les titres) ci-dessous. Si vous avez besoin d'aide [[:contact|demandez !]]
 
 {{page>fr:obs:stories}}
