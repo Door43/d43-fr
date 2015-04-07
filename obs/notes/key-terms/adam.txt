@@ -1,31 +1,46 @@
-====== Adam ======
+====== Adam Adam ======
 
-
-===== Facts: =====
+===== Facts: Les faits =====
 
 Adam was made in the image of God. God made Adam with many qualities that God has in himself, like personality, the ability to love, the capacity to make choices, to be self-aware, and to be capable of relationships and to communicate, plus many more.
 
-    * Adam was the first man.
-    * God formed him from dirt and breathed life into him.
-    * Adam's name sounds similar to the Hebrew word for "red dirt" or "ground."
-    * The name "Adam" is the same as the Old Testament word for "mankind" or "human being."
-    * All people are descendants of Adam and Eve.
+Adam a été créé à l'image de Dieu. Dieu a créé Adam avec de nombreuses qualités que Dieu a en lui, telles que la personnalité, la capacité à aimer, la capacité à faire des choix, à être conscient, à entretenir des relations avec les autres et à communiquer, plus de nombreuses autres.
+
+  * Adam was the first man.
+  * Adam a été le premier homme
+  * God formed him from dirt and breathed life into him.
+  * Dieu l'a créé à partir de la poussière et lui a insufflé la vie.
+  * Adam's name sounds similar to the Hebrew word for "red dirt" or "ground."
+  * Le nom d'Adam est semblable au terme hébreu pour "la poussière rouge" ou "la terre".
+  * The name "Adam" is the same as the Old Testament word for "mankind" or "human being."
+  * Le nom "Adam" est le même que le terme utilisé dans l'ancien testament pour "le genre humain" ou "l'être humain".
+  * All people are descendants of Adam and Eve.
+  * Tous les êtres humains sont des descendants d'Adam et d'Eve.
 
 Adam and Eve disobeyed God. They did what God told them not to do. This separated them from God and brought spiritual and physical death into their lives and into the world that God had made.
 
-[See also: **[[fr:obs:notes:key-terms:eve|Eve]]**]
+Adam et Eve ont désobéi à Dieu, Ils ont fait ce que Dieu leur a dit de faire. Cela les a séparés de Dieu et a amené la mort spirituelle et physique dans leurs vies et dans le monde que Dieu avait créé.
 
+[See also: **[[:fr:obs:notes:key-terms:eve|Eve]]**]
+
+[Voir aussi: Eve]
 
 ===== Examples from the Bible stories: =====
 
+Exemples tirés de la bible:
 
-  ***[[:fr:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
-  ***[[:fr:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam** could live, and put him there to care for it.
-  ***[[:fr:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's** helper.
-  ***[[:fr:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam** and Eve with animal skins.
-  ***[[:fr:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam** and Eve away from the beautiful garden.
-  ***[[:fr:obs:notes:frames:49-08|[49-08]]]** When **Adam** and Eve sinned, it affected all of their descendants.
-  ***[[:fr:obs:notes:frames:50-16|[50-16]]]** Because **Adam** and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it. 
-
-
+  * **[[:fr:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us".
+  *            Alors Dieu dit, "Faisons l'homme à notre image pour qu'il soit comme nous".
+  * **[[:fr:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam**  could live, and put him there to care for it.
+  *            Le nom de cet homme était Adam. Dieu planta un jardin dans lequel Adam pouvait vivre, et l'y plaça pour qu'il en prenne soin.
+  * **[[:fr:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's**  helper.
+  *            Ensuite Dieu dit, "il n'est pas bon que l'homme soit seul". Mais aucun des animaux ne pouvait être son aide.
+  * **[[:fr:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam**  and Eve with animal skins.
+  *            Et Dieu revêtit Adam et Eve de peaux d'animaux.
+  * **[[:fr:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam**  and Eve away from the beautiful garden.
+  *            Alors Dieu renvoya Adam et Eve du beau jardin
+  * **[[:fr:obs:notes:frames:49-08|[49-08]]]** When **Adam**  and Eve sinned, it affected all of their descendants.
+  *            Quand Adam et Eve ont péché, cela a affecté tous leurs descendants.
+  * **[[:fr:obs:notes:frames:50-16|[50-16]]]** Because **Adam**  and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it.
+  *            Etant donné qu'Adam et Eve ont désobéi à Dieu et apporté le péché dans le monde, Dieu l'a maudit et a décidé de le détruire.
 ~~DISCUSSION:off~~
