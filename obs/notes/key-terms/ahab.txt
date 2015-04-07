@@ -1,23 +1,30 @@
-====== Ahab ======
+====== Ahab Achab ======
 
-
-===== Facts: =====
+===== Facts: Les faits =====
 
 Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
+Achab a été un très méchant roi qui gouverna sur la partie nord du royaume d'Israël.
+
   * King Ahab was wicked and encouraged the people of the kingdom of Israel to worship false gods.
+  * Le roi Achab était très méchant et encouragea les gens du royaume d'Israël à adorer des faux dieux.
   * The prophet Elijah confronted Ahab and told him that there would be a severe drought for three and a half years as a punishment for the sins that Ahab caused Israel to commit.
+  * Le prophète Elie a confronté Achab et lui a dit qu'il allait y avoir une sécheresse sévère pendant trois ans et demi comme punition pour les péchés que Achab avait amené Israël à commettre.
   * Ahab had 450 prophets to the false god named Baal. Elijah challenged those prophets and proved that Yahweh is the only true God.
+  * Achab avait 450 prophètes pour les faux dieux nommés Baal. Elie a défié les prophètes et prouvé que Yahvé est le seul vrai Dieu.
 
+[See also: **[[:fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[:fr:obs:notes:key-terms:elijah|Elijah]]**, **[[:fr:obs:notes:key-terms:baal|Baal]]**, **[[:fr:obs:notes:key-terms:yahweh|Yahweh]]**]
 
-[See also: **[[fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[fr:obs:notes:key-terms:Elijah|Elijah]]**, **[[fr:obs:notes:key-terms:baal|Baal]]**, **[[fr:obs:notes:key-terms:yahweh|Yahweh]]**]
-
+[Voir aussi: Royaume d'Israël, Elie, Baal, Yahvé]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab** was king over the kingdom of Israel. **Ahab** was an evil man who encouraged people to worship a false god named Baal.
-  ***[[:fr:obs:notes:frames:19-03|[19-03]]]** **Ahab** and his army looked for Elijah, but they could not find him.
-  ***[[:fr:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab** because he was going to send rain again.
+Exemples tirés des histoires bibliques:
 
-
+  * **[[:fr:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab**  was king over the kingdom of Israel. **Ahab**  was an evil man who encouraged people to worship a false god named Baal.
+  *           Elie a été prophète quand Achab était le roi du royaume d'Israël. Achab était un homme méchant qui encouragea les gens à adorer un faux dieu nommé Baal.
+  * **[[:fr:obs:notes:frames:19-03|[19-03]]]****Ahab**  and his army looked for Elijah, but they could not find him.
+  *            Achab et son armée ont cherché Elie, mais ne l'ont pas trouvé.
+  * **[[:fr:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab**  because he was going to send rain again.
+  *           Après trois ans et demi, Dieu a dit à Elie de repartir vers le royaume d'Israël et de parler à Achab parce qu'il a renvoyé la pluie
 ~~DISCUSSION:off~~
