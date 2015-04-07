@@ -1,27 +1,34 @@
-====== adultery ======
+====== adultery adultère ======
 
+==== (adultery, adulterer) (adultère, une personne adultère) ====
 
-==== (adultery, adulterer) ====
+===== Definition: Définition =====
 
+A person commits the sin of adultery by having sexual relations with someone who is not that person's husband or wife.
 
-===== Definition: =====
- 
-A person commits the sin of adultery by having sexual relations with someone who is not that person's husband or wife. 
+Une personne commet le péché d'adultère en ayant des relations sexuelles avec quelqu'un qui n'est pas son mari ou sa femme.
 
   * Adultery breaks the promises that a husband and wife make to each other in the covenant of marriage.
-  * Within the covenant of marriage is the only context in which God approves sexual relations. 
+  * L'adultère brise la promesse qu'un mari et qu'une femme se font lors du contrat/de la promesse de mariage.
+  * Within the covenant of marriage is the only context in which God approves sexual relations.
+  * Au sein du contrat/la promesse de mariage est le seul contexte dans lequel Dieu approuve des relations sexuelles.
   * An adulterer is a person who commits adultery.
+  * Une personne adultère est une personne qui commet l'adultère.
   * God commanded the Israelites not to commit adultery.
+  * Dieu a donné l'ordre aux Israélites de ne pas commettre l'adultère.
 
 Be sure to translate this in a way that doesn't offend or embarrass people. Languages often have an indirect, polite way of saying this, such as "sleeping with someone else's husband or wife."
 
+Faites de votre mieux pour traduire cela /Assurez vous de traduire cela d'une manière qui n'offense pas ou ne met pas mal à l'aise les gens. Les langues ont souvent une manière indirecte, polie de formuler cela, tel que "coucher avec le mari ou la femme de quelqu'un d'autre".
 
 ===== Examples from the Bible stories: =====
 
+Exemples tirés des histoires bibliques:
 
-  ***[[:fr:obs:notes:frames:13-06|[13-06]]]** "Do not commit **adultery**."
-  ***[[:fr:obs:notes:frames:28-02|[28-02]]]** Do not commit **adultery**.
-  ***[[:fr:obs:notes:frames:34-07|[34-07]]]** "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, **adulterers**, or even like that tax collector.'"
-
-
+  * **[[:fr:obs:notes:frames:13-06|[13-06]]]**"Do not commit **adultery**."
+  *            "Ne commettez pas l'adultère".
+  * **[[:fr:obs:notes:frames:28-02|[28-02]]]** Do not commit **adultery**.
+  *           "Ne commettez pas l'adultère".
+  * **[[:fr:obs:notes:frames:34-07|[34-07]]]**"The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, **adulterers**, or even like that tax collector.'"
+  *            "Les leaders religieux ont prié de cette manière, 'Merci, Dieu, parce que je ne suis pas un pêcheur comme les autres hommes - tels que les voleurs, les hommes injustes, ou même tel que les collecteurs de taxes".
 ~~DISCUSSION:off~~
