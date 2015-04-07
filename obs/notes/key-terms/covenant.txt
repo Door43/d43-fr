@@ -1,22 +1,19 @@
-====== covenant; Aliance ======
+====== covenant; Alliance ======
 
 ===== Definition: =====
 
 A covenant is a formal, binding agreement between two parties that they must fulfill.
 
-<font inherit/inherit;;#0000FF;;inherit>l'alliance est est un accord entre deux partis.</font>
+<font inherit/inherit;;#0000FF;;inherit>Une alliance est un accord formel entre deux partis qu'ils doivent respecter.</font>
 
   * This agreement can be between individuals, between groups of people, or between God and people
-
-         <font inherit/inherit;;#0000FF;;inherit>Cet agrement peut etre contracte entre des individus, entre un goupe de peuple ou entre Dieu et les gens.</font>
+  * <font inherit/inherit;;#0000FF;;inherit>Cet agrement peut etre contracte entre des individus, entre un goupe de peuple ou entre Dieu et les gens.</font>
 
   * When people make a covenant with each other, they say that they will do something, and they must do it.
-
-        <font inherit/inherit;;#0000FF;;inherit>Quand les gens contract une alliance entre eux et d'autres personnes, ils promettent de faire quelquechose et ils doivent le fair.</font>
+  * <font inherit/inherit;;#0000FF;;inherit>Quand les gens contract une alliance entre eux et d'autres personnes, ils promettent de faire quelquechose et ils doivent le fair.</font>
 
   * Examples of covenants include marriage covenants, business agreements, and treaties between countries.
-
-        <font inherit/inherit;;#0000FF;;inherit>les exemples d'alliances inclus l'alliance de mariage, l'alliance des affairs, et les traites entre les pays</font>
+  * <font inherit/inherit;;#0000FF;;inherit>les exemples d'alliances inclus l'alliance de mariage, l'alliance des affairs, et les traites entre les pays</font>
 
   * On several occasions, God made a covenant with his people.
 
@@ -29,8 +26,7 @@ Dans plusieurs occasions, Dieu a fait l'alliances avec son peuple
 <font inherit/inherit;;#0000FF;;inherit>Dans certaines alliances, Dieu a promis d'accomplis sa part sans conditions.</font>
 
   * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
-
-        <font inherit/inherit;;#0000FF;;inherit>Dans d'autre alliances, Dieu a promit d'acomplis sa part si le people lui obei et respect leur part de l'alliance.</font>
+  * <font inherit/inherit;;#0000FF;;inherit>Dans d'autre alliances, Dieu a promit d'acomplis sa part si le people lui obei et respect leur part de l'alliance.</font>
 
 [See also: **[[:fr:obs:notes:key-terms:promise|promise]]**, **[[:fr:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
