@@ -1,23 +1,19 @@
 ===== God Created Sky [01-03] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
 On **the second day** of creation, **God spoke** and **created** the **sky** above the earth. He made the sky by separating the water above from the water below.
-
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **the second day** - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **God spoke** - God created the sky by speaking a command.
-  * **created** - God made the sky out of nothing.
-  * **sky** - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-
+  * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
+  * Le travail du Bon Diev élait fait dans un maniere trés precis, un choses apres l'autre choses.  Les choses que le Bon Diev a fait cree chaque joor etait creé sur et dependait sor les choses quIl a fait les jours avant.
+  * **God spoke**  - God created the sky by speaking a command.
+  * **created**  - God made the sky out of nothing.
+  * creé - Le Bon Diev ä fait faire le ciel de rien de tout.
+  * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
+  * ciel - Ce mot la, ca veux dire tout r'espace qui se trouve sur la terre, inclusif de l'air que novs respirons et partout dans le ciel.
 
 **[[:fr:obs:notes:frames:01-02|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-04|>>]]**
