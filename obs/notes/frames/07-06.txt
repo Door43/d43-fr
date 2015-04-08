@@ -1,9 +1,10 @@
 ===== Isaac Sent Jacob Away [07-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink}}
+But **Rebekah** heard of **Esau’s plan**. So **she and Isaac sent Jacob far away to live with her relatives**.
 
-But **Rebekah** heard of **Esau’s plan**. So **she and Isaac sent Jacob far away to live with her relatives**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Mais Rébecca eut vent du projet d'Esau. Alors, Isaac et elle envoyèrent Jacob très loin vivre avec sa famille.</font>
 
 ===== Important Terms: =====
 
