@@ -1,9 +1,10 @@
 ===== Open Eyes [02-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&}}
 
 Suddenly, **their eyes were opened**, and they realized **they were naked**. They tried to **cover their bodies** by sewing leaves together to make clothes.
+
+Tout d'un coup, leurs yeux s'ouvrirent, et ils réalisèrent qu'ils étaient nus. Ils essayèrent de couvrir leurs corps avec des habits faits de feuilles de figuier cousues ensemble.
 
 ===== Important Terms: =====
 
