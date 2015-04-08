@@ -1,9 +1,10 @@
 ===== Dry Land [03-12] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
 **Noah** **waited another week** and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
+
+Noé attendit encore une autre semaine et renvoya la colombe une troisième fois. Cette fois-ci, elle trouva un endroit pour se reposer et ne revint pas. L'eau s'évaporait!
 
 ===== Important Terms: =====
 
