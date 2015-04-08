@@ -1,28 +1,26 @@
 ====== deliverer livreur ======
 
+===== Definition: Définition:
 
-===== Definition: 
-Définition:=====
+=====   =====
 
 A deliverer is someone who rescues people or sets people free.
 
   * The word "deliverer" can also be translated as, "rescuer."
-  * The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in  battle against their enemies.
+  * The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in battle against their enemies.
   * In many cases, the deliverer functioned as a military leader.
 
+**Un livreur est quelqu'un qui sauve des personnes ou qui les permettre aller libre. **
 
-**Un livreur est quelqu'un qui sauve des personnes ou qui les permettre aller libre. 
+  * **Le mot "livreur" peut se traduire aussi comme "libérateur."**
+  * **Les livreurs en Israël étaient des leaders qui ont sauvé le peuple d'Israël de leurs ennemis par les dirigeant envers les batailles contre leurs ennemis.**
+  * **Dans les plupart des cas, le livereur a functionné comme un leader militaire. **
+**===== Examples from the Bible stories: ===== **
 
-  * Le mot "livreur" peut se traduire aussi comme "libérateur."
-  * Les livreurs en Israël étaient des leaders qui ont sauvé le peuple d'Israël de leurs ennemis par les dirigeant envers les batailles contre leurs ennemis.
-  * Dans les plupart des cas, le livereur a functionné comme un leader militaire. 
+[[:fr:obs:notes:frames:16-03|[16-03]]]** Then God provided a ** deliverer** who rescued them from their enemies and brought peace to the land. **
 
+[[:fr:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another ** <font inherit/inherit;;inherit;;inherit>deliverer</font> **. **
 
-===== Examples from the Bible stories: =====
-
-  ***[[:fr:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer** who rescued them from their enemies and brought peace to the land. 
-  ***[[:fr:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.  
-  ***[[:fr:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers** who saved the Israelites from their enemies. 
-
+[[:fr:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many ** <font inherit/inherit;;inherit;;inherit>deliverers** who saved the Israelites from their enemies.</font>
 
 ~~DISCUSSION:off~~
