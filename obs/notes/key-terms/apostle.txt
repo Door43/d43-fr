@@ -1,32 +1,33 @@
-====== apostle ======
+====== apostle apôtres ======
 
-
-===== Definition: =====
-
+===== Definition: Définition =====
 
 The apostles were men sent by Jesus to preach about God.
 
+Les apôtres étaient des hommes envoyés par Jesus pour prêcher au sujet de Dieu.
 
-    * The word "apostle" means, "someone who is sent out for a special purpose."
-    * Jesus chose twelve apostles from among his followers, and gave these apostles special status and responsibilities. The apostles had a closer relationship to Jesus than his other disciples did.
-    * The apostles were able to heal people and make demons leave people.
-    * Judas was one of the twelve apostles, but he betrayed Jesus, and then killed himself.
-    * After Jesus returned to heaven, the remaining eleven apostles became the leaders of the early church. They taught the believers about Jesus, and also wrote many of the New Testament books of the Bible.
-    * The word "apostle" can also be translated as, "messenger."
-    * The Bible often calls the apostles, "the twelve" or, after Judas died, "the eleven."
+  * The word "apostle" means, "someone who is sent out for a special purpose."
+  * Le terme "apôtre" signifie, "quelqu'un qui est envoyé dans un but particulier.
+  * Jesus chose twelve apostles from among his followers, and gave these apostles special status and responsibilities. The apostles had a closer relationship to Jesus than his other disciples did.
+  * Jesus a choisi douze apôtres parmi ses disciples, et leur a donné à ses apôtres un statut spécial et des responsabilités. Les apôtres avait avec Jesus une relation plus étroite que les autres disciples.
+  * The apostles were able to heal people and make demons leave people.
+  * Les apôtres étaient capables de guérir les gens et de chasser les démons.
+  * Judas was one of the twelve apostles, but he betrayed Jesus, and then killed himself.
+  * Judas était l'un des douze apôtres, mais il a trahi Jésus et ensuite s'est suicidé.
+  * After Jesus returned to heaven, the remaining eleven apostles became the leaders of the early church. They taught the believers about Jesus, and also wrote many of the New Testament books of the Bible.
+  * Après que Jésus soit monté au ciel, les onze restant sont devenus les leaders de l'église. Ils ont donné aux croyants des enseignements sur Jesus, et ont aussi rédigé beaucoup des livres du nouveau testament de la bible.
+  * The word "apostle" can also be translated as, "messenger."
+  * Le terme "apôtre" peut aussi être traduit comme, "messager".
+  * The Bible often calls the apostles, "the twelve" or, after Judas died, "the eleven."
+  * La Bible appelle souvent les apôtres, "les douze" ou, after la mort de Judas, "les onze".
 
-
-[See also: **[[fr:obs:notes:key-terms:disciple|disciple]]**]
-
+[See also: **[[:fr:obs:notes:key-terms:disciple|disciple]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-    * **[[:fr:obs:notes:frames:26-10|[26-10]]]** Then Jesus chose twelve men who were called his **apostles**. The **apostles**  traveled with Jesus and learned from him.
-    * **[[:fr:obs:notes:frames:30-01|[30-01]]]** Jesus sent his **apostles**  to preach and to teach people in many different villages.
-    * **[[:fr:obs:notes:frames:38-02|[38-02]]]** Judas was one of Jesus' **apostles**. He was in charge of the **apostles'**  money bag, but he loved money and often stole from the bag.
-    * **[[:fr:obs:notes:frames:43-13|[43-13]]]** The disciples devoted themselves to the **apostles'**  teaching, fellowship, eating together, and prayer.
-    * **[[:fr:obs:notes:frames:46-08|[46-08]]]** Then a believer named Barnabas took Saul to the **apostles** and told them how Saul had preached boldly in Damascus. 
-
-
+  * **[[:fr:obs:notes:frames:26-10|[26-10]]]** Then Jesus chose twelve men who were called his **apostles**. The **apostles**  traveled with Jesus and learned from him.
+  * **[[:fr:obs:notes:frames:30-01|[30-01]]]** Jesus sent his **apostles**  to preach and to teach people in many different villages.
+  * **[[:fr:obs:notes:frames:38-02|[38-02]]]** Judas was one of Jesus' **apostles**. He was in charge of the **apostles'**  money bag, but he loved money and often stole from the bag.
+  * **[[:fr:obs:notes:frames:43-13|[43-13]]]** The disciples devoted themselves to the **apostles'**  teaching, fellowship, eating together, and prayer.
+  * **[[:fr:obs:notes:frames:46-08|[46-08]]]** Then a believer named Barnabas took Saul to the **apostles**  and told them how Saul had preached boldly in Damascus.
 ~~DISCUSSION:off~~
