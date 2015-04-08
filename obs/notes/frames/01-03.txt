@@ -3,13 +3,16 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
 On **the second day** of creation, **God spoke** and **created** the **sky** above the earth. He made the sky by separating the water above from the water below.
+
+Le second jour de la création, Dieu parla et créa le ciel au-dessus de la terre. Il créa le ciel en séparant les eaux d'en haut des eaux d'en bas.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
 ==== Translation Notes: ====
 
   * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * Le travail du Bon Diev élait fait dans un maniere trés precis, un choses apres l'autre choses.  Les choses que le Bon Diev a fait cree chaque joor etait creé sur et dependait sor les choses quIl a fait les jours avant.
+  * Le travail du Bon Diev élait fait dans un maniere trés precis, un choses apres l'autre choses. Les choses que le Bon Diev a fait cree chaque joor etait creé sur et dependait sor les choses quIl a fait les jours avant.
   * **God spoke**  - God created the sky by speaking a command.
   * **created**  - God made the sky out of nothing.
   * creé - Le Bon Diev ä fait faire le ciel de rien de tout.
