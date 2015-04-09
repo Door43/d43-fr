@@ -1,18 +1,18 @@
-====== chariot ======
-
+====== chariot chariot ======
 
 ===== Definition: =====
 
 In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
 
-  * People would sit or stand in chariots, using them for war or travel.
-  * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
+Dans l'ancien temps les chariots sont des chars légers avec deux roues tirés par des chevaux.
 
+  * People would sit or stand in chariots, using them for war or travel.
+  * Les chariots étaient utilisés par des gens qui se tiennent debout à l'intérieur pour faire la guerre ou pour voyager.
+  * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
+  * Pendant la guerre l'armée qui dispose de chariots a un grand avantage de vitesse et de mobilité sur l'autre armée qui n'en dispose pas de chariots.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots** to get stuck. 
-  ***[[:fr:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**. 
-
-
+  * **[[:fr:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots**  to get stuck.
+  * **[[:fr:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**.
 ~~DISCUSSION:off~~
