@@ -1,24 +1,25 @@
-====== Bethlehem ======
+====== Bethlehem :  Bethléhem ======
 
-
-===== Facts: =====
+===== Facts: Les faits =====
 
 Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
 
-  * King David was born in Bethlehem; for this reason it has been called the "city of David."
+**Bethléhem  était  une ville du territoire d'IsraËl,prés de la ville de Jérusalem. Il existe encore de nos jours**
+
+   * King David was born in Bethlehem; for this reason it has been called the "city of David."
+  * **Le Roi était né à Bethléhem; C'est la raison pour laquelle elle est appelée « Ville de David »**
+  *
   * The prophet Micah said that the Messiah would come from Bethlehem.
+  * **Le prophète Michée disait que  le Messie viendra de Bethléhem**
+  *
   * Bethlehem is the city where Jesus was born.
-
-
-[See also: **[[fr:obs:notes:key-terms:david|David]]**]
-
+  * **Bethléhem est la ville où Jésus été né**
+[See also: **[[:fr:obs:notes:key-terms:david|David]]**] voir aussi David
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:fr:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:fr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:fr:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
-
-
+  * **[[:fr:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
+  * **[[:fr:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
+  * **[[:fr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem**  because their ancestor was David whose hometown was **Bethlehem**.
+  * **[[:fr:obs:notes:frames:23-06|[23-06]]]**"The Messiah, the Master, has been born in **Bethlehem**!"
 ~~DISCUSSION:off~~
