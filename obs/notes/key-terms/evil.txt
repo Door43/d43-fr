@@ -1,34 +1,39 @@
-====== evil ======
+====== evil  malveillant ======
 
+==== (evil, wicked, bad) (malveillant, méchant, mauvais) ====
 
-==== (evil, wicked, bad) ====
-
-
-===== Definition: =====
+===== Definition: Définition =====
 
 Evil is any action, thought or character that is opposed to God's holy character and will.
 
-    * Evil people and evil behaviors can also be described as bad, wicked or immoral. The words "evil" and "wicked" often have a very similar meaning.
-    * The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
-    * An evil spirit is a being that rebels against God.
+Malveillant(e)/mauvais(e) est n'importe quel(le) action, pensée ou caractère qui s'oppose au caractère et à la volonté de Dieu.
+
+  * Evil people and evil behaviors can also be described as bad, wicked or immoral. The words "evil" and "wicked" often have a very similar meaning.
+  * Les gens mauvais/malveillants et des comportements mauvais/malveillants peuvent aussi être décrits comme mauvais, méchants ou immoral.
+  * The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
+  * Les résultats de la méchanceté/malveillance sont clairement démontrés dans la manière dont les gens maltraitent les autres en tuant, volant, calomniant ou en étant cruel et peu aimable.
+  * An evil spirit is a being that rebels against God.
+  * Un esprit mauvais/malveillant est un être qui se rebelle contre Dieu.
 
 "Evil" is the opposite of "good," and "wicked" is the opposite of "righteous."
 
-[See also: **[[fr:obs:notes:key-terms:disobey|disobey]]**, **[[fr:obs:notes:key-terms:sin|sin]]**, **[[fr:obs:notes:key-terms:good|good]]**, **[[fr:obs:notes:key-terms:righteous|righteous]]**]
+"Méchant/Malveillant est le contraire de "bon", et "mauvais" est le contraire de "juste".
+
+[See also: **[[:fr:obs:notes:key-terms:disobey|disobey]]**, **[[:fr:obs:notes:key-terms:sin|sin]]**, **[[:fr:obs:notes:key-terms:good|good]]**, **[[:fr:obs:notes:key-terms:righteous|righteous]]**]
+
+[Voir aussi: désobéir, péché, bon, juste]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:02-04|[02-04]]]** "God just knows that as soon as you eat it, you will be like God and will understand good and **evil** like he does."
-  ***[[:fr:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were living in the world. They had become very **wicked** and violent.
-  ***[[:fr:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a righteous man living among **wicked** people.
-  ***[[:fr:obs:notes:frames:04-02|[04-02]]]** God saw that if they all kept working together to do **evil**, they could do many more sinful things.
-  ***[[:fr:obs:notes:frames:08-12|[08-12]]]** "You tried to do **evil** when you sold me as a slave, but God used the **evil** for good!"
-  ***[[:fr:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false gods and did many **evil** things.
-  ***[[:fr:obs:notes:frames:17-01|[17-01]]]** But then he (Saul) became a **wicked** man who did not obey God, so God chose a different man who would one day be king in his place.
-  ***[[:fr:obs:notes:frames:18-11|[18-11]]]** In the new kingdom of Israel, all the kings were **evil**.
-  ***[[:fr:obs:notes:frames:29-08|[29-08]]]** The king was so angry that he threw the **wicked** servant into prison until he could pay back all of his debt.
-  ***[[:fr:obs:notes:frames:45-02|[45-02]]]** They said, "We heard him (Stephen) speak **evil** things about Moses and God!"
-  ***[[:fr:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, **evil**, pain, or death.
-
-
+  * **[[:fr:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand good and **evil**  like he does."
+  * **[[:fr:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were living in the world. They had become very **wicked**  and violent.
+  * **[[:fr:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a righteous man living among **wicked**  people.
+  * **[[:fr:obs:notes:frames:04-02|[04-02]]]** God saw that if they all kept working together to do **evil**, they could do many more sinful things.
+  * **[[:fr:obs:notes:frames:08-12|[08-12]]]**"You tried to do **evil**  when you sold me as a slave, but God used the **evil**  for good!"
+  * **[[:fr:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false gods and did many **evil**  things.
+  * **[[:fr:obs:notes:frames:17-01|[17-01]]]** But then he (Saul) became a **wicked**  man who did not obey God, so God chose a different man who would one day be king in his place.
+  * **[[:fr:obs:notes:frames:18-11|[18-11]]]** In the new kingdom of Israel, all the kings were **evil**.
+  * **[[:fr:obs:notes:frames:29-08|[29-08]]]** The king was so angry that he threw the **wicked**  servant into prison until he could pay back all of his debt.
+  * **[[:fr:obs:notes:frames:45-02|[45-02]]]** They said, "We heard him (Stephen) speak **evil**  things about Moses and God!"
+  * **[[:fr:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, **evil**, pain, or death.
 ~~DISCUSSION:off~~
