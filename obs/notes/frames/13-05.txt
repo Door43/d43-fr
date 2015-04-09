@@ -20,3 +20,5 @@
   * **seventh day**  - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
   * **to remember me**  - This could be translated as, "to keep me in mind" or, "to honor me."
 **[[:fr:obs:notes:frames:13-04|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:13-06|>>]]**
+
+~~DISCUSSION~~
