@@ -17,9 +17,7 @@ Après 40 jours de plus, Noé lâcha un oiseau, un corbeau, pour voir si l'eau a
   * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
 ===== Note de traduction: =====
 
-  *
-
-Corbeau - Un oiseau noir qui vole et mange une variété d'aliments végétaux et animaux, y compris la chair en décomposition des cadavres d'animaux.
+  * Corbeau - Un oiseau noir qui vole et mange une variété d'aliments végétaux et animaux, y compris la chair en décomposition des cadavres d'animaux.
 
 **[[:fr:obs:notes:frames:03-09|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-11|>>]]**
 
