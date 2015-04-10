@@ -16,8 +16,10 @@
 
 ===== Translation Notes: =====
 
+  * **wealthy**  – This included money, large herds of animals and other possessions.
+===== Note de traduction: =====
 
-  * **wealthy** – This included money, large herds of animals and other possessions.
+* riche  - Cela comprenait l'argent, de grands troupeaux d'animaux et autres biens.
 
 **[[:fr:obs:notes:frames:07-06|<<]] | [[:fr:obs:notes:07|Up]] | [[:fr:obs:notes:frames:07-08|>>]]**
 
