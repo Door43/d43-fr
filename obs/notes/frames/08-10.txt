@@ -16,10 +16,13 @@ La famine était rude, non seulement en Égypte, mais aussi dans le pays de Cana
 
 ==== Translation Notes: ====
 
+  * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
+  * **The famine was severe**  - The famine was very bad. There was very little food and many people outside of Egypt were starving.
+==== notes de traduction: ====
 
-  * **Egypt, but also Canaan** – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
-  * **The famine was severe** - The famine was very bad. There was very little food and many people outside of Egypt were starving.
+* Égypte, mais aussi Canaan - Pour certaines langues, il peut être plus claire ou plus naturel de dire, "le  pays d'Egypte, mais aussi la terre de Canaan. "
 
+* La famine était grande - La famine était très mauvaise. Il y avait très peu de nourriture et beaucoup de gens en dehors de l'Egypte ont été affamés.
 
 **[[:fr:obs:notes:frames:08-09|<<]] | [[:fr:obs:notes:08|Up]] | [[:fr:obs:notes:frames:08-11|>>]]**
 
