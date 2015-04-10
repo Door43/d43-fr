@@ -14,12 +14,28 @@ Mais il y avait un serpent rusé dans le jardin. Il dit à la femme, “Dieu a t
 
 ==== Translation Notes: ====
 
+  * **crafty**  - Clever and sly, with the intent to deceive.
+  * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
+  * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
+  * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
+==== notes de traduction: ====
 
-  * **crafty** - Clever and sly, with the intent to deceive.
-  * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
+  *
 
+Rusé - Clever et sournoise, avec l'intention de tromper.
+
+  *
+
+Serpent - Un, créature terrestre sans jambes allongé qui se déplace maintenant en remuant sur son ventre. Bien que plus tard dans l'histoire, il est révélé que le serpent est Satan, cela ne devrait pas être dit ici dans ce cadre.
+
+  *
+
+Dieu at-il vraiment vous dire - Le serpent dit à la femme de savoir si Dieu a réellement dit de ne pas manger de tous les arbres du jardin. Mais il faisait semblant qu'il ne savait pas ce que Dieu avait dit parce qu'il voulait créer le doute dans l'esprit de la femme. Il voulait qu'elle à la question de la bonté de Dieu.
+
+  *
+
+Fruits de tous les arbres - Tous les différents types de fruits de chacun des différents arbres dans le jardin.
 
 **[[:fr:obs:notes:frames:02-01|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-03|>>]]**
+
 ~~DISCUSSION~~
