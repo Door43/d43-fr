@@ -1,9 +1,11 @@
 ===== The Animals Died [10-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
 Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
+
+Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent malades et moururent. Mais le cœur de Pharaon s'était endurci et il ne laissa pas partir les Israélites.
+
 ===== Important Terms: =====
 
 
