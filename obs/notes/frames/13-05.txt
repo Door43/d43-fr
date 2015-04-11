@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
 “Do not make **idols** and do not **worship** them, because **I**, **Yahweh**, **am a jealous God**. **Do not use my name in a disrespectful way**. Be sure to keep the **Sabbath day holy**. In other words, do all your work in six days, for the **seventh day** is a day for you to rest and **to remember me**.”
+
+“Vous ne fabriquerez pas d'idoles et ne les vénérerez pas, parce que moi, le Seigneur, Je suis un Dieu jaloux. Vous n'utiliserez pas mon nom en vain. Souvenez-vous du jour du Sabbat. Cela veut dire que vous devrez faire tout votre travail en six jours, parce que le septième jour sera le jour où vous vous reposerez et où vous vous souviendrez de moi.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:idol|idols]]**
