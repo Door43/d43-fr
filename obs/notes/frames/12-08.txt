@@ -1,9 +1,11 @@
 ===== Israel Crossed the Sea [12-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
 The **Israelites marched** through the sea on dry ground **with a wall of water on either side of them**.
+
+Les Israélites marchèrent dans la mer à sec, avec les eaux formant une muraille des deux cotés.
+
 ===== Important Terms: =====
 
 
