@@ -1,8 +1,8 @@
-====== Babylon : Babylone    F ======
+====== Babylon : Babylone F ======
 
 <font inherit/inherit;;inherit;;inherit>(Babylon, Babylonian):</font>    Babylone<font inherit/inherit;;inherit;;inherit>,</font>    Babylonien
 
-<font inherit/inherit;;inherit;;inherit>Facts:</font>    Le faits
+<font inherit/inherit;;inherit;;inherit>Facts:</font>    Les faits
 
 The ancient city of Babylon was located along the Euphrates River. Babylon was the capital of the Babylonian Empire which was located in the region of what is now the country of Iraq.
 
@@ -13,7 +13,7 @@ L'ancienne ville de Babylone était située le long de la rivière Euphrate. Bab
   * The Babylonians were a powerful people group that attacked the kingdom of Judah and held some of them captive for 70 years.
   * Les babyloniens étaient un peuple puissant qui attaquaient le Royaume de Juda et faisaient des esclave de certains durant soixante dix ans.
   * Sometimes the word "Babylon" is used to refer to the entire Babylonian Empire. The "king of Babylon" was king not only of that city, but of the whole empire.
-  * Parfois le mot "Babylone" était utilisé pour se référer à l'empire babylonien tout entier. The Roi de Babylone n'était pas seulement le roi de la ville mais roi de tout l'empire.
+  * Parfois le mot "Babylone" était utilisé pour se référer à l'empire babylonien tout entier. Le roi de Babylone n'était pas seulement le roi de la ville mais roi de tout l'empire.
 
 [See also: **[[:fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:fr:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar]]**]
 
