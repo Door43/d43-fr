@@ -1,9 +1,11 @@
 ===== The Locusts [10-10] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-10.jpg?nolink&}}
 
 So **God** caused **swarms of locusts** to come over **Egypt**. These **locusts** ate all the crops that the **hail** had not destroyed.
+
+Alors Dieu envoya une invasion de sauterelles en Égypte. Les sauterelles mangèrent toutes les récoltes que la grêle n'avait pas détruites.
+
 ===== Important Terms: =====
 
 
