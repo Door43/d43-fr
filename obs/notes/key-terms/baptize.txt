@@ -1,25 +1,25 @@
-====== baptize: baptiser  F ======
+====== baptize: baptiser F ======
 
-<font inherit/inherit;;inherit;;inherit>(to baptize, baptism): (</font> baptiser<font inherit/inherit;;inherit;;inherit>,</font> <font inherit/inherit;;inherit;;inherit></font> baptême)
+<font inherit/inherit;;inherit;;inherit>(to baptize, baptism): (</font>    baptiser<font inherit/inherit;;inherit;;inherit>,</font>    baptême)
 
-<font inherit/inherit;;inherit;;inherit>Definition:</font> Définition
+<font inherit/inherit;;inherit;;inherit>Definition:</font>    Définition
 
 To baptize someone is to ritually wash that person with water. This act is called, "baptism."
 
-Baptiser quelqu'un c'est rituellement laver cette personne dans l'eau. Cet acte est appelé le baptême.
+Baptiser quelqu'un, c'est rituellement laver cette personne dans l'eau. Cet acte est appelé le baptême.
 
   * Baptism is a way for a person to demonstrate that they repent of their former life, and associate themselves with a certain religious group, teacher, or way of life.
-  * le baptême est la voie par laquelle une personne demontre qu'elle s'est repentie de son ancienne vie, et s'associe avec un groupe de religieux, professeur,ou une manière de vivre.
+  * le baptême est la voie par laquelle une personne démontre qu'elle s'est repentie de son ancienne vie, et s'associe avec un groupe de religieux, un enseignant, ou une manière de vivre.
   * John (the Baptist) baptized people as a sign of repentance from their sins.
-  * Jean ( le Baptiste) a baptisé les gens comme un signe de repentance de leurs péchés.
+  * Jean (le Baptiste) a baptisé les gens comme un signe de repentance de leurs péchés.
   * Christian baptism is a representation of our hearts being cleansed from sin by faith in Jesus Christ, and of our entrance into the Church.
-  * Le baptême chrétien est une représentation du fait que nos coeurs sont lavés de nos péchés par la foi en Jésus-Christ, et de notre entrée dans l'Eglise.
+  * Le baptême chrétien est une représentation du fait que nos cœurs sont lavés de nos péchés par la foi en Jésus-Christ, et de notre entrée dans l'Eglise.
   * Christians vary in the way they do baptism. Some pour the water on the person, and others put the person completely under the water.
-  * Les chrétiens varient dans la maniére dont ils baptisent. Certains versent de l'eau sur la personne, et d'autres immergent complètement la personne.
+  * Les chrétiens varient dans la manière dont ils baptisent. Certains versent de l'eau sur la personne, et d'autres immergent complètement la personne.
 
 [See also: **[[:fr:obs:notes:key-terms:john-baptist|John (the Baptist)]]**, **[[:fr:obs:notes:key-terms:repent|repentance]]**]:
 
-[Voir aussi Jean ( le Baptiste ), repentance
+[Voir aussi: Jean (le Baptiste), repentance
 
 ===== Examples from the Bible stories: =====
 
