@@ -1,9 +1,11 @@
 ===== An Annual Feast [12-14] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
 
 **God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
+
+Dieu dit aux Israélites de célébrer la Pâque Juive chaque année pour qu'ils se souviennent qu'Il avait vaincu les Égyptiens et les avait sauvés de l'esclavage. Ils célébrèrent en tuant un agneau sans défaut, et en le mangeant avec du pain sans levain.
+
 ===== Important Terms: =====
 
 
