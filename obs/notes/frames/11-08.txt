@@ -1,9 +1,11 @@
 ===== Go Away! [11-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
 That same night, **Pharaoh called for Moses** and **Aaron and said**, “Take the **Israelites** and leave **Egypt** immediately!” The **Egyptian** people also urged the Israelites to leave immediately.
+
+La même nuit, Pharaon appela Moïse et Aaron et leur dit, “Prenez les Israélites et sortez d'Égypte immédiatement!” Le peuple d'Égypte aussi pressa les Israélites à partir immédiatement.
+
 ===== Important Terms: =====
 
 
