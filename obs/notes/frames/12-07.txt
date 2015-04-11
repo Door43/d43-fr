@@ -1,9 +1,11 @@
 ===== Moses Divided the Sea [12-07] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
 **God** told **Moses** to **raise his hand over the sea** and divide the waters. Then God caused wind to push the water in the sea to the left and the right, so that a path formed through the sea.
+
+Dieu dit à Moïse d'étendre sa main sur la mer pour diviser l'eau. Puis Dieu fit le vent pousser l'eau de la mer vers la gauche et la droite afin qu'un chemin se forme dans la mer.
+
 ===== Important Terms: =====
 
 
