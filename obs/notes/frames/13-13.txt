@@ -1,9 +1,11 @@
 ===== Moses Was Angry [13-13] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
 When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
+
+Quand Moïse descendit de la montagne et vit l'idole, il était tellement fâché qu'il brisa les tablettes de pierres sur lesquelles Dieu avait écrit les dix commandements.
+
 ===== Important Terms: =====
 
 
