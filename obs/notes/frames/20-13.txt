@@ -1,10 +1,11 @@
 ===== The Temple Was Rebuilt [20-13] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
 When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
+
+Quant les gens arrivèrent à Jérusalem, ils rebâtirent le Temple et le mur autour de la ville. Alors qu'ils étaient encore gouvernés par d'autres peuples, ils habitèrent une fois de plus dans la Terre Promise et adorèrent Dieu dans le Temple.
+
 ===== Important Terms: =====
 
 
