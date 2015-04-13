@@ -15,10 +15,13 @@ Alors Dieu envoya une invasion de sauterelles en Égypte. Les sauterelles mangè
 
 ==== Translation Notes: ====
 
+  * **swarms of locusts**  - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
+  * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does.
+==== notes de traduction: ====
 
-  * **swarms of locusts** - Locusts are grasshoppers that fly together in swarms, or large groups, and that can destroy large areas of all kinds of plants and food crops by eating them.
-  * **hail** - Hail is like chunks of ice that fall down from the clouds as rain does.
+* Essaims de criquets pèlerins sont des insectes - qui volent ensemble dans essaims, ou de grands groupes, et qui peut détruire de vastes zones de toutes sortes de plantes et des cultures alimentaires en les mangeant.
 
+* Grêle - Hail est comme des morceaux de glace qui tombent du ciel comme la pluie fait.
 
 **[[:fr:obs:notes:frames:10-09|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-11|>>]]**
 
