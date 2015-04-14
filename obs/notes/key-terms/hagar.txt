@@ -1,23 +1,24 @@
-====== Hagar ======
+====== Hagar  Agar ======
 
+===== Facts: Faits: =====
 
-===== Facts: =====
+Hagar was Sarai's personal slave
 
-Hagar was Sarai's personal slave.
- 
-  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife. 
+Agar a été la servante personnelle de Sarai
+
+  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
+  * Sarai, a été appelée Sara, elle donna Agar à son mari, Abram, comme femme servante.
   * Sarai wanted Hagar to bear children for her and Abram.
+      * Sarai a voulu que Agar porta les enfants pour elle et Abram.
   * Hagar gave birth to Abram's son, Ishmael.
+  * Agar donna naissance à un fils pour Abram, Ismael.
 
+[See also: **[[:fr:obs:notes:key-terms:sarah|Sarah]]**, **[[:fr:obs:notes:key-terms:abraham|Abraham]]**, **[[:fr:obs:notes:key-terms:servant|slave]]**]
 
-[See also: **[[fr:obs:notes:key-terms:Sarah|Sarah]]**, **[[fr:obs:notes:key-terms:Abraham|Abraham]]**, **[[fr:obs:notes:key-terms:servant|slave]]**]
-
+[Voir aussi: Sara, Abraham, esclave]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:fr:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
-  ***[[:fr:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
-
-
+  * **[[:fr:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
+  * **[[:fr:obs:notes:frames:05-02|[05-02]]]****Hagar**  had a baby boy, and Abram named him Ishmael.
 ~~DISCUSSION:off~~
