@@ -1,9 +1,10 @@
 ===== The Angel and the Shepherds [23-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
 That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Cette nuit là, il y avait, dans cette même contrée, des bergers qui gardaient leurs troupeaux. Soudainement, un ange du Seigneur leur apparut, et ils furent saisis d'une grande frayeur. L'ange leur dit, “N'ayez pas peur, car je vous annonce une bonne nouvelle. Le Messie, le Seigneur, est né à Bethlehem!”</font>
 
 ===== Important Terms: =====
 
