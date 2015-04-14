@@ -1,25 +1,26 @@
-====== inherit ======
+====== inherit - hériter ======
 
+==== (to inherit, inheritance) (hériter, héritage) ====
 
-==== (to inherit, inheritance) ====
-
-
-===== Definition: =====
+===== Definition: Définition =====
 
 When someone inherits something, he or she receives something valuable from someone else because of a special relationship with that person.
 
-  * **Inheritance from Family** - After the death of a relative, sometimes family members receive money or property (items or land) that that relative owned before they died. 
+Quand quelqu'un hérite de quelque chose, il ou elle reçoit quelque chose de valeur de quelqu'un d'autre à cause d'une relation speciale avec cette personne.
 
-  * **Inheritance from God** - God has promised to give certain things to his people. To the descendants of Abraham, he promised land. To those who trust in Jesus, he promised an inheritance of eternal (or everlasting) life with him in heaven.
+  * **Inheritance from Family**  - After the death of a relative, sometimes family members receive money or property (items or land) that that relative owned before they died.
+  * Héritage de la famille - Après la mort d'un parent, parfois les membres de la famille reçoivent de l'argent ou des propriétés (articles or de la terre) que ce parent possédait avec son décès.
 
-[See also: **[[fr:obs:notes:key-terms:promised-land|Promised Land]]**]
+  * **Inheritance from God**  - God has promised to give certain things to his people. To the descendants of Abraham, he promised land. To those who trust in Jesus, he promised an inheritance of eternal (or everlasting) life with him in heaven.
+  * Héritage de Dieu - Dieu a promis de donner certaines choses à son peuple. Aux descendants d'Abraham, il a promis la terre. A ceux qui croit en Jésus, il a promis comme héritage la vie éternel avec lui au ciel.
 
+[See also: **[[:fr:obs:notes:key-terms:promised-land|Promised Land]]**]
+
+[Voir aussi - La terre promise]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
-  ***[[:fr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit** eternal life?"
-  ***[[:fr:obs:notes:frames:35-03|[35-03]]]** "There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance** now!' So the father divided his property between the two sons."
-
-
+  * **[[:fr:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
+  * **[[:fr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit**  eternal life?"
+  * **[[:fr:obs:notes:frames:35-03|[35-03]]]**"There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance**  now!' So the father divided his property between the two sons."
 ~~DISCUSSION:off~~
