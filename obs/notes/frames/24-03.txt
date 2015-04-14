@@ -1,8 +1,11 @@
 ===== A Baptism of Repentance [24-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
 When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quand les gens entendirent le message de Jean, beaucoup d'entre eux se repentirent de leurs péchés et Jean les baptisa. Beaucoup de leaders religieux voulurent être baptisés sans s'être repentis et avoir confessé leurs péchés.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/john-baptist|John's]]**
