@@ -1,8 +1,11 @@
 ===== The Third Temptation [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
 Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Alors Satan lui montra tous les royaumes du monde et leur gloire et dit, “Je te donnerai toutes ces choses si tu te prosternes et m'adores.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/satan|Satan]]**
