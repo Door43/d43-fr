@@ -1,9 +1,11 @@
 ===== The Birth of John [22-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&}}
 
 After **Elizabeth** gave birth to her baby boy, **Zechariah** and Elizabeth named the baby **John**, as the **angel** had commanded. Then **God** allowed **Zechariah** to speak again. Zechariah said, “**Praise God**, because he has remembered his people! You, my son, **will be called the prophet** of the **Most High God** who will tell the people how they can receive **forgiveness** for their **sins**!”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Après qu'Elisabeth ait donné naissance à un fils, Zacharie et elle lui donnèrent le nom de Jean, comme l'ange l'avait ordonné. Puis Dieu permit à Zacharie de parler à nouveau. Zacharie dit, “Béni soit le Seigneur, parce qu'il s'est souvenu de son peuple! Toi, mon fils, tu seras le prophète du Très-Haut, qui dira aux gens comment recevoir le pardon de leurs péchés!”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah]]**
