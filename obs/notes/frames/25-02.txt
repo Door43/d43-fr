@@ -1,8 +1,11 @@
 ===== The First Temptation [25-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
 **Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Satan tenta Jésus en disant, “Si tu es le Fils de Dieu, ordonne à ces pierres qu'elles deviennent du pain pour que tu puisses manger!”</font>
+
 ===== Important Terms: =====
 
 
