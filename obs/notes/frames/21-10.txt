@@ -1,10 +1,11 @@
 ===== Messiah Will Heal [21-10] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink&}}
 
 The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **broken-hearted people**, and **proclaim freedom to captives** and **release to prisoners**. He also predicted that the **Messiah** would **heal** sick people and those who **could not hear**, **see**, **speak**, **or walk**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Le prophète Isaïe dit que le Messie vivrait en Galilée, qu'il consolerait les cœurs brisés, et rendrait la liberté aux captifs. Il prédit aussi que le Messie guérirait les malades et ceux qui ne pouvaient entendre, voir, parler ou marcher.</font>
+
 ===== Important Terms: =====
 
 
