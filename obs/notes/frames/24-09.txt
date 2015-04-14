@@ -1,8 +1,11 @@
 ===== Jesus Is the Son of God [24-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
 **God had told John**, “**The Holy Spirit will come down and rest on** someone you **baptize**. That person is the **Son of God**.” There is only one God. But when John baptized Jesus, he heard **God the Father** speak, he saw God the Son, who is **Jesus**, and he saw God the Holy Spirit.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dieu avait dit à John, “Le Saint-Esprit descendra sur quelqu'un que tu baptiseras. Cette personne est le Fils de Dieu.” Il n'existe qu'un seul Dieu. Mais quand Jean baptisa Jésus, il entendit Dieu le Père parler, il vit Dieu le Fils qui est Jésus, et il vit le Saint-Esprit.</font>
+
 ===== Important Terms: =====
 
 
