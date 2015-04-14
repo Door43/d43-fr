@@ -1,11 +1,10 @@
 ===== A Promise for the Whole World [21-02] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
 **God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dieu promit à Abraham que, par son biais, tous les peuples du monde recevraient une bénédiction. Cette bénédiction serait accomplie quand le Messie viendrait plus tard. Il donnerait la possibilité à tous les peuples du monde d'être sauvés.</font>
 
 ===== Important Terms: =====
 
