@@ -1,8 +1,11 @@
 ===== The Shepherds Visited Jesus [23-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
 The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Les bergers arrivèrent aussitôt là où se trouvait Jésus et ils le trouvèrent couché dans une crèche, comme l'ange le leur avait dit. Ils furent très heureux. Les bergers retournèrent dans les champs où étaient leurs troupeaux, glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/shepherd|shepherds]]**
