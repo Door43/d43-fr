@@ -1,9 +1,11 @@
 ===== Unable to Speak [22-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
 The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>L'ange répondit à Zacharie, “J'ai été envoyé par Dieu pour t'annoncer cette bonne nouvelle. Parce que tu ne m'as pas cru, tu ne pourras parler que le jour de la naissance de l'enfant.” Immédiatement, Zacharie ne put plus parler. Puis l'ange quitta Zacharie. Après cela, Zacharie rentra chez lui, et sa femme tomba enceinte.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/angel|angel]]**
