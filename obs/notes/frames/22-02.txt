@@ -1,8 +1,11 @@
 ===== You Will Have a Son [22-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
 The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>L'ange dit à Zacharie, “Ta femme aura un fils. Tu lui donneras le nom de Jean. Il sera rempli de l'Esprit Saint et il préparera les gens pour la venue du Messie!” Zacharie répondit, “Ma femme et moi nous sommes trop vieux pour avoir des enfants! Comment est ce que je saurai que cela va arriver?”</font>
+
 ===== Important Terms: =====
 
 
