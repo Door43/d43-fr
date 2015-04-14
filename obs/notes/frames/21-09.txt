@@ -1,9 +1,11 @@
 ===== The Virgin Birth [21-09] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink&}}
 
 **God's prophets** predicted many other things about the **Messiah**. The prophet **Malachi foretold** that a great prophet would come before the Messiah came. The prophet **Isaiah prophesied** that **the Messiah would be born from a virgin**. The prophet **Micah** said that he would be born in the town of **Bethlehem**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Les prophètes de Dieu prédirent beaucoup de choses au sujet du Messie. Le prophète Malachie prédit qu'un grand prophète viendrait avant que le Messie arrive. Le prophète Isaïe prédit que le Messie naitrait d'une vierge. Le prophète Mica dit qu'il naitrait dans la ville de Bethlehem.</font>
+
 ===== Important Terms: =====
 
 
