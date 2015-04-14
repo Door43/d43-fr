@@ -1,8 +1,11 @@
 ===== The Ministry of Elijah [26-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
 Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Puis Jésus dit: “Je vous le dis en vérité, aucun prophète n'est bien reçu dans son pays”. Du temps du prophète Elie, il y avait plusieurs veuves en Israël. Mais quand il ne plut pas pendant trois ans et demi, Dieu n'envoya Elie aider aucune d'entre elles mais plutôt une veuve d'une autre nation.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
