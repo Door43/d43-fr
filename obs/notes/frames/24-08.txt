@@ -1,8 +1,11 @@
 ===== You Are My Beloved Son [24-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&}}
 
 When **Jesus** came up out of the water after being **baptized**, the **Spirit of God appeared in the form of a dove** and came down and rested on him. At the same time, God's voice spoke from **heaven**, saying, “You are **my Son whom I love**, and I am very pleased with you.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quand Jésus sortit de l'eau après avoir été baptisé, l'Esprit de Dieu apparut sous la forme d'une colombe et elle vint sur lui. Aussitôt la voix de Dieu venant du ciel dit, “Tu es mon Fils bien-aimé, en qui j'ai mis toute mon affection et tu fais toute ma joie.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
