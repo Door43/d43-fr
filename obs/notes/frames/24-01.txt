@@ -1,8 +1,11 @@
 ===== John the Prophet [24-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
 **John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Jean, le fils de Zacharie et d'Elisabeth grandit et devint un prophète. Il habitait dans le désert, mangeait du miel sauvage et des sauterelles, et portait des vêtements faits avec des poils de chameaux.</font>
+
 ===== Important Terms: =====
 
 
