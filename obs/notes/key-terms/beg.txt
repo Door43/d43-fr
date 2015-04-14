@@ -1,19 +1,18 @@
-====== beg : quemander ======
+====== beg : mendier/quémander ======
 
-==== (to beg, beggar) : quemander, ( demandeur ) ====
+==== (to beg, beggar) : (mendier, mendiant) ====
 
-===== Definition: =====
+===== Definition: Définition =====
 
 "To beg" is to ask for something earnestly, urgently, and often humbly.
 
-**Quemander  c'est demander avec instance  quelque chose avec  empressement,  urgemment et le plus souvent avec humilité**
+Mendier/quémander, c'est demander quelque chose, avec insistance, urgemment et le plus souvent avec humilité
 
-   * Often people beg when they think that the other person might not want to give them what they ask for.
-
-**Souvent les  gens quemandent lorqu'ils pensent que  l'autre personne va réfuser de donner ce qu'ils ont demandé**
-
+  * Often people beg when they think that the other person might not want to give them what they ask for.
+  * Souvent les gens quémandent/mendient lorqu'ils pensent que l'autre personne pourrait ne pas vouloir leur donner ce qu'ils ont demandé.
   * "Beg" can also mean to ask for money; a beggar is someone who sits or stands in a public place to ask people for money.
-  * **Quemander peut aussi signifier demander avec insistance de l'argent ; un demandeur avec instance   est celui qui se tient debout  et pupliquement  demande de'l'argent**
+  * "Mendier" peut aussi signifier demander de l'argent ; un mendiant est quelqu'un qui s'assied, ou se tient debout dans un espace public pour demander de l'l'argent aux gens.
+
 ===== Examples from the Bible stories: =====
 
   * **[[:fr:obs:notes:frames:10-04|[10-04]]]** God sent frogs all over Egypt. Pharaoh **begged**  Moses to take away the frogs.
