@@ -1,8 +1,11 @@
 ===== Mary Was Pregnant [23-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
 **Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Marie était fiancée à un homme vertueux nommé Joseph. Quand il apprit que Marie était enceinte, il sut que ce n'était pas son bébé. Ne voulant pas diffamer Marie, il se proposa de rompre secrètement avec elle. Avant qu'il le fasse, un ange apparut et lui parla en rêve.</font>
+
 ===== Important Terms: =====
 
 
