@@ -1,8 +1,11 @@
 ===== Preparing the Way [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
 **John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Jean dit aux leaders religieux, “Vous races de vipères venimeuses! Repentez vous et changez votre comportement. Chaque arbre qui ne produit pas de bons fruits sera coupé et jeté au feu.” Jean réalisa ce que les prophètes avaient dit, “Voici, j'envoie mon messager qui préparera votre chemin.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/john-baptist|John]]**
