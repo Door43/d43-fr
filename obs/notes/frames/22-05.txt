@@ -1,9 +1,11 @@
 ===== The Mother of the Messiah [22-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink&}}
 
 **Mary** replied, “How can this be, since I am a **virgin**?” The **angel** explained, “The **Holy Spirit** will **come to you**, **and the power of God will overshadow you**. So the baby will be **holy**, the **Son of God**.” Mary **believed** and accepted what the angel said.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Marie répondit, “Comment cela est-il possible, puisque je suis vierge?” l'ange expliqua, “Le Saint-Esprit viendra sur toi, et la puissance de Dieu te couvrira. C'est pourquoi le saint-enfant qui naîtra de toi sera appelé le Fils de Dieu.” Marie crut et accepta ce que l'ange dit.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/mary|Mary]]**
