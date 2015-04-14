@@ -1,25 +1,27 @@
-====== disciple ======
-
+====== disciple  disciple ======
 
 ===== Definition: =====
 
 A disciple is a student who follows and learns from a teacher.
 
-  * The people who listened to the teaching of Jesus and obeyed it were called disciples of Jesus.
+**Un disciple est un étudiant qui suit et qui apprend d'un enseignant.**
+
+   * The people who listened to the teaching of Jesus and obeyed it were called disciples of Jesus.
+  * **Les gens qui a écouté à l'enseignement de Jésus et qui l'ont obéi étaient appelé les disciples de Jésus.**
   * Hundreds of disciples followed Jesus at different times during his ministry on earth.
+  * **Des centaines de disciples ont suivi Jésus pendant des périodes différentes durant sa ministère sur la terre.**
   * The twelve apostles were chosen from among the disciples of Jesus. They continued to be called "disciples," as well as "apostles."
+  * **Les douze apôtres ont étés choisis parmi les disciples de Jésus. Les autres ont continué les appeler "les disciples" même que "les apôtres."**
   * Just before Jesus went up to heaven, he commanded his disciples to teach others so that they could become his disciples, too.
+  * **Juste avant que Jésus soit allé au paradis, il a commandé à ses disciples d'enseigner aux autres pour qu'ils puissent devenir ses disciples.**
   * Anyone, even in modern times, who follows the way and teachings of Jesus in obedience and faith is also a disciple of Jesus.
-
-[See also: **[[fr:obs:notes:key-terms:apostle|apostle]]**, **[[fr:obs:notes:key-terms:believer|believer]]**, **[[fr:obs:notes:key-terms:jesus|Jesus]]**]
-
+  * **Quelqu'un, même au temps moderne, qui suit le chemin et les enseignements de Jésus en obéissance et en foi, est aussi un disciple de Jésus.**
+[See also: **[[:fr:obs:notes:key-terms:apostle|apostle]]**, **[[:fr:obs:notes:key-terms:believer|believer]]**, **[[:fr:obs:notes:key-terms:jesus|Jesus]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:fr:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:fr:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:fr:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-
-
+  * **[[:fr:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples**  to give to the people. The **disciples**  kept passing out the food, and it never ran out!
+  * **[[:fr:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples**  that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
+  * **[[:fr:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples**  to a place called Gethsemane. Jesus told his **disciples**  to pray that they would not enter into temptation.
+  * **[[:fr:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples**  of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
 ~~DISCUSSION:off~~
