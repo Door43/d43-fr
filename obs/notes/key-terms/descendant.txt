@@ -1,8 +1,10 @@
-====== descendant ======
+====== descendant descendant ======
 
 ===== Definition: =====
 
-A descendant is someone who is a direct blood relative of someone else further back in history. **Un descendant est quelqu'un qui est parenté du sang de quelqu'un auparavant.**
+A descendant is someone who is a direct blood relative of someone else further back in history.
+
+**Un descendant est quelqu'un qui est parenté du sang de quelqu'un auparavant.**
 
    * For example, Abraham was a descendant of Noah.
   * **Par exemple, Abraham était un descendant de Noé**
