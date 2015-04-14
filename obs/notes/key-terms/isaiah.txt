@@ -1,27 +1,31 @@
-====== Isaiah ======
+====== Isaiah Esaïe ======
 
-
-===== Facts: =====
+===== Facts: Les faits =====
 
 Isaiah was a prophet of God.
 
+Esaïe était un prophète de Dieu.
+
   * Isaiah wrote many prophecies about Israel that came true while he was still living.
+  * Esaïe a écrit beaucoup de prophéties concernant Israël qui se sont accomplis pendant qu'il était encore vivant.
   * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
+  * Esaïe est particulièrement connu pour les prophéties qu'il a écrit concernant le Messie et qui se sont réalisées 700 ans après quand Jesus vivait sur la terre.
   * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
+  * Jésus et ses disciples ont cité les prophéties d'Esaïe pour donner des enseignements aux gens à propos du Messie.
   * The Book of Isaiah is one of the major books of the Bible.
+  * Le livre d'Esaïe est l'un des livres majeurs de la Bible. (en terme de longueur).
 
-[See also: **[[fr:obs:notes:key-terms:prophet|prophet]], [[fr:obs:notes:key-terms:Messiah|Messiah]]**]
+[See also: **[[:fr:obs:notes:key-terms:prophet|prophet]], [[:fr:obs:notes:key-terms:messiah|Messiah]]**]
 
+[Voir aussi: prophète, Messie]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:21-09|[21-09]]]** The prophet **Isaiah** prophesied that the Messiah would be born from a virgin.
-  ***[[:fr:obs:notes:frames:21-10|[21-10]]]** The prophet **Isaiah** said the Messiah would live in Galilee, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners. 
-  ***[[:fr:obs:notes:frames:21-11|[21-11]]]** The prophet **Isaiah** also prophesied that the Messiah would be hated without reason and rejected.
-  ***[[:fr:obs:notes:frames:21-12|[21-12]]]** **Isaiah** prophesied that people would spit on, mock, and beat the Messiah. 
-  ***[[:fr:obs:notes:frames:26-02|[26-02]]]** They handed him (Jesus) the scroll of the prophet **Isaiah** so that he would read from it. Jesus opened up the scroll and read part of it to the people.
-  ***[[:fr:obs:notes:frames:45-08|[45-08]]]** When Philip approached the chariot, he heard the Ethiopian reading from what the prophet **Isaiah** wrote.
-  ***[[:fr:obs:notes:frames:45-10|[45-10]]]** Philip explained to the Ethiopian that **Isaiah** was writing about Jesus. 
-
-
+  * **[[:fr:obs:notes:frames:21-09|[21-09]]]** The prophet **Isaiah**  prophesied that the Messiah would be born from a virgin.
+  * **[[:fr:obs:notes:frames:21-10|[21-10]]]** The prophet **Isaiah**  said the Messiah would live in Galilee, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners.
+  * **[[:fr:obs:notes:frames:21-11|[21-11]]]** The prophet **Isaiah**  also prophesied that the Messiah would be hated without reason and rejected.
+  * **[[:fr:obs:notes:frames:21-12|[21-12]]]****Isaiah**  prophesied that people would spit on, mock, and beat the Messiah.
+  * **[[:fr:obs:notes:frames:26-02|[26-02]]]** They handed him (Jesus) the scroll of the prophet **Isaiah**  so that he would read from it. Jesus opened up the scroll and read part of it to the people.
+  * **[[:fr:obs:notes:frames:45-08|[45-08]]]** When Philip approached the chariot, he heard the Ethiopian reading from what the prophet **Isaiah**  wrote.
+  * **[[:fr:obs:notes:frames:45-10|[45-10]]]** Philip explained to the Ethiopian that **Isaiah**  was writing about Jesus.
 ~~DISCUSSION:off~~
