@@ -1,21 +1,22 @@
-====== Ishmael ======
+====== Ishmael Ismael ======
 
+===== Facts: Les faits =====
 
-===== Facts: =====
+Ishmael was the son of Abraham and Sarah's servant, Hagar.
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar. 
+Ismaël etait le fils d'Abraham et de Hagar, la servante de Sara.
 
-    * Ishmael was not the son through whom God would fulfill his promise to Abraham.
-    * Ishmael means, "God hears."
+  * Ishmael was not the son through whom God would fulfill his promise to Abraham.
+  * Ismaël n'était pas le fils par lequel Dieu a accompli sa promesse envers Abraham.
+  * Ishmael means, "God hears."
+  * Ismaël signifie, "Dieu entend".
 
-[See also: **[[fr:obs:notes:key-terms:Abraham|Abraham]], [[fr:obs:notes:key-terms:Sarah|Sarah]]**]
+[See also: **[[:fr:obs:notes:key-terms:abraham|Abraham]], [[:fr:obs:notes:key-terms:sarah|Sarah]]**]
 
+[Voir aussi: Abraham, Sara]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:fr:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
-  ***[[:fr:obs:notes:frames:05-04|[05-04]]]** "I will make **Ishmael** a great nation, too, but my covenant will be with Isaac."
-
-
+  * **[[:fr:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
+  * **[[:fr:obs:notes:frames:05-04|[05-04]]]**"I will make **Ishmael**  a great nation, too, but my covenant will be with Isaac."
 ~~DISCUSSION:off~~
