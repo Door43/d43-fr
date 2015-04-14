@@ -1,9 +1,11 @@
 ===== Mary and Elizabeth [22-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&}}
 
 Soon after the **angel** spoke to **Mary**, she went and visited **Elizabeth**. **As soon as Elizabeth heard Mary’s greeting**, Elizabeth’s **baby jumped inside her**. The women rejoiced together about **what God had done for them**. After Mary visited Elizabeth for three months, Mary returned home.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Après que l'ange ait parlé à Marie, elle alla rendre visite à Elisabeth. Aussitôt qu'Elisabeth entendit la salutation de Marie, son enfant tressaillit dans son sein. Les deux femmes se réjouirent de ce que Dieu avait fait pour elles. Marie demeura avec Elisabeth pendant trois mois. Puis elle retourna chez elle.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/angel|angel]]**
