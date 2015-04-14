@@ -1,8 +1,11 @@
 ===== Take Mary as Your Wife [23-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
 The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>L'ange dit, “Joseph, ne crains pas de prendre Marie pour femme. L'enfant qu'elle a conçu vient du Saint-Esprit. Elle enfantera un fils et tu lui donneras le nom de Jésus (qui veut dire, Sauveur) parce qu'il sauvera son peuple de ses péchés.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/angel|angel]]**
