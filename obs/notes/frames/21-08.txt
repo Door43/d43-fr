@@ -1,9 +1,11 @@
 ===== Messiah Will Rule Forever [21-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?nolink&}}
 
 A **king** is someone who rules over a **kingdom** and **judges** the people. The **Messiah** would be the perfect king who would **sit on the throne** of his ancestor **David**. He would reign over **the whole world** forever, and would always judge honestly and make the right decisions.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Un roi est quelqu'un qui gouverne un royaume et juge les gens. Le Messie serait le roi parfait qui serait assis sur le trône de David, son ancêtre. Il régnerait éternellement sur le monde, jugerait toujours honnêtement et prendrait des décisions justes.</font>
+
 ===== Important Terms: =====
 
 
