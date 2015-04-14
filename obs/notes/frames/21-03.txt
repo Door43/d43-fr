@@ -1,10 +1,11 @@
 ===== A Prophet Like Moses [21-03] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?nolink&}}
 
 **God promised Moses** that in the future he would **raise up another prophet like Moses**. This was another promise about the **Messiah** who would come at some later time.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dieu promit à Moïse qu'à l'avenir, Il élèverait un autre prophète comme lui. C'était une autre promesse concernant le Messie qui se réaliserait quelque temps plus tard.</font>
+
 ===== Important Terms: =====
 
 
