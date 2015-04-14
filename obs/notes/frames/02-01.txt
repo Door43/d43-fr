@@ -1,9 +1,10 @@
 ===== A Perfect World [02-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink}}
+**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
 
-**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Adam et sa femme étaient très heureux dans le joli jardin que Dieu avait créé pour eux. Aucun des deux ne portait d'habits et ils n'en avaient pas honte parce qu'il n'y avait pas de péché dans le monde. Ils marchaient souvent dans le jardin et parlaient avec Dieu.</font>
 
 ===== Important Terms: =====
 
