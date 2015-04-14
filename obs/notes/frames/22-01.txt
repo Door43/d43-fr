@@ -1,8 +1,11 @@
 ===== God Spoke to Zechariah [22-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&}}
 
 In the past, **God** had spoken to **his people** through his **angels** and **prophets**. But then **400 years went by when he did not speak to them**. Suddenly an angel came with a message from God to an old **priest** named **Zechariah**. Zechariah and his wife, Elizabeth, were **godly people**, but she had not been able to have any children.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Par le passé, Dieu avait parlé à son peuple par le biais de ses anges et prophètes. Mais 400 années passèrent sans que Dieu parle à son peuple. Et puis tout à coup un ange apparut à un prêtre âgé, nommé Zacharie, avec un message de Dieu. Zacharie et sa femme Elisabeth, étaient des gens très pieux, mais elle n'avait jamais pu avoir d'enfants.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/god|God]]**
