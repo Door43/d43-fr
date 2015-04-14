@@ -1,9 +1,11 @@
 ===== A Descendant of David [21-04] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
 **God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dieu promit au roi David qu'un de ses descendants régnerait en tant que roi éternellement sur tous les gens qui croiraient en lui. Cela voulait dire que le Messie serait un des descendants de David.</font>
+
 ===== Important Terms: =====
 
 
