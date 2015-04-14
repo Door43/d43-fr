@@ -1,8 +1,11 @@
 ===== Joseph Married Mary [23-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
 So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Alors Joseph prit Marie pour femme, mais il ne la connut qu'après la naissance de l'enfant.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph]]**
