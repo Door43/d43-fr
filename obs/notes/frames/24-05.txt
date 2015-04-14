@@ -1,8 +1,11 @@
 ===== Not the Messiah [24-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
 Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quelques Juifs demandèrent à Jean s'il était le Messie. Jean répondit, “Je ne suis pas le Messie, mais il y a quelqu'un qui viendra après moi. Il est si grand que je ne suis même pas digne de dénouer ses sandales.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jew|Jews]]**
