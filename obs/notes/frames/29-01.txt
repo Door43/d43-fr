@@ -1,8 +1,11 @@
 ===== How Many Times? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
 **One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Un jour Pierre demanda à Jésus: “Seigneur, combien de fois pardonnerai-je à mon frère, lorsqu'il pèchera contre moi? Jusqu'à sept fois?” Jésus répondit: “Pas jusqu'à sept fois, mais jusqu'à soixante-dix fois sept fois!” Jésus voulait dire que l'on doit toujours pardonner. Puis Jésus raconta cette parabole.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
