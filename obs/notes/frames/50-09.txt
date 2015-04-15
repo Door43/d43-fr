@@ -1,8 +1,11 @@
 ===== The Enemy Is the Devil [50-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink&}}
 
 “The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
+
+“Les mauvaises herbes, représentent les gens qui suivent l'Esprit du mal. L'ennemi qui a semé les mauvaises graines représente le diable. La moisson représente la fin du monde, et les moissonneurs représentent les anges de Dieu.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/evil|evil]]**
