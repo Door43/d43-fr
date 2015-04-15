@@ -1,8 +1,11 @@
 ===== Peter and the Servant Girl [39-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
 As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
+
+Pendant que Pierre attendait dehors, une servante s'approcha de lui et dit: “Toi aussi tu étais avec Jésus!” Pierre nia. Plus tard, une autre servante lui demanda la même chose, et Pierre nia encore. Finalement, les gens dirent, ” Nous savons que tu étais avec Jésus parce que vous êtes tous les deux de Galilée.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
