@@ -1,8 +1,11 @@
 ===== Satan Entered Judas [38-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?nolink&}}
 
 After **Judas** took the bread, **Satan entered into him**. **Judas left and went** to help the **Jewish** leaders arrest Jesus. **It was nighttime**.
+
+Après que Judas eut prit le pain, Satan entra en lui. Judas partit aider les chefs des Juifs à arrêter Jésus. C'etait la nuit.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/judas|Judas]]**
