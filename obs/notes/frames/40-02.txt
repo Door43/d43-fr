@@ -1,8 +1,11 @@
 ===== Jesus Was Nailed to the Cross [40-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
 The soldiers brought **Jesus** to a place called “**the Skull**” and nailed his hands and feet to the **cross**. But Jesus said, “**Father**, **forgive them**, **because they do not know what they are doing**.” **Pilate** commanded that they write, “**King of the Jews**” on a sign and put it on the cross above Jesus’ head.
+
+Les soldats amènèrent Jésus à un endroit qui s'appelait “Le Crâne” et clouèrent ses mains et ses pieds sur la croix. Mais Jésus dit: “Père, pardonne-leur, car ils ne savent pas ce qu'ils font.” Pilate ordonna qu'un écriteau soit fixé au dessus de la tête de Jésus sur lequel était inscrit, “Roi des Juifs.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
