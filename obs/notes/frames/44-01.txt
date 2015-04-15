@@ -1,8 +1,11 @@
 ===== The Crippled Man [44-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
 **One day**, **Peter** and **John** were going to the **Temple**. As they approached the Temple gate, they saw **a crippled man** who was **begging** for money.
+
+Un jour, Pierre et John montèrent au Temple. Quand ils s'approchaient du portail du Temple, ils virent un homme paralysé qui mendiait.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
