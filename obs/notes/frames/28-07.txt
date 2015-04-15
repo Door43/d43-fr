@@ -1,8 +1,11 @@
 ===== Who Can Be Saved? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
 When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Les disciples ayant entendu ce que Jésus avait dit, furent très étonnés et dirent, “Alors, qui donc peut être sauvé?”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
