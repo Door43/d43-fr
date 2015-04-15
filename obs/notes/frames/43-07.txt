@@ -1,8 +1,11 @@
 ===== God Raised Jesus [43-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?nolink&}}
 
 “Although **Jesus** died, **God raised** him from the **dead**. **This fulfills the prophecy which says**, ‘**You will not let your Holy One rot in the grave**.’ We are **witnesses** to the fact that God **raised Jesus to life again**.”
+
+“Bien que Jésus soit mort, Dieu l'a ressuscité. Cela accomplit la prophétie qui disait: 'Tu ne laisseras pas Ton corps se décomposer dans le tombeau.' Nous sommes témoins que Dieu a ressuscité Jésus des morts.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
