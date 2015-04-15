@@ -1,8 +1,11 @@
 ===== I Am the Son of God [39-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
 Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
+
+Jésus lui répondit: “Je le suis, vous me verrez siéger à la droite du Tout-Puissant et venir en gloire sur les nuées du ciel.” De rage, le Grand Prêtre déchira ses vêtements et cria aux autres Chefs religieux: “Nous n'avons pas besoin d'autres témoins! Vous venez vous-mêmes de l'entendre dire qu'Il est le Fils de Dieu. Quel est votre verdict?”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
