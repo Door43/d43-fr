@@ -1,8 +1,11 @@
 ===== The Pigs Drowned [32-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
 The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
+
+Les démons sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux se précipitèrent dans le lac, du haut des pentes escarpées et se noyèrent. Il y avait environ 2,000 pourceaux dans le troupeau.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/demon|demons]]**
