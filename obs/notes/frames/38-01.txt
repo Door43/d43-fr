@@ -1,8 +1,11 @@
 ===== The Passover [38-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
 Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
+
+Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remercier Dieu d'avoir sauvé leurs ancêtres de l'esclavage en Egypte il y a plusieurs siècles. Environ trois ans après avoir commencé à prêcher et à enseigner publiquement, Jésus dit à ses disciples qu'il voulait fêter la Pâque avec eux à Jerusalem et qu'il serait tué là bas.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jew|Jews]]**
