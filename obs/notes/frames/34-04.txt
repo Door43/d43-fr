@@ -1,8 +1,11 @@
 ===== The Treasure in the Field [34-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
 “The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
+
+“Le Royaume de Dieu est semblable à un trésor que quelqu'un a caché dans un champ. L'homme qui l'a trouvé le cacha à nouveau. Dans sa joie, il alla vendre tout ce qu'il possèdait, et achèta le champ.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
