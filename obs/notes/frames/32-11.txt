@@ -1,8 +1,11 @@
 ===== Go Home [32-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
 But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
+
+Mais Jésus lui dit: “Non, je veux que tu ailles dans ta maison, et que tu racontes à tes amis et ta famille tout ce que le Seigneur a fait pour toi, et comment il a eu pitié de toi.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
