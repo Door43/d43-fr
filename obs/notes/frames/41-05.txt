@@ -1,8 +1,11 @@
 ===== Jesus Is Risen [41-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
 When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
+
+Quand les femmes arrivèrent au tombeau, l'ange leur dit: “N'ayez pas peur. Jésus n'est plus ici. Il est ressuscité, comme il l'avait dit! Venez voir.” Les femmes regardèrent l'endroit où le corps de Jésus avait été déposé. Le corps n'était plus là!
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/angel|angel]]**
