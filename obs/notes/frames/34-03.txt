@@ -1,8 +1,11 @@
 ===== The Yeast [34-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
 **Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
+
+Jésus dit cette autre parabole: “Le Royaume de Dieu est semblable à du levain qu'une femme a mis dans trois mesures de farine, pour faire lever toute la pâte.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
