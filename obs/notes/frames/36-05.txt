@@ -1,8 +1,11 @@
 ===== This Is My Son [36-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&}}
 
 As **Peter** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **Son** whom I **love**. I am pleased with him. **Listen to him**.” The three **disciples** were **terrified** and **fell on the ground**.
+
+Au moment où Pierre parlait, une nuée lumineuse les enveloppa et une voix en sortit qui disait, “Celui-ci est mon Fils bien-aimé qui a toute ma faveur. Ecoutez-le.” Les trois disciples furent saisis de terreur et tombèrent à terre.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
