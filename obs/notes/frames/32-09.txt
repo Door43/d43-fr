@@ -1,8 +1,11 @@
 ===== The Man Was Healed [32-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
 When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
+
+Quand les gens qui s'occupaient du troupeau virent ce qui s'était passé, ils coururent à la ville et dirent à tous ceux qu'ils rencontraient ce que Jésus avait fait. Les gens vinrent de la ville et virent l'homme qui était possédé par les démons. Il était assis calmement, portant des vêtements et se comportant comme une personne normale.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
