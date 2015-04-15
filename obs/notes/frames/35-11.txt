@@ -1,8 +1,11 @@
 ===== The Brother Is Angry [35-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
 “When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
+
+“Quand le fils ainé découvrit qu'il y avait une fête parce que son frère était revenu, il se mit en colère et ne voulut pas entrer. Son père sortit et le pria de venir se réjouir avec eux, mais il refusa.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/son|son]]**
