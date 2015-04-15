@@ -1,8 +1,11 @@
 ===== The Soldier's Testimony [40-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
 **Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
+
+Par sa mort, Jésus ouvrait un chemin pour que les hommes puissent croire en Dieu. Quand un soldat qui gardait Jésus vit tout ce qui s'était passé, il dit: “Certainement, cet homme était innocent. Il était le Fils de Dieu.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/death|death]]**
