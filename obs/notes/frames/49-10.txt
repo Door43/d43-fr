@@ -1,8 +1,11 @@
 ===== Jesus Died in Our Place [49-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&}}
 
 **Because of your sin**, you are **guilty** and deserve to **die**. **God should be angry** with you, but **he poured out his anger on Jesus** instead of on you. When Jesus died on the **cross**, he **received your punishment**.
+
+A cause de votre péché, vous êtes coupable et vous méritez la mort. Dieu devrait être en colère avec vous, mais il a versé sa colère sur Jésus au lieu de sur vous. Quand Jésus est mort sur la croix, il a prit sur lui votre châtiment .
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/sin|sin]]**
