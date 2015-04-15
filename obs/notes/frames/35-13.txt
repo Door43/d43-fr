@@ -1,8 +1,11 @@
 ===== We Must Celebrate [35-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
 “The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
+
+“Le père répondit: 'Mon fils, tu es toujours avec moi, et tout ce que j'ai est à toi. Mais il fallait bien se réjouir, parce que ton frère était mort et que maintenant il est revenu à la vie. Il était perdu et il est retrouvé.'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/son|son]]**
