@@ -1,8 +1,10 @@
 ===== Make Disciples [42-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-10.jpg?nolink&}}
 
 Jesus said to his **disciples**, “**All authority in heaven and on earth has been given to me**. So go, **make disciples of all people groups** by **baptizing** them **in the name of** the **Father**, the **Son**, and the **Holy Spirit**, and by teaching them to **obey** everything I have commanded you. Remember, I will be with you always.”
+
+Jésus dit à ses disciples: “Toute autorité au ciel et sur la terre m'a été donnée. Allez, faites des disciples de toutes les nations en les baptisant au nom du Père, du Fils et du Saint-Esprit et en leur enseignant à obéir à tout ce que je vous ai commandé. Souvenez-vous, je serai avec vous pour toujours.”
 
 ===== Important Terms: =====
 
