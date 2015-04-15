@@ -1,8 +1,11 @@
 ===== The Large Tree [34-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
 “But when the **mustard seed grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
+
+“Mais quand la graine de moutarde pousse, elle dépasse toutes les autres plantes du potager et devient un arbuste, de sorte que les oiseaux du ciel viennent nicher dans ses branches.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
