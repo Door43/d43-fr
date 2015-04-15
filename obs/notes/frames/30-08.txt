@@ -1,8 +1,11 @@
 ===== Everyone Ate [30-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
 Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
+
+Puis Jésus rompit le pain et les poissons. Il donna les morceaux à ses disciples qui les distribuèrent à la foule. Les disciples continuèrent à distribuer la nourriture à la foule, il n'en manqua pas et tout le monde fut rassasié.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
