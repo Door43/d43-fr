@@ -1,8 +1,11 @@
 ===== The Tax Collector's Prayer [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
 “But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
+
+“Mais le collecteur d'impôts qui se tenait à l'écart du chef religieux, ne jetait même pas un regard vers les cieux. Au lieu de cela, il se frappait la poitrine et priait: 'Dieu, aie pitié de moi parce que je suis pécheur,'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/tax-collector|tax collector]]**
