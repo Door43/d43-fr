@@ -1,8 +1,11 @@
 ===== The Sick Woman [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
 **Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
+
+Jésus retourna sur l'autre rive du lac. Une fois arrivé, une grande foule se réunit autour de lui et le pressa. Dans la foule, il y avait une femme atteinte d'une perte de sang depuis douze ans. Elle avait dépensé tout son argent chez les docteurs, sans être soulagée, et elle allait de plus en plus mal.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
