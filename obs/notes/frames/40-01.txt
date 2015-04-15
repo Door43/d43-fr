@@ -1,8 +1,11 @@
 ===== Jesus Carried His Cross [40-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
 After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
+
+Quand les soldats eurent fini de se moquer de Jésus, ils l'emmenèrent pour le crucifier. Ils lui firent porter la croix sur laquelle il devait mourir.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/mock|mocked]]**
