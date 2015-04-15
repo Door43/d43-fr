@@ -1,8 +1,11 @@
 ===== The Feast of Pentecost [43-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?nolink&}}
 
 Every year, 50 days after the **Passover**, the **Jews** celebrated an important day called **Pentecost**. Pentecost was a time when the Jews **celebrated the wheat harvest**. Jews came from all over the world to **Jerusalem** to celebrate Pentecost together. **This year**, the time for Pentecost came about a week after **Jesus** had gone back to **heaven**.
+
+Chaque année, cinquante jours après la Pâque, les Juifs célébraient une journée de grâce importante,la Pentecôte. Les Juifs de toutes les nations venaient à Jérusalem pour la célébrer ensemble. Cette année-là la Pentecôte se trouva être une semaine aprés que Jésus fut retourné au ciel.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/passover|Passover]]**
