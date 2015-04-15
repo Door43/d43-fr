@@ -1,8 +1,11 @@
 ===== The Perfect Creation [48-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink&}}
 
 When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
+
+Quand Dieu créa le monde, tout était parfait. Il n'y avait pas de péché. Adam et Eve s'aimaient, et ils aimaient Dieu. Il n'y avait pas de mort ou maladies ou souffrance. C'est comment Dieu voulait les choses.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/god|God]]**
