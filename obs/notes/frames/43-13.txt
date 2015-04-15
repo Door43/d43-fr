@@ -1,8 +1,11 @@
 ===== The Disciples Met Together [43-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
 The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
+
+Les disciples qui écoutaient assidument l'enseignement des apôtres, vivaient en communion les uns avec les autres, mangeaient et priaient ensemble. Ils prenaient plaisir à louer Dieu ensemble, et partageaient tout ce qu'ils possédaient. Ils louaient Dieu. Le peuple entier leur était favorable. Chaque jour, le nombre des croyants grandissait.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
