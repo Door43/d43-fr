@@ -1,8 +1,11 @@
 ===== Stephen's Prayer [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
 **As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
+
+Quand Étienne était mourant, Il s'écria, “Jésus, reçois mon esprit.” Puis il tomba à genoux et lança un dernier cri, “Seigneur, ne leur demande pas compte de ce péché.” Puis il expira.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
