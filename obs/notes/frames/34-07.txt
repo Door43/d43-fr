@@ -1,8 +1,11 @@
 ===== The Religious Leader's Prayer [34-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
 “The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
+
+“Le chef religieux priait comme ceci: 'Je te remercie, Dieu, que je ne sois pas un pécheur comme tous ceux qui volent, sont injustes, adultères, ou même comme ce collecteur d'impôts.'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader]]**
