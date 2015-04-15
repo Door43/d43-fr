@@ -1,8 +1,11 @@
 ===== The Burial of Jesus [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
 Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
+
+Ensuite, deux chefs des Juifs, Joseph et Nicodème, qui croyaient que Jésus était le Messie, demandèrent à Pilate le corps de Jésus. Ils l' enveloppèrent de linge funéraire et le déposèrent dans un tombeau taillé dans le roc. Puis ils roulèrent un grand bloc de pierre devant l'entrée du tombeau.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
