@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
 One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
+
+Un jour, Jésus prit avec lui trois de ses disciples, Pierre, Jacques et Jean. (Le disciple nommé Jean n'était pas celui qui baptisa Jésus.) Il les conduisit à l'écart sur une haute montagne pour prier.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus]]**
