@@ -1,8 +1,11 @@
 ===== Rolling the Stone Away [37-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}
 
 **Jesus** responded, “**Did I not tell you** that you would **see God's glory** if you **believe** in me?” So **they rolled the stone away**.
+
+Jésus répondit: “Ne tais-je pas dit, si tu crois en moi, tu verras la gloire de Dieu?” On ôta donc la pierre.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
