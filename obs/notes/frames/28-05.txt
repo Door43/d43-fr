@@ -1,9 +1,10 @@
 ===== Not Willing to Obey [28-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
 When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quand le jeune homme entendit cela, il fut très triste, parce qu'il était très riche et ne voulait pas donner tout ce qu'il possédait. Ne voulant pas abandonner ses biens, il s'en alla.</font>
 
 ===== Important Terms: =====
 
