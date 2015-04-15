@@ -1,8 +1,11 @@
 ===== The Holy Spirit [43-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?nolink&}}
 
 “**Jesus is now exalted to the right hand of God the Father**. And Jesus has sent the **Holy Spirit** just as he **promised** he would do. The Holy Spirit is **causing** the things that you are now seeing and hearing.”
+
+“Jésus a été élevé pour siéger à la droite de Dieu Le Père. Et Jésus a envoyé le Saint-Esprit comme Il l'avait promit. C'est pour cette raison que vous voyez et entendez ces choses-la”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
