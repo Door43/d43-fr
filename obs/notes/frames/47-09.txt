@@ -1,8 +1,11 @@
 ===== The Earthquake [47-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
 Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
+
+Soudainement, un violent tremblement de terre secoua la prison. Toutes les portes s'ouvrirent et les chaînes de tous les prisonniers se détachèrent.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
