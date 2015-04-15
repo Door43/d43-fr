@@ -1,8 +1,11 @@
 ===== Spiritual Fruit [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
+
+“Mais la semence dans la bonne terre est une personne qui entend la Parole de Dieu, y donne foi, et porte du fruit.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/good|good]]**
