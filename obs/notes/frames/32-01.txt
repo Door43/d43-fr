@@ -1,8 +1,11 @@
 ===== The Country of the Gerasenes [32-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
 **One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
+
+Un jour, Jésus et ses disciples montèrent dans une barque et traversèrent le lac jusqu'à la région où les Gadaréniens habitaient.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
