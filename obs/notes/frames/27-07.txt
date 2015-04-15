@@ -1,8 +1,11 @@
 ===== The Levite [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
 “Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
+
+Quelques instants plus tard, un Lévite qui voyageait sur la même route traversa aussi la rue et ignora l'homme qui avait été volé et battu. (Les Lévites étaient une tribu de Juifs qui aidaient les prêtres au Temple.)
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jew|Jews]]**
