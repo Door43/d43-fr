@@ -1,8 +1,11 @@
 ===== The Disciples Were Afraid [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
 The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
+
+Les disciples furent troublés quand ils aperçurent Jésus, parce qu'ils croyaient voir un fantôme. Jésus savait qu'ils avaient peur, alors il leur parla et dit: “Rassurez-vous, c'est Moi; n'ayez pas peur!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
