@@ -1,8 +1,11 @@
 ===== The Angel Appeared [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
 Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
+
+Soudain il y eut un violent tremblement de terre. Un ange du Seigneur, qui avait l'apparence de l'éclair, descendit du ciel. Il roula la pierre de côté et s'assit sur elle. Les soldats gardant le tombeau furent saisis d'épouvante et tombèrent comme mort, face contre terre.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/angel|angel]]**
