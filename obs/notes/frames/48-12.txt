@@ -1,8 +1,11 @@
 ===== The Word of God [48-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&}}
 
 **Moses** was **a great prophet** who proclaimed the **word of God**. But **Jesus** is **the greatest prophet** of all. He is **God**, so everything he did and said were the actions and words of God. That is why Jesus is called the Word of God.
+
+Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus est un le prophète souverain. Il est Dieu, alors tout ce qu'il a dit et fait était de Dieu son Père. C'est pour cette raison que Jésus est appelé la Parole de Dieu.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/moses|Moses]]**
