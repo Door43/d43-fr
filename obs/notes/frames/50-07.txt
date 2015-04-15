@@ -1,9 +1,10 @@
 ===== Wait for the Harvest [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
 “The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
+“Les serviteurs demandèrent à leur maître 'Devrons-nous arracher toutes ces mauvaises herbes?' Le maître répondit, 'Non, car en enlevant les mauvaises herbes vous risqueriez d'arracher le blé en même temps. Attendez la moisson, et à ce moment-là vous enlèverez d'abord les mauvaises herbes que vous allez lier en bottes pour les brûler. Ensuite vous couperez le blé et vous le rentrerez dans mon grenier.'”
 
 ===== Important Terms: =====
 
