@@ -1,8 +1,11 @@
 ===== The Seed in Good Soil [33-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
 “Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
+
+“Une autre partie de la semence tomba dans la bonne terre. Elle porta du fruit, avec un rendement de 30, 60 ou même 100 grains par épis. Que celui qui a des oreilles pour entendre, entende!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/good|good]]**
