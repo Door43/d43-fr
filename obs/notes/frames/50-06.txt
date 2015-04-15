@@ -1,8 +1,11 @@
 ===== The Weeds [50-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
+
+“Quand le grain eut poussé, les serviteurs vinrent demander à leur Maître, 'Maître, tu as planté de la bonne graine dans ton champ. Alors, pourquoi il y-a-t-il des mauvaises herbes dans ton champ? le maître répondit, “Un ennemi a dut les planter.'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
