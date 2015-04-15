@@ -1,8 +1,11 @@
 ===== Not All Will Be Saved [49-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}
 
 **Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
+
+Jésus enseigna qu'il y aura ceux qui le recevront et seront sauvés mais d'autres ne le recevrons pas. Il dit que certaines personnes seront comme de la bonne terre. Ils recevront la bonne nouvelle de Jésus et seront sauvés. D'autres seront comme un chemin aride où la graine de la parole de Dieu ne rentre pas et ne produit pas de récolte. Ceux-là rejettent le message de Jésus et ne rentreront pas dans son royaume.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
