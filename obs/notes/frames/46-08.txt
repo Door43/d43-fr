@@ -1,8 +1,11 @@
 ===== Saul Went to Jerusalem [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
 **Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
+
+Paul a voyagé à Jérusalem pour se retrouver avec les disciples mais au début, tous avaient peur de lui. Puis un croyant qui s'appelait Barnabas amena Paul aux disciples et leur dit comment Saul avait prêché courageusement à Damas au nom de Jésus. Après cela, les disciples acceptèrent Saul.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/paul|Saul]]**
