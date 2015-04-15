@@ -1,9 +1,11 @@
 ===== What Else Must I Do? [28-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink&}}
 
 But the young man said, “I have **obeyed** all these **laws ever since I was a boy**. **What do I still need to do** in order to live forever?” **Jesus** looked at him and **loved him**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Mais le jeune homme dit: “J'observe toutes ces lois depuis mon enfance. Que dois-je faire d'autre pour avoir la vie éternelle?” Jésus le regarda et l'aima.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/obey|obeyed]]**
