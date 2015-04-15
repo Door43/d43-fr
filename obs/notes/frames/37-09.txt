@@ -1,8 +1,11 @@
 ===== Jesus' Prayer [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
 Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
+
+Alors Jésus tourna son regard vers le ciel et dit: “Père, tu as exaucé ma prière et je t'en remercie. Moi, je sais que tu m'exauces toujours, mais si je parle ainsi, c'est pour que tous ceux qui m'entourent croient que c'est toi qui m'as envoyé. Puis il cria d'une voix forte: “Lazare, sors!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
