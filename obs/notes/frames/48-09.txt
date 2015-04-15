@@ -1,8 +1,11 @@
 ===== The Passover [48-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
 When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
+
+Quand Dieu envoya la dernière plaie en Egypte, il a dit que chaque famille Israélite devait tuer un agneau sans défaut et de répandre son sang au-dessus de leurs portes. Quand Dieu vu le sang, il passa au-dessus de leurs maisons et ne tua pas leurs premiers-nés. Cet événement était la Pâque.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/god|God]]**
