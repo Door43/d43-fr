@@ -1,8 +1,11 @@
 ===== The Son Repented [35-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
 “Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
+
+“Alors, le plus jeune fils se dit, ”'Combien de serviteurs chez mon père ont du pain en abondance, et moi, ici je meurs de faim! Je retournerai vers mon père et je lui demanderai d'être un de ses serviteurs.'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
