@@ -1,8 +1,11 @@
 ===== The Woman Was Healed [32-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg?nolink&}}
 
 She had heard that **Jesus** had **healed** many sick people and thought, “**I'm sure that if I can just touch Jesus’ clothes, then I will be healed, too**!” So she came up behind Jesus and touched his clothes. As soon as she touched them, the bleeding stopped!
+
+Elle avait entendu dire que Jésus avait guéri beaucoup de malades et elle pensa, “Si je touche le bord du vêtement de Jésus,moi aussi je serai guérie!” Elle s'approcha par derrière et toucha ses vêtements. A l'instant même, la perte de sang s'arrêta!
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
