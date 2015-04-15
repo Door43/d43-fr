@@ -1,8 +1,11 @@
 ===== The Virgin Birth [49-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
 An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
+
+Un ange dit à une vierge qui s'appelait Marie, qu'elle donnera naissance au fils de Dieu. Alors quand elle était encore vierge, elle donna naissance à un fils et le nomma Jésus. Par conséquent Jésus est Dieu et est aussi homme en même temps.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/virgin|virgin]]**
