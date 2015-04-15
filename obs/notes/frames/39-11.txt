@@ -1,8 +1,11 @@
 ===== He Is Not Guilty [39-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
 After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
+
+Après avoir parlé avec Jésus, Pilate sortit rencontrer la foule et dit: “Je ne trouve rien de coupable en cet homme.” Mais Les chefs des Juifs et la foule criaient: “Crucifie-le!, “Pilate répondit: “Il n'est pas coupable.” Mais ils criaient encore plus fort. Alors Pilate dit, pour la troisième fois: “Il n'est pas coupable!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
