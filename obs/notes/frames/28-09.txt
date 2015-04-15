@@ -1,8 +1,11 @@
 ===== What Is Our Reward? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
 **Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Pierre dit à Jésus: “Nous avons tout quitté pour te suivre. Que sera notre récompense?”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
