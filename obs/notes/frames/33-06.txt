@@ -1,9 +1,11 @@
 ===== The Seed Is the Word [33-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
 **This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
+
+Cette histoire troubla les disciples. Alors Jésus expliqua: “La semence représente la Parole de Dieu. La semence le long du chemin représente une personne qui entend la Parole de Dieu et ne la comprend pas, et le diable lui enlève la Parole de Dieu.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
