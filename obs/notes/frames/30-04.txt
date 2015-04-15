@@ -1,8 +1,11 @@
 ===== The People Were Hungry [30-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
 **Late in the day**, the **disciples** told **Jesus**, “It is late and there are no towns nearby. **Send the people away** so they can go get something to eat.”
+
+Plus tard dans la soirée, les disciples dirent à Jésus: “l'heure est déjà avancée et il n'y a pas de ville tout près. Renvoie ces gens afin qu'ils aillent dans les villages s'acheter des vivres.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
