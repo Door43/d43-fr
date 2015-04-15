@@ -16,12 +16,11 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **good soil** - See how you translated this term in **[[:fr:obs:notes:frames:33-05|[33-05]]]**.
-  * **is a person** - See how you translated this comparison in **[[:fr:obs:notes:frames:33-06|[33-06]]]**.
-  * **produce fruit** - See how you translated this phrase in **[[:fr:obs:notes:frames:33-08|[33-08]]]**.
+  * **good soil**  - See how you translated this term in **[[:fr:obs:notes:frames:33-05|[33-05]]]**.
+  * **is a person**  - See how you translated this comparison in **[[:fr:obs:notes:frames:33-06|[33-06]]]**.
+  * **produce fruit**  - See how you translated this phrase in **[[:fr:obs:notes:frames:33-08|[33-08]]]**.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //Une histoire biblique tirée de: Matthieu 13:1-8, 18-23; Marc 4:1-8, 13-20; Luc 8:4-15//
 **[[:fr:obs:notes:frames:33-08|<<]] | [[:fr:obs:notes:33|Up]] | [[:fr:obs:notes:frames:34-01|>>]]**
 
 ~~DISCUSSION~~
