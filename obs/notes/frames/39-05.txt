@@ -1,8 +1,11 @@
 ===== They Mocked Jesus [39-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
 The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
+
+Les chefs des Juifs répondirent au Grand-Prêtre, “Il mérite de mourir!” Alors, ils bandèrent les yeux de Jésus, lui crachèrent au visage, le frappèrent, et se moquèrent de lui.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
