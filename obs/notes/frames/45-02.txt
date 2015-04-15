@@ -1,8 +1,11 @@
 ===== Stephen's Arrest [45-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
 **One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
+
+Un jour, quand Étienne prêchait à des gens qui n'étaient pas croyants, ils commencèrent à se disputer avec Etienne. Ils devinrent fous de rage et mentirent au sujet d'Étienne aux chefs religieux. Il disaient, “Nous l'avons entendu prononcer des paroles blasphématoires contre Moïse et contre Dieu.”Les chefs religieux s'emparèrent d' Étienne et l'amenèrent devant le Grand-Prêtre et devant d'autres leaders des Juifs où encore plus de faux témoins mentirent au sujet d'Etienne.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
