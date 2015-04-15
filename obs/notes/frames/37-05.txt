@@ -1,8 +1,11 @@
 ===== I Am the Resurrection [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
 **Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
+
+Jésus répondit: “je suis la Résurrection et la Vie. Celui qui croit en moi vivra, même s'il meurt, et celui qui vit et croit en moi ne mourra jamais. Crois-tu cela?” Marthe répondit: “Oui Seigneur! Je crois que tu es le Christ, le Fils de Dieu.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
