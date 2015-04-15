@@ -1,8 +1,11 @@
 ===== What Must I Do? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Un jour, un jeune homme riche s'approcha de Jésus et lui demanda:” Bon Maître, que dois-je faire pour avoir la vie éternelle?” Jésus lui répondit: “Pourquoi m'appelles-tu “bon”? Il n'y a qu'une personne qui est bonne, et c'est Dieu. Mais si tu veux avoir la vie éternelle, observe les commandements de Dieu.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
