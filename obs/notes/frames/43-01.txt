@@ -1,8 +1,11 @@
 ===== The Disciples in Jerusalem [43-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
 After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jesus had commanded them to do. The **believers** there constantly gathered together to **pray**.
+
+Après que Jésus fut retourné au ciel, les disciples restèrent à Jérusalem comme Il le leur avait commandé. Les croyants se rassemblaient constamment pour prier.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
