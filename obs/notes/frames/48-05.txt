@@ -1,8 +1,11 @@
 ===== A Way of Salvation [48-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
 When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
+
+Quand Dieu détruisit toute la terre par le déluge, il pourvut une arche comme chemin du salut pour tout ceux qui crurent en lui. De la même façon, bien que tout le monde mérite d'être détruit à cause de leurs péché, Dieu a pourvut le chemin du salut pour tous ceux qui croient en lui.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/god|God]]**
