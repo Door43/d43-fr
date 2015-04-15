@@ -1,8 +1,11 @@
 ===== Prepare the Feast [35-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
 “But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
+
+“Mais son père dit à un de ses serviteurs: 'Apportez vite le plus beau vêtement et l'en revêtez! Mettez lui un anneau au doigt et des sandales aux pieds. Puis amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous parce que mon fils était mort et il est revenu à la vie!'”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
