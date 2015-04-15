@@ -1,8 +1,11 @@
 ===== The Two Robbers [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
 **Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
+
+Jésus fut crucifié entre deux brigands. Un des deux se moquait de Jésus, mais l'autre dit: “Ne crains-tu pas Dieu? Nous sommes coupables, mais cet homme est innocent.” Puis il dit: “Jésus, souviens-toi de moi dans ton royaume.” Jésus lui dit: “Aujourd'hui tu seras avec moi au Paradis.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
