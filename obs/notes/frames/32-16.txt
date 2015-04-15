@@ -1,8 +1,11 @@
 ===== Healed by Faith [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
+
+La femme se jeta aux pieds de Jésus, tremblante et effrayée. Puis elle lui dit ce qu'elle avait fait et qu'elle avait été guérie. Jésus lui dit: “Ta foi t'a sauvée. Va en paix.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
