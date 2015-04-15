@@ -1,8 +1,11 @@
 ===== The Samaritan [27-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
 “The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>La personne suivante, qui se retrouva sur cette route, fut un Samaritain. (Les Samaritains étaient les descendants des Juifs qui s'étaient mariés avec des gens d'autres nations. Les Juifs et les Samaritains se détestaient). Mais quand ce Samaritain vit le Juif, il fut ému de compassion, soigna ses plaies et les recouvrit de pansements.</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/samaria|Samaritan]]**
