@@ -1,8 +1,11 @@
 ===== The King Heard [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>“Ses compagnons, ayant vu ce qui s'était passé, furent profondément attristés. Ils allèrent tout raconter au roi.”</font>
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
