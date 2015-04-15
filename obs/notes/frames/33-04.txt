@@ -1,8 +1,11 @@
 ===== The Seed in the Thorns [33-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
 “Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
+
+“Une autre partie de la semence tomba parmi les épines. La semence commença à pousser mais les épines étouffèrent la semence qui ne produisit pas de grain.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
