@@ -1,8 +1,11 @@
 ===== The Testimony of the Demon [47-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?nolink&}}
 
 The **slave girl** kept yelling as they walked, “These men are **servants** of the **Most High God**. They are telling you **the way to be saved**!” She did this so often that **Paul** became annoyed.
+
+L'esclave criant à tue-tête, “Ces hommes-là sont des serviteurs du Dieu très-haut. Ils viennent vous annoncer comment être sauvé!” Elle fit cela si souvent que Paul devint excèdé.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/servant|slave girl]]**
