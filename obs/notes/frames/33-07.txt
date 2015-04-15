@@ -1,8 +1,11 @@
 ===== Persecution and Hardship [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
+
+“L'endroit pierreux est une personne qui entend la Parole de Dieu et la reçoit aussitôt avec joie. Mais dès que survient une tribulation ou une persécution à cause de la Parole, elle y trouve une occasion de chute.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
