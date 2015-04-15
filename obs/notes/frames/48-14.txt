@@ -1,8 +1,11 @@
 ===== King of the Universe [48-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink&}}
 
 **David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
+
+David était le roi des Israelites, mais Jésus est le Roi de l'univers! Il reviendra pour gouverner son royaume avec justice et la paix, pour toujours.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/david|David]]**
