@@ -1,8 +1,11 @@
 ===== The Fire of Hell [50-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink&}}
 
 But **God** will **judge** everyone who does not **believe** in **Jesus**. He will throw them into **hell**, where they will **weep and grind their teeth in anguish** forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
+
+Mais Dieu jugera tous ceux qui ne croient pas en Jésus. Il les jettera dans l'enfer pour toujours où ils pleureront constamment et grinceront leurs dents dans l'angoisse. Un feu qui ne meurt jamais les brûleront constamment, et des vers n'arrêteront jamais de les manger.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/god|God]]**
