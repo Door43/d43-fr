@@ -1,8 +1,11 @@
 ===== The Darkness [40-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&}}
 
 Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
+
+Alors le ciel, dans toute la région, devint complètement sombre, bien que ce fut le milieu de la journée. Le pays entier fut plongé dans l'obscurité. Cela dura de midi jusqu'à trois heures de l'après-midi.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
