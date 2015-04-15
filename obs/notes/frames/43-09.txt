@@ -1,8 +1,11 @@
 ===== Jesus Is the Messiah [43-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
 “You **crucified** this man, **Jesus**. **But know for certain that God** has caused Jesus to become both **Lord** and **Messiah**!”
+
+“Vous avez crucifié cet homme, Jésus. Voici donc ce que tout le peuple d'Israël doit savoir avec entière certitude: Dieu a fait Seigneur et Messie ce Jésus que vous avez crucifié!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/crucify|crucified]]**
