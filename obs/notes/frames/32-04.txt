@@ -1,8 +1,11 @@
 ===== Living among the Tombs [32-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
 The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
+
+Cet homme demeurait dans les sépulcres de la région. Il criait jour et nuit. Il ne portait pas de vêtements et se meurtrissait régulièrement avec des pierres.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/tomb|tombs]]**
