@@ -1,8 +1,11 @@
 ===== Alone with Jesus [36-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
 Then **Jesus touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, the **only one still there was Jesus**.
+
+Puis Jésus les toucha et leur dit: “N'ayez pas peur. Relevez-vous.” Quand ils regardèrent autour d'eux seul Jésus était encore là.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
