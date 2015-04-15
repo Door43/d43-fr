@@ -1,8 +1,11 @@
 ===== The Robbers [27-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
 “While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.</font>
+
 ===== Important Terms: =====
 
 
