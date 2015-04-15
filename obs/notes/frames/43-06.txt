@@ -1,8 +1,11 @@
 ===== You Crucified Jesus [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
 “Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
+
+“Hommes Israélites, Jésus cet homme qui a accompli au milieu de vous des miracles, des signes et des actes extraordinaires par la Puissance de Dieu, comme vous l'avez constaté, vous l'avez crucifié.”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/israel|Israel]]**
