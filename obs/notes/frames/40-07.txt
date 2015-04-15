@@ -1,8 +1,11 @@
 ===== Jesus Died [40-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
 Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
+
+Puis Jésus cria d'une voix forte: “Tout est accompli! Père, je remets mon esprit entre tes mains.” Puis il baissa la tête et rendit l'âme. Au même instant, la terre trembla et le rideau du Temple qui séparait le peuple de la présence de Dieu se déchira par le milieu, du haut en bas.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
