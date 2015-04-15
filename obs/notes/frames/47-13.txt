@@ -1,8 +1,11 @@
 ===== The Good News Spreads [47-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
 The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
+
+Le jour après, les chefs de la ville mirent Paul et Silas en liberté et leur demanda de partir de Philippes. Paul et Silas se rendirent chez Lydie ou ils retrouvèrent d'autres frères, puis ils reprirent la route. La bonne nouvelle de Jésus s'est répandue, et L'Eglise continua à grandir.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/paul|Paul]]**
