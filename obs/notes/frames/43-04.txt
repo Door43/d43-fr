@@ -1,9 +1,11 @@
 ===== The Crowd Gathered [43-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?nolink&}}
 
 When the people in **Jerusalem** heard the noise, **a crowd** came to see what was happening. When the people heard the **believers** proclaiming **the wonderful works of God**, they were astonished that they were hearing these things in their own native languages.
+
+Quand les gens à Jérusalem entendirent ce bruit, ils vinrent en foule voir ce qui arrivait. Quand Ils entendirent les disciples proclamer les choses merveilleuses que Dieu avait accompli, ils furent saisis de stupeur en les entendant parler de ces choses dans leur propre langue.
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
