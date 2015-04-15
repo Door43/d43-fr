@@ -1,8 +1,11 @@
 ===== You Killed the Messiah [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
+
+Le Grand-Prêtre demanda à Étienne, “Ces choses sont-elles vraies?” Étienne leur rappela toutes les choses merveilleuses que Dieu avait accomplit depuis le temps d'Abraham jusqu'au temps de Jésus, et comment les croyants continuaient à le désobéir. Puis il dit, “Vous, gens obstinés et rebellés, vous résistez toujours à l'Esprit-Saint, semblable à vos ancêtres, qui avaient toujours rejeté Dieu et tué ses prophètes. Mais vous avez fait quelque chose de pire! Vous avez tué le Messie!”
+
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
