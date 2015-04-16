@@ -15,9 +15,13 @@ Un jour, Jésus enseignait à beaucoup de collecteurs d'impôts et de pécheurs 
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **tax collectors**  - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
+===== Note de traduction: =====
 
+* ** Un jour ** - Cette phrase introduit un événement qui se est produit dans le passé, mais ne précise pas le moment précis. Beaucoup de langues ont une façon similaire à commencer à raconter une histoire vraie.
+
+* ** Collecteurs d'impôts ** - collecteurs d'impôts ont été considérés comme le pire des pécheurs parce que souvent ils ont volé l'argent des gens en recueillant un impôt plus élevé que le gouvernement requis.
 
 **[[:fr:obs:notes:frames:34-10|<<]] | [[:fr:obs:notes:35|Up]] | [[:fr:obs:notes:frames:35-02|>>]]**
 
