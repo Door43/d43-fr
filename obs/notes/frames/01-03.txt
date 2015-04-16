@@ -12,14 +12,13 @@ Le second jour de la création, Dieu parla et créa le ciel au-dessus de la terr
 ==== Translation Notes: ====
 
   * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * Le second jour - L'oeuvre de création de Dieu était méthodique, suivant un plan précis, et séquentiel. Les choses qu'il a créa chaque jour reposaient et dépendaient des actes du jour d'avant.
+  * **Le second jour**  - L'oeuvre de création de Dieu était méthodique, suivant un plan précis, et séquentiel. Les choses qu'il a créa chaque jour reposaient et dépendaient des actes du jour d'avant.
   * **God spoke**  - God created the sky by speaking a command.
-  * Dieu parla - Dieu créa les cieux par sa parole.
+  * **Dieu parla**  - Dieu créa les cieux par sa parole.
   * **created**  - God made the sky out of nothing.
-  * créa - Dieu créa les cieux à partir du néant.
+  * **créa **- Dieu créa les cieux à partir du néant.
   * **sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-  * les cieux - Ce terme fait référence à tout l'espace au-dessus de la terre, y compris l'air que nous respirons et les cieux.
-
+  * **les cieux**  - Ce terme fait référence à tout l'espace au-dessus de la terre, y compris l'air que nous respirons et les cieux.
 **[[:fr:obs:notes:frames:01-02|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-04|>>]]**
 
 ~~DISCUSSION~~
