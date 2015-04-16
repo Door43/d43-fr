@@ -16,10 +16,13 @@ Le lendemain matin, les gens virent que quelqu'un avait détruit l'autel, et ils
 
 ==== Translation Notes: ====
 
+  * **Why are you trying to help your god?**  - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
+  * **If he is a god, let him protect himself**  - This means, "If he were truly a god, he would be able to defend himself."
+==== notes de traduction: ====
 
-  * **Why are you trying to help your god?** - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
-  * **If he is a god, let him protect himself** - This means, "If he were truly a god, he would be able to defend himself."
+* Pourquoi essayez-vous pour aider votre dieu?  - Ce ne est pas une vraie question qui demande des informations. Une autre façon de dire que ce serait, "Vous ne devriez pas essayer d'aider votre dieu», ou «Vous ne devriez pas besoin d'aider votre dieu."
 
+* Se il est un dieu, qu'il se protéger - Cela signifie, "Se il était vraiment un dieu, il serait en mesure de se défendre."
 
 **[[:fr:obs:notes:frames:16-06|<<]] | [[:fr:obs:notes:16|Up]] | [[:fr:obs:notes:frames:16-08|>>]]**
 
