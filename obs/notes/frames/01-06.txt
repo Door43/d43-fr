@@ -4,7 +4,7 @@
 
 On **the fourth day** of creation, **God spoke** and made the sun, the moon, and the stars. **God** made them to give **light** to the earth and to mark **day and night**, **seasons and years**. God saw that what he had **created** was **good**.
 
-Puis Dieu dit: “Que la terre produise toutes sortes d'arbres et de plantes”. Et c'est ce qui arriva. Dieu vit que ce qu'Il avait crée était bon.
+Le quatrième jour de la création, Dieu parla et créa le soleil, la lune et les étoiles. Dieu les créa pour produire la lumière sur la terre et pour distinguer le jour et la nuit, les saisons et les années. Dieu vit que tout cela était bon.
 
 ===== Important Terms: =====
 
@@ -13,10 +13,15 @@ Puis Dieu dit: “Que la terre produise toutes sortes d'arbres et de plantes”.
 ==== Translation Notes: ====
 
   * **the fourth day**  - The next in the orderly series of days in which God created.
+  * Le quatrieme jour - Le jour suivant dans la série des jours ordonnés pendant lesquels Dieu créa.
   * **God spoke**  - God created the sun, moon, and stars by speaking a command.
+  * Dieu parla - Dieu créa le soleil. la lune et les étoiles par la parole.
   * **light**  - Shining objects in the sky now provided light for the earth.
+  * lumière - des luminaires dans le ciel ont alors éclairé la terre
   * **day and night, seasons and years**  - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
+  * le jour et la nuit, les saisons et les années - Dieu créa une lumière distincte pour indiquer les différentes parties du temps de la plus petite à la plus grande, et marche périodiquement jusqu'à la fin des temps.
   * **created**  - This word is used here in the sense of making something out of nothing.
+  * créa - Ce terme est utilisé ici dans le sens de faire quelque chose à partir du néant.
 
 **[[:fr:obs:notes:frames:01-05|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-07|>>]]**
 
