@@ -12,7 +12,7 @@ Le second jour de la création, Dieu parla et créa le ciel au-dessus de la terr
 ==== Translation Notes: ====
 
   * **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **Le second jour**  - L'oeuvre de création de Dieu était méthodique, suivant un plan précis, et séquentiel. Les choses qu'il a créa chaque jour reposaient et dépendaient des actes du jour d'avant.
+  * **le second jour**  - L'œuvre de création de Dieu était méthodique, suivant un plan précis, et séquentiel. Les choses qu'il a créa chaque jour reposaient et dépendaient des actes du jour d'avant.
   * **God spoke**  - God created the sky by speaking a command.
   * **Dieu parla**  - Dieu créa les cieux par sa parole.
   * **created**  - God made the sky out of nothing.
