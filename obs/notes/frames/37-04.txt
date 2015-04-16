@@ -18,11 +18,19 @@ Quand Jésus arriva dans la ville natale de Lazare, Lazare était déjà mort de
 
 ===== Translation Notes: =====
 
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
+  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
+  * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
+  * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
+  * **will give you whatever you ask from him**  - That is, "will do whatever you ask him to do."
+===== Note de traduction: =====
 
+* ** ** Martha - Martha était la sœur de Lazare et de Marie. Voir **[[: Fr: obs: notes: cadres: 37-01 | [37-01]]] **.
+
+* ** Sortit à la rencontre de Jésus ** - Ce est, ". Allé à la rencontre de Jésus comme il entrait dans la ville"
+
+* ** Mon frère ne serait pas mort.** - Ce est, "vous avez guéri mon frère et il ne serait pas mort», ou «vous pourriez avoir empêché mon frère de mourir."
+
+* ** Vous donnera ce que vous demanderez de lui ** - Ce est, "fera ce que vous lui demandez de faire."
 
 **[[:fr:obs:notes:frames:37-03|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-05|>>]]**
 
