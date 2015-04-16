@@ -16,9 +16,13 @@ Un jour, Pierre et John montèrent au Temple. Quand ils s'approchaient du portai
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **a crippled man**  - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
+===== Note de traduction: =====
 
+* ** Un jour ** - Cette phrase introduit un événement qui se est produit dans le passé, mais ne précise pas le moment précis. Beaucoup de langues ont une façon similaire à commencer à raconter une histoire vraie.
+
+* ** Un homme infirme ** - Cela pourrait aussi être traduit comme "un homme boiteux." Il se agit d'un homme qui n'a pas eu l'usage de ses jambes, et ne pouvait pas se tenir debout ou marcher.
 
 **[[:fr:obs:notes:frames:43-13|<<]] | [[:fr:obs:notes:44|Up]] | [[:fr:obs:notes:frames:44-02|>>]]**
 
