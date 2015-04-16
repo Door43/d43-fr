@@ -4,7 +4,7 @@
 
 On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**.
 
-Le troisième jour, Dieu parla et Il sépara l'eau de la terre. Il appela l'étendue sèche “terre” et Il appela les eaux “mers”. Dieu vit que ce qu'il avait créé était bon.
+Le troisième jour, Dieu parla et sépara les eaux de la terre ferme. Il appela la terre ferme “terre” et Il appela les eaux “mers”. Dieu vit que cela était bon.
 
 ===== Important Terms: =====
 
@@ -13,16 +13,14 @@ Le troisième jour, Dieu parla et Il sépara l'eau de la terre. Il appela l'éte
 ==== Translation Notes: ====
 
   * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
+  * Le troisième jour - le jour suivant dans la série des jours ordonnés pendant lesquels Dieu a préparé la terre pour la vie.
   * **God spoke**  - God created the dry land by speaking a command.
+  * Dieu parla (Dieu dit) - Dieu créa la terre ferme par la parole.
   * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of.
+  * terre ferme - Ce terme est utilisé ici pour faire référence à la "terre" ou au "sol", qui est ce de laquelle ou duquel la terre est faite.
   * **created**  - This word is used here in the sense of making something out of nothing.
-==== notes de traduction: ====
+  * créa - Ce terme est utilisé ici dans le sens de faire quelque chose à partir du néant.
 
-  * troisième jour - Le prochain de la série de jours ordonnée dans laquelle Dieu a préparées la terre pour la vie.
-  * Dieu a parlé - Dieu a créé la terre sèche en prononçant des commandes.
-  * terre - Ce mot est utilisé ici pour se référer à la saleté ou de la terre, qui est ce que la terre ferme est faite. Le mot “terre” en 01-01 se réfère au monde entier que les gens vivent.
-  * Créé - Ce mot est utilisé ici dans le sens de faire quelque chose de rien
-
-**[[:fr:obs:notes:frames:01-03|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-05|>>]]**
+==== **[[:fr:obs:notes:frames:01-03|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-05|>>]]**  ====
 
 ~~DISCUSSION~~
