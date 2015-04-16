@@ -16,10 +16,13 @@ Les Assyriens réunirent tous les leaders, les gens riches, et ceux qui avaient 
 
 ==== Translation Notes: ====
 
+  * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
+  * **remained**  - That is, "stayed" or, "were left behind" or, "were allowed to stay behind."
+==== notes de traduction: ====
 
-  * **skills** – This refers to practical skills such as woodworking, metalworking, and building.
-  * **remained** - That is, "stayed" or, "were left behind" or, "were allowed to stay behind."
+* Compétences - Il se agit de compétences pratiques telles que le travail du bois, la métallurgie et la construction.
 
+* Restés - ce est "resté" ou, "ont été laissés derrière" ou, "ont été autorisés à rester derrière."
 
 **[[:fr:obs:notes:frames:20-02|<<]] | [[:fr:obs:notes:20|Up]] | [[:fr:obs:notes:frames:20-04|>>]]**
 
