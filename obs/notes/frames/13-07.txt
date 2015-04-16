@@ -22,12 +22,19 @@ Dieu écrivit ces dix commandements sur deux tablettes de pierre et il les donna
 
 ==== Translation Notes: ====
 
+  * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:fr:obs:notes:frames:13-05|[13-05]]]** and **[[:fr:obs:notes:frames:13-06|[13-06]]]**.
+  * **stone tablets**  - These were flat pieces of stone.
+  * **God also gave**  - This can be translated as, "God also told them."
+  * **to follow**  - This can be translated as, "that they must obey" or, "that they must keep."
+==== notes de traduction: ====
 
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:fr:obs:notes:frames:13-05|[13-05]]]** and **[[:fr:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
+* Ces Dix Commandements - Il se agit des commandes Dieu donna à Moïse pour les Israélites d'obéir. Ils sont répertoriés dans des cadres [[: fr: obs: notes: cadres: 13-05 | [13-05]]] et [[: fr: obs: notes: cadres: 13-06 | [13-06]]] .
 
+* Tablettes de pierre - Ce sont des pièces plates de pierre.
+
+* Dieu a également donné - Cela peut être traduit comme: «Dieu leur a dit aussi."
+
+* À suivre - Cela peut être traduit comme "qu'ils doivent obéir», ou «qu'ils doivent garder."
 
 **[[:fr:obs:notes:frames:13-06|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:13-08|>>]]**
 
