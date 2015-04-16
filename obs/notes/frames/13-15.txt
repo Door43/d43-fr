@@ -20,8 +20,13 @@
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
   * **listened to**  - See how you translated this phrase in **[[:fr:obs:notes:frames:13-12|[13-12]]]**.
-
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+==== notes de traduction: ====
+
+* Moïse fit  -  Moïse a sculpté les tablettes de pierre avec des outils comme un marteau et un burin.
+
+* Écouté  -  Voyez comment vous avez traduit cette phrase dans [[: fr: obs: notes: cadres: 13-12 | [13-12]]].
+
 **[[:fr:obs:notes:frames:13-14|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:14-01|>>]]**
 
 ~~DISCUSSION~~
