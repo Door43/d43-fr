@@ -18,11 +18,19 @@ Quand Dieu créa le monde, tout était parfait. Il n'y avait pas de péché. Ada
 
 ===== Translation Notes: =====
 
-  * **God created the world** - That is, "God made the world out of nothing."
-  * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
-  * **There was no sin** - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
-  * **There was no sickness or death** - That is, "No one got sick and no one died" or, "They did not get sick or die."
+  * **God created the world**  - That is, "God made the world out of nothing."
+  * **perfect**  - That is, "exactly as it should be" to accomplish all that God intended for it.
+  * **There was no sin**  - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
+  * **There was no sickness or death**  - That is, "No one got sick and no one died" or, "They did not get sick or die."
+===== Note de traduction: =====
 
+* ** Dieu créa le monde ** - Ce est, "Dieu a fait le monde à partir de rien."
+
+* ** ** Parfait - Ce est, «exactement comme il se doit" d'accomplir tout cela  Dieu a prévu pour cela.
+
+* ** Il n'y avait pas de péché ** - Pour certaines langues, il ne est pas possible d'exprimer «péché» comme une chose, ce est plutôt une action. Dans ces cas, ce pourrait être traduit comme: «Personne n'a jamais péché» ou «Les gens ne ont pas péché» ou «Rien mal se était passé."
+
+* ** Il n'y avait pas de maladie ou de décès ** - Ce est, "Personne ne est tombé malade et personne ne est mort» ou «Ils ne ont pas malades ou meurent."
 
 **[[:fr:obs:notes:frames:47-14|<<]] | [[:fr:obs:notes:48|Up]] | [[:fr:obs:notes:frames:48-02|>>]]**
 
