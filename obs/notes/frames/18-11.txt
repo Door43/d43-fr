@@ -18,9 +18,10 @@ Dans le nouveau royaume d'Israël, tous les rois étaient méchants. Beaucoup de
 
 ==== Translation Notes: ====
 
+  * **Israelites**  - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
+==== notes de traduction: ====
 
-  * **Israelites** - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
-
+* Israël - Ici, "Israélites" se réfère uniquement aux personnes vivant dans le royaume du nord d'Israël, pas les personnes vivant dans le royaume de Juda au sud.
 
 **[[:fr:obs:notes:frames:18-10|<<]] | [[:fr:obs:notes:18|Up]] | [[:fr:obs:notes:frames:18-12|>>]]**
 
