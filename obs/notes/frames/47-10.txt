@@ -14,9 +14,14 @@ Le gardien se réveilla et quand il vit les portes de la prison grande ouvertes,
 
 ===== Translation Notes: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
+  * **The jailer**  - That is, "the official in charge of the jail."
+  * **We**  - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
 
+===== Note de traduction: =====
+
+* ** Le geôlier ** - Ce est, "le responsable de la prison."
+
+* ** Nous ** - Certaines langues ont une forme particulière du mot «nous» qui ne inclut pas la personne parlé. Ici, le «nous» ne comprend pas le geôlier, que Paul et le reste des prisonniers.
 
 **[[:fr:obs:notes:frames:47-09|<<]] | [[:fr:obs:notes:47|Up]] | [[:fr:obs:notes:frames:47-11|>>]]**
 
