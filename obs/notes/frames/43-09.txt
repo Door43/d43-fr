@@ -18,8 +18,12 @@
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
-  * **But know for certain that** - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
+  * **But know for certain that**  - This could also be translated as, "But you can know that it is true that" or, "But you can be sure that."
+===== Note de traduction: =====
 
+* (Peter continue de prêcher à la foule.)
+
+* ** Mais savez avec certitude que ** - Cela pourrait aussi être traduit par: «Mais vous pouvez savoir que ce est vrai que» ou «Mais vous pouvez être sûr que."
 
 **[[:fr:obs:notes:frames:43-08|<<]] | [[:fr:obs:notes:43|Up]] | [[:fr:obs:notes:frames:43-10|>>]]**
 
