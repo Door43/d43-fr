@@ -17,9 +17,13 @@
 
 ===== Translation Notes: =====
 
-  * **I am not worthy to baptize you** - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
-  * **it is the right thing to do** - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
+  * **I am not worthy to baptize you**  - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
+  * **it is the right thing to do**  - This might also be translated as, "it is the proper thing to do" or, "this is what God wants me to do."
+===== Note de traduction: =====
 
+* Je ne suis pas digne de te baptiser - Cela pourrait être traduit comme, "Je ne suis pas assez bon pour vous baptisera" ou, "Je suis pécheur, je ne devrais pas vous baptisera."
+
+* Ce est la bonne chose à faire - Ce pourrait aussi être traduit comme, "ce est la bonne chose à faire», ou «ce est ce que Dieu veut que je fasse."
 
 **[[:fr:obs:notes:frames:24-06|<<]] | [[:fr:obs:notes:24|Up]] | [[:fr:obs:notes:frames:24-08|>>]]**
 
