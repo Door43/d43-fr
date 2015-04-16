@@ -14,11 +14,16 @@
 
 ==== Translation Notes: ====
 
-
   * (God continues speaking to Moses.)
-  * **Do not commit adultery** - This could be translated as, "Do not have sexual relations with someone else's spouse" or, "Do not have marital relations with another man's wife or another woman's husband." Be sure to translate this in a way that doesn't offend or embarrass people. Languages often have an indirect, polite way of saying this, such as, "Do not sleep with."
-  * **Do not lie** - This means, "Do not say false things about other people."
+  * **Do not commit adultery**  - This could be translated as, "Do not have sexual relations with someone else's spouse" or, "Do not have marital relations with another man's wife or another woman's husband." Be sure to translate this in a way that doesn't offend or embarrass people. Languages often have an indirect, polite way of saying this, such as, "Do not sleep with."
+  * **Do not lie**  - This means, "Do not say false things about other people."
+==== notes de traduction: ====
 
+* (Dieu continue de parler à Moïse.)
+
+* Tu ne commettras point d'adultère - Cela pourrait être traduit comme: «Ne pas avoir de relations sexuelles avec son conjoint de quelqu'un d'autre» ou «Ne pas avoir des relations conjugales avec la femme d'un autre homme ou le mari d'une autre femme." Assurez-vous de traduire ce d'une manière qui n'a pas offenser ou embarrasser les gens. Les langues ont souvent, une façon polie de dire cela indirecte, comme, "Ne pas dormir avec."
+
+* Ne mentez pas - Cela signifie, "Ne dites pas des choses fausses sur d'autres personnes."
 
 **[[:fr:obs:notes:frames:13-05|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:13-07|>>]]**
 
