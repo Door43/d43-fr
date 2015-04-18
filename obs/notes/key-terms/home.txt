@@ -4,4 +4,4 @@ This the list of important words and phrases. Click on the word to learn more.
 
 ====== List of all OBS English Important Words - do not edit these pages ======
 
-{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext; nbCol=3; sort=title:asc; display={title}; natsort; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext;  sort=title:asc; display={title}; natsort; showcount; nbCol=3; hidemsg; hidejump;}}
