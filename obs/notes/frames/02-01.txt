@@ -1,1 +1,28 @@
-__false__
+===== A Perfect World [02-01] =====
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
+
+**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Adam et sa femme étaient très heureux dans le joli jardin que Dieu avait créé pour eux. Aucun des deux ne portait d'habits et ils n'en avaient pas honte parce qu'il n'y avait pas de péché dans le monde. Ils se promenaient souvent dans le jardin et parlaient avec Dieu.</font>
+
+===== Important Terms: =====
+
+  * **[[:fr:obs:notes:key-terms:adam|Adam]]**
+  * **[[:fr:obs:notes:key-terms:god|God]]**
+  * **[[:fr:obs:notes:key-terms:sin|sin]]**
+==== Translation Notes: ====
+
+  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:fr:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
+  * **jardin **- Une<font 14px line-height: 19px;/inherit;;inherit;;inherit>collection</font> spéciale<font 14px line-height: 19px;/inherit;;inherit;;inherit>d'</font> arbres<font 14px line-height: 19px;/inherit;;inherit;;inherit>et de</font> plantes<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> que<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> Dieu<font 14px line-height: 19px;/inherit;;inherit;;inherit>a</font> préparée<font 14px line-height: 19px;/inherit;;inherit;;inherit>pour Adam et Eve</font> à<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> mise en place<font 14px line-height: 19px;/inherit;;inherit;;inherit>et</font> à<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> partir<font 14px line-height: 19px;/inherit;;inherit;;inherit>de</font> laquelle<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> à<font 14px line-height: 19px;/inherit;;inherit;;inherit>manger.</font> Cela<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> devrait<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> être<font 14px line-height: 19px;/inherit;;inherit;;inherit>le</font> même<font 14px line-height: 19px;/inherit;;inherit;;inherit>mot qui a</font> été<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> utilisé<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> dans<font 14px line-height: 19px;/inherit;;inherit;;inherit>01</font> à<font 14px line-height: 19px;/inherit;;inherit;;inherit>11.</font> Voyez<font 14px line-height: 19px;/inherit;;inherit;;inherit>comment</font> vous<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> avez<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> traduit<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> là<font 14px line-height: 19px;/inherit;;inherit;;inherit>.</font>
+  * **shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way. Before sin came into the world, there was no sense of shame about being naked.
+  * **talked with God**  - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
+==== notes de traduction: ====
+
+  * Jardin - Une collection spéciale des arbres et des plantes que Dieu a préparé pour Adam et Eve à profiter et à partir de laquelle à manger. Cela devrait être le même mot qui a été utilisé dans 01 à 11. Voyez comment vous avez traduit là.
+  * Honte - Le sentiment qui vient de savoir que nous avons péché ou que nous tombons à court d'une certaine façon. Avant le péché est entré dans le monde, il n'y avait aucun sentiment de honte d'être nu
+  * Parlé avec Dieu - Le mot pour “parler” devrait être la même que serait utilisé pour désigner de parler à un être humain. Dieu a peut-être pris une forme physique pour parler à l'homme et la femme, puisque le texte indique qu'ils lui ont parlé en face-à-face.
+
+**[[:fr:obs:notes:frames:01-16|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-02|>>]]**
+
+~~DISCUSSION~~
