@@ -4,29 +4,30 @@
 
 A covenant is a formal, binding agreement between two parties that they must fulfill.
 
-<font inherit/inherit;;rgb(0, 0, 255);;inherit>Une alliance est un accord formel entre deux partis qu'ils doivent respecter.</font>
+<font inherit/inherit;;rgb(0, 0, 255);;inherit>Une alliance est un accord formel qui lie deux parties et qu'ils doivent le respecter.</font>
 
   * This agreement can be between individuals, between groups of people, or between God and people
-  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Cet agrement peut etre contracte entre des individus, entre un goupe de peuple ou entre Dieu et les gens.</font>
+  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Cette convention peut être contractée entre des individus, entre un goupe de personne ou entre Dieu et son peuple.</font>
 
   * When people make a covenant with each other, they say that they will do something, and they must do it.
-  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Quand les gens contract une alliance entre eux et d'autres personnes, ils promettent de faire quelquechose et ils doivent le fair.</font>
+  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Quand les gens contract une alliance entre eux , qui les oblige à faire quelque chose de faire et ils doivent obigatoirement le faire.</font>
 
   * Examples of covenants include marriage covenants, business agreements, and treaties between countries.
-  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Les exemples d'alliances inclus l'alliance de mariage, l'alliance des affairs, et les traites entre les pays.</font>
+  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Les exemples d'alliances inclus l'alliance de mariage, l'alliance des affaires, et les traités qui lient les pays.</font>
 
   * On several occasions, God made a covenant with his people.
 
-Dans plusieurs occasions, Dieu a fait l'alliances avec son peuple
+Dans plusieurs occasions, Dieu a fait  une alliance avec son peuple.
 
 </font>
 
   * In some of the covenants, God promised to fulfill his part without conditions.
 
-<font inherit/inherit;;rgb(0, 0, 255);;inherit>Dans certaines alliances, Dieu a promis d'accomplis sa part sans conditions.</font>
+<font inherit/inherit;;rgb(0, 0, 255);;inherit>Dans certaines alliances, Dieu a promis d'accomplir sa part sans conditions</font>
 
   * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
-  * <font inherit/inherit;;rgb(0, 0, 255);;inherit>Dans d'autre alliances, Dieu a promit d'acomplis sa part si le people lui obei et respect leur part de l'alliance.</font>
+
+<font inherit/inherit;;rgb(0, 0, 255);;inherit>Dans d'autre alliances, Dieu a promit d'acomplis sa part si le people lui obei et respecte leur part de l'alliance.</font>
 
 [See also: **[[:fr:obs:notes:key-terms:promise|promise]]**, **[[:fr:obs:notes:key-terms:covenant-new|New Covenant]]**]
 
