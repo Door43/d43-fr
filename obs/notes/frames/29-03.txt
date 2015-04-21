@@ -16,9 +16,15 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
+  * **pay the debt**  - That is, "pay back the money he owed to the king."
+  * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
+===== Note de traduction: =====
 
+* (Jésus continue l'histoire.)
+
+* Payer la dette - Ce est, "rembourser l'argent qu'il devait au roi."
+
+* Pour effectuer votre paiement sur sa dette - ce qui pourrait être traduit comme, "et d'utiliser l'argent reçu de les vendre pour payer une partie de ce qu'il me doit."
 
 **[[:fr:obs:notes:frames:29-02|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-04|>>]]**
 
