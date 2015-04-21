@@ -15,8 +15,12 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
+  * **walk down**  - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
+===== Note de traduction: =====
 
+* (Jésus continue à raconter l'histoire.)
+
+* Descendre - ce est "le long voyage." Ces personnes se déplaçaient d'une ville à l'autre. Assurez-vous que cela ne sonne pas comme ils prenaient juste une promenade.
 
 **[[:fr:obs:notes:frames:27-07|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-09|>>]]**
 
