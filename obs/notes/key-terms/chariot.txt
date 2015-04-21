@@ -1,15 +1,15 @@
-====== chariot  char F ======
+====== chariot char F ======
 
-===== Definition: =====
+===== Definition: Définition =====
 
 In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
 
-Dans l'ancien temps les chariots sont des chars légers avec deux roues tirés par des chevaux.
+Dans l'ancien temps, les chariots étaient des chars légers avec deux roues tirés par des chevaux.
 
   * People would sit or stand in chariots, using them for war or travel.
-  * Les chariots étaient utilisés par des gens qui se tiennent debout à l'intérieur pour faire la guerre ou pour voyager.
+  * Les gens assis ou debout dans les chars les utilisaient pour faire la guerre ou pour voyager.
   * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
-  * Pendant la guerre l'armée qui dispose de chariots a un grand avantage de vitesse et de mobilité sur l'autre armée qui n'en dispose pas de chariots.
+  * En temps de guerre, l'armée qui disposait de chars avait un grand avantage de vitesse et de mobilité sur celle qui n'en disposait pas.
 
 ===== Examples from the Bible stories: =====
 
