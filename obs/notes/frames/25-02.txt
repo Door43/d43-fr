@@ -17,9 +17,13 @@
 
 ===== Translation Notes: =====
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
+  * **turn these rocks into bread**  - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
+  * **bread**  - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
+===== Note de traduction: =====
 
+* Transformer ces rochers en pain - Cela peut aussi être traduit par "font de ces rochers deviennent des pains» ou «surnaturellement changer ces rochers en pain."
+
+* Pain - Cela pourrait être traduit comme «nourriture» pour les langues où le pain ne est pas un aliment commun. Dans la culture des Juifs, le pain est la nourriture principale.
 
 **[[:fr:obs:notes:frames:25-01|<<]] | [[:fr:obs:notes:25|Up]] | [[:fr:obs:notes:frames:25-03|>>]]**
 
