@@ -14,9 +14,13 @@ Quand les gens qui s'occupaient du troupeau virent ce qui s'était passé, ils c
 
 ===== Translation Notes: =====
 
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+  * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
+  * **who used to have the demons**  - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+===== Note de traduction: =====
 
+* Ce qui est arrivé - Ce est, «comment Jésus a envoyé les démons de l'homme et dans les porcs."
+
+* Qui l'habitude d'avoir les démons - Ce est, «dans lequel les démons avaient vécu" ou, "qui avait été contrôlé par les mauvais esprits."
 
 **[[:fr:obs:notes:frames:32-08|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-10|>>]]**
 
