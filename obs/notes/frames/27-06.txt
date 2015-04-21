@@ -16,10 +16,18 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **happened to walk down** - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
-  * **ignored the man** - That is, "did not help the man" or, "showed no concern for the man."
-  * **kept on going** - That is, "continued traveling down the road."
+  * **happened to walk down**  - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
+  * **ignored the man**  - That is, "did not help the man" or, "showed no concern for the man."
+  * **kept on going**  - That is, "continued traveling down the road."
+===== Note de traduction: =====
 
+* (Jésus continue à raconter l'histoire.)
+
+* Arrivé à descendre - ce est "arrivé à voyager le long." Pour certaines langues, il peut être nécessaire d'utiliser un mot comme "Voyage" plutôt que de "marcher" puisque le prêtre ne était pas seulement de marcher sur la route, mais se déplaçait pour se rendre à une autre ville.
+
+* Ignoré l'homme - qui est, "n'a pas aidé l'homme» ou «ne ont montré aucune préoccupation pour l'homme."
+
+* Gardé en cours - ce est ", a poursuivi voyage sur la route."
 
 **[[:fr:obs:notes:frames:27-05|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-07|>>]]**
 
