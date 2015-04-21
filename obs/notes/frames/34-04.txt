@@ -15,11 +15,21 @@
 ===== Translation Notes: =====
 
   * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
+  * **treasure**  - That is, "something that is very valuable."
+  * **buried it again**  - It is also possible to add, "so that no one else would find it."
+  * **filled with joy**  - Another way to say this is, "very happy" or, "excited."
+  * **buy that field**  - Some people may want to add, "so that the treasure would be his."
+===== Note de traduction: =====
 
+* (Jésus a dit à une autre histoire.)
+
+* Trésor - Ce est, "quelque chose qui est très précieux."
+
+* Enterré à nouveau - Il est également possible d'ajouter, "de sorte que personne d'autre ne le trouver."
+
+* Rempli de joie - Une autre façon de dire que ce est, «très heureux» ou «excité."
+
+* Acheter ce domaine - Certaines personnes peuvent vouloir ajouter, "de sorte que le trésor serait la sienne."
 
 **[[:fr:obs:notes:frames:34-03|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-05|>>]]**
 
