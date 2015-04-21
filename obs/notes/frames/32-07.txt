@@ -15,11 +15,19 @@ Les démons suppliaient Jésus, “Ne nous envoie pas hors de ce pays!” Il y a
 
 ===== Translation Notes: =====
 
-  * **do not send us** - That is, "do not make us go."
-  * **Please send us** - That is, "Please let us go."
-  * **instead** - That is, "instead of making us go away."
-  * **Go!** - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
+  * **do not send us**  - That is, "do not make us go."
+  * **Please send us**  - That is, "Please let us go."
+  * **instead**  - That is, "instead of making us go away."
+  * **Go!**  - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
+===== Note de traduction: =====
 
+* Ne pas envoyer de nous - Ce est, "ne faisons pas nous-en."
+
+* Se il vous plaît envoyez-nous - qui est, "Se il vous plaît laissez-nous aller."
+
+* Au lieu - Ce est, "au lieu de nous faire disparaître."
+
+* Go!  - Cela pourrait être traduit comme: «Allez dans les porcs!" ou "Vous pouvez aller dans les pourceaux!"
 
 **[[:fr:obs:notes:frames:32-06|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-08|>>]]**
 
