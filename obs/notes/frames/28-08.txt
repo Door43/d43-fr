@@ -15,9 +15,13 @@
 
 ===== Translation Notes: =====
 
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
+  * **With people this is impossible**  - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
+  * **with God, all things are possible**  - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
+===== Note de traduction: =====
 
+* Avec des gens, cela est impossible - Ce est, "Il ne est pas possible pour les gens de faire cela» ou «simples humains ne peuvent pas se sauver."
+
+* Avec Dieu, tout est possible - Cela pourrait aussi être traduit par «Dieu est capable de faire quoi que ce soit, même sauver une personne riche» ou «Dieu est capable de faire des choses impossibles, afin qu'il puisse sauver même une personne riche. "
 
 **[[:fr:obs:notes:frames:28-07|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-09|>>]]**
 
