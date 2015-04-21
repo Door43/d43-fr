@@ -14,9 +14,13 @@
 
 ===== Translation Notes: =====
 
-  * **left everything** - That is, "left everything behind" or, "given up everything we owned."
-  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
+  * **left everything**  - That is, "left everything behind" or, "given up everything we owned."
+  * **What will be our reward?**  - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
+===== Note de traduction: =====
 
+* Tout quitté - qui est, ou, "tout derrière la gauche" "donné tout ce que nous possédions."
+
+* Quel sera notre récompense?  - Une autre façon de dire que ce est, "Quelle récompense recevrons-nous» ou «Comment serons-nous récompensés?" ou "Qu'est-ce que Dieu nous donne comme une récompense?" Il peut également être nécessaire d'ajouter, "parce que  nous avons fait cela? "
 
 **[[:fr:obs:notes:frames:28-08|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-10|>>]]**
 
