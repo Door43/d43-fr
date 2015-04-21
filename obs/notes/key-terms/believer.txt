@@ -1,30 +1,26 @@
-====== believer: Croyant ======
+====== believer: Croyant   F ======
 
 ===== Definition: =====
 
 A "believer" is a person who trusts completely in a person or an idea.
 
-Un croyant est une personne qui croit fermement en une personne ou en une idee
+Un croyant est une personne qui croit fermement en une personne ou en une idée
 
   * In the Bible, "believer" specifically refers to someone who believes in Jesus.
-  * Dans  la Bible : le  mot croyant  se refere specialement en quelqu"un qui croit en Jesus
-  *
+  * Dans la Bible, le mot croyant se réfère specialement à quelqu"un qui croit en Jésus
   * The term "Christian" eventually came to be the main title for believers because it indicates that they believe in Christ.
-  * Le terme : Chretien est venu eventuellement du principal titre pour  les croyants qui indiquent qu"ils croient en Jesu
-  *
+  * Le terme Chrétien est devenu éventuellement la principale appellation pour les croyants parce qu'elle indique qu"ils croient en Jesu
   * Other common ways to translate "believer" are, "follower of Jesus" or, "disciple."
-  *
-  * Les autres manieres  de  traduire  croyant sont: ceux qui suivent Jesus ou : disciples:
-  *
+  * Les autres maniéres courantes de traduire "croyant" sont, "ceux qui suivent Jésus" ou "les disciples":
 
 [See also: **[[:fr:obs:notes:key-terms:believe|believe]]**, **[[:fr:obs:notes:key-terms:christian|Christian]]**, **[[:fr:obs:notes:key-terms:disciple|disciple]]**]
 
-voir aussi: croire,christien, disciple
+[Voir aussi: croire, chrétien, disciple]
 
 ===== Examples from the Bible stories: Exemples des histoires de la Bible =====
 
   * **[[:fr:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
-  * 43-01: Apres  que Jesus fut retourne au ciel,les disciples etaient restes a Jesrusalem comme Jesus leur avait recommande.les croyants instantanement se reunissaient et prier
+  * 43-01: Apres que Jesus fut retourne au ciel,les disciples etaient restes a Jesrusalem comme Jesus leur avait recommande.les croyants instantanement se reunissaient et prier
   *
   * **[[:fr:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
   * 43-03: Pendant que les croyants se reunissaient,soudainement, la maison ou ils se retrouvaient etait remplie de bruits comme un vent fort. Alors quelque chose qui ressemble de la flamme apparaissait au dessus de la tete de tous les croyants
@@ -33,13 +29,13 @@ voir aussi: croire,christien, disciple
   * Chaque jour le nombre des croyants augmentait.
   *
   * **[[:fr:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * A ce jour, beaucoup des gens a Jerusalem commencaient a persecuter les disciples de Jesus, ainsi, les croyants fuyaient en d'autres  endroits. Mais, en depit de tout,  ils prechaient  la Bonne Nouvelle de Jesus partout ou  ils allaient
+  * A ce jour, beaucoup des gens a Jerusalem commencaient a persecuter les disciples de Jesus, ainsi, les croyants fuyaient en d'autres endroits. Mais, en depit de tout, ils prechaient la Bonne Nouvelle de Jesus partout ou ils allaient
   *
   * **[[:fr:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
   * Saul etait un jeune homme qui gardait les habitsdes hommes qui ont tue Etienne. He ne croyait pas en Jesus, ainsi il percecutait les croyants
   *
   * **[[:fr:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * Quelques croyants qui ont fui la percecution en Jerusalem s'en allaient a la ville d'Antioche  et enseignaient au sujet de Jesus. C'etait en Antioche que les croyants en Jesus sont appeles pour la premiere fois  des : Chretiens
+  * Quelques croyants qui ont fui la percecution en Jerusalem s'en allaient a la ville d'Antioche et enseignaient au sujet de Jesus. C'etait en Antioche que les croyants en Jesus sont appeles pour la premiere fois des : Chretiens
   *
   * **[[:fr:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
   * Ile ecrivaient aussi beaucoup de lettres d'encouragement et enseignaient les croyants dans les Eglises
