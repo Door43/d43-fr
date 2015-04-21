@@ -13,8 +13,10 @@ Les démons sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux
 
 ===== Translation Notes: =====
 
-  * **herd** - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
+  * **herd**  - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
+===== Note de traduction: =====
 
+* Troupeau - Ce est, "troupeau de porcs», ou «groupe de porcs." Beaucoup de langues ont des noms spécifiques pour les groupes d'animaux, tels que «troupeau de moutons», «troupeau», «meute de chiens» et «banc de poissons." Utilisez un mot qui peut être utilisé de manière appropriée pour un grand groupe de porcs.
 
 **[[:fr:obs:notes:frames:32-07|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-09|>>]]**
 
