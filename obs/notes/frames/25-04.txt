@@ -16,10 +16,16 @@
 
 ===== Translation Notes: =====
 
-  * **throw yourself down** - That is, "jump off this building to the ground."
-  * **it is written** - That is, "a prophet of God wrote long ago."
-  * **so your foot does not hit a stone** - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
+  * **throw yourself down**  - That is, "jump off this building to the ground."
+  * **it is written**  - That is, "a prophet of God wrote long ago."
+  * **so your foot does not hit a stone**  - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
+===== Note de traduction: =====
 
+* Jette-toi - Ce est, "sauter ce bâtiment sur le sol."
+
+* Il est écrit - Ce est, "un prophète de Dieu a écrit il ya longtemps."
+
+* Si votre pied ne touche pas une pierre - Cela signifie, "de sorte que vous ne serez pas mal du tout, pas même votre pied sera blessé sur une pierre." Il pourrait également être traduit comme, "de sorte que même votre pied ne heurte pas contre une pierre, vous ne serez pas blessé du tout."
 
 **[[:fr:obs:notes:frames:25-03|<<]] | [[:fr:obs:notes:25|Up]] | [[:fr:obs:notes:frames:25-05|>>]]**
 
