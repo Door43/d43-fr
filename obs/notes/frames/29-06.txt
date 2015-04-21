@@ -14,10 +14,18 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **fellow servant** - Translate this phrase in the same way as in **[[:fr:obs:notes:frames:29-05|[29-05]]]**.
-  * **fell on his knees** - This phrase has the same meaning as in **[[:fr:obs:notes:frames:29-04|[29-04]]]**.
-  * **threw his fellow servant into prison** - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
+  * **fellow servant**  - Translate this phrase in the same way as in **[[:fr:obs:notes:frames:29-05|[29-05]]]**.
+  * **fell on his knees**  - This phrase has the same meaning as in **[[:fr:obs:notes:frames:29-04|[29-04]]]**.
+  * **threw his fellow servant into prison**  - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
+===== Note de traduction: =====
 
+* (Jésus continue l'histoire.)
+
+* Compagnon de service - Traduire cette phrase de la même manière que dans [[: Fr: obs: notes: cadres: 29-05 | [29-05]]].
+
+* Tomba à genoux - Cette phrase a la même signification que dans [[: Fr: obs: notes: cadres: 29-04 | [29-04]]].
+
+* Jeta son compagnon de service en prison - Cela pourrait aussi être traduit comme "l'homme avait mis en prison." Le mot "jeté" est figuratif et signifie qu'il a été fait d'une manière énergique.
 
 **[[:fr:obs:notes:frames:29-05|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-07|>>]]**
 
