@@ -1,4 +1,4 @@
-====== bless: bénir ======
+====== bless: bénir   F ======
 
 ==== (bless, blessed, blessing) ====
 
@@ -19,7 +19,7 @@ Bénir quelqu'un ou quelque chose signifie exprimer un désir pour que des chose
 
 The opposite of "bless" is "curse."
 
-<font inherit/inherit;;inherit;;inherit>Le</font> contraire<font inherit/inherit;;inherit;;inherit>de "</font> bénir"<font inherit/inherit;;inherit;;inherit></font> est<font inherit/inherit;;inherit;;inherit>"</font> maudire"
+<font inherit/inherit;;inherit;;inherit>Le</font>    contraire<font inherit/inherit;;inherit;;inherit>de</font>    <font inherit/inherit;;inherit;;inherit>"</font>    bénir" est<font inherit/inherit;;inherit;;inherit>"</font>    maudire"
 
 [See also: **[[:fr:obs:notes:key-terms:curse|curse]]**]
 
