@@ -4,7 +4,7 @@
 
 Demons are spirit beings that oppose God's will.
 
-<font 14px line-height: 19px;/inherit;;inherit;;inherit>Les</font> démons<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> sont<font 14px line-height: 19px;/inherit;;inherit;;inherit>des</font> êtres<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> spirituels<font 14px line-height: 19px;/inherit;;inherit;;inherit>qui</font> s'opposent<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> à<font 14px line-height: 19px;/inherit;;inherit;;inherit>la</font> volonté<font 14px line-height: 19px;/inherit;;inherit;;inherit>de</font> Dieu<font 14px line-height: 19px;/inherit;;inherit;;inherit>.</font>
+<font 14px line-height: 19px/inherit;;inherit;;inherit>Les</font>    démons sont<font 14px line-height: 19px/inherit;;inherit;;inherit>des</font>    êtres spirituels<font 14px line-height: 19px/inherit;;inherit;;inherit>qui</font>    s'opposent à<font 14px line-height: 19px/inherit;;inherit;;inherit>la</font>    volonté<font 14px line-height: 19px/inherit;;inherit;;inherit>de</font>    Dieu<font 14px line-height: 19px/inherit;;inherit;;inherit>.</font>
 
   * God created spirit beings to serve him. Some rebelled against him and are called "demons." Those who continue to serve him are called "angels."
   * Dieu a créé les êtres spirituels pour le servir mais certains se sont révoltés contre lui et on les appelle les "démons." Ceux qui continuent à le servir s'appellent les "anges."
