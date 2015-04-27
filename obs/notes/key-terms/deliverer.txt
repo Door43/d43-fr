@@ -1,8 +1,6 @@
 ====== deliverer libérateur F ======
 
-====== <font 14.166666030883789px font-weight: normal line-height: 1.4/inherit;;inherit;;inherit>Definition:</font>    Définition<font 14.166666030883789px font-weight: normal line-height: 1.4/inherit;;inherit;;inherit>:</font>     ======
-
-=====   =====
+====== <font 14px line-height: 1.2;/inherit;;inherit font-size: 14px; line-height: 1.2;;;inherit>Definition:</font>   <font 14px line-height: 1.2;/inherit;;inherit font-size: 14px; line-height: 1.2;;;inherit></font> Définition ======
 
 A deliverer is someone who rescues people or sets people free.
 
@@ -13,7 +11,7 @@ A deliverer is someone who rescues people or sets people free.
   * The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in battle against their enemies.
   * Les libérateurs en Israël étaient des dirigeants qui ont délivré le peuple d'Israël de leurs ennemis en prenant les commandes des batailles contre leurs ennemis.
   * In many cases, the deliverer functioned as a military leader.
-  * Dans la plupart des cas, le libérateur a joué  le rôle de dirigeant militaire.
+  * Dans la plupart des cas, le libérateur a joué le rôle de dirigeant militaire.
 
 **===== Examples from the Bible stories: =====**
 
