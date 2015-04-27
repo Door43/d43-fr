@@ -1,6 +1,6 @@
 ===== David David F ======
 
-<font 20px/inherit;;inherit;;inherit font-family: inherit; line-height: 1.4; background-color: inherit;>Facts: les</font> faits
+Facts: les faits
 
 <font 14px background-color: inherit/inherit;;inherit;;inherit>David was the second king of Israel and he served God faithfully.</font>
 
