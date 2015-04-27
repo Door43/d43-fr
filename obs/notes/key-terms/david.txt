@@ -2,9 +2,9 @@
 
 ===== David David =====
 
-===== Facts: <font 13.888888359069824px line-height: 1.2/inherit;;inherit;;inherit>les</font>    Faits<font 13.888888359069824px line-height: 1.2/inherit;;inherit;;inherit>:</font>     =====
+<font 14px background-color: inherit/inherit;;inherit;;inherit>Facts</font>
 
-David was the second king of Israel and he served God faithfully.
+<font 14px background-color: inherit/inherit;;inherit;;inherit>David was the second king of Israel and he served God faithfully.</font>
 
 <font 14px line-height: 19px/inherit;;inherit;;inherit>David a</font>    été<font 14px line-height: 19px/inherit;;inherit;;inherit>le</font>    deuxième roi d'Israël<font 14px line-height: 19px/inherit;;inherit;;inherit>et</font>    il<font 14px line-height: 19px/inherit;;inherit;;inherit>a</font>    servi Dieu fidèlement<font 14px line-height: 19px/inherit;;inherit;;inherit>.</font>
 
@@ -19,7 +19,7 @@ David was the second king of Israel and he served God faithfully.
   * David's son, King Solomon, built the temple for God that David had planned.
   * <font 14px line-height: 19px/inherit;;inherit;;inherit>Le</font>    fils<font 14px line-height: 19px/inherit;;inherit;;inherit>de</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>David, le</font>    roi<font 14px line-height: 19px/inherit;;inherit;;inherit>Salomon</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>, a</font>    bâti<font 14px line-height: 19px/inherit;;inherit;;inherit>le</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>temple de</font>    Dieu, dont la construction avait été planifié<font 14px line-height: 19px/inherit;;inherit;;inherit>par</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>David.</font>
   * Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
-  * <font 14px line-height: 19px/inherit;;inherit;;inherit>Jésus</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>, le</font>    Messie<font 14px line-height: 19px/inherit;;inherit;;inherit>,</font>    est<font 14px line-height: 19px/inherit;;inherit;;inherit>un descendants de David et</font>    il s'appelle donc <font 14px line-height: 19px/inherit;;inherit;;inherit>"</font>    fils<font 14px line-height: 19px/inherit;;inherit;;inherit>de David."</font>
+  * <font 14px line-height: 19px/inherit;;inherit;;inherit>Jésus</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>, le</font>    Messie<font 14px line-height: 19px/inherit;;inherit;;inherit>,</font>    est<font 14px line-height: 19px/inherit;;inherit;;inherit>un</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>descendants de David et</font>    il s'appelle donc <font 14px line-height: 19px/inherit;;inherit;;inherit>"</font>    fils<font 14px line-height: 19px/inherit;;inherit;;inherit>de</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>David."</font>
 
 [See also: **[[:fr:obs:notes:key-terms:saul|Saul]]**, **[[:fr:obs:notes:key-terms:solomon|Solomon]]**, **[[:fr:obs:notes:key-terms:messiah|Messiah]]**]
 
