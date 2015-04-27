@@ -1,21 +1,22 @@
-====== Jeremiah ======
+====== Jeremiah  Jérémie ======
 
-
-===== Facts: =====
+===== Facts:  Les faits =====
 
 Jeremiah was a prophet of God in the kingdom of Judah.
 
+Jérémie était un prophète de Dieu dans le royaume de Juda.
+
   * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
+  * Comme la plupart des prophètes, Jérémie devait souvent avertir les gens que Dieu allait les punir de leurs péchés.
   * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
+  * Jérémie a prophétisé que les Babyloniens allait capturer Jérusalem, ce qui a mis en colère certains des habitants du royaume de Juda. Donc il l'ont mis dans un puit sec et l'ont laissé là pour qu'il meure. Mais le roi de Juda a donné l'ordre à ses serviteurs de le sortir du puits.
 
+[See also: **[[:fr:obs:notes:key-terms:prophet|prophet]]**, **[[:fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:fr:obs:notes:key-terms:babylon|Babylon]]**]
 
-[See also: **[[fr:obs:notes:key-terms:prophet|prophet]]**, **[[fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[fr:obs:notes:key-terms:babylon|Babylon]]**]
+[Voir aussi; prophete, royaume de Juda, Babylone]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:fr:obs:notes:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah** was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull **Jeremiah** out of the well before he died.
-  ***[[:fr:obs:notes:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like the covenant God made with Israel at Sinai. 
-
-
+  * **[[:fr:obs:notes:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah**  was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull **Jeremiah**  out of the well before he died.
+  * **[[:fr:obs:notes:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like the covenant God made with Israel at Sinai.
 ~~DISCUSSION:off~~
