@@ -1,6 +1,6 @@
 ====== dream rêve F ======
 
-==== <font 16px/inherit;;inherit;;inherit>to dream dream</font>    rêver ====
+<font 16px/inherit;;inherit;;inherit>to dream dream</font>    rêver 
 
 ===== Definition: Définition =====
 
