@@ -1,4 +1,4 @@
-====== cross croix ======
+====== cross croix  F ======
 
 ===== Definition: Définition: =====
 
@@ -7,9 +7,9 @@ A cross is an upright wooden post stuck into the ground, with a horizontal woode
 La croix est un poteau en bois planté dans le sol avec une barre horizontale en bois fixée vers le sommet.
 
   * The Roman government would tie or nail criminals onto crosses and leave them there to die.
-  * le gouvernement Romain cloue les criminels par les mains et les pieds sur les croix et les y abandonne pour mourir.
+  * Le gouvernement Romain clouait les criminels par les mains et les pieds sur les croix et les y abandonnait pour mourir.
   * Jesus was falsely accused and judged to be guilty of crimes he did not commit. The Romans killed him on a cross.
-  * Jésus a été faussement accusé jugé et condamné pour des crimes qu'il n'a pas commis. Les Romains l'ont cloué sur une croix.
+  * Jésus a été faussement accusé, jugé et condamné pour des crimes qu'il n'avait pas commis. Les Romains l'ont cloué sur une croix.
 
 [See also: **[[:fr:obs:notes:key-terms:crucify|crucify]]**, **[[:fr:obs:notes:key-terms:rome|Rome]]**]
 
