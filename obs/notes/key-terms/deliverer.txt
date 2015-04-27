@@ -1,24 +1,18 @@
-====== deliverer libérateur F ======
+======   ======
 
-====== <font 14px line-height: 1.2;/inherit;;inherit font-size: 14px; line-height: 1.2;;;inherit>Definition:</font>   <font 14px line-height: 1.2;/inherit;;inherit font-size: 14px; line-height: 1.2;;;inherit></font> Définition ======
+  * <font inherit/inherit;;inherit;;inherit>The word "deliverer" can also be translated as, "rescuer."</font>
+  * <font inherit/inherit;;inherit;;inherit>Le mot "libérateur" peut se traduire aussi "sauveur."</font>
+  * <font inherit/inherit;;inherit;;inherit>The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in battle against their enemies.</font>
+  * <font inherit/inherit;;inherit;;inherit>Les libérateurs en Israël étaient des dirigeants qui ont délivré le peuple d'Israël de leurs ennemis en prenant les commandes des batailles contre leurs ennemis.</font>
+  * <font inherit/inherit;;inherit;;inherit>In many cases, the deliverer functioned as a military leader.</font>
+  * <font inherit/inherit;;inherit;;inherit>Dans la plupart des cas, le libérateur a joué le rôle de dirigeant militaire.</font>
 
-A deliverer is someone who rescues people or sets people free.
+<font inherit/inherit;;inherit;;inherit>** ===== Examples from the Bible stories: ===== **</font>
 
-<font 14px line-height: 19px/inherit;;inherit;;inherit>Un</font>    libérateur est une personne<font 14px line-height: 19px/inherit;;inherit;;inherit>qui</font>    sauve<font 14px line-height: 19px/inherit;;inherit;;inherit>les</font>    autres ou<font 14px line-height: 19px/inherit;;inherit;;inherit>qui</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>les</font>    libère<font 14px line-height: 19px/inherit;;inherit;;inherit>.</font>
+<font inherit/inherit;;inherit;;inherit>[16-03]]] **  Then God provided a  **  deliverer **  who rescued them from their enemies and brought peace to the land.  **</font>
 
-  * The word "deliverer" can also be translated as, "rescuer."
-  * Le mot "libérateur" peut se traduire aussi "sauveur."
-  * The deliverers in Israel were leaders who rescued the Israelite people from their enemies by leading them in battle against their enemies.
-  * Les libérateurs en Israël étaient des dirigeants qui ont délivré le peuple d'Israël de leurs ennemis en prenant les commandes des batailles contre leurs ennemis.
-  * In many cases, the deliverer functioned as a military leader.
-  * Dans la plupart des cas, le libérateur a joué le rôle de dirigeant militaire.
+<font inherit/inherit;;inherit;;inherit>[16-16]]] **  They (Israel) finally asked God for help again, and God sent them another  **  deliverer</font>    **. **
 
-**===== Examples from the Bible stories: =====**
+<font inherit/inherit;;inherit;;inherit>[16-17]]] **  Over many years, God sent many  **  deliverers** who saved the Israelites from their enemies.</font>
 
-[[:fr:obs:notes:frames:16-03|[16-03]]]** Then God provided a **  deliverer** who rescued them from their enemies and brought peace to the land. **
-
-[[:fr:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **  <font inherit/inherit;;inherit;;inherit>deliverer</font>    **. **
-
-[[:fr:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **  <font inherit/inherit;;inherit;;inherit>deliverers** who saved the Israelites from their enemies.</font>
-
-~~DISCUSSION:off~~
+<font inherit/inherit;;inherit;;inherit>~~DISCUSSION:off~~</font>
