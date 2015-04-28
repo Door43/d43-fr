@@ -1,6 +1,4 @@
-======   ======
-
-====== death mort ======
+====== <font 26px/inherit;;inherit;;inherit>death  mort</font>    ======
 
 <font inherit/inherit;;inherit;;inherit>(death, to die, to be dead)</font>
 
@@ -20,7 +18,7 @@ The term "death" is used in two different ways in the Bible. It sometimes refers
   * **Mourir, c'est arrêter de vivre. La mort est la fin de la vie physique.**
   * **L'esprit d'une personne quitte son corps au moment où il meurt.**
   * **La mort physique est la résultat du péché d'Adam et d'Eve.**
-=== <font inherit/inherit;;inherit;;inherit>2. Spiritual death La Mort</font> spirituelle ===
+=== <font inherit/inherit;;inherit;;inherit>2. Spiritual death La Mort</font>    spirituelle ===
 
   * Spiritual death is the separation of a person from God.
   * **La mort spirituelle est la séparation d'une personne de Dieu.**
