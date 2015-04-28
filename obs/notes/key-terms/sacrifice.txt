@@ -1,8 +1,8 @@
-====== sacrifice sacrifice    F ======
+====== sacrifice sacrifice  ======
 
 ==== (sacrifice, offering) ====
 
-<font 16px/inherit;;inherit;;inherit>** (sacrifice, offrande) **</font>
+<font 16px/inherit;;inherit;;inherit>** (sacrifice, offrande)  **</font>
 
 ===== Definition: =====
 
@@ -19,7 +19,7 @@ Une sacrifice, c'est une ofrande d'une chose valable à Dieu en forme d'adoratio
 
 Animal sacrifices could never truly make a person clean from his sin. Only the sacrifice of Jesus, God's perfect, sinless Son, can cleanse people from sin.
 
-Les sacrifices d'animaux ne pouvaient jamais purifier complètemente de son péché. Seulement la sacrifice de Jésus, le Fils parfait,  sans péché, peut purifier les gens de ses péchés.
+Les sacrifices d'animaux ne pouvaient jamais purifier complètemente de son péché. Seulement la sacrifice de Jésus, le Fils parfait, sans péché, peut purifier les gens de ses péchés.
 
 [See also: **[[:fr:obs:notes:key-terms:priest|priest]]**, **[[:fr:obs:notes:key-terms:altar|altar]]**]
 
