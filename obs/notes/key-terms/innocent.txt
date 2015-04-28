@@ -1,4 +1,4 @@
-====== innocent Innocent  F ======
+====== innocent Innocent F ======
 
 ===== Definition: Définition =====
 
@@ -7,7 +7,7 @@ To be innocent means to **not** be guilty of something.
 Etre innocent signife ne pas etre coupable de quelque chose.
 
   * In the case of a crime, a person is innocent of the crime if he has **not**  committed that crime.
-  * Dans le cas d'un crime, une personne est innocente si elle n'a pas commis ce crime.
+  * Dans le cas d'un crime, une personne est innocente si elle n'a **pas**  commis ce crime.
   * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
   * Jésus est le seul être humain qui était complètement innocent, parce qu'il n'a jamais rien fait de mal. Il était sans péché.
 
