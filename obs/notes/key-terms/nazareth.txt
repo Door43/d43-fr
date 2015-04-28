@@ -1,22 +1,25 @@
-====== Nazareth ======
+====== Nazareth Nazareth ======
 
-
-===== Facts: =====
+===== Facts: Faits: =====
 
 Nazareth is a town in the region of Galilee in northern Israel.
 
+Nazareth est une villedans la région de Galilée au nord d'Israel.
+
   * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
+  * Joseph et Marie étaient de Nazareth, et c'est là que Jésus a grandi.
   * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
+  * Beaucoup de gens de Nazareth n'ont pas respecté l'enseignement de Jésus, parce que Jésus a grandi parmi eux, et ils pensaient que il était une personne ordinaire.
   * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+  * Les gens de Nazareth ont ont tenté de tuer quand il s'est proclamé être le Messie.
 
-[See also: **[[fr:obs:notes:key-terms:Galilee|Galilee]]**, **[[fr:obs:notes:key-terms:joseph|Joseph]]**, **[[fr:obs:notes:key-terms:mary|Mary]]**, **[[fr:obs:notes:key-terms:messiah|Messiah]]**]
+[See also: **[[:fr:obs:notes:key-terms:galilee|Galilee]]**, **[[:fr:obs:notes:key-terms:joseph|Joseph]]**, **[[:fr:obs:notes:key-terms:mary|Mary]]**, **[[:fr:obs:notes:key-terms:messiah|Messiah]]**]
 
+[voir aussi:Galilée, Joseph,Marie,Messie]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in **Nazareth** to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  ***[[:fr:obs:notes:frames:26-02|[26-02]]]** Jesus went to the town of **Nazareth** where he had lived during his childhood.
-  ***[[:fr:obs:notes:frames:26-07|[26-07]]]** The people of **Nazareth** dragged Jesus out of the place of worship and brought him to the edge of a cliff to throw him off of it in order to kill him.
-
-
+  * **[[:fr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in **Nazareth**  to Bethlehem because their ancestor was David whose hometown was Bethlehem.
+  * **[[:fr:obs:notes:frames:26-02|[26-02]]]** Jesus went to the town of **Nazareth**  where he had lived during his childhood.
+  * **[[:fr:obs:notes:frames:26-07|[26-07]]]** The people of **Nazareth**  dragged Jesus out of the place of worship and brought him to the edge of a cliff to throw him off of it in order to kill him.
 ~~DISCUSSION:off~~
