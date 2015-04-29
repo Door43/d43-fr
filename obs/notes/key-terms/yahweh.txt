@@ -1,27 +1,29 @@
-====== Yahweh ======
+====== Yahweh  Yahvé ======
 
+==== (Yahweh, I AM) (Yahvé, JE SUIS) ====
 
-==== (Yahweh, I AM) ====
-
-
-===== Facts: =====
+===== Facts: Des faits =====
 
 This is God's name that he told to Moses at the burning bush. He said that this was his name forever.
-    * God's name means "he is" or "he who is."
-    * It stresses that he is eternal and self-existent--he did need anyone to create him or give him life.
-    * When God refers to himself, he also says "I am."
 
-[See also: **[[fr:obs:notes:key-terms:god|God]]**]
+C'est le nom de Dieu qu'il a donné à Moïse devant le buisson en feu. Il a dit que c'était son nom pour toujours.
 
+  * God's name means "he is" or "he who is."
+  * Le nom de Dieu signifie "il est" ou "celui qui est".
+  * It stresses that he is eternal and self-existent–he did not need anyone to create him or give him life.
+  * Il souligne qu'il est éternel et auto-existant - Il n'avait besoin de personne pour le créér ou lui donner la vie.
+  * When God refers to himself, he also says "I am."
+  * Quand Dieu se réfère à lui, il dit aussi "je suis".
+
+[See also: **[[:fr:obs:notes:key-terms:god|God]]**]
+
+[Voir aussi: Dieu]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:fr:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
-  ***[[:fr:obs:notes:frames:13-04|[13-04]]]**  Then God gave them the covenant and said, "I am **Yahweh**, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  ***[[:fr:obs:notes:frames:13-05|[13-05]]]** "Do not make idols or worship them, for I, **Yahweh**, am a jealous God."
-  ***[[:fr:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of **Yahweh**, the true God.
-  ***[[:fr:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O **Yahweh**, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."
-
-
+  * **[[:fr:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
+  * **[[:fr:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am **Yahweh**, your God, who saved you from slavery in Egypt. Do not worship other gods."
+  * **[[:fr:obs:notes:frames:13-05|[13-05]]]**"Do not make idols or worship them, for I, **Yahweh**, am a jealous God."
+  * **[[:fr:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of **Yahweh**, the true God.
+  * **[[:fr:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O **Yahweh**, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."
 ~~DISCUSSION:off~~
