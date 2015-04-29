@@ -1,8 +1,10 @@
-====== king ======
+====== king  roi ======
 
-===== Definition: =====
+===== Definition: Définition =====
 
 A king is the ruler of an independent city, state, or country.
+
+Un roi est le souverain d'une cité, d'un etat, ou d'un pays independant.
 
   * Sometimes someone becomes king because a group of people want him to be their king.
   * Usually when a king dies, his first son becomes king.
