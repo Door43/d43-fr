@@ -1,16 +1,21 @@
-====== king  roi ======
+====== king roi ======
 
 ===== Definition: Définition =====
 
 A king is the ruler of an independent city, state, or country.
 
-Un roi est le souverain d'une cité, d'un etat, ou d'un pays independant.
+Un roi est le souverain d'une cité, d'un état, ou d'un pays indépendant.
 
   * Sometimes someone becomes king because a group of people want him to be their king.
+  * Parfois une personne devient roi parce qu'un groupe de personnes veut qu'il devienne leur roi.
   * Usually when a king dies, his first son becomes king.
+  * Habituellement quand un roi meurt, son premier/fils ainé devient roi.
   * Sometimes someone will kill the king so that he can become king in his place.
+  * Parfois quelqu'un peut assassiner le roi pour devenir roi à sa place.
 
 [See also: **[[:fr:obs:notes:key-terms:kingdom|kingdom]]**]
+
+[Voir aussi: roi]
 
 ===== Examples from the Bible stories: =====
 
