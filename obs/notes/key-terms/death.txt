@@ -1,6 +1,6 @@
-====== death mort    ======
+====== death mort  F ======
 
-death, to die, to be dead)
+<font 18px/inherit;;inherit;;inherit>** (death, to die, to be dead) **</font>
 
 ==== (la mort, mourir, être mort) ====
 
@@ -8,28 +8,30 @@ death, to die, to be dead)
 
 The term "death" is used in two different ways in the Bible. It sometimes refers to when the physical body of a person ceases to live. It is also used for the spiritual separation of sinners from a holy God.
 
-**Le terme "mort" s'utilise de deux façons différentes dans la Bible. Parfois il fait référence au corps physique de quelqu'un qui cesse de vivre. D'ailleurs on l'utilise aussi pour décrire la séparation spirituel des pécheurs d'un Dieu saint.**
+Le terme "la mort" s'utilise de deux façons différentes dans la Bible. Parfois il fait référence au corps physique de quelqu'un qui cesse de vivre. On l'utilise aussi pour décrire la séparation spirituelle des pécheurs d'un Dieu saint.
+
 === 1. Physical death La Mort physique ===
 
   * To die is to stop living. Death is the end of physical life.
   * A person's spirit leaves his body when he dies.
   * Physical death is the result of the sin of Adam and Eve.
 
-  * **Mourir, c'est arrêter de vivre. La mort est la fin de la vie physique.**
-  * **L'esprit d'une personne quitte son corps au moment où il meurt.**
-  * **La mort physique est la résultat du péché d'Adam et d'Eve.**
+  * Mourir, c'est arrêter de vivre. La mort est la fin de la vie physique.
+  * L'esprit d'une personne quitte son corps au moment où il meurt.
+  * La mort physique est la résultat du péché d'Adam et d'Eve.
+
 === <font inherit/inherit;;inherit;;inherit>2. Spiritual death La Mort</font>    spirituelle ===
 
   * Spiritual death is the separation of a person from God.
-  * **La mort spirituelle est la séparation d'une personne de Dieu.**
+  * La mort spirituelle est la séparation d'une personne de Dieu.
   * Adam died spiritually when he disobeyed God. He became ashamed and tried to hide from God.
-  * **Adam est mort spirituellement lorsqu'il a desobéi à Dieu. Il a eu honte et a essayé de se cacher pour Dieu.**
+  * Adam est mort spirituellement lorsqu'il a désobéi à Dieu. Il a eu honte et a essayé de se cacher pour Dieu.
   * Every descendant of Adam is a sinner, and is spiritually dead. God makes us spiritually alive again when we have faith in Jesus Christ.
-  * **Chaque descendant d'Adam est pécheur et est mort spirituellement. Dieu nous a rendu spirituellement vivant à nouveau quand nous avons la foi en Jésus-Christ.**
+  * Chaque descendant d'Adam est un pécheur et est mort spirituellement. Dieu nous rend spirituellement vivant à nouveau quand nous avons la foi en Jésus-Christ.
   * "Death" is the opposite of "life". In the Bible, physical life and death are often compared to spiritual life and death.
-  * "La mort" est le contraire de "la vie." Dans la Bible, la vie et la mort <font inherit/inherit;;inherit;;inherit>physique</font>    sont comparées souvent à <font inherit/inherit;;inherit;;inherit>la</font>    <font inherit/inherit;;inherit;;inherit>vie</font>    <font inherit/inherit;;inherit;;inherit>et la</font>    mort <font inherit/inherit;;inherit;;inherit>spirituelle.</font>
+  * "La mort" est le contraire de "la vie." Dans la Bible, la vie et la mort <font inherit/inherit;;inherit;;inherit>physiques</font>    sont souvent comparées à <font inherit/inherit;;inherit;;inherit>la</font>    <font inherit/inherit;;inherit;;inherit>vie</font>    <font inherit/inherit;;inherit;;inherit>et la</font>    mort <font inherit/inherit;;inherit;;inherit>spirituelles.</font>
 
-**[Voir aussi: vie]**
+**[** See also**: ** life]
 
 [Voir aussi: **[[:fr:obs:notes:key-terms:life|vie]]**]
 
