@@ -1,24 +1,23 @@
 ====== god: dieu ======
 
-==== (god, gods) dieu dieux ====
+==== (god, gods) (dieu dieux) ====
 
-===== Definition: =====
+===== Definition: Définition =====
 
 A god is something that people worship because they believe it has great power to affect their lives
 
-**un dieu est quelque chose. que le peuple adore parce qu'ils croyaient qu"il avait un grand  pouvoir qui affecterait leurs vies**
+Un dieu est quelque chose que les gens adorent parce qu'ils croient qu'il a un grand pouvoir qui affecte leurs vies.
 
-   * When god is written with a small 'g,' it refers to a false god.
-  * Quand Dieu est ecrit avec un  petit d cela se refere a un faux dIeu
-  *
+  * When god is written with a small 'g' it refers to a false god.
+  * Quand Dieu est écrit avec un 'd' minuscule, cela fait référence à un faux dIeu
   * When God is written with a capital 'G,' it refers to the one and only true God.
-  * QUAND  gOG EST ECRIT AVEC UN GRAND G, cela se refere un et seul vrai Dieu
-  * These "gods" do not exist. Yahweh is the only God, and he has no ri
-  * Ces dieux n'existent pas Yahweh est le seul Dieu et il n'a pas de rival
+  * Quand Dieu est écrit avec un 'D' majuscule, cela fait référence à l'unique et seul vrai Dieu.
+  * These "gods" do not exist. Yahweh is the only God, and he has no rival.
+  * Ces "dieux" n'existent pas Yahweh est le seul Dieu et il n'a pas de rival
   * People sometimes make idols as symbols of their false gods.
   * Certaines personnes fabriquent des idoles de leurs faux dieus
   * Demons often deceive people into believing that these false gods and their idols have power.
-  * Les demons souvent  trompent les gens en leur faisant croire a ces faux dieux et que leurs idoles ont de pouvoir
+  * Les demons souvent trompent les gens en leur faisant croire a ces faux dieux et que leurs idoles ont de pouvoir
 
 [See also: **[[:fr:obs:notes:key-terms:god|God]]**, **[[:fr:obs:notes:key-terms:idol|idol]]**, **[[:fr:obs:notes:key-terms:demon|demon]]**]
 
