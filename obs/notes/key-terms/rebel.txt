@@ -1,26 +1,28 @@
-====== rebel ======
-
+====== rebel rebel ======
 
 ==== (to rebel, rebellious) ====
 
+(se rebeler, rebellion)
 
 ===== Definition: =====
 
 To rebel is to refuse to submit to someone's authority. That is, to refuse to obey one's leader.
 
-  * Passive rebellion happens when people refuse to do what the authorities over them have commanded.
-  * Active rebellion happens when people directly oppose or disobey their authorities.
-  * To rebel can also refer to people going to war against a government or leader that is ruling over them. People may do this when they believe that the government or leader is ruling unjustly.
+Se rebeler est le fait de refuser de se soumettre à l'autorité de quelqu'un d'autre. C'est, refuser d'obéir son supérieur.
 
+  * Passive rebellion happens when people refuse to do what the authorities over them have commanded.
+  * La rebellion passive arrive quand le peuple refuse de faire ce que les autorités au dessu d'eux lui a ordonné de faire.
+  * Active rebellion happens when people directly oppose or disobey their authorities.
+  * La rebellion active arrive quand le peuple directement s'oppose ou désobéi aux autorités.
+  * To rebel can also refer to people going to war against a government or leader that is ruling over them. People may do this when they believe that the government or leader is ruling unjustly.
+  * Se rebeler peut aussi se referer au peuple qui va en guerre contre un gouvernement ou un responsable qui les gouverne. les gens peuvent faire ainsi quand ils croient que le gouvernement ou les responsables gouverne injustement.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:14-14|[14-14]]]** After the Israelites had wandered in the wilderness for forty years, all of them who had **rebelled** against God were dead. 
-  ***[[:fr:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel **rebelled** against Rehoboam. 
-  ***[[:fr:obs:notes:frames:18-09|[18-09]]]** Jeroboam **rebelled** against God and caused the people to sin. 
-  ***[[:fr:obs:notes:frames:18-13|[18-13]]]** Most of the people of Judah also **rebelled** against God and worshiped other gods. 
-  ***[[:fr:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah **rebelled** against Babylon. 
-  ***[[:fr:obs:notes:frames:45-03|[45-03]]]** Then he (Stephen) said, "You stubborn and **rebellious** people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets. 
-
-
+  * **[[:fr:obs:notes:frames:14-14|[14-14]]]** After the Israelites had wandered in the wilderness for forty years, all of them who had **rebelled**  against God were dead.
+  * **[[:fr:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel **rebelled**  against Rehoboam.
+  * **[[:fr:obs:notes:frames:18-09|[18-09]]]** Jeroboam **rebelled**  against God and caused the people to sin.
+  * **[[:fr:obs:notes:frames:18-13|[18-13]]]** Most of the people of Judah also **rebelled**  against God and worshiped other gods.
+  * **[[:fr:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah **rebelled**  against Babylon.
+  * **[[:fr:obs:notes:frames:45-03|[45-03]]]** Then he (Stephen) said, "You stubborn and **rebellious**  people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets.
 ~~DISCUSSION:off~~
