@@ -1,10 +1,8 @@
-====== miracle: miracles  F ======
+====== miracle: miracles F ======
 
-==== (miracle, wonder, sign) ====
+==== (miracle, wonder, sign) <font 14.166666030883789px line-height: 1.2;/inherit;;inherit;;inherit>(miracle,</font> merveille<font 14.166666030883789px line-height: 1.2;/inherit;;inherit;;inherit>,</font> signe<font 14.166666030883789px line-height: 1.2;/inherit;;inherit;;inherit>)</font>  ====
 
-==== (miracle, merveille, signe) ====
-
-===== Definition: <font 14.166666030883789px line-height: 1.2;/inherit;;inherit;;inherit>Définition</font> <font 14.166666030883789px line-height: 1.2;/inherit;;inherit;;inherit>:</font>  =====
+===== Definition: <font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>Définition</font>    <font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>:</font>     =====
 
 Miracles are things that could never happen unless God caused them. For example, it was a miracle when God brought a dead person back to life.
 
@@ -17,7 +15,7 @@ Les miracles sont des choses qui ne peuvent jamais arriver à moins que Dieu les
   * People do not have the power to do miracles on their own. However, God has given different people the power to do miracles on many occasions to accomplish his purposes.
   * Les gens n'ont pas le pouvoir de faire des miracles eux-mêmes. Cependant Dieu a donne à differentes personne le pouvoir de faire des miracles dans le but d'accomplir ses objectifs
   * For example, the prophets asked God to heal people, to provide food from nothing, and even to raise people from the dead, and God did those things.
-  * Par exemple, les prophètes ont demandé à Dieu le pouvoir de guèrir les gens, de pourvoir de la nourriture à des gens, et même de  ressusciter les gens d'entre les morts et Dieu a fait ces choses
+  * Par exemple, les prophètes ont demandé à Dieu le pouvoir de guèrir les gens, de pourvoir de la nourriture à des gens, et même de ressusciter les gens d'entre les morts et Dieu a fait ces choses
 
 [See also: **[[:fr:obs:notes:key-terms:power|power]]**]
 
