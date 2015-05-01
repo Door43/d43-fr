@@ -1,27 +1,32 @@
-====== Rome ======
-
+====== Rome Rome ======
 
 ==== (Rome, Roman) ====
 
+(Rome, Romain)
 
-===== Facts: =====
+===== Facts: Faits: =====
 
 In the current day, Rome is the capital city of the country of Italy.
 
-    * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
-    * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
-    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-    * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+De nos jours, Rome est la capitale du pays d'Italie
 
+  * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
+  * Au temps de Jésus et des apôtres, Rome était le centre de l'Empire Romain.
+  * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
+  * L'Empire Romain gouvernait sur toute les régions autour de la Mer Méditeranée, inclus Israel.
+  * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
+  * Le terme "Romain"se refère à toute chose en relation à la region que le gouvernement à Rome controlait, inclus les citoyens et officiels.
+  * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+  * L'Apôtre Paul a été fait prisonnier dans la ville de Rome parce qu'il prêchait la Bonne Nouvelle de Jésus.
 
-[See also: **[[fr:obs:notes:key-terms:pilate|Pilate]]**, **[[fr:obs:notes:key-terms:paul|Paul]]**, **[[fr:obs:notes:key-terms:good-news|good news]]**]
+[See also: **[[:fr:obs:notes:key-terms:pilate|Pilate]]**, **[[:fr:obs:notes:key-terms:paul|Paul]]**, **[[:fr:obs:notes:key-terms:good-news|good news]]**]
+
+[Voir aussi: Pilate, Paul, bon,nouvelles]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:fr:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:fr:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:fr:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-
+  * **[[:fr:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
+  * **[[:fr:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
+  * **[[:fr:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
+  * **[[:fr:obs:notes:frames:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
 ~~DISCUSSION:off~~
