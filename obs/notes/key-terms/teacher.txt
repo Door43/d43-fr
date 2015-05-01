@@ -1,33 +1,30 @@
-====== teacher ======
-
+====== teacher  enseignant ======
 
 ==== (teacher, Teacher) ====
 
+(enseignant, Enseignant)
 
-===== Definition: =====
-
+===== Definition: Définition =====
 
 A teacher is a person who instructs other people. Teachers help others to obtain and use both knowledge and skills.
 
+A enseignant est quelqu'un qui donne des instructions/enseigne à d'autres personnes. Les enseignants aident les autres à avoir et à utiliser des connaissances et des aptitudes.
 
-    * The word "teacher" is used in a special sense in the Bible for someone who teaches about God, rather than for a school teacher for children.
-    * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
-    * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
-    * People called Jesus, "Teacher" as a title of respect because he taught them about God.
-    * Some cultures have other words that they use to show respect to those who teach about God, such as, "Sir" or, "Rabbi" or, "Preacher."
+  * The word "teacher" is used in a special sense in the Bible for someone who teaches about God, rather than for a school teacher for children.
+  * Le terme enseignant" est utilisé dans un sens particulier dans la Bible pour designer quelqu'un qui donne des enseignements sur Dieu, plutot qu'un professeur d'école qui travaille avec des enfants.
+  * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
+  * Les gens qui apprennent d'un enseignant sont appelés "des etudiants". Les gens qui apprennent des verites spirituels sont aussi appeles des disciples.
+  * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
+  * People called Jesus, "Teacher" as a title of respect because he taught them about God.
+  * Some cultures have other words that they use to show respect to those who teach about God, such as, "Sir" or, "Rabbi" or, "Preacher."
 
-
-[See also: **[[fr:obs:notes:key-terms:disciple|disciple]]**, **[[fr:obs:notes:key-terms:preach|preach]]**]
-
+[See also: **[[:fr:obs:notes:key-terms:disciple|disciple]]**, **[[:fr:obs:notes:key-terms:preach|preach]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-    * **[[:fr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
-    * **[[:fr:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-    * **[[:fr:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
-    * **[[:fr:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
-    * **[[:fr:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God. 
-
-
+  * **[[:fr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
+  * **[[:fr:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
+  * **[[:fr:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
+  * **[[:fr:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
+  * **[[:fr:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God.
 ~~DISCUSSION:off~~
