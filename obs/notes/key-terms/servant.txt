@@ -1,27 +1,32 @@
-====== servant ======
+====== servant     esclave ======
 
-==== (servant, slave, slavery) ====
+==== (slave, slavery) ====
 
+==== <font inherit/inherit;;inherit;;inherit>(serviteur, domestique, servant, esclave, esclavage)</font>  ====
 
 ===== Definition: =====
 
+===== Définition: =====
+
 A servant is a person who works for another person.
 
-  * Some servants are an important part of their master's household and are treated almost like members of the family.
-  * People who follow God are often called his "servants."
-  * A slave is a kind of servant who is the property of the person he works for. Just as people buy clothing and animals, in some parts of the world, people buy people. The person who buys a slave is called his "owner" or "master." Some masters treat their slaves very cruelly while other masters treat their slaves very well. 
+Un serviteur, c'est une personne who travaille pour une autre.
 
+  * Some servants are an important part of their master's household and are treated almost like members of the family.
+  * Quelques serviteurs prend une place importante dans la maison de leurs maîtres et ils sont traités presque comme membres de la famille.
+  * People who follow God are often called his "servants."
+  * Ceux qui suit à Dieu sont souvent appelés ses "serviteurs."
+  * A slave is a kind of servant who is the property of the person he works for. Just as people buy clothing and animals, in some parts of the world, people buy people. The person who buys a slave is called his "owner" or "master." Some masters treat their slaves very cruelly while other masters treat their slaves very well.
+  * Une esclave, c'est un type de servituer qui s'appartient à la personne pour laquelle il travaille.  Il s'agît de la propriété.  Tant  que les gens achètent des vêtements ou des animaux, quelques uns achètent quelques autre personnes. La personne qui achète une esclave s'appelle un esclavagiste ou même le "maître."  Il y a es maîtres qui traitent très cruellement leurs esclave pendant qu'il y a d'autres qui les traitent mieux.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:06-01|[06-01]]]** When Abraham was very old and his son, Isaac, had grown to be a man, Abraham sent one of his **servants** back to the land where his relatives lived to find a wife for his son, Isaac.
-  ***[[:fr:obs:notes:frames:08-04|[08-04]]]** The **slave** traders sold Joseph as a **slave** to a wealthy government official.
-  ***[[:fr:obs:notes:frames:09-13|[09-13]]]** "I (God) will send you (Moses) to Pharaoh so that you can bring the Israelites out of their **slavery** in Egypt."
-  ***[[:fr:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O Yahweh, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your **servant**."
-  ***[[:fr:obs:notes:frames:29-03|[29-03]]]** "Since the **servant** could not pay the debt, the king said, 'Sell this man and his family as **slaves** to make payment on his debt.'"
-  ***[[:fr:obs:notes:frames:35-06|[35-06]]]** "All my father's **servants** have plenty to eat, and yet here I am starving."
-  ***[[:fr:obs:notes:frames:47-04|[47-04]]]** The **slave** girl kept yelling as they walked, "These men are servants of the Most High God. 
-  ***[[:fr:obs:notes:frames:50-04|[50-04]]]** Jesus also said, "A **servant** is not greater than his master."
-
-
+  * **[[:fr:obs:notes:frames:06-01|[06-01]]]** When Abraham was very old and his son, Isaac, had grown to be a man, Abraham sent one of his **servants**  back to the land where his relatives lived to find a wife for his son, Isaac.
+  * **[[:fr:obs:notes:frames:08-04|[08-04]]]** The **slave**  traders sold Joseph as a **slave**  to a wealthy government official.
+  * **[[:fr:obs:notes:frames:09-13|[09-13]]]**"I (God) will send you (Moses) to Pharaoh so that you can bring the Israelites out of their **slavery**  in Egypt."
+  * **[[:fr:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O Yahweh, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your **servant**."
+  * **[[:fr:obs:notes:frames:29-03|[29-03]]]**"Since the **servant**  could not pay the debt, the king said, 'Sell this man and his family as **slaves**  to make payment on his debt.'"
+  * **[[:fr:obs:notes:frames:35-06|[35-06]]]**"All my father's **servants**  have plenty to eat, and yet here I am starving."
+  * **[[:fr:obs:notes:frames:47-04|[47-04]]]** The **slave**  girl kept yelling as they walked, "These men are servants of the Most High God.
+  * **[[:fr:obs:notes:frames:50-04|[50-04]]]** Jesus also said, "A **servant**  is not greater than his master."
 ~~DISCUSSION:off~~
