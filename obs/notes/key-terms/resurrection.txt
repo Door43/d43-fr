@@ -1,23 +1,26 @@
-====== resurrection ======
+====== resurrection resurrection ======
 
-
-===== Definition: =====
+===== Definition: Définition: =====
 
 Resurrection is the act of becoming alive again after having died.
 
-    * To resurrect someone is to bring that person back to life again. Only God has the power to do this.
-    * The word "resurrection" often refers to Jesus' coming back to life after he died.
-    * When Jesus said, "I am the Resurrection and the Life" he meant that he is the source of resurrection, and the one who causes people to come back to life.
-    * Resurrection can be translated as, "coming back to life" or, "becoming alive again after being dead."
+resurrection est l'acte de revenir encore en vie après la mort.
 
+  * To resurrect someone is to bring that person back to life again. Only God has the power to do this.
+  * Ressusciter quelqu'un c'est de ramener cette personne à la vie de nouveau. Seul Dieu a le pouvoir de le faire.
+  * The word "resurrection" often refers to Jesus' coming back to life after he died.
+  * le mot "resurrection" se refère souvent à Jésus revenu à la vie après sa mort.
+  * When Jesus said, "I am the Resurrection and the Life" he meant that he is the source of resurrection, and the one who causes people to come back to life.
+  * Quand Jésus dit, "Je suis la resurrection et la vie" Il a voulu dire qu'Il est la source de la resurrection, et celui qui a le pouvoir de ressusciter les morts.
+  * Resurrection can be translated as, "coming back to life" or, "becoming alive again after being dead."
+  * La resurrection peut être traduite comme"revenir à la vie" ou " revenir à la vie encore après la mort".
 
-[See also: **[[fr:obs:notes:key-terms:life|life]]**, **[[fr:obs:notes:key-terms:death|death]]**, **[[fr:obs:notes:key-terms:raise|raise]]**]
+[See also: **[[:fr:obs:notes:key-terms:life|life]]**, **[[:fr:obs:notes:key-terms:death|death]]**, **[[:fr:obs:notes:key-terms:raise|raise]]**]
 
+[Voir aussi: la vie, la mort, élever]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  ***[[:fr:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection** and the Life. Whoever believes in me will live, even though he dies.
-
-
+  * **[[:fr:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
+  * **[[:fr:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
 ~~DISCUSSION:off~~
