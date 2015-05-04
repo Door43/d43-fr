@@ -1,8 +1,8 @@
 ====== miracle: miracles F ======
 
-==== (miracle, wonder, sign) <font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>(miracle,</font>    merveille<font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>,</font>    signe<font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>)</font>     ====
+==== (miracle, wonder, sign)  (merveille, signe)   ====
 
-===== Definition: <font 14.166666030883789px line-height: 1.2/inherit;;inherit;;inherit>Définition</font>      =====
+===== Definition: Définition      =====
 
 Miracles are things that could never happen unless God caused them. For example, it was a miracle when God brought a dead person back to life.
 
