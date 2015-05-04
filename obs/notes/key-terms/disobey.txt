@@ -2,6 +2,14 @@
 
 ===== Definition: Définition =====
 
+The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
+
+  * A person who does something he was told not to do is disobeying.
+  * To disobey also means to refuse to do something that was commanded.
+  * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
+  * A "disobedient people" could be translated by "people who keep on disobeying,"
+  * To "disobey" is the opposite of to "obey."
+
 There are several ways to disobey someone.
 
 Il y a plusieurs manières de désobéir à quelqu'un.
@@ -19,9 +27,17 @@ To "disobey" is the opposite of to "obey."
 
 [See also: **[[:fr:obs:notes:key-terms:evil|evil]]**, **[[:fr:obs:notes:key-terms:sin|sin]]**, **[[:fr:obs:notes:key-terms:obey|obey]]**]
 
-<font inherit/inherit;;inherit;;inherit>[</font>    Voir aussi<font inherit/inherit;;inherit;;inherit>: mal,</font>    péché<font inherit/inherit;;inherit;;inherit>,</font>    obéir<font inherit/inherit;;inherit;;inherit>]</font>
+(Voir aussi mal, péché, obéir)
+
+
+(See also: [[:en:obe:kt:authority|authority]], [[:en:obe:kt:evil|evil, wicked]], [[:en:obe:kt:sin|sin, sinful, sinner]], [[:en:obe:other:obey|obey]])
+
+===== Bible References: =====
+
+{{topic>disobey&nocomments}}
 
 ===== Examples from the Bible stories: =====
+
 
   * **[[:fr:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
   * **[[:fr:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
