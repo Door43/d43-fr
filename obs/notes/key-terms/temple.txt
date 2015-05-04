@@ -1,27 +1,32 @@
-====== Temple ======
+====== Temple Temple ======
 
-
-===== Facts: =====
+===== Facts: Faits =====
 
 The Temple was a building where the Israelites offered sacrifices to God.
 
+Le temple était un batiment dans lequel les Israélites offraient des sacrifices à Dieu.
+
   * God referred to the Temple as his dwelling place where the people could come to him.
+  * Dieu fait référence au Temple comme etant le lieu où Il réside et où les gens peuvent venir à lui.
   * Sometimes the term "Temple" refers to the whole Temple complex, including the courtyards that surrounded the main building.
+  * Parfois le terme "Temple" fait référence à toute la structure, y compris les cours qui entourent les batiments principaux.
   * People came to the Temple building and its courtyards to pray, worship God and bring animals to sacrifice to God.
+  * Les gens venaient au Temple et dans ses cours pour y prier, adorer Dieu et amener des animaux en sacrifice à Dieu.
   * The inner room of the Temple building, which had a thick curtain separating it from the rest of the Temple, could not be entered by anyone except the high priest.
+  * Dans la chambre principale du Temple, qui avait un rideau épaix la séparant du reste du Temple, personne ne pouvaient y entrer exceptés les sacrificateurs.
   * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the Exile.
+  * Le Temple original que Salomon avait construit avait été détruit par les Babyloniens, mais reconstruit après l'Exil.
 
+[See also: **[[:fr:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[:fr:obs:notes:key-terms:solomon|Solomon]]**, **[[:fr:obs:notes:key-terms:babylon|Babylonians]]**]
 
-[See also: **[[fr:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[fr:obs:notes:key-terms:solomon|Solomon]]**, **[[fr:obs:notes:key-terms:babylon|Babylonians]]**]
+[Voir aussi: sacrifice, Salomon, Babyloniens]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple** where all the Israelites could worship God and offer him sacrifices.
-  ***[[:fr:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple** for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
-  ***[[:fr:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
-  ***[[:fr:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple** and the wall around the city of the city and the **Temple**.
-  ***[[:fr:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple** and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
-  ***[[:fr:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple** was torn in two, from the top to the bottom.
-
-
+  * **[[:fr:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
+  * **[[:fr:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
+  * **[[:fr:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
+  * **[[:fr:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
+  * **[[:fr:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
+  * **[[:fr:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
 ~~DISCUSSION:off~~
