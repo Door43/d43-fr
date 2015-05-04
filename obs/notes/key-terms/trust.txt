@@ -1,26 +1,30 @@
-====== trust ======
-
+====== trust  la confiance ======
 
 ==== (trust, to trust) ====
 
+(la confiance, avoir confiance en)
 
 ===== Definition: =====
 
 To trust someone or something is to believe that they are reliable, honest, true, and dependable.
 
-    * Trust is closely related to faith. We trust someone because we have faith that they will do what they promised to do.
-    * Trusting in Jesus means believing that he is God, believing that his sacrificial death on the cross paid for our sins, and depending on him to save us.
-    * Often people foolishly trust in themselves, other people, or things to meet their needs, even though these cannot bring them the good that they desire.
+**Avoir confiance en quelqu'un ou en quelque chose, c'est croire qu'ils sont fiables, honnetes, **
 
-[See also: **[[fr:obs:notes:key-terms:faith|faith]]**]
+   * Trust is closely related to faith. We trust someone because we have faith that they will do what they promised to do.
+  * La confiance est tres proche de la foi. Nous croyons en quelqu'un parce que nous avons la foi qu'ils vont faire ce qu'ils ont promis de faire.
+  * Trusting in Jesus means believing that he is God, believing that his sacrificial death on the cross paid for our sins, and depending on him to save us.
+  * Croire en Jésus signifie croire qu'Il est Dieu, c'est croire que son sacrifice sur la croix a payé pour nos péchés, et c'est dépendre de lui pour nous sauver.
+  * Often people foolishly trust in themselves, other people, or things to meet their needs, even though these cannot bring them the good that they desire.
+  * Souvent les gens croient bêtement en eux, en d'autres personnes, ou en des choses pour satisfaire leurs besoins, même quand cela ne leur procure pas le sentiment de bien qu'ils recherchent.
 
+[See also: **[[:fr:obs:notes:key-terms:faith|faith]]**]
+
+[Voir aussi: foi]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they **trusted** in God and believed that Moses was a prophet of God. 
-  ***[[:fr:obs:notes:frames:14-15|[14-15]]]** Joshua was a good leader because he **trusted** and obeyed God. 
-  ***[[:fr:obs:notes:frames:17-02|[17-02]]]** David was a humble and righteous man who **trusted** and obeyed God. 
-  ***[[:fr:obs:notes:frames:34-06|[34-06]]]** Then Jesus told a story about people who **trusted** in their own good deeds and despised other people. 
-
-
+  * **[[:fr:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they **trusted**  in God and believed that Moses was a prophet of God.
+  * **[[:fr:obs:notes:frames:14-15|[14-15]]]** Joshua was a good leader because he **trusted**  and obeyed God.
+  * **[[:fr:obs:notes:frames:17-02|[17-02]]]** David was a humble and righteous man who **trusted**  and obeyed God.
+  * **[[:fr:obs:notes:frames:34-06|[34-06]]]** Then Jesus told a story about people who **trusted**  in their own good deeds and despised other people.
 ~~DISCUSSION:off~~
