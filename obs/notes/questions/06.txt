@@ -1,25 +1,31 @@
-====== Story #6: God Provides for Isaac ======
+====== Story #6: God Provides for Isaac: Dieu a donne Isaac ======
 
-===== Comprehension Questions and Answers =====
+===== Comprehension Questions and Answers :Questions de Comprehension et Reponses =====
 
   - **Why did Abraham send his servant back to the land of Abraham's relatives?**
-    *//To bring back a wife for his son, Isaac. [06-01]//
+  - Pourquoi Abraham a t-il  envoye son serviteur dans pays des le membres de sa famille
+      * //To bring back a wife for his son, Isaac. [06-01]//
+      * De ramener une femme for son flls Isaak
   - **How did the servant find Rebekah?**
-    *//God led him to her. [06-02]//
-  - **How was Rebekah related to Abraham?**
-    *//Rebekah was the granddaughter of Abraham's brother. [06-02]//
-  - **Was Rebekah forced to go with the servant to marry Isaac?**
-    *//No, she agreed to go. [06-03]//
+  - **Comment le serviteur a trouve Rebeca**
+      * //God led him to her. [06-02]//
+      * //Dieu la lui a laissee//
+  - **How was Rebekah related to Abraham Quelle **  a ete la relation entre Rebeca et  Abraham
+      * //Rebekah was the granddaughter of Abraham's brother. [06-02]: Rebeca a ete  petite fille du frere d'Abraham//
+  - **Was Rebekah forced to go with the servant to marry Isaac?Rebeca avait-elle ete forcee de partir avec le serviteur  et de se marier avec Isaac**
+      * //No, she agreed to go. [06-03]marier isaak :No,elle avait  consenti de partir//
+      *
   - **What promises of God were passed on to Isaac when Abraham died?**
-    *//All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]//
-  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?**
-    *//Rebekah could not have children. [06-04]//
-  - **What did God tell Rebekah about her two twin sons before they were born?**
-    *//They would become two nations, and the older son will serve the younger one. [06-06]//
-  - **What was the name of the older son?**
-    *//Esau. [06-07]//
-  - **What was the name of the younger son?**
-    *//Jacob. [06-07]//
-
-
-**[[fr/obs/notes/questions/05|<< ]] | [[fr/obs/notes/questions/07| >>]]**
+  - **quelles ont ete les peomesses de Dieu pour Isaac quand Abraham etait decede**
+      * //All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]//
+      * Toutes les promesses que Dieu avait faites a Abraham, y compris les mutitudes promesses faites aux  descendants
+  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?**  Pourquoi  il apparait que la promesse faite aux multitudes des  descendants n'ont pas ete accomplies a travers Isaac
+      * //Rebekah could not have children. [06-04]; Rebeca  ne doit pas avoir d'enfants//
+  - **What did God tell Rebekah about her two twin sons before they were born? Qu**'est ce que Dieu a dit a Rebeca au sujet de ses deux fils  jumeaux  avant qu'ils soient nes
+      * //They would become two nations, and the older son will serve the younger one. [06-06]//
+      * // ils deviendront deux nations, et le plus grand enfant servira le plus petit//
+  - **What was the name of the older son?: Quel est le nom du plus grand**
+      * //Esau. [06-07] :Esau//
+  - **What was the name of the younger son? :quel est le nom du plus  enfant**
+      * //Jacob. [06-07]:Jacob//
+**[[:fr:obs:notes:questions:05|<< ]] | [[:fr:obs:notes:questions:07| >>]]**
