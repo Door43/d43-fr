@@ -1,18 +1,21 @@
-====== promise : promesse ======
+====== promise : promesse   F ======
 
 ===== Definition: =====
 
 A promise is a vow or commitment to do something.
 
-**une promesse est  un voeu ou un serment de faire une chose**
+Une promesse, c'est un voeu ou un engagement de faire une chose.
 
-   * When someone promises to do something, he says that he will definitely do it.
-  * **Quand qulequ'un  promet de faire quelque chose, il dit  ce qu'il veut definitivement faire**
+  * When someone promises to do something, he says that he will definitely do it.
+  * Quand quelqu'un promet de faire quelque chose, il dit qu'il va impérativement le faire.
   * When someone promises that something will happen, he says that it will definitely happen.
-  * **Quand qulqu'un promet que quelque va arriver, il dit  que cette chose arrivera difinitivement**
-  * Promises are important parts of for  mal agreements such as covenants.
-  * **Les promesses sont des importates parties (?...???.....?)**
+  * Quand quelqu'un promet que quelque chose va arriver, il dit que cela va impérativement arriver.
+  * Promises are important parts of formal agreements such as covenants.
+  * Les promesses sont des parties importates des accords formels tels que les alliances.
+
 [See also: **[[:fr:obs:notes:key-terms:covenant|covenant]]**]
+
+[Voir aussi: alliance]
 
 ===== Examples from the Bible stories: =====
 
