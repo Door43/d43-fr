@@ -1,20 +1,27 @@
-====== priest: Pretre ======
+====== priest: sacrificateur F ======
 
 ===== Definition: =====
 
 A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be his priests for the people of Israel. They did many different things, including:
 
-**Un pretre est une personne avec le pecial role d'intermediaire, se tenant entre Dieu et son peuple. Dieu a choisi Aaron et ses descendants pour etre ses sacrificateurs pour le peupled'Israel . faisaient de differentes choses y compris:**
+Un sacrificateur est une personne qui joue un role spécial intermediaire entre Dieu et son peuple. Dieu a choisi Aaron et ses descendants pour être ses sacrificateurs pour le peuple d'Israel. Ils ont fait beaucoup de choses, y compris:
 
-   * Priests presented people's offerings to God.
-  * sacrificateurs presentant des offrandes a Dieu
-  * Priests would pray to God for the people.: Des sacrificateurs pouvaient prier pour le peuple,
-  * Priests taught the people God's instructions. Des sacrificateurs enseignaient au peuple les directives de Dieu
-  * Priests would bless the people.Les Sacrificateurs benissaient le peuple
+  * Priests presented people's offerings to God.
+  * Les Sacrificateurs présentaient les offrandes des gens à Dieu.
+  * Priests would pray to God for the people.
+  * Les Sacrificateurs priaient pour le peuple.
+  * Priests taught the people God's instructions.
+  * Les Sacrificateurs donnaient au peuple les instructions de Dieu.
+  * Priests would bless the people.
+  * Les Sacrificateurs bénissaient le peuple.
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
-[See also: **[[:fr:obs:notes:key-terms:aaron|Aaron]]**, **[[:fr:obs:notes:key-terms:sacrifice|sacrifice]]**]Aaron sacrifice
+Le terme "sacrificateur" peut être traduit par "intermédiaire", "médiateur", "l'homme du milieu" or "sacrificateur". En plus des sacrificateurs de Dieu, il y avait aussi d'autres sacrificateurs qui présentaient des offrandes aux faux dieux tels que Baal.
+
+[See also: **[[:fr:obs:notes:key-terms:aaron|Aaron]]**, **[[:fr:obs:notes:key-terms:sacrifice|sacrifice]]**]
+
+[Voir aussi: Aaron sacrifice]
 
 ===== Examples from the Bible stories: =====
 
