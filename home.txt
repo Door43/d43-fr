@@ -1,6 +1,6 @@
 ====== Door43 (fr) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
+Bienvenue à Door43! N'hésitez pas à [[:fr:home?do=edit|éditer]] cette page dans votre langue.
 
 ===== Resources =====
 
