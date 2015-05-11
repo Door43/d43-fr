@@ -1,4 +1,4 @@
-====== promise : promesse   F ======
+====== promise: promesse  F ======
 
 ===== Definition: =====
 
