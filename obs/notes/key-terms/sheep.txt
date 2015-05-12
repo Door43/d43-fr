@@ -1,19 +1,21 @@
-====== sheep:  moutons ======
+====== sheep: mouton  F ======
 
-===== Definition: =====
+===== Definition: Définition =====
 
 A sheep is a medium-sized animal with four legs that has wool all over its body.
 
-**Un mouton est un animal  de quatre pattes et de taille moyenne,  qui porte de la laine sur tout son corps**
+Un mouton est un animal de taille moyenne <font 14px line-height: 19px;/inherit;;inherit;;inherit>à</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit></font> quatre<font 14px line-height: 19px;/inherit;;inherit;;inherit></font> pattes<font 14px line-height: 19px;/inherit;;inherit;;inherit>et dont le corps est recouvert</font> de laine.
 
-   * People eat meat from sheep and use their wool to make clothing and other things.
-  * **les gens mangent de la viande mouton  et utisent leur laine pour fabriquer  des habits et d'autres choses**
+  * People eat meat from sheep and use their wool to make clothing and other things.
+  * Les gens mangent de la viande de mouton et utilisent leur laine pour fabriquer des habits et d'autres choses
   * Sheep are very trusting, weak and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction and to provide them with food, water and shelter.
-  *  **les mouton sont tres confiants,faible et timides .Ils sont facilement influences errer au loin. Ils ont besoin d'un berger pour les diriger dans une bonne direction et de leur fournirde la nourriture , de l'eau et de l'abri**
+  * Les moutons sont naifs, faible et timides. Ils sont facilement influencables pour qu'ils s'eloignent. Ils ont besoin d'un berger pour les diriger dans la bonne direction et pour leur fournir de la nourriture, de l'eau et un abri.
   * In the Bible, people are compared to sheep who have God as their shepherd.
-  * Dans la Bible les gens sont compares  a des moutons **qui ont Dieu pour leur berger**
+  * Dans la Bible, on compare les gens à des moutons qui ont Dieu comme berger.
 
 [See also: **[[:fr:obs:notes:key-terms:shepherd|shepherd]]**, **[[:fr:obs:notes:key-terms:lamb|lamb]]**]
+
+[Voir auss: berger, brebis]
 
 ===== Examples from the Bible stories: =====
 
