@@ -1,6 +1,5 @@
-======   ======
+====== people group : Goupe des gens ======
 
-people group : Goupe des gens
 
 ==== (people group, nation, a people) : groupe des gens, Nation, un peuple ====
 
