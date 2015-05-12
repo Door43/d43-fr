@@ -1,9 +1,8 @@
-====== people group : Goupe des gens ======
+====== people group : groupe de gens ======
 
+==== (people group, nation, a people) : (groupe de gens, nation, un peuple) ====
 
-==== (people group, nation, a people) : groupe des gens, Nation, un peuple ====
-
-===== Definition: =====
+===== Definition: Définition =====
 
 A people group is a group of people who have a common ancestry, culture, or **language.**
 
