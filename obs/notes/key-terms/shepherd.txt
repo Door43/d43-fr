@@ -1,10 +1,10 @@
-====== shepherd: berger   F ======
+====== shepherd: berger F ======
 
 ===== Definition: =====
 
 A shepherd is a person who takes care of sheep.
 
-Un berger est une personne qui prend soin des brebies
+Un berger est une personne qui prend soin des moutons.
 
   * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.
   * Parfois un berger est le propriétaire des moutons, et parfois il travaille pour le propriétaire.
@@ -15,7 +15,7 @@ Un berger est une personne qui prend soin des brebies
   * They protect sheep from wild animals that try to attack them.
   * Ils protègent les moutons contre les animaux sauvages qui essayent de les attaquer
   * It is also used as a metaphor about leaders and those who follow them.
-  * L'expression est aussi utilisée comme une metaphore pour des dirigeants et ceux qui les suivent
+  * L'expression est aussi utilisée comme une métaphore pour des dirigeants et ceux qui les suivent
 
 [See also: **[[:fr:obs:notes:key-terms:sheep|sheep]]**]
 
