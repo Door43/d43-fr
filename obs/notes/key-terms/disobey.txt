@@ -1,21 +1,28 @@
-====== disobey désobéir ======
+====== disobey désobéir  F ======
 
-===== Definition: Définition =====
+===== Definition: Définition  =====
 
 The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
 
+Le terme "désobéir" signifie ne pas obéir à ce qu'une personne investie d'autorité ordonne ou instruit. Une personne qui se comporte ainsi est désobéissante.
+
   * A person who does something he was told not to do is disobeying.
+  * Une personne qui fait quelque chose qu'on lui a dit de ne pas faire est désobéissante.
   * To disobey also means to refuse to do something that was commanded.
+  * Désobéir signifie aussi refuser de faire quelque chose qui nous avait été ordonné.
   * The term "disobedient" is also used to describe the character of someone who habitually disobeys or rebels. It means that they are sinful or wicked.
+  * Le terme "désobéissant" est aussi utilisé pour décrire la personnalité d'une personne qui a l'habitude de désobéir ou qui se rebelle. Cela veut dire qu'ils sont pecheurs ou mauvais.
   * A "disobedient people" could be translated by "people who keep on disobeying,"
+  * Un peuple désobéissant" peut se traduire par "un peuple qui désobéit continuellement"
   * To "disobey" is the opposite of to "obey."
+  * "Désobéir" est le contraire "d'obéir"
 
 There are several ways to disobey someone.
 
 Il y a plusieurs manières de désobéir à quelqu'un.
 
   * It is possible to disobey by refusing or failing to do something that was commanded.
-  * Il est possible de désobéir en refusant de (ou en ne réussissant pas à) faire quelque chose qui a été ordonnée.
+  * Il est possible de désobéir en refusant de ou en ne réussissant pas à faire quelque chose qui a été ordonnée.
   * We can also disobey by doing something that was prohibited.
   * Nous pouvons désobéir aussi en faisant quelque chose qui était interdit.
   * And we can disobey by doing something differently than we were instructed.
@@ -29,8 +36,9 @@ To "disobey" is the opposite of to "obey."
 
 (Voir aussi mal, péché, obéir)
 
-
 (See also: [[:en:obe:kt:authority|authority]], [[:en:obe:kt:evil|evil, wicked]], [[:en:obe:kt:sin|sin, sinful, sinner]], [[:en:obe:other:obey|obey]])
+
+[Voir aussi: autorité, mal, mauvais, péché, souillé par le péché, pécheur, obéir)
 
 ===== Bible References: =====
 
@@ -38,10 +46,8 @@ To "disobey" is the opposite of to "obey."
 
 ===== Examples from the Bible stories: =====
 
-
   * **[[:fr:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
   * **[[:fr:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
   * **[[:fr:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
   * **[[:fr:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
-
 ~~DISCUSSION~~
