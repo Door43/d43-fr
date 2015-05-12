@@ -2,9 +2,9 @@
 
 ==== (slave, slavery) ====
 
-==== <font inherit/inherit;;inherit;;inherit>(esclave, esclavage)</font>     ====
+==== (esclave, esclavage) ====
 
-===== Definition: <font 14px line-height: 1.2/inherit;;inherit;;inherit>Définition</font>    <font 14px line-height: 1.2/inherit;;inherit;;inherit>:</font>     =====
+===== Definition: Définition =====
 
 A servant is a person who works for another person.
 
