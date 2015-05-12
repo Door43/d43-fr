@@ -1,22 +1,25 @@
-====== shepherd: Berger ======
+====== shepherd: berger   F ======
 
 ===== Definition: =====
 
 A shepherd is a person who takes care of sheep.
 
-un berger est une personne qui prend soins des brebies
+Un berger est une personne qui prend soin des brebies
 
-  * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.  Parfois un berger est le proprieaire de ses moutons, et parfois il travaille pour des proprietaires
+  * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.
+  * Parfois un berger est le propriétaire des moutons, et parfois il travaille pour le propriétaire.
   * Shepherds lead sheep to grass so they can eat and to safe water so they can drink.
-  * Les bergers dirigent des moutons vers des herbes. Ainsi, elles peuvent manger et les conduit vers  des eaux pures a boire
+  * Les bergers emmènent les moutons manger dans des paturâges et vers de l'eau potable pour qu'ils puissent boire
   * They guide sheep so they don't get lost or wander into danger.
-  * Ils dirigent les brebies, ainsi elles ne peuvent se perdre ou affronter le danger
+  * Ils dirigent les moutons, pour qu'ils ne se perdent pas ou ne s'aventurent pas vers des dangers.
   * They protect sheep from wild animals that try to attack them.
-  * Ils protegent le troupeau contre les animaux sauvages  qui essayeront de les attaquer
+  * Ils protègent les moutons contre les animaux sauvages qui essayent de les attaquer
   * It is also used as a metaphor about leaders and those who follow them.
-  * l est  aussi utilise comme un metaphore au sujet des dirigeants et de ceux qui le suivre
+  * L'expression est aussi utilisée comme une metaphore pour des dirigeants et ceux qui les suivent
 
 [See also: **[[:fr:obs:notes:key-terms:sheep|sheep]]**]
+
+[Voir aussi: mouton]
 
 ===== Examples from the Bible stories: =====
 
