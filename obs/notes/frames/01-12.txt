@@ -1,4 +1,4 @@
-===== Adam Was Alone [01-12] =====
+===== Adam Was Alone [01-12]   T =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&}}
 
@@ -14,12 +14,11 @@ Puis Dieu dit : “il n'est pas bon que l'homme soit seul.” Mais aucun des ani
 ==== Translation Notes: ====
 
   * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * pas bon - C'est la première fois que quelque chose dans la création n'a pas été trouvé bon (par Dieu). Cela signife que ce n'etait pas encore (assez) bon, parce que Dieu n'avait pas fini avec la création de l'homme
+  * **pas bon**  - C'est la première fois que quelque chose dans la création n'a pas été trouvé bon (par Dieu). Cela signife que ce n'etait pas encore (assez) bon, parce que Dieu n'avait pas fini avec la création de l'homme
   * **alone**  - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * seul - Adam était le seul être humain, avec aucune possibilté d'avoir une relation avec une autre personne, et donc incapable d'avoir des enfants et de se multiplier.
+  * **seul**  - Adam était le seul être humain, avec aucune possibilté d'avoir une relation avec une autre personne, et donc incapable d'avoir des enfants et de se multiplier.
   * **Adam's helper**  - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-  * une aide pour adam - il n'y avait personne qui etait similaire a Adam pour se joindre a lui et accomplir la tache que Dieu lui avait donnee. Aucun des animaux ne pouvait le faire.
-
+  * **une aide pour adam**  - il n'y avait personne qui etait similaire a Adam pour se joindre a lui et accomplir la tache que Dieu lui avait donnee. Aucun des animaux ne pouvait le faire.
 ====   ====
 
   * **[[:fr:obs:notes:frames:01-11|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-13|>>]]**
