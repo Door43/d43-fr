@@ -1,24 +1,28 @@
-====== Tent of Meeting ======
+====== Tent of Meeting   Tente d'assignation F ======
 
-
-===== Facts: =====
+===== Facts: Faits =====
 
 When God gave his laws at Mount Sinai, he told the Israelites to make the Tent of Meeting. This was the holy place where he would meet with them. As they wandered through the wilderness, they would take it with them and set it up whenever God told them to do so.
 
-  * The Tent of Meeting was like a house made of cloth stretched over a wooden framework. 
-  * God told the people to set up the Tent of Meeting in the middle of a large courtyard surrounded by walls made of cloth and wood. 
-  * God told them to put the altar in front of the Tent of Meeting in the middle of the courtyard. The people could go into the courtyard to give offerings and sacrifices to God. The priests who were on duty would receive what the people brought and then offer it on the altar for a sacrifice as the law required. 
+Quand Dieu a donné ses lois sur le Mont Sinai, il a dit aux Israelites de construire la tente d'assignation. C'était l'endroit saint où il les rencontrait. Pendant qu'ils erraient dans le desert, il la prendrait avec eux et la monterait quand Dieu leur demanderait de le faire.
+
+  * The Tent of Meeting was like a house made of cloth stretched over a wooden framework.
+  * La tente d'assignation était comme une maison faite avec du tissu qu'on plaçait sur une charpente en bois.
+  * God told the people to set up the Tent of Meeting in the middle of a large courtyard surrounded by walls made of cloth and wood.
+  * Dieu a dit au peuple d'installer la tente d'assignation au milieu de la grande cour entourée de murs faits de tissus et de bois.
+  * God told them to put the altar in front of the Tent of Meeting in the middle of the courtyard. The people could go into the courtyard to give offerings and sacrifices to God. The priests who were on duty would receive what the people brought and then offer it on the altar for a sacrifice as the law required.
+  * Dieu leur a dit de placer l'autel devant la tente d'assignation au milieu de la cour. Le peuple pouvait aller dans la cour pour offrir des offrandes et des sacrifices a Dieu. Les sacrificateurs qui etait en service recevait ce que les gens apportait et offrait sur l'autel comme sacrifice comme la loi l'exigeait.
   * The Tent of Meeting had a thick curtain hanging in the middle of it, which divided it into two rooms. The curtain was used as barrier to keep people from seeing the room on the other side, and to keep people from going into it. The first room was very holy, so only the priests could go into it. The second room was the most holy place, so only the high priest could go into it.
+  * La tente d'assignation avait un rideau épais qui pendait au milieu, ce qui la divisait en deux pieces. Le rideau etait utilisé comme une barriere pour empecher les gens de voir la piece voisine, et pour empecher le peuple d'y penetrer. La premiere piece etait tres sainte, donc seul les sacrificateurs pouvaient y entrer. La seconde pièce était la plus sainte, alors seuls les grands sacrificateurs pouvaient y entrer.
 
-[See also: **[[fr:obs:notes:key-terms:priest|priest]]**, **[[fr:obs:notes:key-terms:priest-high|high priest]]**, **[[fr:obs:notes:key-terms:sacrifice|sacrifice]]**]
+[See also: **[[:fr:obs:notes:key-terms:priest|priest]]**, **[[:fr:obs:notes:key-terms:priest-high|high priest]]**, **[[:fr:obs:notes:key-terms:sacrifice|sacrifice]]**]
 
+[Voir aussi: sacrificateur, grand sacrificateurs, sacrifice]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:fr:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain. 
-  ***[[:fr:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting** as a sacrifice to God. 
-  ***[[:fr:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**. 
-  ***[[:fr:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple. 
-
-
+  * **[[:fr:obs:notes:frames:13-08|[13-08]]]** God gave the Israelites a detailed description of a tent he wanted them to make. It was called the **Tent of Meeting**, and it had two rooms, separated by a large curtain.
+  * **[[:fr:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the **Tent of Meeting**  as a sacrifice to God.
+  * **[[:fr:obs:notes:frames:14-08|[14-08]]]** God was very angry and came to the **Tent of Meeting**.
+  * **[[:fr:obs:notes:frames:18-02|[18-02]]]** Instead of at the **Tent of Meeting**, people now worshiped God and offered sacrifices to him at the Temple.
 ~~DISCUSSION:off~~
