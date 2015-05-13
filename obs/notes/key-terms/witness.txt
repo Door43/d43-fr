@@ -1,4 +1,4 @@
-====== witness témoin ======
+====== witness témoin  F ======
 
 ===== Definition: Définition =====
 
@@ -9,7 +9,7 @@ Un témoin est une personne qui a vu ou entendu quelque chose se produire.
   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
   * Pendant un procès, les témoins disent ce qu'ils ont vu ou entendu. Ce que les témoins disent aident le juge à décider si la personne accusée est innocente ou coupable.
   * Witnesses are expected to tell the truth about what they have seen or heard.
-  * Les témoins doivent dire (On s'attend à ce que les témoins disent) la vérité concernant ce qu'ils ont vu ou entendu.
+  * On s'attend à ce que les témoins disent la vérité concernant ce qu'ils ont vu ou entendu.
   * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
   * Un témoin qui ne dit pas la vérité concernant ce qu'il a vu ou entendu s'appelle un "faux témoin."
 
