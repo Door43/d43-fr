@@ -1,4 +1,4 @@
-===== The Lie [02-04]    T =====
+===== The Lie [02-04] T =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
@@ -18,8 +18,7 @@ Le serpent répondit à la femme “Ce n'est pas vrai! Vous ne mourrez pas. Dieu
 ==== notes de traduction: ====
 
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **Comme Dieu**
- - L'homme et la femme avaient déjà été faits à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait mal. Cependant, Dieu n'a jamais voulu qu'elle detienne cette connaissance.
+  * **Comme Dieu **- L'homme et la femme avaient déjà été faits à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait mal. Cependant, Dieu n'a jamais voulu qu'elle detienne cette connaissance.
   * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
   * **Comprendre le bien et le mal**  - Pour savoir par expérience personnelle quelles sont les choses qui sont bonnes et celles qui sont mauvaisesl, ou pour être en mesure de savoir si quelque chose est bon ou mauvais.
 ====   ====
