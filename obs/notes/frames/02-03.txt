@@ -1,4 +1,4 @@
-===== Do Not Touch [02-03] =====
+===== Do Not Touch [02-03]   T =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
@@ -8,23 +8,22 @@ La femme répondit, “Dieu nous a dit que nous pouvions manger du fruit de n'im
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:good|good]]**
   * **[[:fr:obs:notes:key-terms:evil|evil]]**
   * **[[:fr:obs:notes:key-terms:death|die]]**
-
-
 ==== Translation Notes: ====
 
-  * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
-  * **tree of the knowledge of good and evil**  - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-  * **you will die**  - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
 ==== notes de traduction: ====
 
+  * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
   * Fruits - Nous ne savons pas quel genre de fruit que ce était. Nous savons seulement qu'il a grandi sur cet arbre. Si possible, il est préférable d'utiliser un mot général pour les fruits ici, et pas un mot pour un type spécifique de fruits.
+  * **tree of the knowledge of good and evil**  - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
   * Arbre de la connaissance du bien et du mal - La femme bien compris qu'ils ne étaient pas autorisés à manger de cet arbre qui leur permettrait de comprendre le mal que le bien.
+  * **you will die**  - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
   * Vous mourrez - Utilisez votre mot ordinaire de la mort, de la vie physique d'une personne à la fin. Ne pas éviter le terme simplement parce que la pensée de la mort semble trop sévère
+
+====   ====
 
 **[[:fr:obs:notes:frames:02-02|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-04|>>]]**
 
