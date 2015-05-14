@@ -1,26 +1,22 @@
-===== Where Are You? [02-07] =====
+===== Where Are You? [02-07]  F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
 
 Then the man and his wife heard the sound of **God walking** through the garden. They both hid from God. Then God called to the man, “**Where are you**?” **Adam** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
 
-Puis l'homme et sa femme entendirent la voix de Dieu qui parcourait le jardin. Ils se cachèrent. Alors Dieu appela l'homme, “Où es-tu? Adam répondit, “j'ai entendu ta voix dans le jardin, et j'ai eu peur, parce que je suis nu. Je me suis caché.”
-
+Puis l'homme et sa femme entendirent la voix de **Dieu qui parcourait** le jardin. Ils se cachèrent. Alors Dieu appela l'homme, **“Où es-tu? Adam ** répondit, “j'ai entendu ta voix dans le jardin, et j'ai eu peur, parce que je suis nu. Je me suis caché.”
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:adam|Adam]]**
-
-
 ==== Translation Notes: ====
 
-  * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
 ==== notes de traduction: ====
 
+  * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
   * Dieu marche - Il semble que Dieu venait régulièrement dans le jardin pour marcher et à parler avec l'homme et la femme. Nous ne savons pas ce que cela ressemblait. Si ce est possible, il est préférable d'utiliser le même mot qui serait utilisé pour parler d'une personne qui marche.
-  * Te ou? - Dieu connaissait déjà la réponse à cette question. Le but de la question était de forcer l'homme et la femme pour expliquer pourquoi ils se cachaient
+  * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
+  * <font inherit/inherit;;inherit;;inherit>Te</font> <font inherit/inherit;;inherit;;inherit></font> ou<font inherit/inherit;;inherit;;inherit>? -</font> Dieu<font inherit/inherit;;inherit;;inherit></font> connaissait<font inherit/inherit;;inherit;;inherit></font> déjà<font inherit/inherit;;inherit;;inherit>la</font> réponse<font inherit/inherit;;inherit;;inherit></font> à<font inherit/inherit;;inherit;;inherit></font> cette<font inherit/inherit;;inherit;;inherit>question. Le but de la question</font> était<font inherit/inherit;;inherit;;inherit>de forcer</font> l'homme<font inherit/inherit;;inherit;;inherit>et la femme pour</font> expliquer<font inherit/inherit;;inherit;;inherit></font> pourquoi<font inherit/inherit;;inherit;;inherit></font> ils<font inherit/inherit;;inherit;;inherit>se</font> cachaient
 
 **[[:fr:obs:notes:frames:02-06|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-08|>>]]**
 
