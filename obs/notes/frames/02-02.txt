@@ -4,24 +4,22 @@
 
 But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?”
 
-Il y avait un serpent rusé dans le jardin. Il dit à la femme, “Dieu a t-Il réellement dit vous ne mangerez pas de tous les arbres du jardin?”
-
+Il y avait un **serpent rusé** dans le jardin. Il dit à la femme, “**Dieu**** a t-Il vraiment dit** vous ne mangerez pas de **tous les arbres du jardin**?”
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
 ==== Translation Notes: ====
 
-==== notes de traduction: ====
+==== Notes de traduction: ====
 
   * **crafty**  - Clever and sly, with the intent to deceive.
   * **rusé**  - intelligent et sournois avec l'intention de décevoir.
   * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **serpent **- une créature terrestre longue, sans pied qui se déplace maintenant en rampant. Bien que plus tard dans l'histoire, il a été révelé que le serpent était Satan, cela ne devrait pas être dit dans ce contexte.
+  * **serpent **- une créature terrestre longue, sans pied qui se déplace maintenant en rampant. Bien que plus tard dans l'histoire, il a été révelé que le serpent était Satan, on ne doit pas faire mention de cela dans ce contexte.
   * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * Dieu at-il vraiment vous dire - Le serpent dit à la femme de savoir si Dieu a réellement dit de ne pas manger de tous les arbres du jardin. Mais il faisait semblant qu'il ne savait pas ce que Dieu avait dit parce qu'il voulait créer le doute dans l'esprit de la femme. Il voulait qu'elle à la question de la bonté de Dieu.
+  * **Dieu at-il vraiment dit **- Le serpent a demandé à la femme si Dieu a vraiment dit de ne pas manger de tous les arbres du jardin. Mais il faisait semblant de ne pas savoir ce que Dieu avait dit parce qu'il voulait créer le doute dans l'esprit de la femme. Il voulait qu'elle questionne la bonté de Dieu.
   * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
-  * Fruits de tous les arbres - Tous les différents types de fruits de chacun des différents arbres dans le jardin.
-
+  * **tous les arbres**  - Tous les différents types de fruits de chacun des différents arbres du jardin.
 ====   ====
 
 **[[:fr:obs:notes:frames:02-01|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-03|>>]]**
