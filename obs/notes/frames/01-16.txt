@@ -1,11 +1,10 @@
-===== God Rested [01-16]   T =====
+===== God Rested [01-16] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&}}
 
 When **the seventh day** came, **God** had **finished his work**. So **God rested** from all he had been doing. He **blessed the seventh day** and **made it holy**, because on this day he rested from his work. This is how God created **the universe** and everything in it.
 
-Le septième jour de la création, Dieu avait achevé son œuvre. Alors Il se reposa de tout qu'il avait fait. Il bénit le septiéme jour et le sanctifia. C'est ainsi que Dieu créa l'univers et tout ce qu'il contient.
-
+**Le septième jour** de la création, **Dieu** avait **achevé son œuvre**. Alors **Dieu se reposa** de tout qu'il avait fait. Il **bénit le septiéme jour** et **le sanctifia**. C'est ainsi que Dieu créa **l'univers** et tout ce qu'il contient.
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
@@ -14,35 +13,20 @@ Le septième jour de la création, Dieu avait achevé son œuvre. Alors Il se re
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
-  * Le septième jour - le jour suivant l'achèvement de l'oeuvre de Dieu durant les six jours.
+  * **le septième jour**  - le jour suivant l'achèvement de l'oeuvre de Dieu durant les six jours.
   * **finished his work**  - Specifically, God finished the work of creation. He still performs other work.
-  * achevé son oeuvre - Dieu a explicitement fini le travalil de la création - Il effectue encore d'autres types de travaux.
+  * **achevé son oeuvre**  - Dieu a explicitement fini le travalil de la création - Il effectue encore d'autres types de travaux.
   * **God rested**  - God "rested" in the sense that he stopped working because creation was complete. God was not tired, or unable to continue.
-  * Dieu se reposa - Dieu "se reposa" dans le sens qu'il s'arrêta de travailler parce que la création a été completée. Dieu n'était pas fatigué ou incapable de continuer.
+  * **Dieu se reposa**  - Dieu "se reposa" dans le sens qu'il s'arrêta de travailler parce que la création a été completée. Dieu n'était pas fatigué ou incapable de continuer.
   * **blessed the seventh day**  - God had a special, positive plan for the seventh day, and for every seventh day to follow.
-  * bénit le septième jour - Dieu avait un plan spécial et positif pour le septième jour, et pour tous les septièmes jours à venir.
+  * **bénit le septième jour**  - Dieu avait un plan spécial et positif pour le septième jour, et pour tous les septièmes jours à venir.
   * **made it holy**  - That is, God "set apart" the day as a special day. It was not to be used in the same way as the other six days of the week.
-  * le sanctifia - Dieu a mit à part ce jour comme un jour spécial. Il ne devait pas être utilisé de la même maniêre que les autres six jours de la semaine.
+  * **le sanctifia**  - Dieu a mit à part ce jour comme un jour spécial. Il ne devait pas être utilisé de la même maniêre que les autres six jours de la semaine.
   * **the universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-  * l'univers - Cela inclut toute chose que Dieu a créé sur la terre et dans les cieux, y compris toute chose visible et invisible.
+  * **l'univers**  - Cela inclut toute chose que Dieu a créé sur la terre et dans les cieux, y compris toute chose visible et invisible.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  *
-
-==== notes de traduction: ====
-
-* le septième jour - Le lendemain, après les six jours de la création ont été achevés.
-
-* Fini son travail - Plus précisément, Dieu acheva le travail de création. Il effectue encore d'autres travaux.
-
-* Dieu se reposa - Dieu "reposé" dans le sens où il a cessé de travailler parce que la création est terminée. Dieu ne était pas fatigué, ou incapable de continuer.
-
-* Bénit le septième jour - Dieu avait un plan spécial, positif pour le septième jour, et pour chaque septième jour à suivre.
-
-* Le sanctifia - Ce est, Dieu «mis à part» de la journée comme un jour spécial. Il n'a pas à être utilisé de la même façon que les six autres jours de la semaine.
-
-* le univers - Cela inclut tout ce que Dieu a créé sur la terre et dans les cieux, les deux choses visibles et invisibles.
-
-* // Une histoire de la Bible à partir //  - Ces références peut être légèrement différent dans certaines traductions de la Bible.
+  * //Une histoire biblique tirée de//  - Il se pourrait que ces références soient légèrement différentes dans certaines traductions bibliques.
+====   ====
 
 **[[:fr:obs:notes:frames:01-15|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:02-01|>>]]**
 
