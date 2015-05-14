@@ -1,11 +1,10 @@
-===== The Lie [02-04] T =====
+===== The Lie [02-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
 The snake responded to the woman, “That is not **true**! You will not **die**. **God** just knows that as soon as you eat it, you will be **like God** and will **understand good and evil** like he does.”
 
-Le serpent répondit à la femme “Ce n'est pas vrai! Vous ne mourrez pas. Dieu sait justement qu'aussitôt que vous en mangerez, vous serez comme Dieu, capables de comprendre le bien et le mal, comme lui.”
-
+Le serpent répondit à la femme “Ce n'est pas **vrai**! Vous ne **mourrez** pas. **Dieu** sait justement qu'aussitôt que vous en mangerez, vous serez **comme Dieu**, **capables de comprendre le bien et le mal**.”
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:true|true]]**
@@ -18,9 +17,9 @@ Le serpent répondit à la femme “Ce n'est pas vrai! Vous ne mourrez pas. Dieu
 ==== notes de traduction: ====
 
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **Comme Dieu **- L'homme et la femme avaient déjà été faits à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait mal. Cependant, Dieu n'a jamais voulu qu'elle detienne cette connaissance.
+  * **Comme Dieu **- L'homme et la femme avaient déjà été créés à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait le mal. Cependant, Dieu n'a jamais voulu qu'elle détienne cette connaissance.
   * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-  * **Comprendre le bien et le mal**  - Pour savoir par expérience personnelle quelles sont les choses qui sont bonnes et celles qui sont mauvaisesl, ou pour être en mesure de savoir si quelque chose est bon ou mauvais.
+  * **Comprendre le bien et le mal**  - Savoir sur la base d'une expérience personnelle les choses qui sont bonnes et celles qui sont mauvaises, ou être en mesure de savoir si quelque chose est bon ou mauvais.
 ====   ====
 
 **[[:fr:obs:notes:frames:02-03|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-05|>>]]**
