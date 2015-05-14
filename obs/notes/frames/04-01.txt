@@ -8,10 +8,7 @@ Plusieurs années après le déluge, il y avait à nouveau beaucoup d'hommes dan
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God]]**
-
-
 ===== Translation Notes: =====
 
   * **many years after the flood**  - Many generations had passed since the end of the flood.
@@ -20,11 +17,10 @@ Plusieurs années après le déluge, il y avait à nouveau beaucoup d'hommes dan
   * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
 ===== Note de traduction: =====
 
-  * beaucoup ans après le déluge - Plusieurs générations se sont écoulées depuis la fin de la crue.
-  * Nouveau beaucoup de gens - la famille de Noé multipliés dans suffisamment de personnes pour remplir une ville.
-  * Même langue - Cela signifie qu'il y avait une seule langue, afin qu'ils puissent tous comprendre l'autre.
-  * Une ville - Il est préférable d'utiliser un mot général pour “ville” puisque le texte ne donne pas de nom spécifique
-
+  * **plusieurs années après le déluge**  - Plusieurs générations se sont écoulées depuis la fin de la crue.
+  * **à nouveau beaucoup d'hommes**  - la famille de Noé multipliés dans suffisamment de personnes pour remplir une ville.
+  * **même langue**  - Cela signifie qu'il y avait une seule langue, afin qu'ils puissent tous comprendre l'autre.
+  * **une ville**  - Il est préférable d'utiliser un mot général pour “ville” puisque le texte ne donne pas de nom spécifique
 **[[:fr:obs:notes:frames:03-16|<<]] | [[:fr:obs:notes:04|Up]] | [[:fr:obs:notes:frames:04-02|>>]]**
 
 ~~DISCUSSION~~
