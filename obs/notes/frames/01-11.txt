@@ -1,4 +1,4 @@
-===== Two Trees [01-11]   T =====
+===== Two Trees [01-11] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
@@ -19,7 +19,7 @@ Au milieu du jardin, Dieu planta deux arbres particuliers, l'arbre de la vie et 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
   * **Au milieu**  - l'emplacement central met l'emphase sur l'importance des deux arbres.
   * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **jardin**  - Un terrain planté d'arbres et de plantes selon un plan - habituellement destiné à produire de la nourriture ou l'esthétique.
+  * **jardin**  - Un terrain planté d'arbres et de plantes selon un plan - habituellement destiné à produire de la nourriture ou un aspect esthétique.
   * **tree of life**  - Anyone who ate fruit from this tree would never die.
   * **l'arbre de la vie**  - Quiconque mangerait du fruit de cet arbre mourrait.
   * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
