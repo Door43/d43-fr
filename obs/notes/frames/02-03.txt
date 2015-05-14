@@ -1,11 +1,10 @@
-===== Do Not Touch [02-03] T =====
+===== Do Not Touch [02-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
 The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’”
 
-La femme répondit, “Dieu nous a dit que nous pouvions manger du fruit de n'importe quel arbre sauf de celui de l'arbre de la connaissance du bien et du mal. Dieu nous a dit, 'Si vous mangez ce fruit ou si seulement vous le touchez, vous mourrez.'”
-
+La femme répondit, “**Dieu** nous a dit que nous pouvions manger du fruit de n'importe quel arbre sauf de celui de **l'arbre de la connaissance du bien et du mal**. Dieu nous a dit, 'Si vous mangez ce fruit ou si seulement vous le touchez, **vous mourrez**.'”
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
@@ -17,12 +16,11 @@ La femme répondit, “Dieu nous a dit que nous pouvions manger du fruit de n'im
 ==== notes de traduction: ====
 
   * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
-  * Fruit - Nous ne savons pas quel genre de fruit que c'était. Nous savons seulement qu'il a grandi sur cet arbre. Si possible, il est préférable d'utiliser un mot général pour le fruit ici, et pas un mot pour un type spécifique de fruits.
+  * **Fruit**  - Nous ne savons pas quel genre de fruit c'était. Nous savons seulement qu'il a grandi sur cet arbre. Si possible, il serait préférable d'utiliser un terme général pour fruit ici à la place d'un terme pour un type de fruit <font 14.166666030883789px line-height: 15.833333015441895px;/inherit;;inherit;;inherit>spécifique</font> .
   * **tree of the knowledge of good and evil**  - The woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-  * Arbre de la connaissance du bien et du mal - La femme avait bien compris qu'ils n'étaient pas autorisés à manger de cet arbre qui leur permettrait de comprendre aussi bien le mal que le bien.
+  * **Arbre de la connaissance du bien et du mal **- La femme avait bien compris qu'ils n'étaient pas autorisés à manger de cet arbre qui leur permettrait de comprendre aussi bien le mal que le bien.
   * **you will die**  - Use your ordinary word for death, for a person's physical life to end. Don't avoid the term just because the thought of death sounds too harsh.
-  * Vous mourrez - Utilisez le terme ordinaire pour la mort, pour la fin de la vie physique d'une personne. N'évitez pas le terme simplement parce que la pensée de la mort semble trop sévère
-
+  * **Vous mourrez **- Utilisez le terme ordinaire pour la mort, la fin de la vie physique d'une personne. N'évitez pas le terme simplement parce que la pensée de la mort vous semble trop cruelle.
 ====   ====
 
 **[[:fr:obs:notes:frames:02-02|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-04|>>]]**
