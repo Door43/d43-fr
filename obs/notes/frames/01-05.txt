@@ -1,16 +1,17 @@
-===== God Created the Plants [01-05]  T =====
+===== God Created the Plants [01-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&}}
 
 Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**.
 
-Puis Dieu dit: “Que la terre produise toutes sortes d'arbres et de plantes”. Et c'est ce qui arriva. Dieu vit que cela était bon.
-
+Puis **Dieu dit: “Que la terre produise toutes sortes** d'arbres et de plantes”. Et c'est ce qui arriva. Dieu vit que **cela était bon**.
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:good|good]]**
 ==== Translation Notes: ====
+
+==== notes de traduction: ====
 
   * **God said**  - God created all vegetation by speaking a command.
   * **Dieu dit**  - Dieu a créé toute la végétation par la parole.
@@ -22,8 +23,6 @@ Puis Dieu dit: “Que la terre produise toutes sortes d'arbres et de plantes”.
   * **créa**  - Ce terme est utilisé ici dans le sens de faire quelque chose à partir du néant.
   * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
   * **cela était bon**  - Cette phrase est souvent répétée tout au long de l'histoire de la création et met l'emphase sur le fait que chaque étape de la création a plu à Dieu, qui a accompli son plan et son objectif.
-==== notes de traduction: ====
-
 **[[:fr:obs:notes:frames:01-04|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-06|>>]]**
 
 ~~DISCUSSION~~
