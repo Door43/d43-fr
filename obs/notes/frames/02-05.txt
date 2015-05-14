@@ -1,25 +1,24 @@
-===== Disobedience [02-05] =====
+===== Disobedience [02-05]   F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&}}
 
 The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **wise**, so she picked some of the fruit and ate it. Then she gave some to her husband, **who was with her**, and he ate it, too.
 
-La femme vit que le fruit était magnifique et paraissait délicieux. Elle voulait aussi être savante, alors elle prit le fruit et en mangea. Puis elle en donna à son mari qui était avec elle, et il en mangea aussi.
-
+La femme vit que le fruit était magnifique et paraissait délicieux. Elle voulait aussi être **savante**, alors elle prit le fruit et en mangea. Puis elle en donna à son mari **qui était avec elle**, et il en mangea aussi.
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:wise|wise]]**
-
-
 ==== Translation Notes: ====
 
-  * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-  * **who was with her**  - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
 ==== notes de traduction: ====
 
-  * Sage - La femme voulait avoir la perspicacité et la compréhension comme le serpent semblait avoir, et comme Dieu a.
-  * Qui était avec elle - Cette information est importante car elle montre que l'homme était présent lorsque la femme a pris la décision de manger le fruit.
+  * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
+  * **Savante **- La femme voulait avoir la perspicacité et la compréhension que le serpent semblait avoir, et que Dieu a.
+  * **who was with her**  - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
+  * **Qui était avec elle**
+ - Cette information est importante car elle montre que l'homme était présent lorsque la femme a pris la décision de manger le fruit.
+
+====   ====
 
 **[[:fr:obs:notes:frames:02-04|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-06|>>]]**
 
