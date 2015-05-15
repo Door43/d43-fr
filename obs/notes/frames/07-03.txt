@@ -4,33 +4,31 @@
 
 **Isaac** wanted to **give his blessing** to **Esau**. But before he did, **Rebekah** and **Jacob tricked him** by having Jacob **pretend** to be Esau. Isaac was old and could no longer see. So Jacob put on Esau’s clothes and put **goatskins** on his neck and hands.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Isaac voulait donner sa bénédiction à Esau. Mais avant qu'il le fasse, Rébecca and Jacob trompèrent Isaac et firent passer Jacob pour Esau. Isaac était âgé et ne pouvait plus voir. Alors Jacob prit les habits d'Esau et couvrit son cou et ses mains de peau de chevreau.</font>
-
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>**Isaac** voulait **donner sa bénédiction** à Esau. Mais avant qu'il le fasse, Rébecca and Jacob **trompèrent Isaac** et firent passer Jacob pour Esau. Isaac était âgé et ne pouvait plus voir. Alors Jacob prit les habits d'Esau et couvrit son cou et ses mains de **peau de chevreau**.</font>
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:isaac|Isaac]]**
   * **[[:fr:obs:notes:key-terms:bless|blessing]]**
   * **[[:fr:obs:notes:key-terms:esau|Esau]]**
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob]]**
-
-
 ===== Translation Notes: =====
 
+===== Notes de traduction: =====
+
   * **give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
+  * **Donner sa bénédiction**
+ - Il était de coutume pour les pères d'exprimer formellement leur désir de bonnes choses se produisent à leurs enfants. Normalement, le fils aîné a reçu la meilleure promesse. Isaac voulait cette prospérité supplémentaire pour arriver à Esaü.
   * **tricked him**  - The word "trick" means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
+  * **trompèrent Isaac**
+ - Le mot «truc» signifie faire quelque chose pour tromper délibérément quelqu'un. Rebecca est venu avec un plan pour tromper Isaac en donnant Jacob la bénédiction spéciale au lieu d'Esaü.
   * **pretend**  - The word "pretend" shows how Jacob would deceive his father (who had very poor eyesight in his old age).
+  * **fait semblant**
+ - Le mot “faire semblant” montre comment Jacob tromper son père (qui avait une très mauvaise vue dans sa vieillesse).
   * **goatskins**  - The hairiness of the goatskins would make Jacob feel like Esau.
-===== Note de traduction: =====
+  * **peau de chèvreau**
+ - La pilosité des peaux de chèvre ferait sentir comme Jacob Esaü
 
-* Donner sa bénédiction - Il était de coutume pour les pères d'exprimer formellement leur désir de bonnes choses se produisent à leurs enfants. Normalement, le fils aîné a reçu la meilleure promesse. Isaac voulait cette prospérité supplémentaire pour arriver à Esaü.
-
-* L'a dupé - Le mot «truc» signifie faire quelque chose pour tromper délibérément quelqu'un. Rebecca est venu avec un plan pour tromper Isaac en donnant Jacob la bénédiction spéciale au lieu d'Esaü.
-
-  * fait semblant - Le mot “faire semblant” montre comment Jacob tromper son père (qui avait une très mauvaise vue dans sa vieillesse).
-  * peaux de chèvre - La pilosité des peaux de chèvre ferait sentir comme Jacob Esaü
-
-**[[:fr:obs:notes:frames:07-02|<<]] | [[:fr:obs:notes:07|Up]] | [[:fr:obs:notes:frames:07-04|>>]]**
+===== **[[:fr:obs:notes:frames:07-02|<<]] | [[:fr:obs:notes:07|Up]] | [[:fr:obs:notes:frames:07-04|>>]]**  =====
 
 ~~DISCUSSION~~
