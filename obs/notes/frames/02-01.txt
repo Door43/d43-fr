@@ -1,18 +1,12 @@
 ===== A Perfect World [02-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
-
 **Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
 
 notes de traduction:
 
-  *
+  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[https://door43.org/sw/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
 
-**garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[https://door43.org/sw/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
-
-  *
-
-<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>Jardin</font>    <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>-</font>    Une <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>collection</font>    spéciale <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>des</font>    arbres <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>et des</font>    plantes que Dieu <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>a</font>    préparé <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>pour Adam et Eve</font>    à profiter<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>et</font>    à partir <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>de</font>    laquelle à <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>manger.</font>    Cela devrait être <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>le</font>    même <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>mot qui a</font>    été utilisé dans<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>01</font>    à<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>11</font>    <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>.</font>    Voyez <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>comment</font>    vous avez traduit là<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>.</font>
+  * **Jardin** - Une collection spéciale d'arbres et de plantes que Dieu a préparée pour Adam et Eve à profiter    à partir <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>de</font>    laquelle à <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>manger.</font>    Cela devrait être <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>le</font>    même <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>mot qui a</font>    été utilisé dans<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>01</font>    à<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>11</font>    <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>.</font>    Voyez <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>comment</font>    vous avez traduit là<font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>.</font>
 
   * <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>** shame  ** - The feeling that comes with knowing we have sinned or that we fall short in some way. Before sin came into the world, there was no sense of shame about being naked.</font>
   * <font 14px line-height: 19px/Lato, sans-serif;;inherit;;inherit>Honte - Le sentiment qui vient de savoir que nous avons péché ou que nous tombons à court d'une certaine façon. Avant le péché est entré dans le monde, il n'y avait aucun sentiment de honte d'être nu</font>
