@@ -4,8 +4,7 @@
 
 After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
 
-Après un très long voyage vers le pays où vivait la famille d'Abraham, Dieu conduisit le serviteur vers Rébecca. Elle était la petite fille du frère d'Abraham.
-
+Après un très long voyage vers le pays où vivait la famille **d'Abraham**, **Dieu** conduisit le **serviteur** vers **Rébecca.** Elle était la **petite fille du frère d'Abraham**.
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:abraham|Abraham's]]**
@@ -14,11 +13,12 @@ Après un très long voyage vers le pays où vivait la famille d'Abraham, Dieu c
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah]]**
 ===== Translation Notes: =====
 
+===== Notes de traduction: =====
+
   * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
-===== Note de traduction: =====
+  * **petite-fille du frère d'Abraham**
+ - Plus précisément, elle était la fille du fils du frère d'Abraham. Son grand-père était le frère d'Abraham
 
-  * Petite-fille du frère d'Abraham - Plus précisément, elle était la fille du fils du frère d'Abraham. Son grand-père était le frère d'Abraham
-
-**[[:fr:obs:notes:frames:06-01|<<]] | [[:fr:obs:notes:06|Up]] | [[:fr:obs:notes:frames:06-03|>>]]**
+===== **[[:fr:obs:notes:frames:06-01|<<]] | [[:fr:obs:notes:06|Up]] | [[:fr:obs:notes:frames:06-03|>>]]**  =====
 
 ~~DISCUSSION~~
