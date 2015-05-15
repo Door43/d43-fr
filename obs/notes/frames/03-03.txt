@@ -1,18 +1,18 @@
-===== The Big Boat [03-03] =====
+===== The Big Boat [03-03]  F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
 **God** told **Noah** to make **the boat** about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood.
 
-**Dieu** dit à **Noé** de faire **une arche** en bois d'à peu près 140 mètres de longueur, 23 mètres de largeur et 13.5 mètres de hauteur. Noé devait la construire en bois et faire 3 étages, beaucoup de pièces, un toit et une fenêtre. Ainsi Noé, sa famille, et toutes sortes d'animaux de la terre seraient hors de danger, dans le bateau, pendant le déluge.
+**Dieu** dit à **Noé** de construire une** arche** en bois d'environ 140 mètres de longueur, 23 mètres de largeur et 13.5 mètres de hauteur. Noé devait la construire en bois et faire 3 étages, beaucoup de pièces, un toit et une fenêtre. Ainsi Noé, sa famille, et toutes sortes d'animaux de la terre seraient hors de danger, dans le bateau, pendant le déluge.
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:noah|Noah]]**
-===== Translation Notes:  <font 14px/inherit;;inherit;;inherit>Notes de</font> <font 14px/inherit;;inherit;;inherit></font> traduction<font 14px/inherit;;inherit;;inherit>:</font>  =====
+===== Translation Notes: <font 14px/inherit;;inherit;;inherit>Notes de</font>    traduction<font 14px/inherit;;inherit;;inherit>:</font>     =====
 
   * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
-  * **une arche**  - L'arche était assez grand pour transporter huit personnes, deux de chaque espèce d'animaux, et leurs dispositions depuis presque un an.
+  * **une arche**  - L'arche était assez grande pour transporter huit personnes, deux de chaque espèce d'animaux, et leurs provisions pour presqu'une année.
 **[[:fr:obs:notes:frames:03-02|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-04|>>]]**
 
 ~~DISCUSSION~~
