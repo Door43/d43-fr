@@ -1,4 +1,4 @@
-===== Building the Boat [03-04] =====
+===== Building the Boat [03-04]  F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&}}
 
@@ -12,12 +12,16 @@
   * **[[:fr:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **Noah warned**  - Noah told everyone that God planned to destroy the world because of sin.
-  * **turn to God**  - This means that they should stop sinning and start obeying God.
 ===== Note de traduction: =====
 
-  * Noah avertit - Noah dit à tout le monde que Dieu a prévu de détruire le monde à cause du péché.
-  * tourner vers Dieu - Cela signifie qu'ils doivent s'arrêter de pécher et commencer à obéir à Dieu
+  * **Noah warned**  - Noah told everyone that God planned to destroy the world because of sin.
+  * **Noah avertit**
+ - Noah dit à tout le monde que Dieu a prévu de détruire le monde à cause du péché.
+  * **turn to God**  - This means that they should stop sinning and start obeying God.
+  * **tourner vers Dieu**
+ - Cela signifie qu'ils devaient cesser de pécher et commencer à obéir à Dieu
+
+=====   =====
 
 **[[:fr:obs:notes:frames:03-03|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-05|>>]]**
 
