@@ -2,12 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&}}
 
-“Your wife, **Sarai**, will have a son—he will be the **son** of **promise**. Name him **Isaac**. **I will make my covenant with him**, and he will become a great nation. I will make **Ishmael** a great nation, too, but my covenant will be with Isaac.” Then **God** changed **Abram's** name to **Abraham**, which means “**father of many**.” God also changed Sarai's name to **Sarah**, which means “**princess**.”
+“Your wife, **Sarai**, will have a son—he will be the **son** of **promise**. Name him **Isaac**. **I will make my covenant with him**, and he will become a great nation.
 
-“Ta femme, Sarai, aura un fils qui sera le fils de ma Promesse. Tu lui donneras le nom d'Isaac. J'établirai mon Alliance avec lui et il deviendra une grande nation. Je ferai d'Ishmaël une grande nation aussi, mais mon Alliance sera avec Isaac.” Puis Dieu changea le nom d'Abram qui devint Abraham, ce qui signifie “père de beaucoup.” Dieu changea aussi le nom de Sarai en Sara, qui veut dire “princesse.”
+“Ta femme, Sarai, aura un fils, il sera le fils de la Promesse. Tu lui donneras le nom d'Isaac. J'établirai mon Alliance avec lui et il deviendra une grande nation.
+
+I will make **Ismael** a great nation, too, but my covenant will be with Isaac.” Then **God** changed **Abram's** name to **Abraham**, which means “**father of many**.” God also changed Sarai's name to **Sarah**, which means “**princess**.”
+
+. Je ferai d'Ishmaël une grande nation aussi, mais mon Alliance sera avec Isaac.” Puis Dieu changea le nom d'Abram qui devint Abraham, ce qui signifie “père de la multitude.” Dieu changea aussi le nom de Sarai en Sara, qui veut dire “princesse.”
 
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:sarah|Sarai]]**
   * **[[:fr:obs:notes:key-terms:son|son]]**
@@ -19,8 +22,6 @@
   * **[[:fr:obs:notes:key-terms:abraham|Abram's]]**
   * **[[:fr:obs:notes:key-terms:abraham|Abraham]]**
   * **[[:fr:obs:notes:key-terms:sarah|Sarah]]**
-
-
 ===== Translation Notes: =====
 
   * (God continues to speak to Abram.)
@@ -30,12 +31,12 @@
   * **princess**  - A princess is a daughter of a king. The names Sarai and Sarah apparently both meant "princess." But God changed her name to signify that she would be the mother of many nations, and some of her descendants would be kings.
 ===== Note de traduction: =====
 
-(Dieu continue à parler à Abram.)
+(Dieu continue de parler à Abram.)
 
-  * fils de la promesse - Isaac serait le fils que Dieu a promis à Abram et Saraï. Il serait également le fils que Dieu utiliser pour donner Abram nombreux descendants.
+  * fils de la promesse - Isaac serait le fils que Dieu a promis à Abram et Saraï. Il serait également le fils que Dieu a utilisé pour donner à Abram de nombreux descendants.
   * Je établirai mon alliance avec lui - Ce serait la même alliance que Dieu a fait avec Abram.
-  * père de beaucoup - comme Dieu l'avait promis, Abraham deviendrait l'ancêtre de nombreuses personnes qui deviendra même de nombreux pays.
-  * princesse - Une princesse est la fille d'un roi. Les noms Sarai et Sarah apparemment destinés à la fois “princesse.” Mais Dieu a changé son nom pour signifier qu'elle serait la mère de beaucoup de nations, et certains de ses descendants serait rois.
+  * père de multitude - comme Dieu l'avait promis, Abraham deviendrait l'ancêtre de nombreuses personnes qui deviendront même de nombreux territoires.
+  * princesse - Une princesse est une fille du roi. Les deux noms Sarai et Sara apparemment signifient “princesse.” Mais Dieu a changé le nom de Sara pour signifier qu'elle serait la mère de plusieurs nations, et certains de ses descendants seraient des rois.
 
 **[[:fr:obs:notes:frames:05-03|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:05-05|>>]]**
 
