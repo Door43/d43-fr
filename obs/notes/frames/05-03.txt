@@ -2,12 +2,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&}}
 
-God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
+God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**.
 
-Dieu dit, “Je suis le Dieu tout-puissant. J'établirai mon alliance avec toi.” Puis Abram tomba le visage contre terre. Dieu dit aussi à Abraham, “Tu deviendras le père d'une multitude de nations. Je te donnerai à toi et à tes descendants le pays de Canaan en possession perpétuelle, et je serai leur Dieu. Tu dois circoncire chaque mâle dans ta famille.”
+Dieu dit, “Je suis le Dieu tout-puissant. J'établirai mon alliance avec toi.” Puis Abram tomba sur sa face. Dieu dit aussi à Abraham, “Tu deviendras le père d'une multitude de nations.
+
+I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
+
+. Je te donnerai à toi et à tes descendants le pays de Canaan en possession, et je serai leur Dieu pour toujours. Tu dois circoncire chaque garcon  dans ta famille.”
 
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:covenant|covenant]]**
@@ -15,8 +18,6 @@ Dieu dit, “Je suis le Dieu tout-puissant. J'établirai mon alliance avec toi.�
   * **[[:fr:obs:notes:key-terms:descendant|descendants]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan]]**
   * **[[:fr:obs:notes:key-terms:circumcise|circumcise]]**
-
-
 ===== Translation Notes: =====
 
   * **father of many nations**  - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
