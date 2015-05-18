@@ -1,30 +1,35 @@
-===== The Rainbow [03-16] =====
+===== The Rainbow [03-16] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
 **God** then made the first **rainbow** as **a sign of his promise**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
 
-Alors **Dieu** plaça le premier **arc-en-ciel** pour qu'il serve comme **signe de sa promesse**. A **chaque fois** que l'arc-en-ciel apparaitra dans le ciel, Dieu et son peuple se souviendront de **sa promesse**.
+Alors **Dieu** plaça le premier **arc-en-ciel** pour qu'il serve** comme** **signe de sa promesse**. A **chaque fois** que l'arc-en-ciel apparaitra dans le ciel, Dieu et son peuple se souviendront de **sa promesse**.
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:promise|promise]]**
 ===== Translation Notes: =====
 
+===== Notes de traduction: =====
+
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
+  * **arc-en-ciel**
+ - C'est l'arc de lumière multicolore qui apparaît souvent dans le ciel après un orage.
   * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
+  * **signe**
+ - Un signe, c' est quelque chose (comme un objet ou un événement) qui donne un certain sens ou qui pointe vers quelque chose qui est vrai ou se passera.
   * **as a sign of his promise**  – In some languages it may be better to say, "to show that he had promised."
+  * **comme signe de sa promesse**
+ - Dans certaines langues, il peut être préférable de dire, “à montrer ce qu'il avait promis.”
   * **Every time**  – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, "From then on, every time."
+  * **chaque fois**
+ - Assurez-vous qu'il est clair que cela signifie à chaque fois un arc-en-ciel apparut à partir de ce moment là. Il peut être nécessaire d'ajouter, “Dès lors, à chaque fois.”
   * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
+  * **sa promesse**
+ - Ceci renvoie à l'image précédente dans laquelle Dieu a promis de ne plus jamais détruire la terre par un déluge.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-===== Note de traduction: =====
-
-  * arc-en-ciel - C'est l'arc de lumière multicolore qui apparaît souvent dans le ciel après un orage.
-  * Un signe - Un signe, c' est quelque chose (comme un objet ou un événement) qui donne un certain sens ou qui pointe vers quelque chose qui est vrai ou se passera.
-  * Comme un signe de sa promesse - Dans certaines langues, il peut être préférable de dire, “à montrer ce qu'il avait promis. ”
-  * Chaque fois - Assurez-vous qu'il est clair que cela signifie à chaque fois un arc-en-ciel apparut à partir de ce moment là. Il peut être nécessaire d'ajouter, “Dès lors, à chaque fois.”
-  * sa promesse - Ceci renvoie à l'image précédente dans laquelle Dieu a promis de ne plus jamais détruire la terre par un déluge.
-
+  * //Une histoire biblique de...// - Ces références peut être un peu différentes dans quelques traductions.
 **[[:fr:obs:notes:frames:03-15|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:04-01|>>]]**
 
 ~~DISCUSSION~~
