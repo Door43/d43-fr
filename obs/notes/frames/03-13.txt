@@ -1,4 +1,4 @@
-===== Leaving the Boat [03-13]  F =====
+===== Leaving the Boat [03-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
@@ -12,14 +12,15 @@
   * **[[:fr:obs:notes:key-terms:noah|Noah]]**
 ===== Translation Notes: =====
 
+===== Notes de traduction: =====
+
   * **Two months later**  - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
+  * **Deux mois plus tard** ​ - Cela signifie deux mois après Noah libéré la colombe de l'arche. Il peut être nécessaire de le dire explicitement si elle ne est pas clair.
   * **Have many children**  – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
+  * **Ayez beaucoup d'enfants**
+ - Pour s'assurer qu'il est clair que c'était le commandement et le désir de Dieu, vous pourriez dire: "Vous devez avoir beaucoup d'enfants.” ou "Je veux que vous ayez beaucoup d'enfants.”
   * **fill the earth**  - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
-===== Note de traduction: =====
-
-  * **Deux mois plus tard**  - Cela signifie deux mois après Noah libéré la colombe de l'arche. Il peut être nécessaire de le dire explicitement si elle ne est pas clair.
-  * **Ayez beaucoup d'enfants**  - Pour s'assurer qu'il est clair que c'était le commandement et le désir de Dieu, vous pourriez dire: "Vous devez avoir beaucoup d'enfants.” ou "Je veux que vous ayez beaucoup d'enfants.”
-  * **remplissez la terre**  - Si ce n'est pas clair, il peut être nécessaire de dire, “et remplir la terre avec les gens", ou "de sorte qu'il y aura beaucoup de gens qui vivent sur la terre.”
-**[[:fr:obs:notes:frames:03-12|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-14|>>]]**
-
+  * **remplissez la terre**
+ - Si ce n'est pas clair, il peut être nécessaire de dire, “et remplir la terre avec les gens", ou "de sorte qu'il y aura beaucoup de gens qui vivent sur la terre.”
+  * **[[:fr:obs:notes:frames:03-12|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-14|>>]]**
 ~~DISCUSSION~~
