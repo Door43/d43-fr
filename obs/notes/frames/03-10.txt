@@ -1,4 +1,4 @@
-===== The Raven [03-10]  F =====
+===== The Raven [03-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
@@ -10,10 +10,12 @@ Après 40 jours de plus, Noé lâcha un oiseau, un **corbeau**, pour voir si l'e
   * **[[:fr:obs:notes:key-terms:noah|Noah]]**
 ===== Translation Notes: =====
 
-  * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
-===== Note de traduction: =====
+===== Notes de traduction: =====
 
-  * **corbeau**  - Un oiseau noir qui vole et mange une variété d'aliments végétaux et animaux, y compris la chair en décomposition des cadavres d'animaux.
+  * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
+  * **corbeau**
+ - Un oiseau noir qui vole et mange une variété d'aliments végétaux et animaux, y compris la chair en décomposition des cadavres d'animaux.
+
 **[[:fr:obs:notes:frames:03-09|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-11|>>]]**
 
 ~~DISCUSSION~~
