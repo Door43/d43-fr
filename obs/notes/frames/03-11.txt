@@ -1,4 +1,4 @@
-===== The Dove [03-11] =====
+===== The Dove [03-11]  F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&}}
 
@@ -15,10 +15,9 @@ Plus tard **Noé** lâcha un oiseau, une **colombe**. Mais la colombe non plus n
   * **water was going down**  - It may be more natural in your language to say that, "the water was going away" or, "the level of the water was getting lower."
 ===== Note de traduction: =====
 
-  * Colombe - Un petit, blanc ou gris oiseau volant qui mange des graines ou des fruits.
-  * branche d'olivier - Le fruit de l'olivier contient de l'huile dont les gens utilisent pour la cuisson ou la mise sur leur peau. Si votre langue ne est pas un mot pour “rameau d'olivier”, vous pouvez le traduire par “la branche d'un arbre appelé” olive ”” ou “branche d'une huile d'arbre.”
-  * L'eau diminuait - Il peut être plus naturelle dans votre langue pour dire que, “l'eau s'en allait», ou «le niveau de l'eau devenait inférieure.”
-
+  * **colombe**  - Un petit, blanc ou gris oiseau volant qui mange des graines ou des fruits.
+  * **branche d'olivier**  - Le fruit de l'olivier contient de l'huile dont les gens utilisent pour la cuisson ou la mise sur leur peau. Si votre langue n'a pas de terme pour “branche d'olivier,” vous pouvez le traduire par “la branche d'un arbre appelé” olive ”” ou “branche d'une huile d'arbre.”
+  * **l'eau diminuait**  - Il peut être plus naturelle dans votre langue de dire que, “l'eau s'en allait», ou «le niveau de l'eau devenait inférieure.”
 **[[:fr:obs:notes:frames:03-10|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-12|>>]]**
 
 ~~DISCUSSION~~
