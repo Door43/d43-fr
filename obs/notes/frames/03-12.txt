@@ -1,4 +1,4 @@
-===== Dry Land [03-12]  F =====
+===== Dry Land [03-12] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
@@ -10,10 +10,12 @@
   * **[[:fr:obs:notes:key-terms:noah|Noah]]**
 ===== Translation Notes: =====
 
-  * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
-===== Note de traduction: =====
+===== Notes de traduction: =====
 
-  * **attendit encore une autre semaine**  - Vous pourriez dire, “attendu sept jours de plus.“ Le mot "attendu“ montre qu'il a été accordé du temps à Noé pour les eaux de crue de descendre avant d'envoyer à nouveau la colombe.
+  * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
+  * **attendit encore une autre semaine**
+ - Vous pourriez dire, “attendu sept jours de plus.“ Le mot "attendu“ montre qu'il a été accordé du temps à Noé pour les eaux de crue de descendre avant d'envoyer à nouveau la colombe.
+
 **[[:fr:obs:notes:frames:03-11|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-13|>>]]**
 
 ~~DISCUSSION~~
