@@ -1,4 +1,4 @@
-===== Ismaël est né  Ishmael Was Born [05-02] =====
+===== Ismaël est né Ishmael Was Born [05-02]  F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&}}
 
@@ -12,14 +12,13 @@ Alors **Abram épousa Agar**. Elle eut un garçon, et Abram lui donna le nom d'*
   * **[[:fr:obs:notes:key-terms:ishmael|Ishmael]]**
   * **[[:fr:obs:notes:key-terms:sarah|Sarai]]**
   * **[[:fr:obs:notes:key-terms:god|God]]**
-===== Translation Notes: =====
+===== Translation Notes:  Notes de traduction: =====
 
   * **married**  - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
+  * **Marié**<font inherit/inherit;;inherit;;inherit line-height: 1.4;>- Hagar</font> devint<font inherit/inherit;;inherit;;inherit line-height: 1.4;>la concubine-un</font> “seconde<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> épouse”<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> d'Abram<font inherit/inherit;;inherit;;inherit line-height: 1.4;>de</font> statut<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> inférieur<font inherit/inherit;;inherit;;inherit line-height: 1.4;>. Hagar</font> était<font inherit/inherit;;inherit;;inherit line-height: 1.4;>encore le</font> serviteur<font inherit/inherit;;inherit;;inherit line-height: 1.4;>de</font> Saraï<font inherit/inherit;;inherit;;inherit line-height: 1.4;>.</font>
   * **became jealous of Hagar**  - Sarai was jealous of Hagar because Hagar could have children and Sarai could not.
-===== Note de traduction: =====
+  * **Est devenu jaloux de Hagar** <font inherit/inherit;;inherit;;inherit line-height: 1.4;>-</font> Saraï<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> était<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> jalouse<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> d'Agar<font inherit/inherit;;inherit;;inherit line-height: 1.4;>Agar</font> parce<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> pourrait<font inherit/inherit;;inherit;;inherit line-height: 1.4;></font> avoir<font inherit/inherit;;inherit;;inherit line-height: 1.4;>des</font> enfants<font inherit/inherit;;inherit;;inherit line-height: 1.4;>et</font> Saraï<font inherit/inherit;;inherit;;inherit line-height: 1.4;>ne</font> pouvait<font inherit/inherit;;inherit;;inherit line-height: 1.4;>pas.</font>
 
-  * **Marié**  - Hagar devint la concubine-un “seconde épouse” d'Abram de statut inférieur. Hagar était encore le serviteur de Saraï.
-  * **Est devenu jaloux de Hagar**  - Saraï était jalouse d'Agar Agar parce pourrait avoir des enfants et Saraï ne pouvait pas.
 **[[:fr:obs:notes:frames:05-01|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:05-03|>>]]**
 
 ~~DISCUSSION~~
