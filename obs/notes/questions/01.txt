@@ -1,39 +1,43 @@
 ====== Story #1: The Creation ======
 
+La creation
+
 ===== Comprehension Questions and Answers =====
 
-  - **Where did everything in the universe come from?**
-      * //God created everything. [01-01]//
-  - **How long did it take God to create everything?**
-      * //Six days. [01-01]//
-  - **What was God's usual response to the things he created at the end of each day?**
-      * //He said it was good. [01-02], [01-04], [01-05], [01-06], [01-07], [01-08]//
-  - **In what way did God make man different than the animals?**
-      * //He made man in his image and in his likeness. [01-09]//
-  - **What did God say would be the responsibility of the human beings?**
-      * //They would have authority over the earth and over the animals to care for them. [01-09]//
-  - **How did God make the first man?**
-      * //God formed him from the dirt. [01-10]//
-  - **How did the man become alive?**
+Comprehention Questions et Reponses
+
+  - **Where did everything in the universe come from?** D'ou vien tout ce qui a ete cree?
+      * //God created everything. [01-01] Dieu crea tout//
+  - **How long did it take God to create everything? Pendant combien de temps Dieu a cree toute chose?**
+      * //Six days. [01-01] Six jours//
+  - **What was God's usual response to the things he created at the end of each day? Quel etais la question de Dieu quand il crea toute chose?**
+      * //He said it was good. [01-02], [01-04], [01-05], [01-06], [01-07], [01-08] Il dit c'etait bon//
+  - **In what way did God make man different than the animals? Dans quelle circonstancte Dieu a cree l'homme different de l'animal?**
+      * //He made man in his image and in his likeness. [01-09] Il crea l'homme a son image//
+  - **What did God say would be the responsibility of the human beings? Qu'est ce que Dieu a Dieu de la responsabilite de l'homme?**
+      * //They would have authority over the earth and over the animals to care for them. [01-09] Il aurons l'aurorite sur toute la terre et kes animaux pour prendre soin d'eux//
+  - **How did God make the first man? Comment Dieu a cee le premier homme**
+      * //God formed him from the dirt. [01-10] Dieu le forma de la boue//
+  - **How did the man become alive? comment l'homme est devenue vivant?**
       * //God breathed life into him. [01-10]//
-  - **What was the name of the man?**
-      * //Adam. [01-10]//
-  - **Where did God put Adam?**
-      * //In a garden that God planted. [01-10]//
-  - **From which special tree was Adam not allowed to eat?**
-      * //The tree of the knowledge of good and evil. [01-11]//
-  - **What would happen if Adam ate from the tree of the knowledge of good and evil?**
-      * //He would die. [01-11]//
-  - **Why was Adam "alone" when there were all kinds of animals?**
-      * //The animals were not able to be a "helper" for Adam. [01-12]//
-  - **How did God make the woman?**
-      * //He formed her from Adam's rib. [01-13]//
-  - **What did the name "woman" mean to Adam?**
-      * //It meant that she was made from man. [01-14]//
-  - **What is the purpose of a man having a wife?**
-      * //They are to become one. [01-14]//
-  - **What was God's evaluation of the creation when he finished it?**
-      * //It was very good. [01-15]//
-  - **What did God do on the seventh day?**
-      * //He rested and blessed the seventh day and made it holy. [01-16]//
+  - **What was the name of the man? Quel etait le nom de l'homme?**
+      * //Adam. [01-10] Adam  //
+  - **Where did God put Adam? Ou Dieu a place l'homme?**
+      * //In a garden that God planted. [01-10] dans le jardin ou Dieu les avaient place//
+  - **From which special tree was Adam not allowed to eat? De quel special arbre Adam etait interdit de manger?**
+      * //The tree of the knowledge of good and evil. [01-11] l'arbre de la connaissance du bien et du mal//
+  - **What would happen if Adam ate from the tree of the knowledge of good and evil? Que serait il passe si Adam avait mange de l'arbre de la connaissance du bien et du mal**
+      * //He would die. [01-11] Il allait mourire//
+  - **Why was Adam "alone" when there were all kinds of animals? pourquoi Adam etais seule alors qu'il y'avait toute sorte d'animaux?**
+      * //The animals were not able to be a "helper" for Adam. [01-12] Les animaux n'etaient pas capable d'etre une aide pour lui//
+  - **How did God make the woman? Comment Dieu a cree la femme?**
+      * //He formed her from Adam's rib. [01-13] Il le forma de la cote d'Adam//
+  - **What did the name "woman" mean to Adam? Que signifie le nom de "la femme" pour Adam?**
+      * //It meant that she was made from man. [01-14] Cela signifie que elle a ete faite de l'homme//
+  - **What is the purpose of a man having a wife? Qu'elle est le but pour l'homme d'avoir une femme?**
+      * //They are to become one. [01-14] Il deviendrons une chair//
+  - **What was God's evaluation of the creation when he finished it? Q' elle etait l'evaluation de la creation quand il a fini?**
+      * //It was very good. [01-15] c'etait bon//
+  - **What did God do on the seventh day? Qu'est ce que Dieu a fait le septiem jour?**
+      * //He rested and blessed the seventh day and made it holy. [01-16] Il se reposait et beni le septieme jour//
 **[[:fr:obs:notes:questions:02|>>]]**
