@@ -1,4 +1,4 @@
-===== One People [04-01] =====
+===== Un peuple One People [04-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
@@ -13,14 +13,13 @@
 ===== Notes de traduction: =====
 
   * **many years after the flood**  - Many generations had passed since the end of the flood.
-  * **plusieurs années après le déluge** - Plusieurs générations se sont écoulées depuis la fin de la crue.
+  * **plusieurs années après le déluge**  - Plusieurs générations après la fin du déluge.
   * **again many people**  - Noah's family multiplied into enough people to fill a city.
-  * **à nouveau beaucoup d'hommes** - la famille de Noé multipliés dans suffisamment de personnes pour remplir une ville.
+  * **à nouveau beaucoup d'hommes**  - la famille de Noé s'etait multipliée en suffisamment de personnes pour remplir une ville.
   * **same language**  - This means there was only one language, so they could all understand each other.
-  * **même langue** - Cela signifie qu'il y avait une seule langue, afin qu'ils puissent tous comprendre l'autre.
+  * **même langue**  - Cela signifie qu'il n'y avait qu'une seule langue, donc ils pouvaient tous se comprendre.
   * **a city**  - It is best to use a general word for "city" since the text does not give a specific name.
-  * **une ville** - Il est préférable d'utiliser un mot général pour “ville” puisque le texte ne donne pas de nom spécifique
-
+  * **une ville**  - Il est préférable d'utiliser un terme général pour “ville” vu que le texte ne donne pas de nom spécifique
 **[[:fr:obs:notes:frames:03-16|<<]] | [[:fr:obs:notes:04|Up]] | [[:fr:obs:notes:frames:04-02|>>]]**
 
 ~~DISCUSSION~~
