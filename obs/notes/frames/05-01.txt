@@ -1,14 +1,10 @@
-===== Hagar  Hagar [05-01] =====
+===== Hagar Hagar [05-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
-Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**.
+Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did not have a child**. <font inherit/inherit;;inherit;;inherit>So Abram's wife,</font> <font inherit/inherit;;inherit;;inherit></font> Sarai<font inherit/inherit;;inherit;;inherit>, said to him, “Since</font> <font inherit/inherit;;inherit;;inherit></font> **God** <font inherit/inherit;;inherit;;inherit></font> <font inherit/inherit;;inherit;;inherit>has not allowed me to have children and now I am too old to have children, here is my</font> <font inherit/inherit;;inherit;;inherit></font> **servant** <font inherit/inherit;;inherit;;inherit>,</font> <font inherit/inherit;;inherit;;inherit></font> **Hagar** <font inherit/inherit;;inherit;;inherit>.</font> <font inherit/inherit;;inherit;;inherit></font> **Marry her also** <font inherit/inherit;;inherit;;inherit></font> <font inherit/inherit;;inherit;;inherit>so she can</font> <font inherit/inherit;;inherit;;inherit></font> **have a child for me** <font inherit/inherit;;inherit;;inherit>.”</font>
 
-Dix ans après l'arrivée d'Abram et de Sarai à Canaan, Ils n'avaient toujours pas d'enfant.
-
-So Abram's wife, Sarai, said to him, “Since **God** has not allowed me to have children and now I am too old to have children, here is my **servant**, **Hagar**. **Marry her also** so she can **have a child for me**.”
-
-Alors Sarai, la femme d'Abram lui dit, “Etant donné que Dieu ne m'a pas permis d'avoir des enfants et maintenant je suis trop âgée pour en avoir, va vers ma servante, Hagar. Tu l'épouseras pour qu'elle ait un enfant pour moi.”
+Dix ans après l'arrivée d'**Abram** et de **Sarai** à **Canaan**, **ils n'avaient toujours pas d'enfant**. <font inherit/inherit;;inherit;;inherit>Alors</font> <font inherit/inherit;;inherit;;inherit></font> Sarai<font inherit/inherit;;inherit;;inherit>, la femme</font> d'Abram<font inherit/inherit;;inherit;;inherit></font> lui<font inherit/inherit;;inherit;;inherit></font> dit<font inherit/inherit;;inherit;;inherit>,</font> “Etant<font inherit/inherit;;inherit;;inherit></font> donné<font inherit/inherit;;inherit;;inherit></font> que<font inherit/inherit;;inherit;;inherit></font> **Dieu** <font inherit/inherit;;inherit;;inherit>ne</font> m'a<font inherit/inherit;;inherit;;inherit>pas</font> permis<font inherit/inherit;;inherit;;inherit></font> d'avoir<font inherit/inherit;;inherit;;inherit>des</font> enfants<font inherit/inherit;;inherit;;inherit>et</font> maintenant<font inherit/inherit;;inherit;;inherit>je</font> suis<font inherit/inherit;;inherit;;inherit>trop</font> âgée<font inherit/inherit;;inherit;;inherit>pour en</font> avoir<font inherit/inherit;;inherit;;inherit>,</font> va<font inherit/inherit;;inherit;;inherit></font> vers<font inherit/inherit;;inherit;;inherit>ma</font> **servante** <font inherit/inherit;;inherit;;inherit>,  ** Hagar ** .</font> **Tu<font inherit/inherit;;inherit;;inherit></font> l'épouseras** <font inherit/inherit;;inherit;;inherit>** pour  **</font> **qu'elle<font inherit/inherit;;inherit;;inherit></font> ait<font inherit/inherit;;inherit;;inherit>un</font> enfant** <font inherit/inherit;;inherit;;inherit>** pour moi ** .”</font>
 
 ===== Important Terms: =====
 
@@ -18,16 +14,16 @@ Alors Sarai, la femme d'Abram lui dit, “Etant donné que Dieu ne m'a pas permi
   * **[[:fr:obs:notes:key-terms:god|God]]**
   * **[[:fr:obs:notes:key-terms:servant|servant]]**
   * **[[:fr:obs:notes:key-terms:hagar|Hagar]]**
-===== Translation Notes: =====
+===== Translation Notes:<font 14px/inherit;;inherit;;inherit>Notes de</font> <font 14px/inherit;;inherit;;inherit></font> traduction<font 14px/inherit;;inherit;;inherit>:</font>  =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
+  * **ils n'avaient toujours pas d'enfant**
+ - Sans un enfant, Abram ne avait pas de descendants pour devenir une grande nation.
   * **Marry her also**  - Abram would take Hagar as a second wife, but Hagar would not have the full status of a wife as Sarai did. She was still Sarai's servant.
+  * **Tu l'épouseras **- Abram prendrait Hagar comme une seconde épouse, mais Hagar ne aurait pas le plein statut d'une femme comme Saraï fait. Elle était encore le serviteur de Saraï.
   * **have a child for me**  - Since Hagar was Sarai's servant, Sarai would be considered the mother of any children that Hagar bore.
-===== Note de traduction: =====
-
-  * encore ne pas avoir d'enfant - Sans un enfant, Abram ne avait pas de descendants pour devenir une grande nation.
-  * Épouser aussi - Abram prendrait Hagar comme une seconde épouse, mais Hagar ne aurait pas le plein statut d'une femme comme Saraï fait. Elle était encore le serviteur de Saraï.
-  * Avoir un enfant pour moi - Depuis Hagar était le serviteur de Saraï, Saraï serait considérée comme la mère de tous les enfants que Hagar alésage.
+  * **pour qu'elle ait un enfant pour moi**
+ - Depuis Hagar était le serviteur de Saraï, Saraï serait considérée comme la mère de tous les enfants que Hagar alésage.
 
 **[[:fr:obs:notes:frames:04-09|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:05-02|>>]]**
 
