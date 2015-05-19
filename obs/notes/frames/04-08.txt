@@ -1,13 +1,11 @@
-===== No Son [04-08] =====
+===== Aucun fils No Son F  [04-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
 **Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised** again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed** God's promise. God declared that Abram was **righteous** because he believed in God's promise.
 
-Plusieurs années passèrent, mais Abram et Sarai n'avaient toujours pas de fils. Dieu parla à Abram et lui promit encore une fois qu'il aurait un fils et autant de descendants qu'il y a d'étoiles dans le ciel. Abram crut en la promesse de Dieu. Dieu déclara qu'Abram était juste parce qu'il croyait en la promesse de Dieu.
-
+**Plusieurs années** passèrent, mais **Abram** et **Sarai** n'avaient toujours pas de **fils**. **Dieu** parla à Abram et lui **promit** encore une fois qu'il aurait un fils et autant de **descendants qu'il y a d'étoiles dans le ciel**. Abram **crut** en la promesse de Dieu. Dieu déclara qu'Abram était **juste** parce qu'il croyait en la promesse de Dieu.
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:abraham|Abram]]**
   * **[[:fr:obs:notes:key-terms:sarah|Sarai]]**
@@ -17,16 +15,16 @@ Plusieurs années passèrent, mais Abram et Sarai n'avaient toujours pas de fils
   * **[[:fr:obs:notes:key-terms:descendant|descendants]]**
   * **[[:fr:obs:notes:key-terms:believe|believed]]**
   * **[[:fr:obs:notes:key-terms:righteous|righteous]]**
-
-
 ===== Translation Notes: =====
 
-  * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky**  - This expression means that Abram's descendants will be so many that no one can count them all.
 ===== Note de traduction: =====
 
-  * Plusieurs années - Plusieurs années se sont écoulées depuis que Dieu avait d'abord promis que Abram aurait un fils.
-  * Que les étoiles dans le ciel - Cette expression signifie que les descendants d'Abram seront tellement que personne ne peut les compter.
+  * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
+  * Plusieurs années - Plusieurs années se sont écoulées depuis que Dieu avait promis qu'Abram aurait eu un fils.
+  * **as the stars in the sky**  - This expression means that Abram's descendants will be so many that no one can count them all.
+  * autant d'étoiles dans le ciel - Cette expression signifie que les descendants d'Abram auraient été tellement nombreux que personne ne pourrait les compter.
+
+=====   =====
 
 **[[:fr:obs:notes:frames:04-07|<<]] | [[:fr:obs:notes:04|Up]] | [[:fr:obs:notes:frames:04-09|>>]]**
 
