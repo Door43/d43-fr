@@ -3,4 +3,4 @@
 
 Pages with opening or closing <nowiki>HTML <font> or </font></nowiki> tags:
 
-{{pagequery>ns:fr:obs "<font" | ns:en:bible:notes "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
+{{pagequery>ns:fr:obs "<font" | ns:fr:obs "</font>"; fulltext; sort=title:asc; display={title}; natsort; layout=table; showcount; hidemsg; hidejump;}}
