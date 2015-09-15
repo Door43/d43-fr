@@ -8,12 +8,12 @@ Au milieu du jardin, Dieu planta deux arbres particuliers, l'arbre de la vie et 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:life|life]]**
-  * **[[:fr:obs:notes:key-terms:good|good]]**
-  * **[[:fr:obs:notes:key-terms:evil|evil]]**
-  * **[[:fr:obs:notes:key-terms:adam|Adam]]**
-  * **[[:fr:obs:notes:key-terms:death|die]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:life|life (vie)]]**
+  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+  * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
+  * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
+  * **[[:fr:obs:notes:key-terms:death|die (mort]]**
 ==== Translation Notes: ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
