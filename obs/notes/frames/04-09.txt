@@ -7,12 +7,12 @@ Then **God** made a **covenant** with **Abram**. A covenant is an agreement betw
 Puis **Dieu** fit une **alliance** avec **Abram**. Une Alliance est un accord entre **deux partis**. Dieu dit, “Je te donnerai un **fils qui viendra de ton corps**. Je donnerai le pays de **Canaan** à tes **descendants**.” Mais Abram n'avait toujours pas de fils.
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:fr:obs:notes:key-terms:abraham|Abram]]**
-  * **[[:fr:obs:notes:key-terms:son|son]]**
-  * **[[:fr:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:fr:obs:notes:key-terms:descendant|descendants]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:covenant|covenant (alliance)]]**
+  * **[[:fr:obs:notes:key-terms:abraham|Abram (Abram)]]**
+  * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
+  * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
  ===== Note de Traduction: =====
 
   * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
