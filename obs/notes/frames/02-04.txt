@@ -7,11 +7,11 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 Le serpent répondit à la femme “Ce n'est pas **vrai**! Vous ne **mourrez** pas. **Dieu** sait justement qu'aussitôt que vous en mangerez, vous serez **comme Dieu**, **capables de comprendre le bien et le mal**.”
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:true|true]]**
-  * **[[:fr:obs:notes:key-terms:death|die]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:good|good]]**
-  * **[[:fr:obs:notes:key-terms:evil|evil]]**
+  * **[[:fr:obs:notes:key-terms:true|true (vérité)]]**
+  * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+  * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
 
 
 ==== Notes de Traduction: ====
