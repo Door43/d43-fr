@@ -9,12 +9,12 @@ Ce jour-là Abraham circoncit tous les mâles de sa maison. Un an plus tard, alo
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:fr:obs:notes:key-terms:circumcise|circumcised]]**
-  * **[[:fr:obs:notes:key-terms:sarah|Sarah]]**
-  * **[[:fr:obs:notes:key-terms:son|son]]**
-  * **[[:fr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
+  * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
+  * **[[:fr:obs:notes:key-terms:circumcise|circumcised (circoncire)]]**
+  * **[[:fr:obs:notes:key-terms:sarah|Sarah (Sarah)]]**
+  * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
 
 
