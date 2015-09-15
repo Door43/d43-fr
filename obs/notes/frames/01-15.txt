@@ -7,9 +7,9 @@
 **Dieu fit** l'homme et la femme **à son image**. Il les **bénit** et leur dit “ Soyez féconds, multipliez vous et remplissez la terre!” Et Dieu vit que tout ce qu'il avait fait était **très bon** et il en était ravi. Tout cela arriva le sixième jour de la **création**.
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:bless|blessed]]**
-  * **[[:fr:obs:notes:key-terms:good|good]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
+  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
