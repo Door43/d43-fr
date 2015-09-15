@@ -9,7 +9,7 @@
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:disobey|disobeyed (désobéir)]]**
-  * **[[:fr:obs:notes:key-terms:curse|cursed (malédiction]]**
+  * **[[:fr:obs:notes:key-terms:curse|cursed (malédiction)]]**
   * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
   * **[[:fr:obs:notes:key-terms:eve|Eve (Eve)]]**
   * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
