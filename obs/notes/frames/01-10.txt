@@ -8,9 +8,9 @@ Alors Dieu forma l'homme de la poussière de la terre, et lui insuffla la vie. L
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:life|life]]**
-  * **[[:fr:obs:notes:key-terms:adam|Adam]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:life|life (vie)]]**
+  * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
 ==== Translation Notes: ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
