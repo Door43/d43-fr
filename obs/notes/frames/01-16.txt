@@ -7,9 +7,9 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
 **Le septième jour** de la création, **Dieu** avait **achevé son œuvre**. Alors **Dieu se reposa** de tout qu'il avait fait. Il **bénit le septiéme jour** et **le sanctifia**. C'est ainsi que Dieu créa **l'univers** et tout ce qu'il contient.
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:bless|blessed]]**
-  * **[[:fr:obs:notes:key-terms:holy|holy]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
+  * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
