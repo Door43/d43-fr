@@ -8,9 +8,9 @@ Puis Dieu dit: “il n'est pas bon que l'homme soit seul.” Mais aucun des anim
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:good|good]]**
-  * **[[:fr:obs:notes:key-terms:adam|Adam's]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+  * **[[:fr:obs:notes:key-terms:adam|Adam's (Adam)]]**
 ==== Translation Notes: ====
 
   * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
