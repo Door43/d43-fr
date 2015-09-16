@@ -1,16 +1,16 @@
-====== 35. La Parabole du Fils Perdu ======
+====== 35. La Parabole du Fils prodigue F ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?direct&}}
 
-Un jour, Jésus enseignait à beaucoup de collecteurs d'impôts et de pécheurs qui s'étaient rassemblés pour l'entendre.
+Un jour, Jésus enseignait à beaucoup de publicains et de pécheurs qui s'étaient rassemblés pour l'entendre.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?direct&}}
 
-Certains des chefs religieux qui étaient présents se plaignaient de ce que Jésus traitait les collecteurs d'impôts et les pécheurs comme des amis, et ils commencèrent à le critiquer entre eux. Alors, Jésus leur dit cette parabole.
+Certains des chefs religieux qui étaient présents se plaignaient de ce que Jésus traitait les publicains et les pécheurs comme des amis, et ils commencèrent à le critiquer entre eux. Alors, Jésus leur dit cette parabole.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?direct&}}
 
-"Un homme avait deux fils. Le plus jeune dit à son père: 'Père, donne-moi maintenant la part du bien qui doit me revenir! 'Alors le père partagea son bien entre ses deux fils."
+"Un homme avait deux fils. Le plus jeune dit à son père: 'Père, donne-moi maintenant la part de bien qui doit me revenir! 'Alors le père partagea son bien entre ses deux fils."
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?direct&}}
 
@@ -34,7 +34,7 @@ Certains des chefs religieux qui étaient présents se plaignaient de ce que Jé
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?direct&}}
 
-"Mais son père dit à un de ses serviteurs: 'Apportez vite le plus beau vêtement et l'en revêtez! Mettez lui un anneau au doigt et des sandales aux pieds. Puis amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous parce que mon fils était mort et il est revenu à la vie!'"
+"Mais son père dit à un de ses serviteurs: 'Apportez vite le plus beau vêtement et mettez le lui! Mettez lui un anneau au doigt et des sandales aux pieds. Puis amenez le veau gras, et tuez-le. Mangeons et réjouissons-nous parce que mon fils était mort et il est revenu à la vie!'"
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?direct&}}
 
@@ -50,6 +50,6 @@ Certains des chefs religieux qui étaient présents se plaignaient de ce que Jé
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?direct&}}
 
-"Le père répondit: 'Mon fils, tu es toujours avec moi, et tout ce que j'ai est à toi. Mais il fallait bien se réjouir, parce que ton frère était mort et que maintenant il est revenu à la vie. Il était perdu et il est retrouvé.'"
+"Le père répondit: 'Mon fils, tu es toujours avec moi, et tout ce que j'ai est à toi. Mais il fallait bien se réjouir, parce que ton frère était mort et maintenant il est revenu à la vie. Il était perdu et il est retrouvé.'"
 
 //Une histoire biblique tirée de: Luc 15:11-32//
