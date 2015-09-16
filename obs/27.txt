@@ -1,4 +1,4 @@
-====== 27. La Parabole du Bon Samaritain ======
+====== 27. La Parabole du Bon Samaritain F ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
 
@@ -18,7 +18,7 @@ Jésus lui répondit par une parabole. "Un homme Juif voyageait de Jérusalem à
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
 
-Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.
+Pendant son voyage, il fut attaqué par une bande de brigands, qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
 
@@ -26,7 +26,7 @@ Peu de temps après, un prêtre Juif prit le même chemin. Quand ce chef religie
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
 
-Quelques instants plus tard, un Lévite qui voyageait sur la même route traversa aussi la rue et ignora l'homme qui avait été volé et battu. (Les Lévites étaient une Tribu Juive qui aidait les prêtres au Temple.)
+Quelques instants plus tard, un Lévite voyageait sur la même route. (Les Lévites étaient une Tribu Juive qui aidait les prêtres au Temple.) Le Lévite traversa aussi la rue et ignora l'homme qui avait été volé et battu.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
 
