@@ -9,12 +9,12 @@ Après avoir testé ses frères pour être certain qu'ils avaient changé, Josep
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:fr:obs:notes:key-terms:evil|evil]]**
-  * **[[:fr:obs:notes:key-terms:servant|slave]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:good|good]]**
-  * **[[:fr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:fr:obs:notes:key-terms:joseph|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
+  * **[[:fr:obs:notes:key-terms:servant|slave (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+  * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
 
 
 ==== Translation Notes: ====
