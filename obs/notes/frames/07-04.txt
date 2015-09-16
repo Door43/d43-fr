@@ -8,10 +8,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:fr:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:fr:obs:notes:key-terms:esau|Esau]]**
-  * **[[:fr:obs:notes:key-terms:bless|bless]]**
+  * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
+  * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+  * **[[:fr:obs:notes:key-terms:esau|Esau (Esaü)]]**
+  * **[[:fr:obs:notes:key-terms:bless|bless (bénir)]]**
 
 
 
