@@ -9,9 +9,9 @@ Moïse devint un berger dans la nature loin d'Égypte. Il se maria avec une femm
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms:shepherd|shepherd]]**
-  * **[[:fr:obs:notes:key-terms:egypt|Egypt]]**
+  * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms:shepherd|shepherd (berger)]]**
+  * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
 
 
 ==== Translation Notes: ====
