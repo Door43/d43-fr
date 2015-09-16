@@ -9,10 +9,10 @@ Dieu avait donné à Joseph la capacité d'interpréter les rêves, alors Pharao
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:fr:obs:notes:key-terms:dream|dreams]]**
-  * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:joseph|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms:dream|dreams (rêve)]]**
+  * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
 
 
 
