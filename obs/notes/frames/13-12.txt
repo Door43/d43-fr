@@ -9,14 +9,14 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:aaron|Aaron]]**
-  * **[[:fr:obs:notes:key-terms:idol|idol]]**
-  * **[[:fr:obs:notes:key-terms:worship|worship]]**
-  * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:sin|sin]]**
-  * **[[:fr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms:pray|prayed]]**
+  * **[[:fr:obs:notes:key-terms:aaron|Aaron (Aaron)]]**
+  * **[[:fr:obs:notes:key-terms:idol|idol (idole)]]**
+  * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+  * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices (sacrifice)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
 
 
 ==== Translation Notes: ====
