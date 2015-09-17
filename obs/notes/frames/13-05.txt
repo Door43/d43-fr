@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:idol|idols]]**
-  * **[[:fr:obs:notes:key-terms:worship|worship]]**
-  * **[[:fr:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:sabbath|Sabbath day]]**
-  * **[[:fr:obs:notes:key-terms:holy|holy]]**
-  * **[[:fr:obs:notes:key-terms:sabbath|seventh day]]**
+  * **[[:fr:obs:notes:key-terms:idol|idols (idole)]]**
+  * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+  * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:sabbath|Sabbath day (sabbat)]]**
+  * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
+  * **[[:fr:obs:notes:key-terms:sabbath|seventh day (septième jour)]]**
 ==== Translation Notes: ====
 
   * (God continues speaking to Moses.)
