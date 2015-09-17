@@ -12,7 +12,7 @@
   * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:forgive|forgive (pardonner)]]**
-  * **[[:fr:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
+  * **[[:fr:obs:notes:key-terms:ten-commandments|Ten Commandments (Le dix commandements)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:sinai|Mount Sinai (Mount Sinaï)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
