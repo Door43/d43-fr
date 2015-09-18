@@ -8,11 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:fr:obs:notes:key-terms/repent|Repent]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:fr:obs:notes:key-terms/john-baptist|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/repent|Repent (repentir)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophets (prophète)]]**
 
 
 ===== Translation Notes: =====
