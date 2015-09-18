@@ -9,7 +9,7 @@
 ===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms/wise|wise (sage)]]**
-  * **[[:fr:obs:notes:key-terms/king-of-jews|king of the Jews (roi de les Juifs)]]**
+  * **[[:fr:obs:notes:key-terms/king-of-jews|king of the Jews (Roi des juifs)]]**
   * **[[:fr:obs:notes:key-terms/bethlehem|Bethlehem (Béthlehem)]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
 
