@@ -8,12 +8,12 @@ Then **Jesus** said, “It is **true** that **no prophet is accepted in his own 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/true|true]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:fr:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:fr:obs:notes:key-terms/israel|Israel]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/true|true (vérité)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms/elijah|Elijah (Élie)]]**
+  * **[[:fr:obs:notes:key-terms/israel|Israel (Israël)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
 
 ===== Translation Notes: =====
