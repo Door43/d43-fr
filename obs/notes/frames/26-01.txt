@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/satan|Satan's]]**
-  * **[[:fr:obs:notes:key-terms/tempt|temptations]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/power|power]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:fr:obs:notes:key-terms/satan|Satan's (Satan)]]**
+  * **[[:fr:obs:notes:key-terms/tempt|temptations (tentations)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/power|power (puissance)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/galilee|Galilee (Galilée)]]**
 
 
 ===== Translation Notes: =====
