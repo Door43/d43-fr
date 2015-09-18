@@ -9,10 +9,10 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned]]**
+  * **[[:fr:obs:notes:key-terms/john-baptist|John (Jean le baptiste)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptize (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
 
 
 ===== Translation Notes: =====
