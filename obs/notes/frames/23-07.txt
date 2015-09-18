@@ -8,11 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angels]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/glory|Glory]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/peace|peace]]**
+  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/glory|Glory (gloire)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/peace|peace (paix)]]**
 
 
 ===== Translation Notes: =====
