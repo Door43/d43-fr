@@ -9,11 +9,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms/mary|Mary]]**
-  * **[[:fr:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/dream|dream]]**
+  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms/righteous|righteous (vertueux)]]**
+  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/dream|dream (rêve)]]**
 
 
 ===== Translation Notes: =====
