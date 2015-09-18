@@ -8,10 +8,10 @@ Jésus<font inherit/inherit;;inherit;;inherit></font> lut<font inherit/inherit;;
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Spirit]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms/lord|Lord's]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Spirit (Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Lord's (Seigneur)]]**
 
 
 ===== Translation Notes: =====
