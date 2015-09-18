@@ -9,15 +9,15 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:fr:obs:notes:key-terms:priest|priests]]**
-  * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:punish|punishment]]**
-  * **[[:fr:obs:notes:key-terms:sin|sins]]**
-  * **[[:fr:obs:notes:key-terms:pray|prayed]]**
-  * **[[:fr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:fr:obs:notes:key-terms:israel|Israelite (Israël)]]**
+  * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices (sacrifice)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:punish|punishment (punir)]]**
+  * **[[:fr:obs:notes:key-terms:sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
+  * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms:priest-high|high priest (le grande Sacrificateur)]]**
 
 
 ==== Translation Notes: ====
