@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/worship|Worship]]**
-  * **[[:fr:obs:notes:key-terms/lord|Lord]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/worship|Worship (adorer)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Lord (Seigneur)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
 
 ===== Translation Notes: =====
