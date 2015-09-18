@@ -9,13 +9,13 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms:promise|promise]]**
-  * **[[:fr:obs:notes:key-terms:adam|Adam]]**
-  * **[[:fr:obs:notes:key-terms:eve|Eve]]**
-  * **[[:fr:obs:notes:key-terms:descendant|descendant]]**
-  * **[[:fr:obs:notes:key-terms:satan|Satan]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms:promise|promise (promesse)]]**
+  * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
+  * **[[:fr:obs:notes:key-terms:eve|Eve (Eve)]]**
+  * **[[:fr:obs:notes:key-terms:descendant|descendant (descendant)]]**
+  * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
 
 
 ==== Translation Notes: ====
