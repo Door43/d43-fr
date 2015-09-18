@@ -9,11 +9,11 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:promise|promised]]**
-  * **[[:fr:obs:notes:key-terms:moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:fr:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
+  * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
 
 
 ==== Translation Notes: ====
