@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/mary|Mary]]**
-  * **[[:fr:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/power|power]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/holy|holy]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
+  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms/virgin|virgin (vierge)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/power|power (puissance)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/holy|holy (saint)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
 
 
 ===== Translation Notes: =====
