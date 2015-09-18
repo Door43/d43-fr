@@ -9,13 +9,13 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:god|God]]**
-  * **[[:fr:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:fr:obs:notes:key-terms:people-group|people groups]]**
-  * **[[:fr:obs:notes:key-terms:bless|blessing]]**
-  * **[[:fr:obs:notes:key-terms:fulfill|fulfilled]]**
-  * **[[:fr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms:save|saved]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
+  * **[[:fr:obs:notes:key-terms:people-group|people groups (groupe ethnique)]]**
+  * **[[:fr:obs:notes:key-terms:bless|blessing (bénir)]]**
+  * **[[:fr:obs:notes:key-terms:fulfill|fulfilled (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms:save|saved (sauver/déivrer)]]**
 
 
 ==== Translation Notes: ====
