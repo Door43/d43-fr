@@ -6,12 +6,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/temple|Temple]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/angel|angels]]**
+  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/temple|Temple (temple)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
 
 
 ===== Translation Notes: =====
