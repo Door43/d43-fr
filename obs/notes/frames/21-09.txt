@@ -9,13 +9,13 @@
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms:god|God's]]**
-  * **[[:fr:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:fr:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:fr:obs:notes:key-terms:prophet|prophesied]]**
-  * **[[:fr:obs:notes:key-terms:virgin|virgin]]**
-  * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem]]**
+  * **[[:fr:obs:notes:key-terms:god|God's (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
+  * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms:isaiah|Isaiah (Esaïe)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophesied (prophétiser)]]**
+  * **[[:fr:obs:notes:key-terms:virgin|virgin (vierge)]]**
+  * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Bethléhem)]]**
 
 
 ==== Translation Notes: ====
