@@ -8,12 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/mary|Mary]]**
-  * **[[:fr:obs:notes:key-terms/rome|Roman]]**
-  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:fr:obs:notes:key-terms/nazareth|Nazareth]]**
-  * **[[:fr:obs:notes:key-terms/bethlehem|Bethlehem]]**
-  * **[[:fr:obs:notes:key-terms/david|David]]**
+  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms/rome|Roman (Romain)]]**
+  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms/nazareth|Nazareth (Nazareth)]]**
+  * **[[:fr:obs:notes:key-terms/bethlehem|Bethlehem (Béthlehem)]]**
+  * **[[:fr:obs:notes:key-terms/david|David (David)]]**
 
 
 ===== Translation Notes: =====
