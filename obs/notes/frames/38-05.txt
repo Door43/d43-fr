@@ -14,7 +14,11 @@ Puis Jésus prit la coupe et dit: “Buvez, ceci est mon sang par lequel est sce
   * **[[:fr:obs:notes:key-terms/forgive|forgiveness]]**
   * **[[:fr:obs:notes:key-terms/sin|sins]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/blood]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:kt/forgive|forgiveness]]**
+  * **[[:fr:obe:kt/sin]]**
 ===== Translation Notes: =====
 
   * **a cup**  - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
