@@ -13,7 +13,10 @@ Puis Jésus dit aux disciples: “l'un de vous me trahira.” Les disciples fure
   * **[[:fr:obs:notes:key-terms/betray|betray]]**
   * **[[:fr:obs:notes:key-terms/judas|Judas]]**
 
-
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt:disciple|disciples]]**
+  * **[[:fr:obe:kt:betray]]**
+  * **[[:fr:obe:other:judasiscariot]]**
 ===== Translation Notes: =====
 
   * **give this piece of bread**  - That is, "hand this piece of bread."
