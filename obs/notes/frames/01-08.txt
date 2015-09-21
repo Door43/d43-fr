@@ -10,6 +10,9 @@ Le sixième jour de la création, Dieu dit: “Qu'il y ait toutes sortes d'anima
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/good]]**
 ==== Translation Notes: ====
 
 ==== notes de traduction: ====
