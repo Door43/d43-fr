@@ -14,7 +14,11 @@ A Jerusalem, Jésus célèbra le repas de la Pâque avec ses disciples. Jésus p
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
   * **[[:fr:obs:notes:key-terms/sacrifice|sacrificed]]**
 
-
+  * **[[:fr:obe:other/Jerusalem]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/Passover]]**
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:other/sacrifice|sacrificed]]**
 ===== Translation Notes: =====
 
   * **celebrated**  - That is, "was celebrating."
