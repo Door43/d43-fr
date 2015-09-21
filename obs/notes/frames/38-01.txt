@@ -19,7 +19,16 @@ Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remerc
   * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
   * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
 
-
+  * **[[:fr:obe:other/Jew|Jews]]**
+  * **[[:fr:obe:kt/Passover]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:other/Egypt]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/preach|preaching]]**
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:other/Jerusalem]]**
 ===== Translation Notes: =====
 
   * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
