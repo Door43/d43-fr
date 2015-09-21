@@ -10,6 +10,9 @@
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:noah|Noah (Noé)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Noah]]**
+
 
 
 
