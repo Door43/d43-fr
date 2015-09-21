@@ -10,6 +10,9 @@ Le quatrième jour de la création, Dieu parla et créa le soleil, la lune et le
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/good]]**
 ==== Translation Notes: ====
 
   * **the fourth day**  - The next in the orderly series of days in which God created.
