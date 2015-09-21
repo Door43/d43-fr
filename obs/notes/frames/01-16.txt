@@ -10,6 +10,10 @@ When **the seventh day** came, **God** had **finished his work**. So **God reste
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:kt/holy]]**
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
