@@ -10,6 +10,10 @@
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:kt/good]]**
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
