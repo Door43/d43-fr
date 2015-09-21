@@ -9,6 +9,9 @@ Le **troisième jour**, **Dieu parla** et sépara les eaux de la terre ferme. Il
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/good]]**
 ==== Translation Notes: ====
 
   * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
