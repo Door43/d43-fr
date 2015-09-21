@@ -14,6 +14,13 @@
   * **[[:fr:obs:notes:key-terms:eve|Eve (Eve)]]**
   * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/disobey]]**
+  * **[[:fr:obe:kt/curse]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:other/Eve]]**
+  * **[[:fr:obe:other/Adam]]**
+
 
 ==== Notes de Traduction: ====
 
