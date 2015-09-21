@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/good|Good]]**
-  * **[[:fr:obs:notes:key-terms/teacher|teacher]]**
-  * **[[:fr:obs:notes:key-terms/eternal-life|eternal life]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey]]**
-  * **[[:fr:obs:notes:key-terms/gods-law|God's laws]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/good|Good (bon)]]**
+  * **[[:fr:obs:notes:key-terms/teacher|teacher (maître)]]**
+  * **[[:fr:obs:notes:key-terms/eternal-life|eternal life (la vie éternelle)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
+  * **[[:fr:obs:notes:key-terms/gods-law|God's laws (La loi de Dieu)]]**
 
 
 ===== Translation Notes: =====
