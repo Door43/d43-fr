@@ -11,6 +11,10 @@
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/Noah]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/God]]**
+
 
 ===== Note de traduction: =====
 
