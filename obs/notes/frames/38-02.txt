@@ -17,7 +17,13 @@ Un des disciples de Jésus s'appelait Judas. Il était responsable de la bourse 
   * **[[:fr:obs:notes:key-terms/betray|betray]]**
   * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:other/judasiscariot]]**
+  * **[[:fr:obe:kt/apostle]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/betray]]**
+  * **[[:fr:obe:kt/messiah]]**
 ===== Translation Notes: =====
 
   * **in charge of the apostles' moneybag**  - That is, "responsible to hold the apostles' money" or, "responsible to hold the bag that had the disciples' money in it and to distribute funds from it."
