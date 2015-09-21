@@ -9,6 +9,9 @@
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:noah|Noah (Noé)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Noah]]**
 ===== Notes de Traduction:  =====
 
   * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
