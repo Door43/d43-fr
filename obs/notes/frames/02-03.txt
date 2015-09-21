@@ -12,6 +12,11 @@ La femme répondit, “**Dieu** nous a dit que nous pouvions manger du fruit de 
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
   * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/good]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:kt/death]]**
+
 
 ==== Notes de Traduction: ====
 
