@@ -12,6 +12,12 @@ Ils étaient très **orgueilleux**, et ne faisait pas attention à ce que **Dieu
   * **[[:fr:obs:notes:key-terms:heaven|heaven (le ciel)]]**
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
   * **[[:fr:obs:notes:key-terms:sin|sinful (souillé par le péché)]]**
+
+  * **[[:fr:obe:other/proud]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:kt/sin]]**
 =====  Notes de traduction: =====
 
   * **tall tower to reach heaven**  - This structure was so tall that its top would be in the sky.
