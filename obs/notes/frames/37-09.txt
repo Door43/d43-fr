@@ -14,7 +14,11 @@ Alors Jésus tourna son regard vers le ciel et dit: “Père, tu as exaucé ma p
   * **[[:fr:obs:notes:key-terms/believe|believe]]**
   * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:other/Lazarus]]**
 ===== Translation Notes: =====
 
   * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
