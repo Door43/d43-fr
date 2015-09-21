@@ -12,6 +12,12 @@ Un jour **Abraham** fit la connaissance de **Melchisédek**, le **prêtre** du *
   * **[[:fr:obs:notes:key-terms:god|God Most High]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:heaven|heaven (le ciel)]]**
+
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:kt/heaven]]**
 =====  Notes de traduction: =====
 
   * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
