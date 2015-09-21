@@ -23,7 +23,7 @@ Un des disciples de Jésus s'appelait Judas. Il était responsable de la bourse 
   * **[[:fr:obe:kt/apostle]]**
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/betray]]**
-  * **[[:fr:obe:kt/messiah]]**
+  * **[[:fr:obe:kt/christ]]**
 ===== Translation Notes: =====
 
   * **in charge of the apostles' moneybag**  - That is, "responsible to hold the apostles' money" or, "responsible to hold the bag that had the disciples' money in it and to distribute funds from it."
