@@ -13,6 +13,12 @@ Pierre répondit: “Même si tous les autres t'abandonnent, moi je ne te laisse
   * **[[:fr:obs:notes:key-terms:satan|Satan]]**
   * **[[:fr:obs:notes:key-terms:pray|prayed]]**
   * **[[:fr:obs:notes:key-terms:faith|faith]]**
+
+  * **[[:fr:obe:other:peter]]**
+  * **[[:fr:obe:kt:Jesus]]**
+  * **[[:fr:obe:kt:Satan]]**
+  * **[[:fr:obe:other:pray]]**
+  * **[[:fr:obe:kt:faith]]**
 ===== Translation Notes: =====
 
   * **abandon you**  - Check to see how you translated this in **[[:fr:obs:notes:frames:38-08|[38-08]]]**.
