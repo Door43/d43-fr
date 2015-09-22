@@ -13,6 +13,10 @@ Ensuite Dieu déplaça les nuages pour que les Égyptiens voient les Israélites
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
