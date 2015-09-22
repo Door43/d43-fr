@@ -16,6 +16,13 @@ Moïse demanda, “Mais si le peuple demande qui m'a envoyé, que devrais je dir
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
 
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:other/abraham]]**
+  * **[[:fr:obe:other/isaac]]**
+  * **[[:fr:obe:other/jacob]]**
+
 
 ==== Translation Notes: ====
 
