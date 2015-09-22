@@ -16,6 +16,13 @@ Un jour, un homme du pays d'Israël nommé Gédéon battait son grain secrèteme
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
 
+  * **[[:fr:obe:other/gideon]]**
+  * **[[:fr:obe:other/midian]]**
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
