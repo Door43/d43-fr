@@ -13,6 +13,12 @@ Alors qu'Abraham et Isaac se rendaient à l'endroit du sacrifice, Isaac demanda,
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifice (sacrifice)]]**
   * **[[:fr:obs:notes:key-terms:lamb|lamb (agneau)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:kt/lamb]]**
+  * **[[:fr:obe:kt/God]]**
 ===== Translation Notes: =====
 
   * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
