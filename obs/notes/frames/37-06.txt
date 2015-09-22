@@ -14,7 +14,11 @@ Puis Marie courut vers Jésus. Elle se jeta à ses pieds et dit: “Seigneur, si
   * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
   * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/death|died]]**
+  * **[[:fr:obe:other/Lazarus]]**
+  * **[[:fr:obe:other/tomb]]**
 ===== Translation Notes: =====
 
   * **Mary**  - This was the same woman as in **[[:fr:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
