@@ -15,6 +15,12 @@ La même nuit, Pharaon appela Moïse et Aaron et leur dit, “Prenez les Israél
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
 
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/aaron]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/egypt]]**
+
 
 ==== Translation Notes: ====
 
