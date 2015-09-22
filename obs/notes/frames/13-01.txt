@@ -15,6 +15,12 @@ Après avoir dirigé les Israélites à travers la Mer Rouge, Dieu les guida à 
   * **[[:fr:obs:notes:key-terms:sinai|Sinai (Sinai)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/redsea]]**
+  * **[[:fr:obe:other/sinai]]**
+  * **[[:fr:obe:other/moses]]**
+
 
 ==== Translation Notes: ====
 
