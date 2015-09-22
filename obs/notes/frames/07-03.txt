@@ -13,6 +13,12 @@
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah (Rebecca)]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
 
+  * **[[:fr:obe:other/isaac]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:other/esau]]**
+  * **[[:fr:obe:other/rebekah]]**
+  * **[[:fr:obe:other/jacob]]**
+
 
 ===== Notes de traduction: =====
 
