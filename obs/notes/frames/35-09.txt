@@ -13,6 +13,11 @@
   * **[[:fr:obs:notes:key-terms/death|dead]]**
   * **[[:fr:obs:notes:key-terms/life|alive]]**
 
+  * **[[:fr:obe:other/servant|servants]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/life|alive]]**
+
 
 ===== Translation Notes: =====
 
