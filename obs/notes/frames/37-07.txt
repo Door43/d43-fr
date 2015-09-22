@@ -12,7 +12,9 @@ Le tombeau était une grotte dont l'entrée était fermée par une pierre. Quand
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:fr:obs:notes:key-terms/death|dead]]**
 
-
+  * **[[:fr:obe:other/tomb]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/death]]**
 ===== Translation Notes: =====
 
   * **he told them**  - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
