@@ -16,6 +16,13 @@ Les marchants d'esclaves amenèrent Joseph en Égypte. L'Égypte était un pays 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
 
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:other/josephnt]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/nileriver]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/bless]]**
+
 
 ==== Translation Notes: ====
 
