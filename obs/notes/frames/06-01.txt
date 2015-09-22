@@ -11,6 +11,11 @@ Quand **Abraham** fut très âgé, son **fils**, **Isaac**, était devenu un hom
   * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:servant|servants (serviteur)]]**
+
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:other/servant]]**
 ===== Notes de Traduction =====
 
   * **sent one of his servants back**  – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
