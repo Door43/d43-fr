@@ -10,6 +10,10 @@
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah (Rebecca)]]**
   * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/rebekah]]**
+  * **[[:fr:obe:kt/son]]**
 ===== Translation Notes: =====
 
 ===== Notes de traduction: =====
