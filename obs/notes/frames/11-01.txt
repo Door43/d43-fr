@@ -15,6 +15,12 @@ Dieu avertit Pharaon que s'il ne laissait pas partir les israélites, il allait 
   * **[[:fr:obs:notes:key-terms:believe|believe (croire)]]**
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:other/obey]]**
+
 
 ==== Translation Notes: ====
 
