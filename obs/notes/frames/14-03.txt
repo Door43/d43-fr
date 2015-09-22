@@ -18,6 +18,15 @@ Dieu dit aux Israélites, “Il faut que vous vous débarrassiez de tous les Can
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/canaan]]**
+  * **[[:fr:obe:kt/promisedland]]**
+  * **[[:fr:obe:other/peace]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/worship]]**
+
 
 ==== Translation Notes: ====
 
