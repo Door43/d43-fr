@@ -16,6 +16,15 @@
   * **[[:fr:obs:notes:key-terms:believe|believed (croire)]]**
   * **[[:fr:obs:notes:key-terms:righteous|righteous (vertueux)]]**
 
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/Sarah]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:other/descendant]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/righteous]]**
+
 
 ===== Note de traduction: =====
 
