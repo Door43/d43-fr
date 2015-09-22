@@ -18,6 +18,17 @@
   * **[[:fr:obs:notes:key-terms:abraham|Abram's (Abram)]]**
   * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
   * **[[:fr:obs:notes:key-terms:sarah|Sarah (Sarah)]]**
+
+  * **[[:fr:obe:other/Sarah]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/Ishmael]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/Sarah]]**
 ===== Notes de traduction: =====
 
   * (God continues to speak to Abram.)
