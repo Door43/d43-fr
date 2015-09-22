@@ -15,6 +15,12 @@ Ensuite Dieu dit à Moïse de lancer les cendres dans l'air devant Pharaon. Quan
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
