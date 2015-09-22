@@ -11,7 +11,8 @@ Au moment où Jésus priait, son visage resplendit comme le soleil et ses vêtem
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:fr:obs:notes:key-terms/pray|praying]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/pray|praying]]**
 ===== Translation Notes: =====
 
   * **whiter **  - That is, "more white."
