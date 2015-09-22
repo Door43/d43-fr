@@ -14,6 +14,11 @@ Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh's (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
