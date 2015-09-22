@@ -15,6 +15,12 @@ Peu de temps après, Pharaon et son peuple changèrent d'avis et voulurent que l
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
 
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/falsegod]]**
+
 
 ==== Translation Notes: ====
 
