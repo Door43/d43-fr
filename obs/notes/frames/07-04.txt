@@ -13,6 +13,12 @@
   * **[[:fr:obs:notes:key-terms:esau|Esau (Esaü)]]**
   * **[[:fr:obs:notes:key-terms:bless|bless (bénir)]]**
 
+  * **[[:fr:obe:other/jacob]]**
+  * **[[:fr:obe:other/isaac]]**
+  * **[[:fr:obe:other/esau]]**
+  * **[[:fr:obe:kt/bless]]**
+
+
 
 
 ===== Note de traduction: =====
