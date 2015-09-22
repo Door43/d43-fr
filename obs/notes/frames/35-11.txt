@@ -11,7 +11,8 @@
   * **[[:fr:obs:notes:key-terms/son|son]]**
   * **[[:fr:obs:notes:key-terms/beg|begged]]**
 
-
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/beg|begged]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
