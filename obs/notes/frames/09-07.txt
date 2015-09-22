@@ -14,6 +14,11 @@ Une des filles du Pharaon aperçut le panier et regarda à l'intérieur. Quand e
   * **[[:fr:obs:notes:key-terms:israel|Israelite (Israël)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/moses]]**
+
 
 ==== Translation Notes: ====
 
