@@ -14,6 +14,11 @@ Les Égyptiens obligèrent les Israélites à bâtir beaucoup de bâtiments et m
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
 
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/bless]]**
+
 
 ==== Translation Notes: ====
 
