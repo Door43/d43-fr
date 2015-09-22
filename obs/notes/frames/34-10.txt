@@ -18,7 +18,15 @@ Alors Jésus dit: “En vérité, je vous le dit, Dieu entendit la prière colle
   * **[[:fr:obs:notes:key-terms/humble|humble]]**
   * **[[:fr:obs:notes:key-terms/proud|proud]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/true|truth]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/taxcollector|tax collector's]]**
+  * **[[:fr:obe:other/pray|prayer]]**
+  * **[[:fr:obe:kt/righteous]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:other/humble]]**
+  * **[[:fr:obe:other/proud]]**
 ===== Translation Notes: =====
 
   * **declared him to be righteous**  - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
