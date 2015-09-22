@@ -15,7 +15,12 @@ Quand Jésus arriva dans la ville natale de Lazare, Lazare était déjà mort de
   * **[[:fr:obs:notes:key-terms/believe|believe]]**
   * **[[:fr:obs:notes:key-terms/god|God]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/Lazarus|Lazarus']]**
+  * **[[:fr:obe:kt/death|dead]]**
+  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/God]]**
 ===== Translation Notes: =====
 
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
