@@ -13,7 +13,10 @@ Après les deux jours, Jésus dit à ses disciples: “Retournons en Judée.” 
   * **[[:fr:obs:notes:key-terms/teacher|Teacher]]**
   * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:kt/teacher]]**
+  * **[[:fr:obe:other/Lazarus]]**
 ===== Translation Notes: =====
 
   * **Judea**  - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
