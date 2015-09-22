@@ -13,6 +13,12 @@ Ensuite Dieu dit aux Israélites de mettre le sang de l'agneau autour de la port
   * **[[:fr:obs:notes:key-terms:lamb|lamb's (agneau)]]**
   * **[[:fr:obs:notes:key-terms:blood|blood (le sang)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/lamb]]**
+  * **[[:fr:obe:kt/blood]]**
+  * **[[:fr:obe:other/egypt]]**
 ==== Translation Notes: ====
 
   * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
