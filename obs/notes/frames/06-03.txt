@@ -11,6 +11,10 @@
   * **[[:fr:obs:notes:key-terms:servant|servant (serviteur)]]**
   * **[[:fr:obs:notes:key-terms:isaac|Isaac's (Isaac)]]**
 
+  * **[[:fr:obe:other/Rebekah]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:other/Isaac]]**
+
 
 ===== Notes de traduction: =====
 
