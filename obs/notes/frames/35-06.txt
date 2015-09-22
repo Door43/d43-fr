@@ -10,6 +10,8 @@
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
 
+  * **[[:fr:obe:kt/servant|servants]]**
+
 
 ===== Translation Notes: =====
 
