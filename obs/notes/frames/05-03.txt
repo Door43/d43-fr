@@ -14,6 +14,13 @@ Dieu dit, “Je suis le **Dieu** tout-puissant. J'établirai mon** alliance** av
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
   * **[[:fr:obs:notes:key-terms:circumcise|circumcise (circoncire)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/descendant]]**
+  * **[[:fr:obe:other/Canaan]]**
+  * **[[:fr:obe:kt/circumcise]]**
 =====  Notes de traduction: =====
 
   * **father of many nations**  - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
