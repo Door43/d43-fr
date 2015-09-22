@@ -14,6 +14,11 @@ Dieu changea le Nil en sang, mais Pharaon continua à refuser de faire ce que Di
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/nileriver]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
