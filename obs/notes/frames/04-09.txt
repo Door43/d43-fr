@@ -13,6 +13,14 @@ Puis **Dieu** fit une **alliance** avec **Abram**. Une Alliance est un accord en
   * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/Canaan]]**
+  * **[[:fr:obe:other/descendant]]**
+
  ===== Note de Traduction: =====
 
   * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
