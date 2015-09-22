@@ -14,6 +14,14 @@ Dix ans après l'arrivée d'**Abram** et de **Sarai** à **Canaan**, **ils n'ava
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:servant|servant (serviteur)]]**
   * **[[:fr:obs:notes:key-terms:hagar|Hagar (Agar)]]**
+
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:other/Sarah]]**
+  * **[[:fr:obe:other/Canaan]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:other/Hagar]]**
+
 =====  Notes de traduction: =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
