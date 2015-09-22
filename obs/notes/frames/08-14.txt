@@ -13,6 +13,10 @@ Quoique Jacob fut très âgé, Il alla vivre en Égypte avec toute sa famille. A
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
 
+  * **[[:fr:obe:other/jacob]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:kt/bless]]**
+
 
 ==== Translation Notes: ====
 
