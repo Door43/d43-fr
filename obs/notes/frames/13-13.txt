@@ -14,6 +14,11 @@ Quand Moïse descendit de la montagne et vit l'idole, il était tellement fâch�
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:ten-commandments|Ten Commandments (Le dix commandements)]]**
 
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/tencommandments]]**
+
 
 ==== Translation Notes: ====
 
