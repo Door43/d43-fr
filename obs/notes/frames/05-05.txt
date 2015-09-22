@@ -16,6 +16,13 @@ Ce jour-là Abraham circoncit tous les mâles de sa maison. Un an plus tard, alo
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/circumcise]]**
+  * **[[:fr:obe:other/Sarah]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:kt/God]]**
+
 
 
 
