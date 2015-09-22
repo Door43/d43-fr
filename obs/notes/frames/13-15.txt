@@ -16,6 +16,15 @@
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:sinai|Mount Sinai (Mount Sinaï)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
+
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:other/tencommandments]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/sinai]]**
+  * **[[:fr:obe:kt/promisedland]]**
 ==== Translation Notes: ====
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
