@@ -13,6 +13,10 @@ Quant le Pharaon apprit ce que Moïse avait fait, Il essaya de le tuer. Moïse s
   * **[[:fr:obs:notes:key-terms:moses|Moses]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt]]**
 
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/egypt]]**
+
 
 ==== Translation Notes: ====
 
