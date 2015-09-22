@@ -18,6 +18,15 @@ Dieu dit à Moïse et aux Israélites, “Si vous m'obéissez et gardez mon Alli
   * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/kingdom]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:kt/holy]]**
+
 
 ==== Translation Notes: ====
 
