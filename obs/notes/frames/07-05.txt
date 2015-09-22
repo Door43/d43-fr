@@ -14,6 +14,10 @@
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
   * **[[:fr:obs:notes:key-terms:bless|blessing (bénir)]]**
 
+  * **[[:fr:obe:other/esau]]**
+  * **[[:fr:obe:other/jacob]]**
+  * **[[:fr:obe:kt/bless]]**
+
 
 
 ===== Note de traduction: =====
