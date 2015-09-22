@@ -15,6 +15,14 @@ quand Isaac fut un jeune homme, Dieu mit à l'épreuve la foi d'Abraham en disan
   * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifice (sacrifice)]]**
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
+
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/faith]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:other/obey]]**
 ===== Translation Notes: =====
 
   * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
