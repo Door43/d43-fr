@@ -13,6 +13,12 @@ Un jour, Jésus prit avec lui trois de ses disciples, Pierre, Jacques et Jean. (
   * **[[:fr:obs:notes:key-terms:peter|Peter]]**
   * **[[:fr:obs:notes:key-terms:john|John]]**
   * **[[:fr:obs:notes:key-terms:baptize|baptized]]**
+
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:other/Peter]]**
+  * **[[:fr:obe:other/Johntheapostle]]**
+  * **[[:fr:obe:kt/baptize|baptized]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
