@@ -16,6 +16,13 @@ Deux ans plus tard, Joseph était toujours en prison, alors qu'il était innocen
   * **[[:fr:obs:notes:key-terms:king|kings (roi)]]**
   * **[[:fr:obs:notes:key-terms:dream|dreams (rêve)]]**
 
+  * **[[:fr:obe:other/josephnt]]**
+  * **[[:fr:obe:kt/innocent]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/dream]]**
+
 
 ==== Translation Notes: ====
 
