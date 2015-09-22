@@ -16,6 +16,13 @@ Dieu envoya une invasion de grenouilles. Pharaon supplia Moïse d'éloigner les 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/egypt]]**
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/beg]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
