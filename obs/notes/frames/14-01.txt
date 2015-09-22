@@ -14,6 +14,13 @@ Une fois que Dieu eut donné aux Israélites les lois auxquelles ils devaient ob
   * **[[:fr:obs:notes:key-terms:sinai|Mount Sinai (Mount Sinaï)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
+
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/sinai]]**
+  * **[[:fr:obe:kt/promisedland]]**
+  * **[[:fr:obe:other/canaan]]**
 ==== Translation Notes: ====
 
   * **pillar of cloud**  - See how you translated this phrase in **[[:fr:obs:notes:frames:12-02|[12-02]]]**.
