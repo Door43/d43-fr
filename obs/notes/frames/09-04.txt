@@ -13,6 +13,10 @@ Le Pharaon vit que les Israélites étaient en train d'avoir beaucoup d'enfants,
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:nile-river|Nile River (River Le Nil)]]**
 
+  * **[[:fr:obe:other/pharaoh]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/nileriver]]**
+
 
 ==== Translation Notes: ====
 
