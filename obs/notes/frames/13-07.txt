@@ -19,6 +19,17 @@ Dieu écrivit ces dix commandements sur deux tablettes de pierre et il les donna
   * **[[:fr:obs:notes:key-terms:disobey|disobeyed (désobéir)]]**
   * **[[:fr:obs:notes:key-terms:punish|punish (punir)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/tencommandments]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:kt/lawofmoses]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:other/disobey]]**
+  * **[[:fr:obe:other/punish]]**
+
+
 
 ==== Translation Notes: ====
 
