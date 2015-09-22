@@ -12,6 +12,9 @@ Dieu dit à Moïse d'étendre sa main sur la mer pour diviser l'eau. Puis Dieu f
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/moses]]**
+
 
 ==== Translation Notes: ====
 
