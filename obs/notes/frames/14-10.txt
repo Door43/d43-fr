@@ -13,6 +13,10 @@ Dieu n'alla pas avec eux dans cette bataille, alors ils furent vaincus et beauco
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/canaan]]**
+
 
 ==== Translation Notes: ====
 
