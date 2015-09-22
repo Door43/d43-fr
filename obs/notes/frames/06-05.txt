@@ -10,6 +10,10 @@
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah (Rebecca)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
+  * **[[:fr:obe:other/isaac]]**
+  * **[[:fr:obe:other/rebekah]]**
+  * **[[:fr:obe:kt/God]]**
 ===== Translation Notes: =====
 
 ===== Notes de traduction: =====
