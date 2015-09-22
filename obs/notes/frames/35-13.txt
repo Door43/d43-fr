@@ -12,7 +12,9 @@
   * **[[:fr:obs:notes:key-terms/death|dead]]**
   * **[[:fr:obs:notes:key-terms/life|alive]]**
 
-
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:kt/death|dead]]**
+  * **[[:fr:obe:kt/life|alive]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
