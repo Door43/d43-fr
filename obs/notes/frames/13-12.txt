@@ -18,6 +18,15 @@
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
 
+  * **[[:fr:obe:other/aaron]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:other/moses]]**
+  * **[[:fr:obe:other/pray]]**
+
 
 ==== Translation Notes: ====
 
