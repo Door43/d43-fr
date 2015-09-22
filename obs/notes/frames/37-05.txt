@@ -14,10 +14,17 @@ Jésus répondit: “je suis la Résurrection et la Vie. Celui qui croit en moi 
   * **[[:fr:obs:notes:key-terms/believe|believes]]**
   * **[[:fr:obs:notes:key-terms/death|dies]]**
   * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Christ]]**
   * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/resurrection]]**
+  * **[[:fr:obe:kt/life]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/death|dies]]**
+  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/SonofGod]]**
 ===== Translation Notes: =====
 
   * **I am the Resurrection and the Life**  - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
