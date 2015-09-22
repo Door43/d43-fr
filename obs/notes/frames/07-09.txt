@@ -12,6 +12,10 @@
   * **[[:fr:obs:notes:key-terms:esau|Esau (Esaü)]]**
   * **[[:fr:obs:notes:key-terms:servant|servants (serviteurs)]]**
 
+  * **[[:fr:obe:other/jacob]]**
+  * **[[:fr:obe:other/esau]]**
+  * **[[:fr:obe:other/servant]]**
+
 
 ===== Translation Notes: =====
 
