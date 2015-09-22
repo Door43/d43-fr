@@ -15,6 +15,14 @@
   * **[[:fr:obs:notes:key-terms:sabbath|Sabbath day (sabbat)]]**
   * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
   * **[[:fr:obs:notes:key-terms:sabbath|seventh day (septième jour)]]**
+
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/sabbath]]**
+  * **[[:fr:obe:kt/holy]]**
+  * **[[:fr:obe:kt/sabbath]]**
 ==== Translation Notes: ====
 
   * (God continues speaking to Moses.)
