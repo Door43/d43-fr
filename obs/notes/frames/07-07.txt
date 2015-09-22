@@ -12,6 +12,10 @@
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah's (Rebecca)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/jacob]]**
+  * **[[:fr:obe:other/rebekah]]**
+  * **[[:fr:obe:kt/God]]**
+
 
 
 ===== Note de traduction: =====
