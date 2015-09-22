@@ -15,7 +15,12 @@ Un jour, Jésus reçut un message que Lazare était gravement malade. Lazare et 
   * **[[:fr:obs:notes:key-terms/god|God]]**
   * **[[:fr:obs:notes:key-terms/love|loved]]**
 
-
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/Lazarus]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/glory]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/love|loved]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
