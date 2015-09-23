@@ -19,6 +19,16 @@
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:priest-high|high priest (le grande Sacrificateur)]]**
 
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/punish]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/highpriest]]**
+
 
 ==== Translation Notes: ====
 
