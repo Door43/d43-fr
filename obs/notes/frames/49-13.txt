@@ -15,8 +15,14 @@ Dieu sauvera quiconque croit en Jésus et le reçoit pour son Seigneur, mais qui
   * **[[:fr:obs:notes:key-terms/receive|receives]]**
   * **[[:fr:obs:notes:key-terms/lord|Master]]**
   * **[[:fr:obs:notes:key-terms/love|loves]]**
-
-
+  
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/save]]**
+  * **[[:fr:obe:kt/believe|believes]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/receive|receives]]**
+  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/love|loves]]**
 ===== Translation Notes: =====
 
   * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
