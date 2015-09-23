@@ -13,6 +13,13 @@
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
 
+  * **[[:fr:obe:kt/satan]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/temple]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/angel]]**
+
 
 ===== Translation Notes: =====
 
