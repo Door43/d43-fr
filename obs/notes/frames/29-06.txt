@@ -8,7 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+
+  * **[[:fr:obe:other/servant]]**
 
 
 ===== Translation Notes: =====
