@@ -17,6 +17,14 @@
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:save|saved (sauver/déivrer)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/abraham]]**
+  * **[[:fr:obe:other/peoplegroup]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/save]]**
+
 
 ==== Translation Notes: ====
 
