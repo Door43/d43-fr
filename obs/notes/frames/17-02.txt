@@ -22,6 +22,20 @@ Dieu choisit un jeune Israélite, qui s'appelait David pour être roi après Sau
   * **[[:fr:obs:notes:key-terms:trust|trusted (la confiance)]]**
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/saul]]**
+  * **[[:fr:obe:other/shepherd]]**
+  * **[[:fr:obe:other/bethlehem]]**
+  * **[[:fr:obe:other/sheep]]**
+  * **[[:fr:obe:other/humble]]**
+  * **[[:fr:obe:kt/righteous]]**
+  * **[[:fr:obe:kt/trust]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
