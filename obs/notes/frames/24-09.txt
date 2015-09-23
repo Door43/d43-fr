@@ -18,6 +18,15 @@
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms/god-son|Son (fils)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/johnthebaptist]]**
+  * **[[:fr:obe:kt/spirit]]**
+  * **[[:fr:obe:kt/baptize]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/son]]**
+
 
 ===== Translation Notes: =====
 
