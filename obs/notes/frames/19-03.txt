@@ -13,6 +13,10 @@ Dieu dit à Elie d'aller près d'un ruisseau dans une région sauvage pour se ca
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Elie)]]**
   * **[[:fr:obs:notes:key-terms:ahab|Ahab (Achab)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:other/ahab]]**
+
 
 ==== Translation Notes: ====
 
