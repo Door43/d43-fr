@@ -23,6 +23,20 @@ Les rois de Judas furent des descendants de David. Certains d'entre eux étaient
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
   * **[[:fr:obs:notes:key-terms:rebel|rebelled (rebel)]]**
 
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/kingdomofjudah]]**
+  * **[[:fr:obe:other/descendant]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:kt/good]]**
+  * **[[:fr:obe:kt/justice]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/falsegod]]**
+  * **[[:fr:obe:other/rebel]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
