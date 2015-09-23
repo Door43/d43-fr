@@ -18,6 +18,14 @@ David voulut bâtir un temple où tous les Israélites pourrait adorer Dieu et l
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:kt/temple]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:other/tentofmeeting]]**
+  * **[[:fr:obe:other/moses]]**
 
 ==== Translation Notes: ====
 
