@@ -19,6 +19,15 @@ The **prophets** foretold that the **Messiah** would **die** and that **God** wo
   * **[[:fr:obs:notes:key-terms:sin|sinners (péché)]]**
   * **[[:fr:obs:notes:key-terms:covenant-new|New Covenant (Nouvelle Alliance)]]**
 
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/resurrection]]**
+  * **[[:fr:obe:kt/save]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/covenant]]**
+
 
 ==== Translation Notes: ====
 
