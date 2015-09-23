@@ -16,6 +16,13 @@ Ensuite Elie dit aux prophètes de Baal, “Tuez un taureau et préparez le en s
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateur)]]**
 
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/baal]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/priest]]**
+
 
 ==== Translation Notes: ====
 
