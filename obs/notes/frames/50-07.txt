@@ -10,6 +10,9 @@
 
   * **[[:fr:obs:notes:key-terms/servant|servants]]**
   * **[[:fr:obs:notes:key-terms/lord|master]]**
+  
+  * **[[:fr:obe:other/servant|servants]]**
+  * **[[:fr:obe:kt/lord|master]]**
 
 
 ===== Translation Notes: =====
