@@ -13,6 +13,11 @@ Jésus<font inherit/inherit;;inherit;;inherit></font> lut<font inherit/inherit;;
   * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
   * **[[:fr:obs:notes:key-terms/lord|Lord's (Seigneur)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/spirit]]**
+  * **[[:fr:obe:kt/goodnews]]**
+  * **[[:fr:obe:kt/lord]]**
+
 
 ===== Translation Notes: =====
 
