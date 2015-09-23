@@ -21,6 +21,18 @@ Dieu envoya beaucoup d'autres prophètes. Ils dirent tous au peuple d'arrêter d
   * **[[:fr:obs:notes:key-terms:guilt|guilty (culpabilité)]]**
   * **[[:fr:obs:notes:key-terms:punish|punish (punir)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/justice]]**
+  * **[[:fr:obe:kt/mercy]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/judge]]**
+  * **[[:fr:obe:kt/guilt]]**
+  * **[[:fr:obe:other/punish]]**
+
 
 ==== Translation Notes: ====
 
