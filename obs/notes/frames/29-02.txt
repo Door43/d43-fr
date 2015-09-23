@@ -8,9 +8,13 @@ Jesus said, “**The kingdom of God is like a king who** wanted to **settle acco
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:fr:obs:notes:key-terms/king|king]]**
-  * **[[:fr:obs:notes:key-terms/servant|servants]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (royaume de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
+
+  * **[[:fr:obe:kt/kingdomofgod]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/servant]]**
 
 
 ===== Translation Notes: =====
