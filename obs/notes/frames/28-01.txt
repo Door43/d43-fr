@@ -16,6 +16,14 @@
   * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
   * **[[:fr:obs:notes:key-terms/gods-law|God's laws (La loi de Dieu)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/good]]**
+  * **[[:fr:obe:kt/teacher]]**
+  * **[[:fr:obe:kt/eternity]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/lawofmoses]]**
+
 
 ===== Translation Notes: =====
 
