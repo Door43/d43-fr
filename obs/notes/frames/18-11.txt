@@ -15,6 +15,12 @@ Dans le nouveau royaume d'Israël, tous les rois étaient méchants. Beaucoup de
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+  * **[[:fr:obe:other/kingdom]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:other/israel]]**
+
 
 ==== Translation Notes: ====
 
