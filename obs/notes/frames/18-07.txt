@@ -15,6 +15,12 @@ Dix des tribus de la nation d'Israël se révoltèrent contre Réhoboam. Seules 
   * **[[:fr:obs:notes:key-terms:faithful|faithful (fidèle)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (royaume de Juda)]]**
 
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/rebel]]**
+  * **[[:fr:obe:other/rehoboam]]**
+  * **[[:fr:obe:kt/faithful]]**
+  * **[[:fr:obe:other/kingdomofjudah]]**
+
 
 ==== Translation Notes: ====
 
