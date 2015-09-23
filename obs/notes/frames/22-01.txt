@@ -14,6 +14,12 @@ In the past, **God** had spoken to **his people** through his **angels** and **p
   * **[[:fr:obs:notes:key-terms/priest|priest (sacrifie)]]**
   * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah (Zacharie)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:other/zechariah]]**
+
 
 ===== Translation Notes: =====
 
