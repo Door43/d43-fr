@@ -12,6 +12,10 @@
   * **[[:fr:obs:notes:key-terms/adultery|adultery (adultère))]]**
   * **[[:fr:obs:notes:key-terms/love|love (amour)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/adultery]]**
+  * **[[:fr:obe:kt/love]]**
+
 
 ===== Translation Notes: =====
 
