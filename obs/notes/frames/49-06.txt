@@ -14,6 +14,16 @@ Jésus enseigna qu'il y aura ceux qui le recevront et seront sauvés mais d'autr
   * **[[:fr:obs:notes:key-terms:good-news|good news]]**
   * **[[:fr:obs:notes:key-terms:word-of-god|God's word]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-god|his kingdom]]**
+ 
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/receive]]**
+  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:kt/goodnews]]**
+  * **[[:fr:obe:kt/wordofgod|God's word]]**
+  * **[[:fr:obe:kt/kingdomofgod|his kingdom]]**
+
+  
+
 ===== Translation Notes: =====
 
   * **others will not**  - That is, "other people will not receive him and therefore will not be saved."
