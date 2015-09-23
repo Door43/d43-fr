@@ -15,6 +15,13 @@ Jésus alla à Nazareth où il avait vécu pendant son enfance. Il entra dans la
   * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms/isaiah|Isaiah (Esaïe)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/nazareth]]**
+  * **[[:fr:obe:kt/sabbath]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/isaiah]]**
+
 
 ===== Translation Notes: =====
 
