@@ -12,6 +12,9 @@
   * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/god]]**
 
 ===== Translation Notes: =====
 
