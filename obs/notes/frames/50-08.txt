@@ -13,6 +13,12 @@ Les disciples ne comprenaient pas la signification de l'histoire et demandèrent
   * **[[:fr:obs:notes:key-terms/good|good]]**
   * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
   * **[[:fr:obs:notes:key-terms/kingdom-of-god|God's kingdom]]**
+  
+  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/good]]**
+  * **[[:fr:obe:kt/Christ|Messiah]]**
+  * **[[:fr:obe:kt/kingdomofgod|God's kingdom]]**
 
 
 ===== Translation Notes: =====
