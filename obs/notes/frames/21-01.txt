@@ -17,6 +17,14 @@
   * **[[:fr:obs:notes:key-terms:descendant|descendant (descendant)]]**
   * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:other/adam]]**
+  * **[[:fr:obe:other/eve]]**
+  * **[[:fr:obe:other/descendant]]**
+  * **[[:fr:obe:kt/satan]]**
+
 
 ==== Translation Notes: ====
 
