@@ -13,6 +13,11 @@
   * **[[:fr:obs:notes:key-terms/bethlehem|Bethlehem (Béthlehem)]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
 
+  * **[[:fr:obe:kt/wise]]**
+  * **[[:fr:obe:kt/kingofthejews]]**
+  * **[[:fr:obe:other/bethlehem]]**
+  * **[[:fr:obe:kt/jesus]]**
+
 
 ===== Translation Notes: =====
 
