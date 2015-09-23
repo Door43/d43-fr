@@ -14,6 +14,11 @@ Quant les gens arrivèrent à Jérusalem, ils rebâtirent le Temple et le mur au
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
   * **[[:fr:obs:notes:key-terms:worship|worshiped (adorer)]]**
 
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/temple]]**
+  * **[[:fr:obe:kt/promisedland]]**
+  * **[[:fr:obe:kt/worship]]**
+
 
 ==== Translation Notes: ====
 
