@@ -14,6 +14,11 @@
   * **[[:fr:obs:notes:key-terms/baptize|baptize (baptiser)]]**
   * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
 
+  * **[[:fr:obe:other/johnthebaptist]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/baptize]]**
+  * **[[:fr:obe:kt/sin]]**
+
 
 ===== Translation Notes: =====
 
