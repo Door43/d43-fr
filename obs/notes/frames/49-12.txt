@@ -18,6 +18,17 @@ Personne ne peut être sauvé en faisant des bonnes oeuvres. Il n'y a rien que v
   * **[[:fr:obs:notes:key-terms/cross|cross]]**
   * **[[:fr:obs:notes:key-terms/raise|raised]]**
   * **[[:fr:obs:notes:key-terms/life|life]]**
+  
+  * **[[:fr:obe:kt/save]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/death|died]]**
+  * **[[:fr:obe:kt/cross]]**
+  * **[[:fr:obe:kt/raise|raised]]**
+  * **[[:fr:obe:kt/life]]**
 
 
 ===== Translation Notes: =====
