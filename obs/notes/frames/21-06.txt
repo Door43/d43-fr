@@ -15,6 +15,12 @@ Les prophètes de Dieu dirent aussi que le Messie qui arriverait serait un proph
   * **[[:fr:obs:notes:key-terms:priest|priest (sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:other/king]]**
+
 
 ==== Translation Notes: ====
 
