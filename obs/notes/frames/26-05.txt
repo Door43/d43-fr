@@ -15,6 +15,13 @@ Then **Jesus** said, “It is **true** that **no prophet is accepted in his own 
   * **[[:fr:obs:notes:key-terms/israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/true]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ===== Translation Notes: =====
 
