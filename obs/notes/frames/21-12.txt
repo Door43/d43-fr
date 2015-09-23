@@ -17,7 +17,7 @@ The **prophets** also told about how the **Messiah** would **die**. **Isaiah pro
 
   * **[[:fr:obe:kt/prophet]]**
   * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:other/die]]**
+  * **[[:fr:obe:kt/death]]**
   * **[[:fr:obe:other/isaiah]]**
   * **[[:fr:obe:kt/prophet]]**
 
