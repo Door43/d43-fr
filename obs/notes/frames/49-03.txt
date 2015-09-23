@@ -11,6 +11,10 @@ Jésus était aussi un grand Maître, et il parlait avec autorité parce qu'il e
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
   * **[[:fr:obs:notes:key-terms/love|love]]**
+  
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/love]]**
 
 
 ===== Translation Notes: =====
