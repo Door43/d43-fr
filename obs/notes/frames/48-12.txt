@@ -13,6 +13,12 @@ Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus es
   * **[[:fr:obs:notes:key-terms/word-of-god|word of God]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:fr:obs:notes:key-terms/god|God]]**
+ 
+  * **[[:fr:obe:other/Moses]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/God]]**
 
 
 ===== Translation Notes: =====
