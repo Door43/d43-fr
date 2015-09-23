@@ -12,6 +12,10 @@ Le peuple de Nazareth chassa Jésus de la Synagogue et le mena au sommet d'une m
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms/worship|worship (adorer)]]**
 
+  * **[[:fr:obe:other/nazareth]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/worship]]**
+
 
 ===== Translation Notes: =====
 
