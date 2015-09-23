@@ -13,6 +13,13 @@
   * **[[:fr:obs:notes:key-terms/people-group|people group]]**
   * **[[:fr:obs:notes:key-terms/believe|believing]]**
 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/covenant]]**
+  * **[[:fr:obe:other/Israel|Israelites]]**
+  * **[[:fr:obe:kt/newcovenant|New Covenant]]**
+  * **[[:fr:obe:other/peoplegroup]]**
+  * **[[:fr:obe:kt/believe|believing]]**
+
 
 ===== Translation Notes: =====
 
