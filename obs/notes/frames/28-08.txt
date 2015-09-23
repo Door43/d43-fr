@@ -12,6 +12,10 @@
   * **[[:fr:obs:notes:key-terms/disciple|disciples (dsiciples)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ===== Translation Notes: =====
 
