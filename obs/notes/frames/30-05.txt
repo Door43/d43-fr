@@ -8,8 +8,11 @@ Mais Jésus dit aux disciples: “Donnez-leur vous-mêmes à manger.” Ils lui 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
