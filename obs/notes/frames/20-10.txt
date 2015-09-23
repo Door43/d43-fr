@@ -16,6 +16,13 @@ Même si Dieu punit son peuple pour leur péché en les emmenant en exil, Dieu n
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/punish]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/promisedland]]**
+
 
 ==== Translation Notes: ====
 
