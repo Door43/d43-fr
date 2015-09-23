@@ -11,6 +11,9 @@
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/heaven]]**
+
 
 ===== Translation Notes: =====
 
