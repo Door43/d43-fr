@@ -8,10 +8,15 @@ Il y avait cinq mille hommes dans cette foule, sans compter les femmes et les en
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/sheep|sheep]]**
-  * **[[:fr:obs:notes:key-terms/shepherd|shepherd]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/sheep|sheep (mouton)]]**
+  * **[[:fr:obs:notes:key-terms/shepherd|shepherd (berger)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/sheep]]**
+  * **[[:fr:obe:other/shepherd]]**
+  * **[[:fr:obe:other/heal]]**
 
 
 ===== Translation Notes: =====
