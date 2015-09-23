@@ -18,6 +18,15 @@ Dans la ville de Jérusalem, Salomon bâtit le Temple que son père avait planif
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices (sacrifices)]]**
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
 
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:other/solomon]]**
+  * **[[:fr:obe:kt/temple]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:other/tentofmeeting]]**
+
 
 ==== Translation Notes: ====
 
