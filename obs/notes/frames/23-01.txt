@@ -15,6 +15,12 @@
   * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
   * **[[:fr:obs:notes:key-terms/dream|dream (rêve)]]**
 
+  * **[[:fr:obe:other/mary]]**
+  * **[[:fr:obe:kt/righteous]]**
+  * **[[:fr:obe:other/josephnt]]**
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:other/dream]]**
+
 
 ===== Translation Notes: =====
 
