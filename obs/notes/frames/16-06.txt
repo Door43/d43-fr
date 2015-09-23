@@ -15,6 +15,12 @@ Le père de Gédéon avait un autel dédié à une idole. Dieu dit à Gédéon d
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifice (sacrifice)]]**
 
+  * **[[:fr:obe:other/GIdeon]]**
+  * **[[:fr:obe:other/altar]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/sacrifice]]**
+
 
 ==== Translation Notes: ====
 
