@@ -13,6 +13,12 @@ Pendant au moins 2,000 ans, de plus en plus de gens dans le monde avaient entend
   * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
   * **[[:fr:obs:notes:key-terms/church|Church]]**
   * **[[:fr:obs:notes:key-terms/promise|promised]]**
+  
+  * **[[:fr:obe:kt/goodnews]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/Christ|Messiah]]**
+  * **[[:fr:obe:kt/church]]**
+  * **[[:fr:obe:kt/promise|promised]]** 
 
 
 ===== Translation Notes: =====
