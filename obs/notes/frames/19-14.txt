@@ -17,6 +17,14 @@ Après l'époque d'Elie, Dieu choisit un homme nommé Elisée comme prophète. D
   * **[[:fr:obs:notes:key-terms:heal|heal (guérir)]]**
   * **[[:fr:obs:notes:key-terms:jordan-river|Jordan River (River Le Jourdain)]]**
 
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/miracle]]**
+  * **[[:fr:obe:other/naaman]]**
+  * **[[:fr:obe:other/heal]]**
+  * **[[:fr:obe:other/jordanriver]]**
+
 
 ==== Translation Notes: ====
 
