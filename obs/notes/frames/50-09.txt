@@ -12,7 +12,11 @@
   * **[[:fr:obs:notes:key-terms/satan|devil]]**
   * **[[:fr:obs:notes:key-terms/god|God's]]**
   * **[[:fr:obs:notes:key-terms/angel|angels]]**
-
+ 
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:kt/satan|devil]]**
+  * **[[:fr:obe:kt/God|God's]]**
+  * **[[:fr:obe:kt/angel|angels]]**
 
 ===== Translation Notes: =====
 
