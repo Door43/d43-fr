@@ -18,6 +18,15 @@ Ensuite Gédéon utilisa l'or pour faire un vêtement spécial comme ceux que le
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:deliverer|deliverer (libérateur)]]**
 
+  * **[[:fr:obe:other/gideon]]**
+  * **[[:fr:obe:kt/highpriest]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/punish]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/deliverer]]**
+
 
 ==== Translation Notes: ====
 
