@@ -15,6 +15,12 @@ Saul fut le premier roi d'Israël. Il était grand et beau, comme les gens l'ava
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/saul]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ==== Translation Notes: ====
 
