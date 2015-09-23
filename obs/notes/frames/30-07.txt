@@ -8,9 +8,13 @@ Puis Jésus prit les cinq pains et les deux poissons et levant les yeux vers le 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/god]]**
 
 
 ===== Translation Notes: =====
