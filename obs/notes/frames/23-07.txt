@@ -14,6 +14,12 @@
   * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
   * **[[:fr:obs:notes:key-terms/peace|peace (paix)]]**
 
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/glory]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:other/peace]]**
+
 
 ===== Translation Notes: =====
 
