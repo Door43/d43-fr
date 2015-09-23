@@ -18,6 +18,17 @@ Quand Dieu dit à Abraham d'offrir son fils Isaac, comme sacrifice, Dieu pourvut
   * **[[:fr:obs:notes:key-terms/sin|sins]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
   * **[[:fr:obs:notes:key-terms/lamb|Lamb of God]]**
+  
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Abraham]]**
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:other/Isaac]]**
+  * **[[:fr:obe:other/sacrifice]]**
+  * **[[:fr:obe:kt/lamb]]**
+  * **[[:fr:obe:kt/death|die]]**
+  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/lamb|Lamb of God]]**
 
 
 ===== Translation Notes: =====
