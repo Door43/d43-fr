@@ -8,11 +8,17 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/king|king]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgave]]**
-  * **[[:fr:obs:notes:key-terms/beg|begged]]**
-  * **[[:fr:obs:notes:key-terms/evil|wicked]]**
+  * **[[:fr:obs:notes:key-terms/king|king j(roi)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgave (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/beg|begged (mendier/quémander)]]**
+  * **[[:fr:obs:notes:key-terms/evil|wicked (mal)]]**
+
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:other/beg]]**
+  * **[[:fr:obe:kt/evil]]**
 
 
 ===== Translation Notes: =====
