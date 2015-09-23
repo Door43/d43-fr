@@ -17,6 +17,14 @@ Trois ans et demi plus tard, Dieu dit à Elie de retourner au royaume d'Israël 
   * **[[:fr:obs:notes:key-terms:worship|worshiped (adorer)]]**
   * **[[:fr:obs:notes:key-terms:baal|Baal (Baal)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/ahab]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:other/baal]]**
+
 
 ==== Translation Notes: ====
 
