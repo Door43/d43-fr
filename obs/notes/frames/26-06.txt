@@ -15,6 +15,13 @@
   * **[[:fr:obs:notes:key-terms/naaman|Naaman (Namaan)]]**
   * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/heal]]**
+  * **[[:fr:obe:other/naaman]]**
+  * **[[:fr:obe:other/jew]]**
+
 
 ===== Translation Notes: =====
 
