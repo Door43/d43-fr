@@ -16,6 +16,12 @@ Nebuchadnezzar et son armée emmenèrent presque tous les gens du royaume de Jud
   * **[[:fr:obs:notes:key-terms:god|God's (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
 
+  * **[[:fr:obe:other/nebuchadnezzar]]**
+  * **[[:fr:obe:other/judah]]**
+  * **[[:fr:obe:other/babylon]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/promisedland]]**
+
 
 ==== Translation Notes: ====
 
