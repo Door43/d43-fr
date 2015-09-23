@@ -14,6 +14,11 @@ L'Empire Perse était fort mais miséricordieux envers les gens qui avaient ét�
   * **[[:fr:obs:notes:key-terms:temple|Temple (temple)]]**
   * **[[:fr:obs:notes:key-terms:jerusalem|Jerusalem (Jérusalem)]]**
 
+  * **[[:fr:obe:kt/mercy]]**
+  * **[[:fr:obe:other/jew]]**
+  * **[[:fr:obe:kt/temple]]**
+  * **[[:fr:obe:other/jerusalem]]**
+
 
 ==== Translation Notes: ====
 
