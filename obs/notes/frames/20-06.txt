@@ -19,6 +19,16 @@ Environ 100 années après que les Assyriens aient détruit le royaume d'Israël
   * **[[:fr:obs:notes:key-terms:babylon|Babylon] (Babylone)]]**
   * **[[:fr:obs:notes:key-terms:servant|servant (serviteur)]]**
 
+  * **[[:fr:obe:other/assyria]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other/nebuchadnezzar]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/babylon]]**
+  * **[[:fr:obe:other/judah]]**
+  * **[[:fr:obe:other/babylon]]**
+  * **[[:fr:obe:other/servant]]**
+
 
 ==== Translation Notes: ====
 
