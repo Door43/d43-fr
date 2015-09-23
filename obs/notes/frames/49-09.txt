@@ -16,8 +16,15 @@ Mais Dieu a tant aimé le monde qu'il donna son fils unique, Jésus, pour que to
   * **[[:fr:obs:notes:key-terms/punish|punished]]**
   * **[[:fr:obs:notes:key-terms/sin|sins]]**
   * **[[:fr:obs:notes:key-terms/life|live]]**
-
-
+  
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt:love|loved]]**
+  * **[[:fr:obe:kt/sonofgod|Son]]**
+  * **[[:fr:obe:kt/believe|believes]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/punish|punished]]**
+  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/life|live]]**
 ===== Translation Notes: =====
 
   * **gave his only Son**  - This could also be translated as, "offered his only Son to the world as a sacrifice for sins" or, "gave us his only Son to be a sacrifice for our sins."
