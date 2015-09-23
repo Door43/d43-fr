@@ -13,6 +13,10 @@
   * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah (Zacharie)]]**
   * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
 
+  * **[[:fr:obe:other/johnthebaptist]]**
+  * **[[:fr:obe:other/zechariah]]**
+  * **[[:fr:obe:kt/prophet]]**
+
 
 ===== Translation Notes: =====
 
