@@ -15,6 +15,14 @@ Dieu promit au roi David que un de ses descendants règnerait comme roi pour tou
   * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
   * **[[:fr:obs:notes:key-terms/descendant|descendants]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+ 
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/promise|promised]]**
+  * **[[:fr:obe:other/david|King David]]**
+  * **[[:fr:obe:kt/sonofgod|Son of God]]**
+  * **[[:fr:obe:kt/Christ|Messiah]]**
+  * **[[:fr:obe:other/descendant|descendants]]**
+  * **[[:fr:obe:kt/Jesus]]**
 
 
 ===== Translation Notes: =====
