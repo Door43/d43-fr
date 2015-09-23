@@ -14,6 +14,12 @@
   * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
   * **[[:fr:obs:notes:key-terms/sin|sins]]**
 
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/lord]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:kt/sin]]**
+
 
 ===== Translation Notes: =====
 
