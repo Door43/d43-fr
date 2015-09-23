@@ -14,6 +14,11 @@ Au début, Naaman était furieux et refusa de faire cela parce que ça paraissai
   * **[[:fr:obs:notes:key-terms:heal|healed (guérir)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/naaman]]**
+  * **[[:fr:obe:other/jordanriver]]**
+  * **[[:fr:obe:other/heal]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ==== Translation Notes: ====
 
