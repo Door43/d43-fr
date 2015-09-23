@@ -13,6 +13,12 @@ Dieu vous dit de prier, d'étudier son Écriture, de le louer avec d'autres Chr�
   * **[[:fr:obs:notes:key-terms/word-of-god|his word]]**
   * **[[:fr:obs:notes:key-terms/worship|worship]]**
   * **[[:fr:obs:notes:key-terms/christian|Christians]]**
+  
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:kt/wordofgod|his word]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/Christian|Christians]]**
 
 
 ===== Translation Notes: =====
