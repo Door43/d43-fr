@@ -18,6 +18,16 @@
   * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
   * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
 
+  * **[[:fr:obe:other/mary]]**
+  * **[[:fr:obe:other/virgin]]**
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/spirit]]**
+  * **[[:fr:obe:kt/power]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/holy]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/believe]]**
+
 
 ===== Translation Notes: =====
 
