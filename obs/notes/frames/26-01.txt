@@ -15,6 +15,13 @@
   * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Saint Esprit)]]**
   * **[[:fr:obs:notes:key-terms/galilee|Galilee (Galilée)]]**
 
+  * **[[:fr:obe:kt/satan]]**
+  * **[[:fr:obe:kt/tempt]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/power]]**
+  * **[[:fr:obe:kt/spirit]]**
+  * **[[:fr:obe:other/galilee]]**
+
 
 ===== Translation Notes: =====
 
