@@ -17,6 +17,14 @@
   * **[[:fr:obs:notes:key-terms:virgin|virgin (vierge)]]**
   * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Bethléhem)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:other/isaiah]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/virgin]]**
+  * **[[:fr:obe:other/bethlehem]]**
+
 
 ==== Translation Notes: ====
 
