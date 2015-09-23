@@ -19,6 +19,18 @@ Une fois que Urie fut tué, David se maria à Bath-Chéba. Quelque temps après,
   * **[[:fr:obs:notes:key-terms:repent|repented (repentir)]]**
   * **[[:fr:obs:notes:key-terms:forgive|forgave (pardonner)]]**
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
+
+  * **[[:fr:obe:other/uriah]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:other/bathsheba]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/nathan]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/repent]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:other/obey]]**
 ==== Translation Notes: ====
 
   * **what David had done**  - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
