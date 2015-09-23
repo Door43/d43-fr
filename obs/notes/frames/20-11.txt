@@ -14,6 +14,11 @@ Soixante-dix ans plus tard, Cyrus, le roi des Perses, vainquit Babylone, alors l
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:jew|Jews (Juif)]]**
 
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/babylon]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/jew]]**
+
 
 ==== Translation Notes: ====
 
