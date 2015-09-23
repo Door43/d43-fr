@@ -13,6 +13,11 @@ Jésus lui répondit par une parabole. “Un homme Juif voyageait de Jérusalem 
   * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
   * **[[:fr:obs:notes:key-terms/jericho|Jericho (Jéricho)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/jew]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:other/jericho]]**
+
 
 ===== Translation Notes: =====
 
