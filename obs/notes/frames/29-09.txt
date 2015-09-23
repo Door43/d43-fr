@@ -8,9 +8,13 @@ Alors, Jésus dit: “C'est ainsi que mon Père Céleste vous traitera, si chacu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]] said**
-  * **[[:fr:obs:notes:key-terms/god-father|heavenly Father]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|heavenly Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/forgive]]**
 
 
 ===== Translation Notes: =====
