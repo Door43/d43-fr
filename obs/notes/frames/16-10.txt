@@ -13,6 +13,10 @@
   * **[[:fr:obs:notes:key-terms:gideon|Gideon (Gédeon)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/gideon]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ==== Translation Notes: ====
 
