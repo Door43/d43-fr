@@ -13,6 +13,10 @@ Le lendemain matin, les gens virent que quelqu'un avait détruit l'autel, et ils
   * **[[:fr:obs:notes:key-terms:gideon|Gideon's (Gédeon)]]**
   * **[[:fr:obs:notes:key-terms:god-false|god (dieu)]]**
 
+  * **[[:fr:obe:other/altar]]**
+  * **[[:fr:obe:other/gideon]]**
+  * **[[:fr:obe:kt/falsegod]]**
+
 
 ==== Translation Notes: ====
 
