@@ -12,6 +12,10 @@
   * **[[:fr:obs:notes:key-terms/priest|priest (sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader (Responsables juifs)]]**
 
+  * **[[:fr:obe:other/jew]]**
+  * **[[:fr:obe:kt/priest]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+
 
 ===== Translation Notes: =====
 
