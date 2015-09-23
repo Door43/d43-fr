@@ -13,6 +13,11 @@ The **angel** responded to Zechariah, “I was sent by **God** to bring you this
   * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
   * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah (Zacharie)]]**
 
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:other/zechariah]]**
+
 
 ===== Translation Notes: =====
 
