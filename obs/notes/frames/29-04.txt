@@ -8,8 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
-  * **[[:fr:obs:notes:key-terms/king|king]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
+
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:other/king]]**
 
 
 ===== Translation Notes: =====
