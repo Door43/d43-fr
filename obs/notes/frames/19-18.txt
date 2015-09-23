@@ -15,6 +15,12 @@ Les prophètes continuèrent à parler au nom de Dieu même si les gens les dét
   * **[[:fr:obs:notes:key-terms:promise|promise (promesse)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
 
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/repent]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:kt/christ]]**
+
 
 ==== Translation Notes: ====
 
