@@ -15,6 +15,12 @@
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendant)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/promise]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:other/descendant]]**
+
 
 ==== Translation Notes: ====
 
