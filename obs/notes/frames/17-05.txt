@@ -18,6 +18,15 @@ Eventuellement, Saul mourut sur les champs de bataille, et David devint le roi d
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:jerusalem|Jerusalem (Jérusalem)]]**
 
+  * **[[:fr:obe:other/saul]]**
+  * **[[:fr:obe:other/david]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/love]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/bless]]**
+  * **[[:fr:obe:other/jerusalem]]**
+
 
 ==== Translation Notes: ====
 
