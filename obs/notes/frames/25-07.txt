@@ -15,6 +15,13 @@
   * **[[:fr:obs:notes:key-terms/lord|Lord (Seigneur)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/satan]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/lord]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ===== Translation Notes: =====
 
