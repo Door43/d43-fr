@@ -14,6 +14,11 @@
   * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
 
+  * **[[:fr:obe:kt/satan]]**
+  * **[[:fr:obe:kt/tempt]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+
 
 ===== Translation Notes: =====
 
