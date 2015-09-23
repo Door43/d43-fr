@@ -11,6 +11,9 @@
   * **[[:fr:obs:notes:key-terms/samaria|Samaritan (La Samarie)]]**
   * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
 
+  * **[[:fr:obe:other/samaria]]**
+  * **[[:fr:obe:other/jew]]**
+
 
 ===== Translation Notes: =====
 
