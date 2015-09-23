@@ -15,6 +15,12 @@ Puis Elie dit au roi Achab, “Retourne tout de suite à la ville, parce que la 
   * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/ahab]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ==== Translation Notes: ====
 
