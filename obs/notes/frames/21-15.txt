@@ -17,6 +17,9 @@
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
 
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/christ]]**
 
 ==== Translation Notes: ====
 
