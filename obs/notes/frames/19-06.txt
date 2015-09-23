@@ -16,6 +16,13 @@ Tout le peuple du royaume d'Israël, y compris les quatre cent cinquante prophè
   * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/baal]]**
+  * **[[:fr:obe:other/elijah]]**
+  * **[[:fr:obe:kt/yahweh]]**
+  * **[[:fr:obe:kt/god]]**
+
 
 ==== Translation Notes: ====
 
