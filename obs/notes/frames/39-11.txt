@@ -8,11 +8,17 @@ Après avoir parlé avec Jésus, Pilate sortit rencontrer la foule et dit: “Je
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilt]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/crucify|Crucify]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
+  * **[[:fr:obs:notes:key-terms/guilt|guilt (coupable)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/crucify|Crucify (crucifier)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/pilate]]**
+  * **[[:fr:obe:kt/guilt]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/crucify]]**
 
 
 ===== Translation Notes: =====
