@@ -8,12 +8,19 @@ Alors Jésus leur expliqua ce que la Parole de Dieu disait au sujet du Messie. I
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophets (prophète)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
+  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/suffer]]**
+  * **[[:fr:obe:kt/raise]]**
 
 
 ===== Translation Notes: =====
