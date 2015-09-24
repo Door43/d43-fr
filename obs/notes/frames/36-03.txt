@@ -8,12 +8,19 @@ Puis Moïse et le prophète Elie apparurent. Ces hommes avaient vécu sur terre 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms/[prophet|prophet]]**
-  * **[[:fr:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/death|death]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:fr:obs:notes:key-terms/moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms/[prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms/elijah|Elijah (Elie)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+
+  * **[[:fr:obe:other/Moses]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:other/Elijah]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:other/jerusalem]]**
 
 
 ===== Translation Notes: =====
