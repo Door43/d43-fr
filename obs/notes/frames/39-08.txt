@@ -8,11 +8,17 @@ Pierre partit et se mit à pleurer amèrement. Pendant ce temps, Judas qui avait
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:fr:obs:notes:key-terms/betray|betrayer]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/judas|Judas (Judas)]]**
+  * **[[:fr:obs:notes:key-terms/betray|betrayer (trahïr)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:other/judasiscariot]]**
+  * **[[:fr:obe:kt/betray]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/jesus]]**
 
 
 ===== Translation Notes: =====
