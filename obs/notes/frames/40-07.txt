@@ -8,13 +8,19 @@ Puis Jésus cria d'une voix forte: “Tout est accompli! Père, je remets mon es
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father]]**
-  * **[[:fr:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/temple|Temple]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/spirit|spirit (esprit)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/temple|Temple (temple)]]**
 
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/spirit]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/temple]]**
 
 ===== Translation Notes: =====
 
