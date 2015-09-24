@@ -8,10 +8,15 @@ Puis Pierre dit à Jésus: “Même si je dois mourir, Je ne te renierai pas!”
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
