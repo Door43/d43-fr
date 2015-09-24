@@ -8,15 +8,25 @@ Quand les soldats arrêtèrent Jésus, Pierre sortit son épée et coupa l'oreil
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father]]**
-  * **[[:fr:obs:notes:key-terms/angel|angels]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand sacrifice)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
+  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/highpriest]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:other/obey]]**
+  * **[[:fr:obe:other/heal]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
