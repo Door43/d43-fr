@@ -8,10 +8,15 @@ Finalement, le Grand Prêtre regarda Jésus et lui demanda: “Dis-nous, es-tu l
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of the living God]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of the living God (Fils de Dieu))]]**
+
+  * **[[:fr:obe:kt/highpriest]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/sonofgod]]**
 
 
 ===== Translation Notes: =====
