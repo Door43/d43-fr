@@ -8,11 +8,17 @@ Par sa mort, Jésus ouvrait un chemin pour que les hommes puissent croire en Die
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/death|death]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/innocent|innocent (innocent)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/innocent]]**
+  * **[[:fr:obe:kt/sonofgod]]**
 
 
 ===== Translation Notes: =====
