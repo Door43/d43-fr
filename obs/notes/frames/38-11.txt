@@ -8,10 +8,15 @@ Ensuite Jésus et ses disciples arrivèrent dans un lieu appelé Géthsémané. 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/pray|pray]]**
-  * **[[:fr:obs:notes:key-terms/tempt|temptation]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/pray|pray (prier)]]**
+  * **[[:fr:obs:notes:key-terms/tempt|temptation (tenter)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:kt/tempt]]**
 
 
 ===== Translation Notes: =====
