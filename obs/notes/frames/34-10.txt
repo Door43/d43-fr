@@ -8,15 +8,15 @@ Alors Jésus dit: “En vérité, je vous le dit, Dieu entendit la prière colle
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/true|truth]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector's]]**
-  * **[[:fr:obs:notes:key-terms/pray|prayer]]**
-  * **[[:fr:obs:notes:key-terms/righteous|righteous]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader's]]**
-  * **[[:fr:obs:notes:key-terms/humble|humble]]**
-  * **[[:fr:obs:notes:key-terms/proud|proud]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/true|truth (vérité)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector's (pubicain)]]**
+  * **[[:fr:obs:notes:key-terms/pray|prayer (prier)]]**
+  * **[[:fr:obs:notes:key-terms/righteous|righteous (vertueux)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader's (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/humble|humble (humble)]]**
+  * **[[:fr:obs:notes:key-terms/proud|proud (orgueilleux)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/true|truth]]**
