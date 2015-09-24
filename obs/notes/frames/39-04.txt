@@ -8,14 +8,23 @@ Jésus lui répondit: “Je le suis, vous me verrez siéger à la droite du Tout
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/judge|judgment]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand Sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/witness|witnesses (témoin)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/judge|judgment (jugement)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/highpriest]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/witness]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/judge]]**
 
 
 ===== Translation Notes: =====
