@@ -8,11 +8,11 @@ Tandis que Moïse et Elie parlaient avec Jésus, Pierre dit à Jésus: “Il est
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/good|good]]**
+  * **[[:fr:obs:notes:key-terms/moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms/elijah|Elijah (Elie)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
 
   * **[[:fr:obe:other/moses|Moses]]**
   * **[[:fr:obe:other/Elijah]]**
