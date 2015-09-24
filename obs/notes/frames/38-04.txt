@@ -8,11 +8,11 @@ A Jerusalem, Jésus célèbra le repas de la Pâque avec ses disciples. Jésus p
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/sacrifice|sacrificed]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/sacrifice|sacrificed (sacrifice)]]**
 
   * **[[:fr:obe:other/Jerusalem]]**
   * **[[:fr:obe:kt/Jesus]]**
