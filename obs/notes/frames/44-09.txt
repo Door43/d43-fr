@@ -12,8 +12,12 @@ Les leaders étaient secoués de voir l'assurance de Pierre et de Jean, car ils 
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
   * **[[:fr:obs:notes:key-terms/john|John]]**
   * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  
+  * **[[:fr:obe:other/jewishleaders|leaders]]**
+  * **[[:fr:obe:other/peter|Peter]]**
+  * **[[:fr:obe:other/johntheapostle|John]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  
 ===== Translation Notes: =====
 
   * **were shocked**  - That is, "were very surprised" or, "were amazed."
