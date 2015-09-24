@@ -8,12 +8,12 @@ Quand Jésus arriva dans la ville natale de Lazare, Lazare était déjà mort de
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus']]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus' (Lazare)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/Lazarus|Lazarus']]**
