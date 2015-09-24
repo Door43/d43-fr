@@ -8,8 +8,11 @@ Les femmes étaient effrayées mais en même temps remplies d'une grande joie. E
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/joy|joy]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/joy|joy (joie)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:kt/joy]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
