@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/faithful|faithfully]]**
-  * **[[:fr:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinful]]**
+  * **[[:fr:obs:notes:key-terms/faithful|faithfully (fidèle)]]**
+  * **[[:fr:obs:notes:key-terms/disobey|disobeyed (disobéir)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinful (péché)]]**
 
   * **[[:fr:obe:kt/faithful|faithfully]]**
   * **[[:fr:obe:other/disobey|disobeyed]]**
