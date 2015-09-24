@@ -15,6 +15,14 @@ Tout de suite Saul commença à prêcher aux Juifs à Damas en disant, “Jésus
   * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
   * **[[:fr:obs:notes:key-terms/believer|believers]]**
   * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
+  
+  * **[[:fr:obe:other/paul|Saul]]**
+  * **[[:fr:obe:other/preach|preaching]]**
+  * **[[:fr:obe:other/jew|Jews]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/sonofgod|Son of God]]**
+  * **[[:fr:obe:kt/believer|believers]]**
+  * **[[:fr:obe:kt/Christ|Messiah]]**
 
 
 ===== Translation Notes: =====
