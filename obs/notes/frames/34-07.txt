@@ -8,11 +8,17 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinner]]**
-  * **[[:fr:obs:notes:key-terms/adultery|adulterers]]**
-  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinner (péché)]]**
+  * **[[:fr:obs:notes:key-terms/adultery|adulterers (adultère)]]**
+  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector (publicain)]]**
+
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/adultery]]**
+  * **[[:fr:obe:other/taxcollector]]**
 
 
 ===== Translation Notes: =====
