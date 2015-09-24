@@ -8,16 +8,16 @@ Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remerc
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/save|saved]]**
-  * **[[:fr:obs:notes:key-terms/servant|slavery]]**
-  * **[[:fr:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/preach|preaching]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
+  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/servant|slavery (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/egypt|Egypt (Egypte)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/preach|preaching (prêcher)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
 
   * **[[:fr:obe:other/Jew|Jews]]**
   * **[[:fr:obe:kt/Passover]]**
