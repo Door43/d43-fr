@@ -8,11 +8,17 @@ Les chefs des Juifs répondirent au Grand-Prêtre, “Il mérite de mourir!” A
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/mock|mocked]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
+
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/highpriest]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/mock]]**
 
 
 ===== Translation Notes: =====
