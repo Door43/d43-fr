@@ -8,11 +8,11 @@ Alors Lazare sortit! Il était enveloppé de linges mortuaires. Jésus leur dit:
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
-  * **[[:fr:obs:notes:key-terms/miracle|miracle]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (juif)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
+  * **[[:fr:obs:notes:key-terms/miracle|miracle (miracles)]]**
 
   * **[[:fr:obe:other/lazarus]]**
   * **[[:fr:obe:kt/jesus]]**
