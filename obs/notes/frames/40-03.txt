@@ -8,9 +8,13 @@ Les soldats se partagèrent ses vêtements en les tirant au sort. C'est ainsi qu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecy]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophecy (prophétie)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/prophet]]**
 
 
 ===== Translation Notes: =====
