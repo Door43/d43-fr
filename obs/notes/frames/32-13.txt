@@ -8,8 +8,11 @@ Jésus retourna sur l'autre rive du lac. Une fois arrivé, une grande foule se r
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heal|heal]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heal|heal (guérir)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/heal]]**
 
 
 ===== Translation Notes: =====
