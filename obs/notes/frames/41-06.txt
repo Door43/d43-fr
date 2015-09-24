@@ -8,12 +8,19 @@ Alors l'ange dit aux femmes: “Allez vite annoncer à ses disciples que Jésus 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/raise|risen]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/raise|risen (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/galilee|Galilee (Galilée)]]**
+
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/raise]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:other/galilee]]**
 
 
 ===== Translation Notes: =====
