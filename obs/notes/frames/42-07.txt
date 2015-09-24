@@ -8,13 +8,21 @@ Jésus dit: “Je vous ai annoncé qu'il faut que s'accomplisse tout ce qui est 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/suffer]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/raise]]**
 
 
 ===== Translation Notes: =====
