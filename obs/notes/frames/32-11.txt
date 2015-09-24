@@ -8,9 +8,13 @@ Mais Jésus lui dit: “Non, je veux que tu ailles dans ta maison, et que tu rac
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/mercy|mercy]] on you**."
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/mercy|mercy (miséricorde)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/mercy]]**
 
 
 ===== Translation Notes: =====
