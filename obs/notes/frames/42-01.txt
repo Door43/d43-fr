@@ -8,12 +8,12 @@ Le jour où Jésus ressuscita d'entre les morts, deux de ses disciples faisaient
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/life|alive]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
 
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/raise]]**
