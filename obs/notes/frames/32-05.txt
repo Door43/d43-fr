@@ -8,8 +8,11 @@ Quand l'homme vint devant Jésus, il se prosterna devant lui. Jésus dit au dém
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/demon|demon]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/demon|demon (démon))]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/demon]]**
 
 
 ===== Translation Notes: =====
