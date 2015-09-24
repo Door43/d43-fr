@@ -8,8 +8,11 @@ Elle avait entendu dire que Jésus avait guéri beaucoup de malades et elle pens
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/heal]]**
 
 
 ===== Translation Notes: =====
