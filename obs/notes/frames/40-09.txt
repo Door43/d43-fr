@@ -8,12 +8,19 @@ Ensuite, deux chefs des Juifs, Joseph et Nicodème, qui croyaient que Jésus ét
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
+
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:other/pilate]]**
+  * **[[:fr:obe:other/tomb]]**
 
 
 ===== Translation Notes: =====
