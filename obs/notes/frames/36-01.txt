@@ -8,11 +8,11 @@ Un jour, Jésus prit avec lui trois de ses disciples, Pierre, Jacques et Jean. (
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms:peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms:john|John]]**
-  * **[[:fr:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms:peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms:john|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/disciple|disciples]]**
