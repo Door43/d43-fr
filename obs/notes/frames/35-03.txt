@@ -8,9 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/son|sons]]**
-  * **[[:fr:obs:notes:key-terms/inherit|inheritance]]**
+  * **[[:fr:obs:notes:key-terms/son|sons (fils)]]**
+  * **[[:fr:obs:notes:key-terms/inherit|inheritance (hériter)]]**
 
+  * **[[:fr:obe:kt/son]]**
+  * **[[:fr:obe:kt/inherit]]**
 
 ===== Translation Notes: =====
 
