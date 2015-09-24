@@ -8,10 +8,15 @@ Pierre jura, disant, “Que je sois maudit si je connais cet homme!” Immédiat
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/curse|curse]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/curse|curse (malédiction)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/curse]]**
+  * **[[:fr:obe:kt/jesus]]**
 
 
 ===== Translation Notes: =====
