@@ -8,9 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/joy|joy]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecution]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/joy|joy (joie)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
+
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/joy]]**
+  * **[[:fr:obe:other/persecute]]**
 
 
 ===== Translation Notes: =====
