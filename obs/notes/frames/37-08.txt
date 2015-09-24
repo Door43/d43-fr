@@ -8,10 +8,10 @@ Jésus répondit: “Ne tais-je pas dit, si tu crois en moi, tu verras la gloire
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God's]]**
-  * **[[:fr:obs:notes:key-terms/glory|glory]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God's (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/glory|glory (gloire)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
 
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/God|God's]]**
