@@ -14,6 +14,13 @@ Satan parla à travers le serpent qui était dans le jardin pour décevoir Eve. 
   * **[[:fr:obs:notes:key-terms/sin|sinned]]**
   * **[[:fr:obs:notes:key-terms/god|God]]**
   * **[[:fr:obs:notes:key-terms/death|dies]]**
+  
+  * **[[:fr:obe:kt/Satan]]**
+  * **[[:fr:obe:other/Eve]]**
+  * **[[:fr:obe:other/Adam]]**
+  * **[[:fr:obe:kt/sin|sinned]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/death|dies]]**
 
 
 ===== Translation Notes: =====
