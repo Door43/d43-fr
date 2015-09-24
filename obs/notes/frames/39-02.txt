@@ -8,10 +8,15 @@ A l'intérieur de la maison, les chefs des Juifs jugèrent Jésus. Ils amenèren
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilty]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/witness|witnesses (témoin)]]**
+  * **[[:fr:obs:notes:key-terms/guilt|guilty (coupable)]]**
+
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/witness]]**
+  * **[[:fr:obe:kt/guilt]]**
 
 
 ===== Translation Notes: =====
