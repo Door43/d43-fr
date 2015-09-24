@@ -8,11 +8,17 @@ Judas arriva avec les chefs des Juifs, des soldats, et une grande foule portant 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:fr:obs:notes:key-terms/betray|betray]]**
+  * **[[:fr:obs:notes:key-terms/judas|Judas (Judas)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/teacher|Teacher (Maïtre)]]**
+  * **[[:fr:obs:notes:key-terms/betray|betray (trahir)]]**
+
+  * **[[:fr:obe:other/judasiscariot]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/teacher]]**
+  * **[[:fr:obe:kt/betray]]**
 
 
 ===== Translation Notes: =====
