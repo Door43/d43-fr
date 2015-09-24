@@ -8,10 +8,15 @@ L'homme possèdé par le démon s'écria d'une voix forte: “Qu'y a t-il entre 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/demon-possessed|man with the demon]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son]]**
-  * **[[:fr:obs:notes:key-terms/god|Most High God]]**
+  * **[[:fr:obs:notes:key-terms/demon-possessed|man with the demon (possession démoniaque)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/god|Most High God (Dieu)]]**
+
+  * **[[:fr:obe:kt/demonpossessed]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/mosthigh]]**
 
 
 ===== Translation Notes: =====
