@@ -8,9 +8,13 @@ Les démons suppliaient Jésus, “Ne nous envoie pas hors de ce pays!” Il y a
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/demon|demons]]**
-  * **[[:fr:obs:notes:key-terms/beg|begged]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/demon|demons (démon)]]**
+  * **[[:fr:obs:notes:key-terms/beg|begged (mendier/quémander)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+
+  * **[[:fr:obe:kt/demon]]**
+  * **[[:fr:obe:other/beg]]**
+  * **[[:fr:obe:kt/jesus]]**
 
 
 ===== Translation Notes: =====
