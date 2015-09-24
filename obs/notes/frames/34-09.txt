@@ -8,13 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/pray|prayed]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/mercy|merciful]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinner]]**
+  * **[[:fr:obs:notes:key-terms/tax-collector|tax collector (publicain)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/pray|prayed (prier)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/mercy|merciful (miséricorde)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinner (péché)]]**
 
   * **[[:fr:obe:other/taxcollector]]**
   * **[[:fr:obe:other/jewishleaders]]**
