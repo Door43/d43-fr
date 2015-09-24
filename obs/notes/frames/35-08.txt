@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/son|son]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (god)]]**
 
   * **[[:fr:obe:kt:son]]**
   * **[[:fr:obe:kt:sin|sinned]]**
