@@ -8,14 +8,23 @@ Après la crucifixion de Jésus, les incrédules chefs des Juifs dirent à Pilat
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
+  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:kt/crucify]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:other/pilate]]**
+  * **[[:fr:obe:kt/raise]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:other/tomb]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
