@@ -8,10 +8,15 @@ Pendant que Pierre attendait dehors, une servante s'approcha de lui et dit: “T
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant girl]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/galilee|Galilee]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant girl (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/galilee|Galilee (Galileée)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/galilee]]**
 
 
 ===== Translation Notes: =====
