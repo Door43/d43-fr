@@ -8,15 +8,25 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/repent|repent]]**
-  * **[[:fr:obs:notes:key-terms/receive|receive]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|scriptures (les écritures)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/repent|repent (repentir)]]**
+  * **[[:fr:obs:notes:key-terms/receive|receive (recevoir)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgiveness (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethnique)]]**
+  * **[[:fr:obs:notes:key-terms/witness|witnesses (téoin)]]**
+
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/repent]]**
+  * **[[:fr:obe:kt/receive]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:other/peoplegroup]]**
+  * **[[:fr:obe:kt/witness]]**
 
 
 ===== Translation Notes: =====
