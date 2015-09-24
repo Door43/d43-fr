@@ -8,15 +8,25 @@ Jésus pria trois fois: “Père, si c'est possible, épargne-moi la coupe de l'
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/pray|prayed]]**
-  * **[[:fr:obs:notes:key-terms/god-father|My Father]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:fr:obs:notes:key-terms/blood|blood]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/pray|prayed (prier)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|My Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffering (souffrir)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgiven (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/blood|blood (le sang)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/suffer]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:kt/blood]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/angel]]**
 
 
 ===== Translation Notes: =====
