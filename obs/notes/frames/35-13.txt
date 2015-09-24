@@ -8,9 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/son|son]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/life|alive]]**
+  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
 
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/death|dead]]**
