@@ -8,10 +8,15 @@ Au moment où Pierre parlait, une nuée lumineuse les enveloppa et une voix en s
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son]]**
-  * **[[:fr:obs:notes:key-terms/love|love]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|love (amour)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/love]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
