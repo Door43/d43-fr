@@ -8,8 +8,11 @@ Les gens eurent très peur et demandèrent à Jésus de partir. Alors Jésus mon
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/beg|begged]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/beg|begged (mendier/quémander)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/beg]]**
 
 
 ===== Translation Notes: =====
