@@ -8,11 +8,11 @@ Puis Jésus prit la coupe et dit: “Buvez, ceci est mon sang par lequel est sce
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/blood|blood]]**
-  * **[[:fr:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/blood|blood (le sang)]]**
+  * **[[:fr:obs:notes:key-terms/covenant-new|New Covenant (Nouvelle Alliance)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgiveness (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/blood]]**
