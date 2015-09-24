@@ -8,10 +8,15 @@ Soudain il y eut un violent tremblement de terre. Un ange du Seigneur, qui avait
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tomb/tombeau)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:other/tomb]]**
+  * **[[:fr:obe:kt/death]]**
 
 
 ===== Translation Notes: =====
