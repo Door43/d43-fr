@@ -8,10 +8,10 @@ Puis Jésus dit aux disciples: “l'un de vous me trahira.” Les disciples fure
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/betray|betray]]**
-  * **[[:fr:obs:notes:key-terms/judas|Judas]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/betray|betray (trahïr)]]**
+  * **[[:fr:obs:notes:key-terms/judas|Judas (Judas)]]**
 
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt:disciple|disciples]]**
