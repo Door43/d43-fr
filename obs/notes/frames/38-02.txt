@@ -8,14 +8,14 @@ Un des disciples de Jésus s'appelait Judas. Il était responsable de la bourse 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:fr:obs:notes:key-terms/apostle|apostles']]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/betray|betray]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/judas|Judas (Judas)]]**
+  * **[[:fr:obs:notes:key-terms/apostle|apostles' (apôtres)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/betray|betray (trahïr)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/disciple|disciples]]**
