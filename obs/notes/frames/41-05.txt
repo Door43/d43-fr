@@ -8,11 +8,17 @@ Quand les femmes arrivèrent au tombeau, l'ange leur dit: “N'ayez pas peur. J�
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/raise|risen]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/raise|risen (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
+
+  * **[[:fr:obe:kt/angel]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/raise]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:other/tomb]]**
 
 
 ===== Translation Notes: =====
