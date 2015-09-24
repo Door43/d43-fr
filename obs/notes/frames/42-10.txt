@@ -8,15 +8,25 @@ Jésus dit à ses disciples: “Toute autorité au ciel et sur la terre m'a ét�
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptizing]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethique)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptizing (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son (fils)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:other/peoplegroup]]**
+  * **[[:fr:obe:kt/baptize]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/holyspirit]]**
+  * **[[:fr:obe:other/obey]]***
 
 
 ===== Translation Notes: =====
