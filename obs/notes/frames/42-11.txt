@@ -8,14 +8,23 @@ Quarante jours après la résurrection des morts de Jésus, il dit à ses discip
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father]]**
-  * **[[:fr:obs:notes:key-terms/power|power]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|Father (Die le Père)]]**
+  * **[[:fr:obs:notes:key-terms/power|power (puissance)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/power]]**
+  * **[[:fr:obe:kt/holyspirit]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/god]]**
 
 
 ===== Translation Notes: =====
