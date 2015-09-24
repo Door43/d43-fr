@@ -8,13 +8,21 @@ Jésus fut crucifié entre deux brigands. Un des deux se moquait de Jésus, mais
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:fr:obs:notes:key-terms/mock|mocked]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:fr:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
+  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/guilt|guilty (coupable)]]**
+  * **[[:fr:obs:notes:key-terms/innocent|innocent (innocent)]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom (Royaume de Dieu)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/crucify]]**
+  * **[[:fr:obe:other/mock]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/guilt]]**
+  * **[[:fr:obe:kt/innocent]]**
+  * **[[:fr:obe:kt/kingdomofgod]]**
 
 
 ===== Translation Notes: =====
