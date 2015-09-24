@@ -8,8 +8,11 @@ Alors Pierre sortit de la barque et marcha sur les eaux pour aller vers Jésus. 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/jesus]]**
 
 
 ===== Translation Notes: =====
