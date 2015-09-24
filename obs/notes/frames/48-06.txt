@@ -17,6 +17,20 @@ Pendant des centaines d'années, les prêtres continuaient à offrir des sacrifi
   * **[[:fr:obs:notes:key-terms/punish|punishment]]**
 
 
+  * **[[:fr:obe:kt/priest|priests]]**
+  * **[[:fr:obe:other/sacrifice|sacrifices]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/highpriest|Great High Priest]]**
+  * **[[:fr:obe:other/punish|punishment]]**
+
+
+
+
+
+
+
 ===== Translation Notes: =====
 
   * **he offered himself**  - This could also be translated as, "Jesus allowed himself to be killed."
