@@ -8,7 +8,9 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/good|good]]**
+  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
+
+  * **[[:fr:obe:kt/good]]**
 
 
 ===== Translation Notes: =====
