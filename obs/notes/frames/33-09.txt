@@ -8,9 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/good|good]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
+  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|word of God (La parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+
+  * **[[:fr:obe:kt/good]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/believe]]**
 
 
 ===== Translation Notes: =====
