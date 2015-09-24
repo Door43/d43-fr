@@ -8,12 +8,12 @@ Un jour, Jésus reçut un message que Lazare était gravement malade. Lazare et 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:fr:obs:notes:key-terms/death|death]]**
-  * **[[:fr:obs:notes:key-terms/glory|glory]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/love|loved]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
+  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
+  * **[[:fr:obs:notes:key-terms/glory|glory (gloire)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/Lazarus]]**
