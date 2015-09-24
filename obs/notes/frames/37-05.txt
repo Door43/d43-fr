@@ -8,14 +8,14 @@ Jésus répondit: “je suis la Résurrection et la Vie. Celui qui croit en moi 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/resurrection|Resurrection]]**
-  * **[[:fr:obs:notes:key-terms/life|Life]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
-  * **[[:fr:obs:notes:key-terms/death|dies]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Christ]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/resurrection|Resurrection (résurrection)]]**
+  * **[[:fr:obs:notes:key-terms/life|Life (vie)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+  * **[[:fr:obs:notes:key-terms/death|dies (mort)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (seigneur))]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Christ (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/resurrection]]**
