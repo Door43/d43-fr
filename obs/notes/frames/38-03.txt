@@ -8,12 +8,12 @@ Les chefs des Juifs, avec l'accord du Grand-Prêtre, donnèrent à Judas trente 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/judas|Judas]]**
-  * **[[:fr:obs:notes:key-terms/betray|betray]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophets]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms/judas|Judas (Judas)]]**
+  * **[[:fr:obs:notes:key-terms/betray|betray (trahïr)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophets (prophète)]]**
 
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/highpriest]]**  
