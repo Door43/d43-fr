@@ -8,12 +8,19 @@ Quand Jésus et Pierre montèrent dans la barque, le vent cessa immédiatement e
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:fr:obs:notes:key-terms/true|Truly]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/worship|worshiped (adorer)]]**
+  * **[[:fr:obs:notes:key-terms/true|Truly (vérité)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/worship]]**
+  * **[[:fr:obe:kt/true]]**
+  * **[[:fr:obe:kt/sonofgod]]**
 
 
 ===== Translation Notes: =====
