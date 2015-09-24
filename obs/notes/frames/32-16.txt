@@ -8,10 +8,15 @@ La femme se jeta aux pieds de Jésus, tremblante et effrayée. Puis elle lui dit
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/faith|faith]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/peace|peace]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/faith|faith (foi)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/peace|peace (paix)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/faith]]**
+  * **[[:fr:obe:other/heal]]**
+  * **[[:fr:obe:other/peace]]**
 
 
 ===== Translation Notes: =====
