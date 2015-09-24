@@ -8,10 +8,15 @@ Cette histoire troubla les disciples. Alors Jésus expliqua: “La semence repr�
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:fr:obs:notes:key-terms/satan|devil]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|word of God (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/satan|devil (diable)]]**
+
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/satan]]**
 
 
 ===== Translation Notes: =====
