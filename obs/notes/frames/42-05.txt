@@ -8,11 +8,17 @@ Les deux hommes se dirent l'un à l'autre: “C'était Jésus! C'est pour cette 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/life|alive]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/life]]**
 
 
 ===== Translation Notes: =====
