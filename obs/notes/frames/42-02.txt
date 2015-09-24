@@ -9,8 +9,11 @@ Jésus s'approcha d'eux et commenca à marcher avec eux, mais leurs yeux étaien
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/jerusalem]]**
 
 
 ===== Translation Notes: =====
