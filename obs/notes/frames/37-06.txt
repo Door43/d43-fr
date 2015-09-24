@@ -8,11 +8,11 @@ Puis Marie courut vers Jésus. Elle se jeta à ses pieds et dit: “Seigneur, si
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Seigneur)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/lord|Master]]**
