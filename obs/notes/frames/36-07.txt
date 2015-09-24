@@ -8,10 +8,10 @@ Jésus et les trois disciples descendirent de la montagne. Puis Jésus leur dit:
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
 
   * **[[:fr:obe:kt/jesus|Jesus]]**
   * **[[:fr:obe:kt/disciple|disciples]]**
