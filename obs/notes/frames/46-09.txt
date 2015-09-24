@@ -16,6 +16,15 @@ Certains croyants qui avaient fuit la persécution à Jérusalem partirent très
   * **[[:fr:obs:notes:key-terms/paul|Saul]]**
   * **[[:fr:obs:notes:key-terms/church|church]]**
   * **[[:fr:obs:notes:key-terms/christian|Christians]]**
+  
+  * **[[:fr:obe:other/persecute|persectuion]]**
+  * **[[:fr:obe:other/Jerusalem]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/Barnabas]]**
+  * **[[:fr:obe:other/paul|Saul]]**
+  * **[[:fr:obe:kt/church]]**
+  * **[[:fr:obe:kt/Christian|Christians]]**
+  * **[[:fr:obe:other/persecute|peresecution]]**
 
 
 ===== Translation Notes: =====
