@@ -8,8 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:fr:obs:notes:key-terms/joy|joy]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (royaume de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/joy|joy (joie)]]**
+
+  * **[[:fr:obe:kt/kingdomofgod]]**
+  * **[[:fr:obe:kt/joy]]**
 
 
 ===== Translation Notes: =====
