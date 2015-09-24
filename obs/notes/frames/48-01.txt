@@ -14,6 +14,14 @@ Quand Dieu créa le monde, tout était parfait. Il n'y avait pas de péché. Ada
   * **[[:fr:obs:notes:key-terms/eve|Eve]]**
   * **[[:fr:obs:notes:key-terms/love|loved]]**
   * **[[:fr:obs:notes:key-terms/death|death]]**
+  
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:other/Adam]]**
+  * **[[:fr:obe:other/Eve]]**
+  * **[[:fr:obe:kt/love|loved]]**
+  * **[[:fr:obe:kt/death]]**
+
 
 
 ===== Translation Notes: =====
