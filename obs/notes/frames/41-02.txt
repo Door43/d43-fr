@@ -8,8 +8,11 @@ Pilate dit: “Prennez des soldats pour garder le tombeau.” Alors ils scellèr
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
+  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
+
+  * **[[:fr:obe:other/pilate]]**
+  * **[[:fr:obe:other/tomb]]**
 
 
 ===== Translation Notes: =====
