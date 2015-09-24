@@ -17,6 +17,17 @@ Un jour, quand Étienne prêchait à des gens qui n'étaient pas croyants, ils c
   * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
   * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
 
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/jew|Jews]]**
+  * **[[:fr:obe:other/jewishleaders|religious leaders]]**
+  * **[[:fr:obe:kt/evil]]**
+  * **[[:fr:obe:other/Moses]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/highpriest|high priest]]**
+  * **[[:fr:obe:kt/witness|witnesses]]**
+
+
+
 
 ===== Translation Notes: =====
 
