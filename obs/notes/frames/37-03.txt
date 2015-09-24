@@ -8,12 +8,12 @@ Les disciples de Jésus lui dirent: “Seigneur, s'il dort, il est en voie de gu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
 
   * **[[:fr:obe:kt/jesus|Jesus']]**
   * **[[:fr:obe:kt/disciple|disciples]]**
