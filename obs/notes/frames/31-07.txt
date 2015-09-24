@@ -8,11 +8,17 @@ Alors Pierre eut peur et commença à s'enfoncer dans l'eau. Il s'écria: “Sei
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms:lord|Master]]**
-  * **[[:fr:obs:notes:key-terms:save|save]]**
-  * **[[:fr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms:faith|faith]]**
+  * **[[:fr:obs:notes:key-terms:peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms:lord|Master (seigneur)]]**
+  * **[[:fr:obs:notes:key-terms:save|save (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:faith|faith (foi)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/lord]]**
+  * **[[:fr:obe:kt/save]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/faith]]**
 
 
 ===== Translation Notes: =====
