@@ -8,14 +8,23 @@ Jésus répondit: “Tu le dis toi-même, mais mon royaume n'est pas sur terre. 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:fr:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:fr:obs:notes:key-terms/servant|servants]]**
-  * **[[:fr:obs:notes:key-terms/true|truth]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/love|loves]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom (Royaume de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/kingdom|kingdom (royaume]]**
+  * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/true|truth (vérité)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
+  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/kingdomofgod]]**
+  * **[[:fr:obe:other/kingdom]]**
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/true]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/love]]**
+  * **[[:fr:obe:other/pilate]]**
 
 
 ===== Translation Notes: =====
