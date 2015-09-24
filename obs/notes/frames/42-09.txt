@@ -8,10 +8,15 @@ Pendant les quarante jours suivants, Jésus apparut beaucoup de fois à ses disc
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/life|alive]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (Royaume de Dieu)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/life]]**
+  * **[[:fr:obe:kt/kingdomofgod]]**
 
 
 ===== Translation Notes: =====
