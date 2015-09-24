@@ -8,10 +8,15 @@ Pendant que les disciples parlaient, soudain, Jésus apparut au milieu d'eux et 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms:peace|Peace]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:peace|Peace (paix)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:other/peace]]**
+  * **[[:fr:obe:kt/disciple]]**
 
 
 ===== Translation Notes: =====
