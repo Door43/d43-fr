@@ -8,9 +8,13 @@ Puis Pierre dit à Jésus: “Seigneur, si c'est toi, ordonne que j'aille vers t
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (seigneur)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/lord]]**
 
 
 ===== Translation Notes: =====
