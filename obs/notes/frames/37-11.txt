@@ -8,10 +8,10 @@ Mais les chefs des Juifs étaient jaloux, alors ils se rassemblèrent pour déci
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (juif)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
 
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:other/jew|jews]]**
