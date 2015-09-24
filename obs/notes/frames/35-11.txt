@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/son|son]]**
-  * **[[:fr:obs:notes:key-terms/beg|begged]]**
+  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms/beg|begged (mendier/quémander)]]**
 
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:other/beg|begged]]**
