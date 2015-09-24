@@ -8,7 +8,9 @@ Les démons sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/demon|demons]]**
+  * **[[:fr:obs:notes:key-terms/demon|demons (démon)]]**
+
+  * **[[:fr:obe:kt/demon]]**
 
 
 ===== Translation Notes: =====
