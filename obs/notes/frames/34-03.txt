@@ -8,8 +8,11 @@ Jésus dit cette autre parabole: “Le Royaume de Dieu est semblable à du levai
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (royaume de Dieu)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/kingdomofgod]]**
 
 
 ===== Translation Notes: =====
