@@ -8,9 +8,9 @@ Le tombeau était une grotte dont l'entrée était fermée par une pierre. Quand
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
+  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
 
   * **[[:fr:obe:other/tomb]]**
   * **[[:fr:obe:kt/Jesus]]**
