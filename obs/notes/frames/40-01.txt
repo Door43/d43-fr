@@ -8,10 +8,15 @@ Quand les soldats eurent fini de se moquer de Jésus, ils l'emmenèrent pour le 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/mock|mocked]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross]]**
+  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/crucify|crucify (crucifier)]]**
+  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
+
+  * **[[:fr:obe:other/mock]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/crucify]]**
+  * **[[:fr:obe:kt/cross]]**
 
 
 ===== Translation Notes: =====
