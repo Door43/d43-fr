@@ -8,13 +8,21 @@ Les chefs des Juifs et la foule se moquaient de Jésus, disant: “si tu es le F
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:fr:obs:notes:key-terms/mock|mocked]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross]]**
-  * **[[:fr:obs:notes:key-terms/save|save]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
+  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
+  * **[[:fr:obs:notes:key-terms/save|save (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+
+  * **[[:fr:obe:other/jewishleaders]]**
+  * **[[:fr:obe:other/mock]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/sonofgod]]**
+  * **[[:fr:obe:kt/cross]]**
+  * **[[:fr:obe:kt/save]]**
+  * **[[:fr:obe:kt/believe]]**
 
 
 ===== Translation Notes: =====
