@@ -8,9 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms/love|love]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|love (amour)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+
+  * **[[:fr:obe:kt/wordofgod]]**
+  * **[[:fr:obe:kt/love]]**
+  * **[[:fr:obe:kt/god]]**
 
 
 ===== Translation Notes: =====
