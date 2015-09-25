@@ -8,11 +8,11 @@ Pendant au moins 2,000 ans, de plus en plus de gens dans le monde avaient entend
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/church|Church]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/church|Church (église)]]**
+  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
   
   * **[[:fr:obe:kt/goodnews]]**
   * **[[:fr:obe:kt/Jesus]]**
