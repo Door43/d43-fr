@@ -9,14 +9,14 @@ Jésus est notre Agneau de Pâque. Il était parfait et sans péché et fut cruc
 ===== Important Terms: =====
 
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:fr:obs:notes:key-terms/lamb|Lamb]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
-  * **[[:fr:obs:notes:key-terms/blood|blood]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/god|God's]]**
-  * **[[:fr:obs:notes:key-terms/punish|punishment]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
+  * **[[:fr:obs:notes:key-terms/lamb|Lamb (agneau)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+  * **[[:fr:obs:notes:key-terms/blood|blood (le sang)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/god|God's (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/punish|punishment (punir)]]**
   
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Passover]]**
