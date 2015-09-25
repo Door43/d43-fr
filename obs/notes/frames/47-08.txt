@@ -8,10 +8,10 @@ Ils ont mis Paul et Silas dans le cachot le plus reculé de la prison avec leurs
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:fr:obs:notes:key-terms/silas|Silas]]**
-  * **[[:fr:obs:notes:key-terms/praise|praise]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
+  * **[[:fr:obs:notes:key-terms/silas|Silas (Silas)]]**
+  * **[[:fr:obs:notes:key-terms/praise|praise (louer)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:other/Silas]]**
