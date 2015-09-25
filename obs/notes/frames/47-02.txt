@@ -8,12 +8,12 @@ Dieu ouvrit le coeur de Lydie de sorte qu'elle croyait au message de Jésus, et 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:fr:obs:notes:key-terms/silas|Silas]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
+  * **[[:fr:obs:notes:key-terms/silas|Silas (Silas)]]**
 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/believe]]**
