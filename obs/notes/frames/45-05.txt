@@ -8,12 +8,12 @@ Quand Étienne était mourant, Il s'écria, “Jésus, reçois mon esprit.” Pu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/receive|receive]]**
-  * **[[:fr:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/receive|receive (recevoir)]]**
+  * **[[:fr:obs:notes:key-terms/spirit|spirit (esprit)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/receive]]**
