@@ -8,11 +8,17 @@ Chaque année, cinquante jours après la Pâque, les Juifs célébraient une jou
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/passover|Passover]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (juif)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+
+  * **[[:fr:obe:kt/passover]]**
+  * **[[:fr:obe:other/jew]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/heaven]]**
 
 
 ===== Translation Notes: =====
