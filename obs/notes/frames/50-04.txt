@@ -8,13 +8,13 @@ Jésus dit aussi. “Un serviteur n'est jamais supérieur à son maître. Comme 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
-  * **[[:fr:obs:notes:key-terms/lord|master]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:fr:obs:notes:key-terms/satan|Satan]]**
-  * **[[:fr:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:fr:obs:notes:key-terms/save|save]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/lord|master (Maïtre)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
+  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms/faithful|faithful (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/save|save (sauver/délivrer)]]**
   
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/servant]]**
