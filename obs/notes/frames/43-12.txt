@@ -8,13 +8,22 @@ A peu près trois mille personnes crurent ce que Pierre avait dit et devinrent d
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/church|church]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/church|church (église)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/baptize]]**
+  * **[[:fr:obe:kt/church]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/jesus]]**
 
 
 ===== Translation Notes: =====
