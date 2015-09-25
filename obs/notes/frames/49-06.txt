@@ -8,12 +8,12 @@ Jésus enseigna qu'il y aura ceux qui le recevront et seront sauvés mais d'autr
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms:receive|receive]]**
-  * **[[:fr:obs:notes:key-terms:save|saved]]**
-  * **[[:fr:obs:notes:key-terms:good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms:word-of-god|God's word]]**
-  * **[[:fr:obs:notes:key-terms:kingdom-of-god|his kingdom]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:receive|receive (recevoir)]]**
+  * **[[:fr:obs:notes:key-terms:save|saved (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms:good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms:word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:kingdom-of-god|his kingdom (Royaume de Dieu)]]**
  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/receive]]**
