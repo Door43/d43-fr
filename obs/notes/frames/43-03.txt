@@ -8,8 +8,11 @@ Pendant que les croyants étaient tous assemblés, soudain, un grand bruit survi
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+
+  * **[[:fr:obe:kt/believer]]**
+  * **[[:fr:obe:kt/holyspirit]]**
 
 
 ===== Translation Notes: =====
