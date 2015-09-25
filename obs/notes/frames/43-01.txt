@@ -8,12 +8,19 @@ Après que Jésus fut retourné au ciel, les disciples restèrent à Jérusalem 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/pray|pray]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/pray|pray (prier)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/heaven]]**
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:other/pray]]**
 
 
 ===== Translation Notes: =====
