@@ -8,10 +8,10 @@ Un ange dit à une vierge qui s'appelait Marie, qu'elle donnera naissance au fil
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/virgin|virgin]]**
-  * **[[:fr:obs:notes:key-terms/mary|Mary]]**
-  * **[[:fr:obs:notes:key-terms/god-son|God's Son]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/virgin|virgin (vierge)]]**
+  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|God's Son (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   
   * **[[:fr:obe:other/virgin]]**
   * **[[:fr:obe:other/Mary]]**
