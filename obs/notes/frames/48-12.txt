@@ -8,11 +8,11 @@ Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus es
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|word of God (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
  
   * **[[:fr:obe:other/Moses]]**
   * **[[:fr:obe:kt/prophet]]**
