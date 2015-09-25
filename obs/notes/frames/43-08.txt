@@ -8,10 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god-father|God the Father (Dieu le Père)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Espirt)]]**
+  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt/holyspirit]]**
+  * **[[:fr:obe:kt/promise]]**
 
 
 ===== Translation Notes: =====
