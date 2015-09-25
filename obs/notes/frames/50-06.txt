@@ -8,9 +8,14 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/servant|servants]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/good|good]]**
+  * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (seigneur)]]**
+  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
+
+  * **[[:fr:obe:other/servant]]**
+  * **[[:fr:obe:kt/lord]]**
+  * **[[:fr:obe:kt/good]]**
+\
 
 
 ===== Translation Notes: =====
