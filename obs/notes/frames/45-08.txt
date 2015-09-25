@@ -8,10 +8,10 @@ Quand Philippe arriva près du char, Il entendit l'éthiopien lire ce que le pro
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:fr:obs:notes:key-terms/isaiah|prophet Isaiah]]**
-  * **[[:fr:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
+  * **[[:fr:obs:notes:key-terms/chariot|chariot (char)]]**
+  * **[[:fr:obs:notes:key-terms/isaiah|prophet Isaiah (Esaïe))]]**
+  * **[[:fr:obs:notes:key-terms/lamb|lamb (agneau)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
 
   * **[[:fr:obe:other/chariot]]**
   * **[[:fr:obe:other/Isaiah|prophet Isaiah]]**
