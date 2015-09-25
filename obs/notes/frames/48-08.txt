@@ -8,16 +8,16 @@ Quand Dieu dit à Abraham d'offrir son fils Isaac, comme sacrifice, Dieu pourvut
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:fr:obs:notes:key-terms/son|son]]**
-  * **[[:fr:obs:notes:key-terms/isaac|Isaac]]**
-  * **[[:fr:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:fr:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lamb|Lamb of God]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/abraham|Abraham (Abraham)]]**
+  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
+  * **[[:fr:obs:notes:key-terms/isaac|Isaac (Isaac)]]**
+  * **[[:fr:obs:notes:key-terms/sacrifice|sacrifice (sacrifice)]]**
+  * **[[:fr:obs:notes:key-terms/lamb|lamb (agneau)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lamb|Lamb of God (agneau de Dieu)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Abraham]]**
