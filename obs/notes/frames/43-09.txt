@@ -8,11 +8,17 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/lord|Lord]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
+  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Lord (Maître)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+
+  * **[[:fr:obe:kt/crucify]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/lord]]**
+  * **[[:fr:obe:kt/christ]]**
 
 
 ===== Translation Notes: =====
