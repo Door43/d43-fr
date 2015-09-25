@@ -8,18 +8,18 @@ Un disciple de Jésus qui s'appelait Philippe était un des croyants qui se sont
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:fr:obs:notes:key-terms/samaria|Samaria]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached]]**
-  * **[[:fr:obs:notes:key-terms/save|saved]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/chariot|chariot]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciple (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
+  * **[[:fr:obs:notes:key-terms/samaria|Samaria (La Samarie)]]**
+  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
+  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/chariot|chariot (char)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
 
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/Jesus]]**
