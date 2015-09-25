@@ -8,12 +8,12 @@ Quand Dieu envoya la dernière plaie en Egypte, il a dit que chaque famille Isra
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/egypt|Egypt]]**
-  * **[[:fr:obs:notes:key-terms/israel|Israelite]]**
-  * **[[:fr:obs:notes:key-terms/lamb|lamb]]**
-  * **[[:fr:obs:notes:key-terms/blood|blood]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/egypt|Egypt (Egypte)]]**
+  * **[[:fr:obs:notes:key-terms/israel|Israelite (les enfants d'Israël)]]**
+  * **[[:fr:obs:notes:key-terms/lamb|lamb (agneau)]]**
+  * **[[:fr:obs:notes:key-terms/blood|blood (le sang)]]**
+  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Egypt]]**
