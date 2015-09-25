@@ -8,13 +8,13 @@ Paul et d'autres chefs des Chrétiens voyagèrent vers beaucoup de villes, en pr
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christian]]**
-  * **[[:fr:obs:notes:key-terms/preach|preaching]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/church|churches]]**
+  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
+  * **[[:fr:obs:notes:key-terms/preach|preaching (prêcher)]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/church|churches (église)]]**
  
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:kt/Christian]]**
