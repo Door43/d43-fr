@@ -8,18 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/rome|Roman]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfill]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecies]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:fr:obs:notes:key-terms/repent|repent]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
+  * **[[:fr:obs:notes:key-terms/rome|Roman (Romain)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfill (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophecies (prophétie)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
+  * **[[:fr:obs:notes:key-terms/repent|repent (repentir)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
  
   * **[[:fr:obe:other/rome|Roman]]**
   * **[[:fr:obe:kt/Jesus]]**
