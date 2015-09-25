@@ -8,16 +8,16 @@ Si vous êtes un ami de Dieu et un serviteur de Jésus, le Seigneur, vous allez 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christian]]**
-  * **[[:fr:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maïtre)]]**
+  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
+  * **[[:fr:obs:notes:key-terms/tempt|tempted (tenter)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/faithful|faithful (fidèle)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/servant]]**
