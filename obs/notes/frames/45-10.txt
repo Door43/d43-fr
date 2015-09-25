@@ -8,10 +8,10 @@ Philippe montra à l'éthiopien que Esaïe parlait de Jésus. Philippe se servit
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/isaiah|Isaiah]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
+  * **[[:fr:obs:notes:key-terms/isaiah|Isaiah (Esaïe)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/word-of-god|scriptures (écritures)]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
 
   * **[[:fr:obe:other/Isaiah]]**
   * **[[:fr:obe:kt/Jesus]]**
