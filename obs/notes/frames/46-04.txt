@@ -8,12 +8,12 @@ Il y avait un disciple à Damas qui s'appelait Ananias. Il dit, “Va à la mais
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciple]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciple (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maïtre)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecuted (persécuter)]]**
+  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
 
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/God]]**
