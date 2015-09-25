@@ -12,8 +12,11 @@ Les leaders du Temple étaient très irrités à ce que Pierre et Jean disaient.
   * **[[:fr:obs:notes:key-terms/peter|Peter]]**
   * **[[:fr:obs:notes:key-terms/john|John]]**
   * **[[:fr:obs:notes:key-terms/believe|believed]]**
-
-
+  
+  * **[[:fr:obe:kt/temple|Temple]]**
+  * **[[:fr:obe:other/Peter]]**
+  * **[[:fr:obe:other/johntheapostle]]**
+  * **[[:fr:obe:kt/believe|believed]]**
 ===== Translation Notes: =====
 
   * **Peter's message**  - That is, "the message that Peter had preached to them."
