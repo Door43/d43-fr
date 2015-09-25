@@ -8,13 +8,13 @@ Jésus est sans péché mais il a choisit de prendre vos péchés sur lui-même 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned]]**
-  * **[[:fr:obs:notes:key-terms/punish|punished]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/sacrifice|sacrifice]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
+  * **[[:fr:obs:notes:key-terms/punish|punished (punir)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/sacrifice|sacrifice (sacrifice)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/sin|sinned]]**
