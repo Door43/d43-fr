@@ -8,12 +8,19 @@ Les disciples qui écoutaient assidument l'enseignement des apôtres, vivaient e
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:fr:obs:notes:key-terms/pray|prayed]]**
-  * **[[:fr:obs:notes:key-terms/praise|praising]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/apostle|apostles (apôtres)]]**
+  * **[[:fr:obs:notes:key-terms/pray|prayed (prier)]]**
+  * **[[:fr:obs:notes:key-terms/praise|praising (louer)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:kt/apostle]]**
+  * **[[:fr:obe:other/pray]]**
+  * **[[:fr:obe:other/praise]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/believer]]**
 
 
 ===== Translation Notes: =====
