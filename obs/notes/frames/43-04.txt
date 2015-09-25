@@ -8,9 +8,13 @@ Quand les gens à Jérusalem entendirent ce bruit, ils vinrent en foule voir ce 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+
+  * **[[:fr:obe:other/jerusalem]]**
+  * **[[:fr:obe:kt/believer]]**
+  * **[[:fr:obe:kt/god]]**
 
 
 ===== Translation Notes: =====
