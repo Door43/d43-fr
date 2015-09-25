@@ -8,16 +8,16 @@ Pierre leur répondit, “Cet homme se tient là, debout guérit par la puissanc
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/power|power]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
-  * **[[:fr:obs:notes:key-terms/save|saved]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/power|power (puissance]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
+  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
 
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/heal|healed]]**
