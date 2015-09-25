@@ -8,15 +8,25 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfills]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecy]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Holy One]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfills (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophecy (prophétie)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Holy One (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/witness|witnesses (témoin)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
+
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/raise]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/witness]]**
+  * **[[:fr:obe:kt/life]]**
 
 
 ===== Translation Notes: =====
