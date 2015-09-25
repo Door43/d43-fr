@@ -8,14 +8,14 @@ Pendant que Saul voyageait dans l'Empire Romain, il commença a utiliser son nom
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/rome|Roman Empire]]**
-  * **[[:fr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:fr:obs:notes:key-terms/silas|Silas]]**
-  * **[[:fr:obs:notes:key-terms/philippi|Philippi]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/love|loved]]**
-  * **[[:fr:obs:notes:key-terms/worship|worshiped]]**
+  * **[[:fr:obs:notes:key-terms/rome|Roman Empire (Rome)]]**
+  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
+  * **[[:fr:obs:notes:key-terms/silas|Silas (Silas)]]**
+  * **[[:fr:obs:notes:key-terms/philippi|Philippi (la ville de Philippes)]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
+  * **[[:fr:obs:notes:key-terms/worship|worshiped (adorer)]]**
 
   * **[[:fr:obe:other/rome|Roman Empire]]**
   * **[[:fr:obe:other/Paul]]**
