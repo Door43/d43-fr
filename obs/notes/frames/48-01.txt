@@ -8,12 +8,12 @@ Quand Dieu créa le monde, tout était parfait. Il n'y avait pas de péché. Ada
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/adam|Adam]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve]]**
-  * **[[:fr:obs:notes:key-terms/love|loved]]**
-  * **[[:fr:obs:notes:key-terms/death|death]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
+  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
+  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
+  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/sin]]**
