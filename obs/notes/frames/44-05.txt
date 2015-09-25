@@ -20,6 +20,19 @@
   * **[[:fr:obs:notes:key-terms/suffer|suffer]]**
   * **[[:fr:obs:notes:key-terms/repent|repent]]**
   * **[[:fr:obs:notes:key-terms/sin|sins]]**
+ 
+  * **[[:fr:obe:other/rome|Roman]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:kt/life]]**
+  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/raise|raised]]**
+  * **[[:fr:obe:kt/death|dead]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/prophet|prophecies]]**
+  * **[[:fr:obe:kt/Christ|Messiah]]**
+  * **[[:fr:obe:kt/suffer]]**
+  * **[[:fr:obe:kt/repent]]**
+  * **[[:fr:obe:kt/sin|sins]]**
 
 
 ===== Translation Notes: =====
