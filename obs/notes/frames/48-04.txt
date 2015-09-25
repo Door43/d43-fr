@@ -8,15 +8,15 @@ Dieu promis qu'un des descendants d'Eve écraserait la tête de Satan, et Satan 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve's]]**
-  * **[[:fr:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:fr:obs:notes:key-terms/satan|Satan's]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/raise|raise]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
+  * **[[:fr:obs:notes:key-terms/eve|Eve's (Eve)]]**
+  * **[[:fr:obs:notes:key-terms/descendant|descendants (descendant)]]**
+  * **[[:fr:obs:notes:key-terms/satan|Satan's (Satan)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raise (élever)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/promise|promised]]**
