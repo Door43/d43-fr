@@ -8,10 +8,10 @@ Dieu a guérit l'homme immédiatement, et il marchait, sautait de joie et louait
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/praise|praise]]**
-  * **[[:fr:obs:notes:key-terms/temple|Temple]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/praise|praise (louer)]]**
+  * **[[:fr:obs:notes:key-terms/temple|Temple (temple)]]**
 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/heal|healed]]**
