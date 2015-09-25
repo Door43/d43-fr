@@ -8,13 +8,13 @@ Saul était le jeune homme qui gardait les tuniques des hommes qui ont tué Etie
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecuted (persécuter)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand Sacrificateur)]]**
 
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:kt/believe]]**
