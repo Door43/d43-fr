@@ -8,11 +8,11 @@ Le peuple accourut pour voir l'homme qui avait été guérit. Pierre leur dit, �
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/power|power]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/faith|faith]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/power|power (puissance)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/faith|faith (foi)]]**
 
   * **[[:fr:obe:other/heal|healed]]**
   * **[[:fr:obe:other/Peter]]**
