@@ -8,14 +8,14 @@ Un jour, quand Étienne prêchait à des gens qui n'étaient pas croyants, ils c
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:fr:obs:notes:key-terms/evil|evil]]**
-  * **[[:fr:obs:notes:key-terms/moses|Moses]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leaders (Responsables religieux]]**
+  * **[[:fr:obs:notes:key-terms/evil|evil (mal)]]**
+  * **[[:fr:obs:notes:key-terms/moses|Moses (Moïse)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand Sacrificateur)]]**
+  * **[[:fr:obs:notes:key-terms/witness|witnesses (témoin)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/jew|Jews]]**
