@@ -4,7 +4,7 @@
 
 When the young man **heard what Jesus said**, he became very sad, because he was very rich and did not want to give away all the things he possessed. He turned and went away from Jesus.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quand le jeune homme entendit cela, il fut très triste, parce qu'il était très riche et ne voulait pas donner tout ce qu'il possédait. Ne voulant pas abandonner ses biens, il s'en alla.</font>
+Quand le jeune homme entendit cela, il fut très triste, parce qu'il était très riche et ne voulait pas donner tout ce qu'il possédait. Ne voulant pas abandonner ses biens, il s'en alla.
 
 ===== Important Terms: =====
 
@@ -18,7 +18,7 @@ When the young man **heard what Jesus said**, he became very sad, because he was
   * **heard what Jesus said**  - That is, "heard Jesus tell him to give away what he owned."
 ===== Note de traduction: =====
 
-* Entendre ce que dit Jésus - Ce est, "entendit Jésus lui dire de donner ce qu'il possédait."
+  * **Entendre ce que dit Jésus** - Ce est, "entendit Jésus lui dire de donner ce qu'il possédait."
 
 **[[:fr:obs:notes:frames:28-04|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-06|>>]]**
 
