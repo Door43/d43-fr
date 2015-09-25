@@ -8,13 +8,13 @@ Dieu promit au roi David que un de ses descendants règnerait comme roi pour tou
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised]]**
-  * **[[:fr:obs:notes:key-terms/david|King David]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
+  * **[[:fr:obs:notes:key-terms/david|King David (David)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/descendant|descendants (descendant)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
  
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/promise|promised]]**
