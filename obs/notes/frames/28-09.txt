@@ -4,7 +4,7 @@
 
 **Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Pierre dit à Jésus: “Nous avons tout quitté pour te suivre. Que sera notre récompense?”</font>
+Pierre dit à Jésus: “Nous avons tout quitté pour te suivre. Que sera notre récompense?”
 
 ===== Important Terms: =====
 
@@ -21,9 +21,8 @@
   * **What will be our reward?**  - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
 ===== Note de traduction: =====
 
-* Tout quitté - qui est, ou, "tout derrière la gauche" "donné tout ce que nous possédions."
-
-* Quel sera notre récompense?  - Une autre façon de dire que ce est, "Quelle récompense recevrons-nous» ou «Comment serons-nous récompensés?" ou "Qu'est-ce que Dieu nous donne comme une récompense?" Il peut également être nécessaire d'ajouter, "parce que  nous avons fait cela? "
+  * **Tout quitté** - qui est, ou, "tout derrière la gauche" "donné tout ce que nous possédions."
+  * **Quel sera notre récompense?**  - Une autre façon de dire que ce est, "Quelle récompense recevrons-nous" ou "Comment serons-nous récompensés?" ou "Qu'est-ce que Dieu nous donne comme une récompense?" Il peut également être nécessaire d'ajouter, "parce que  nous avons fait cela? "
 
 **[[:fr:obs:notes:frames:28-08|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-10|>>]]**
 
