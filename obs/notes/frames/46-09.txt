@@ -8,14 +8,14 @@ Certains croyants qui avaient fuit la persécution à Jérusalem partirent très
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/persecute|persecution]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews]]**
-  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/church|church]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christians]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
+  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas (Barnabas)]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul_]]**
+  * **[[:fr:obs:notes:key-terms/church|church (église)]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christians (Chrétien)]]**
   
   * **[[:fr:obe:other/persecute|persectuion]]**
   * **[[:fr:obe:other/Jerusalem]]**
