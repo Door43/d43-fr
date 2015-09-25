@@ -4,7 +4,7 @@
 
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet homme et sa famille comme esclaves pour que sa dette soit acquittée.”</font>
+Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet homme et sa famille comme esclaves pour que sa dette soit acquittée.”
 
 ===== Important Terms: =====
 
@@ -24,11 +24,9 @@
   * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
 ===== Note de traduction: =====
 
-* (Jésus continue l'histoire.)
-
-* Payer la dette - Ce est, "rembourser l'argent qu'il devait au roi."
-
-* Pour effectuer votre paiement sur sa dette - ce qui pourrait être traduit comme, "et d'utiliser l'argent reçu de les vendre pour payer une partie de ce qu'il me doit."
+  * (Jésus continue l'histoire.)
+  * **Payer la dette** - Ce est, "rembourser l'argent qu'il devait au roi."
+  * **Pour effectuer votre paiement sur sa dette** - ce qui pourrait être traduit comme, "et d'utiliser l'argent reçu de les vendre pour payer une partie de ce qu'il me doit."
 
 **[[:fr:obs:notes:frames:29-02|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-04|>>]]**
 
