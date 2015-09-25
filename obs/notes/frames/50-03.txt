@@ -8,12 +8,12 @@ Beaucoup de personnes n'avaient pas entendu parler de Jésus. Avant qu'il retour
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christians]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
+  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethnique)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christians (Chrétien)]]**
+  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
 
   * **[[:fr:obe:other/peoplegroup]]**
   * **[[:fr:obe:kt/Jesus]]**
