@@ -8,10 +8,10 @@ Les leaders du Temple étaient très irrités à ce que Pierre et Jean disaient.
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/temple|Temple]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/john|John]]**
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
+  * **[[:fr:obs:notes:key-terms/temple|Temple (temple)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/john|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
   
   * **[[:fr:obe:kt/temple|Temple]]**
   * **[[:fr:obe:other/Peter]]**
