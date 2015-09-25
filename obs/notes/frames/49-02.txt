@@ -8,13 +8,13 @@ Jésus fut beaucoup de miracles et ainsi il a montré aux gens qu'il était Dieu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed]]**
-  * **[[:fr:obs:notes:key-terms/demon|demons]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/death|dead]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/miracle|miracles (miracle)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
+  * **[[:fr:obs:notes:key-terms/demon|demons (démon)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
   
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/miracle|miracles]]**
