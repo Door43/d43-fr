@@ -8,15 +8,15 @@ Dieu dit à Abraham, “Par Toi, tout le monde sur terre sera béni.” Jésus �
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:fr:obs:notes:key-terms/bless|blessed]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/descendant|descendant]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
-  * **[[:fr:obs:notes:key-terms/save|saved]]**
-  * **[[:fr:obs:notes:key-terms/spirit|spiritual]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/abraham|Abraham (Abraham)]]**
+  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethnique)]]**
+  * **[[:fr:obs:notes:key-terms/bless|blessed (béni)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/descendant|descendant (descendant)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/spirit|spiritual (spirituel)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Abraham]]**
