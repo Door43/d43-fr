@@ -4,7 +4,7 @@
 
 “The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>“Le serviteur se prosterna devant le roi et dit: ”'Fais preuve de patience envers moi, et je te paierai tout ce que je te dois.' Le roi eut de la compassion pour le serviteur, annula toute sa dette et le laissa partir.”</font>
+“Le serviteur se prosterna devant le roi et dit: ”'Fais preuve de patience envers moi, et je te paierai tout ce que je te dois.' Le roi eut de la compassion pour le serviteur, annula toute sa dette et le laissa partir.”
 
 ===== Important Terms: =====
 
@@ -24,15 +24,12 @@
   * **canceled all of his debt**  - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
 ===== Note de traduction: =====
 
-* (Jésus continue l'histoire.)
+  * (Jésus continue l'histoire.)
 
-* Tomba à genoux - ce est "rapidement se agenouilla sur le terrain." Ce était une façon de montrer son humilité et son désir pour le roi de l'aider. Assurez-vous qu'il ne sonne pas comme il est tombé accidentellement.
-
-* Devant le roi - Cela signifie, "devant le roi."
-
-* Eu pitié - ce est "ressenti de la compassion pour» ou «senti désolé pour." Le roi savait que le serviteur et sa famille souffriraient grandement se ils étaient vendus en esclavage.
-
-* Annulé toute sa dette - Cela peut être traduit comme, "dit que le serviteur ne avait pas besoin de rembourser tout l'argent qu'il devait le roi."
+  * **Tomba à genoux** - ce est "rapidement se agenouilla sur le terrain." Ce était une façon de montrer son humilité et son désir pour le roi de l'aider. Assurez-vous qu'il ne sonne pas comme il est tombé accidentellement.
+  * **Devant le roi** - Cela signifie, "devant le roi."
+  * **Eu pitié** - ce est "ressenti de la compassion pour" ou "senti désolé pour." Le roi savait que le serviteur et sa famille souffriraient grandement se ils étaient vendus en esclavage.
+  * **Annulé toute sa dette** - Cela peut être traduit comme, "dit que le serviteur ne avait pas besoin de rembourser tout l'argent qu'il devait le roi."
 
 **[[:fr:obs:notes:frames:29-03|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-05|>>]]**
 
