@@ -8,11 +8,11 @@ Si vous êtes un Chrétien, Dieu vous a pardonné vos péchés à cause de ce qu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/christian|Christian]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgiven (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
 
   * **[[:fr:obe:kt/Christian]]**
   * **[[:fr:obe:kt/God]]**
