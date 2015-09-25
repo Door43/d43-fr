@@ -8,11 +8,11 @@ Jésus enseigna que Dieu aime beaucoup les pêcheurs. Il veut leur pardonner pou
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/love|loves]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinners]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinners (péché)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
   
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/God]]**
