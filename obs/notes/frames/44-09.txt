@@ -8,10 +8,10 @@ Les leaders étaient secoués de voir l'assurance de Pierre et de Jean, car ils 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|leaders]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/john|John]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
+  * **[[:fr:obs:notes:key-terms/jewish-leaders|leaders (Responsables juif)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/john|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
   
   * **[[:fr:obe:other/jewishleaders|leaders]]**
   * **[[:fr:obe:other/peter|Peter]]**
