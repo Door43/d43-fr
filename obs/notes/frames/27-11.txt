@@ -4,7 +4,7 @@
 
 Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Finalement, Jésus demanda au docteur de la Loi, “A ton avis, lequel des trois hommes s'est montré le prochain de celui qui a été victime des brigands?” Il répondit: “l'homme qui l'a aidé.” Jésus lui dit: “Vas, et toi, fais de même. ”</font>
+Finalement, Jésus demanda au docteur de la Loi, “A ton avis, lequel des trois hommes s'est montré le prochain de celui qui a été victime des brigands?” Il répondit: “l'homme qui l'a aidé.” Jésus lui dit: “Vas, et toi, fais de même. ”
 
 ===== Important Terms: =====
 
@@ -24,7 +24,7 @@ Then **Jesus** asked the **law expert**, “What do you think? Which one of **th
   * **You go and do**  - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
   * **do the same**  - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Une histoire biblique tirée de: Luc 10:25-37//
+
 ===== Note de traduction: =====
 
 * Expert en droit - Ce est, "un expert dans la loi juive." Voyez comment vous avez traduit ce terme dans [[: Fr: obs: notes: cadres: 27-01 | [27-01]]].
