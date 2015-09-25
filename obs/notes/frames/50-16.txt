@@ -8,13 +8,13 @@ Parce que Adam et Eve ont désobéit Dieu et ont amèné le péché dans le mond
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/adam|Adam]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve]]**
-  * **[[:fr:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/curse|cursed]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven]]**
+  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
+  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
+  * **[[:fr:obs:notes:key-terms/disobey|disobeyed (disobéir)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/curse|cursed (malédiction)]]**
+  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
   
   
   * **[[:fr:obe:other/Adam]]**
