@@ -8,14 +8,23 @@ A cause de votre péché, vous êtes coupable et vous méritez la mort. Dieu dev
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/sin|sin]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:fr:obs:notes:key-terms/death|die]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross]]**
-  * **[[:fr:obs:notes:key-terms/receive|received]]**
-  * **[[:fr:obs:notes:key-terms/punish|punishment]]**
+  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
+  * **[[:fr:obs:notes:key-terms/guilt|guilty (coupable)]]**
+  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
+  * **[[:fr:obs:notes:key-terms/receive|received (recevoir)]]**
+  * **[[:fr:obs:notes:key-terms/punish|punishment (punir)]]**
+
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/guilt]]**
+  * **[[:fr:obe:kt/death]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/cross]]**
+  * **[[:fr:obe:kt/receive]]**
+  * **[[:fr:obe:other/punish]]**
 
 
 ===== Translation Notes: =====
