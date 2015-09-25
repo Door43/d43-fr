@@ -8,12 +8,12 @@ Le gardien et toute sa famille ont cru à Jésus et ont été baptisés. Puis le
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/believe|believed]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/paul|Paul]]**
-  * **[[:fr:obs:notes:key-terms/silas|Silas]]**
-  * **[[:fr:obs:notes:key-terms/joy|rejoiced]]**
+  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
+  * **[[:fr:obs:notes:key-terms/silas|Silas (Silas)]]**
+  * **[[:fr:obs:notes:key-terms/joy|rejoiced (joie)]]**
  
   * **[[:fr:obe:kt/believe|believed]]**
   * **[[:fr:obe:kt/Jesus]]**
