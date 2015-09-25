@@ -8,8 +8,8 @@ Pendant que Philipe et l'éthiopien continuaient leur route, ils arrivèrent pr�
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/chariot|chariot]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/chariot|chariot (char)]]**
 
   * **[[:fr:obe:kt/baptize|baptized]]**
   * **[[:fr:obe:other/chariot]]**
