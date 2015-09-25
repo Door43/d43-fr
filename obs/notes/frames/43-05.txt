@@ -8,11 +8,17 @@ Certains accusèrent les disciples d'être ivres, alors Pierre se leva et leur d
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfills]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecy]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Spirit]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/fulfill|fulfills (accomplir)]]**
+  * **[[:fr:obs:notes:key-terms/prophet|prophecy (prophétie)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Spirit (Le Saint Espirt)]]**
+
+  * **[[:fr:obe:kt/disciple]]**
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/fulfill]]**
+  * **[[:fr:obe:kt/prophet]]**
+  * **[[:fr:obe:kt/holyspirit]]**
 
 
 ===== Translation Notes: =====
