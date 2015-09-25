@@ -8,16 +8,16 @@ Personne ne peut être sauvé en faisant des bonnes oeuvres. Il n'y a rien que v
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/save|save]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised]]**
-  * **[[:fr:obs:notes:key-terms/life|life]]**
+  * **[[:fr:obs:notes:key-terms/save|save (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
+  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
+  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
+  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
   
   * **[[:fr:obe:kt/save]]**
   * **[[:fr:obe:kt/God]]**
