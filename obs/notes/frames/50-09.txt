@@ -8,8 +8,8 @@
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/evil|evil]]**
-  * **[[:fr:obs:notes:key-terms/satan|devil]]**
+  * **[[:fr:obs:notes:key-terms/evil|evil (mal)]]**
+  * **[[:fr:obs:notes:key-terms/satan|devil (diable)]]**
   * **[[:fr:obs:notes:key-terms/god|God's]]**
   * **[[:fr:obs:notes:key-terms/angel|angels]]**
  
