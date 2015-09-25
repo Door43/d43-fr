@@ -8,10 +8,10 @@ Alors Ananias obéit Dieu et il alla voir Saul, placa ses mains sur lui, et dit 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
   
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:kt/Jesus]]**
