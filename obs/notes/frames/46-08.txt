@@ -8,13 +8,13 @@ Paul a voyagé à Jérusalem pour se retrouver avec les disciples mais au début
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:fr:obs:notes:key-terms/believer|believer]]**
-  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:fr:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believer (croyant)]]**
+  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas (Barnabas)]]**
+  * **[[:fr:obs:notes:key-terms/apostle|apostles (apôtres)]]**
+  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
 
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:other/Jerusalem]]**
