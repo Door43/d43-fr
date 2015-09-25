@@ -8,12 +8,12 @@ Un jeune homme qui s'appelait Saul approuva l'exécution d'Étienne et garda leu
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecuting]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecuting (persécuter)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/believer|believers (croire)]]**
+  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
 
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:other/Jerusalem]]**
