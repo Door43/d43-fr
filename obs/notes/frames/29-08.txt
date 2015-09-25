@@ -4,7 +4,7 @@
 
 “The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>'Le roi appela le serviteur et lui dit, “Méchant serviteur! Je t'avais remis en entier ta dette, parce que tu m'en avais supplié. Tu aurais dû faire la même chose.” Le roi, irrité, le jeta en prison jusqu'à ce qu'il eût payé tout ce qu'il devait.”</font>
+'Le roi appela le serviteur et lui dit, “Méchant serviteur! Je t'avais remis en entier ta dette, parce que tu m'en avais supplié. Tu aurais dû faire la même chose.” Le roi, irrité, le jeta en prison jusqu'à ce qu'il eût payé tout ce qu'il devait.”
 
 ===== Important Terms: =====
 
@@ -30,16 +30,11 @@
   * **threw**  - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:fr:obs:notes:frames:29-06|[29-06]]]**.
 ===== Note de traduction: =====
 
-* (Jésus continue l'histoire.)
-
-* Appelé le serviteur - Ce est, "commanda le serviteur de venir à lui» ou «ordonné à ses gardes de faire le serviteur de lui."
-
-* Me pria - Cela pourrait être traduit comme, "a plaidé avec moi», ou «m'a demandé d'être miséricordieux urgence."
-
-* Vous devez avoir fait la même chose - Ce est, "Vous devriez avoir pardonné l'homme qui vous devait, comme je vous ai pardonné."
-
-* Jeté - qui est, "ordonna à ses gardes de mettre." Examiner comment "jeté" a été traduit en trame [[: Fr: obs: notes: cadres: 29-06 | [29-06]]].
-
+  * (Jésus continue l'histoire.)
+  * **Appelé le serviteur** - Ce est, "commanda le serviteur de venir à lui" ou "ordonné à ses gardes de faire le serviteur de lui."
+  * **Me pria** - Cela pourrait être traduit comme, "a plaidé avec moi", ou "m'a demandé d'être miséricordieux urgence."
+  * **Vous devez avoir fait la même chose** - Ce est, "Vous devriez avoir pardonné l'homme qui vous devait, comme je vous ai pardonné."
+  * **Jeté** - qui est, "ordonna à ses gardes de mettre." Examiner comment "jeté" a été traduit en trame **[[:fr:obs:notes:frames:29-06|[29-06]]]**.
 **[[:fr:obs:notes:frames:29-07|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-09|>>]]**
 
 ~~DISCUSSION~~
