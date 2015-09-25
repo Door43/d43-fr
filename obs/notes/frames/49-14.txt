@@ -8,16 +8,16 @@ Jésus vous invite a croire en lui et a être baptisé. Croyez-vous que Jésus e
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinner]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/punish|punish]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinner (péché)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/punish|punish (punir)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
+  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
   
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/believe]]**
