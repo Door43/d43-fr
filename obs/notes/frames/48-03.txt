@@ -8,10 +8,10 @@ Parce que Adam et Eve avaient péché, quelque chose d'encore plus terrible est 
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/adam|Adam]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
+  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
+  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
   
   * **[[:fr:obe:other/Adam]]**
   * **[[:fr:obe:other/Eve]]**
