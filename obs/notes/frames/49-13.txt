@@ -8,13 +8,13 @@ Dieu sauvera quiconque croit en Jésus et le reçoit pour son Seigneur, mais qui
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/save|save]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/receive|receives]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
-  * **[[:fr:obs:notes:key-terms/love|loves]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/save|save (sauver/délivrer)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/receive|receives (recevoir)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
+  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/save]]**
