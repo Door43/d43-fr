@@ -8,14 +8,25 @@ Pierre répondit: “Chacun de vous doit se repentir et se faire baptiser au nom
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/repent|repent]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]] [[:fr:obs:notes:key-terms/messiah|Christ]]**
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
+  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
+  * **[[:fr:obs:notes:key-terms/repent|repent (repentir)]]**
+  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/messiah|Christ (Messie)]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
+
+  * **[[:fr:obe:other/peter]]**
+  * **[[:fr:obe:kt/repent]]**
+  * **[[:fr:obe:kt/baptize]]**
+  * **[[:fr:obe:kt/jesus]]**
+  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:kt/forgive]]**
+  * **[[:fr:obe:kt/sin]]**
+  * **[[:fr:obe:kt/holyspirit]]**
 
 
 ===== Translation Notes: =====
