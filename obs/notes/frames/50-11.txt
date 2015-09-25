@@ -8,10 +8,10 @@ Jésus dit aussi qu'il reviendra sur la terre juste avant la fin du monde. Il re
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christian]]**
-  * **[[:fr:obs:notes:key-terms/death|died]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
+  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
+  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Christian]]**
