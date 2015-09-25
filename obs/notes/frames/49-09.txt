@@ -8,14 +8,14 @@ Mais Dieu a tant aimé le monde qu'il donna son fils unique, Jésus, pour que to
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/god|God]]**
-  * **[[:fr:obs:notes:key-terms/love|loved]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:fr:obs:notes:key-terms/punish|punished]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins]]**
-  * **[[:fr:obs:notes:key-terms/life|live]]**
+  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
+  * **[[:fr:obs:notes:key-terms/god-son|Son (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
+  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms/punish|punished (punir)]]**
+  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
+  * **[[:fr:obs:notes:key-terms/life|live (vie)]]**
   
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt:love|loved]]**
