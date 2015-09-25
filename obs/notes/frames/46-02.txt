@@ -8,9 +8,9 @@ Pendant que Saul voyageait à Damas, une lumière brillante apparut du ciel tout
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/paul|Saul]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecute]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master]]**
+  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
+  * **[[:fr:obs:notes:key-terms/persecute|persecute (persécuter)]]**
+  * **[[:fr:obs:notes:key-terms/lord|Master (Maïtre)]]**
 
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:other/persecute]]**
