@@ -4,7 +4,7 @@
 
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Un jour, un jeune homme riche s'approcha de Jésus et lui demanda:” Bon Maître, que dois-je faire pour avoir la vie éternelle?” Jésus lui répondit: “Pourquoi m'appelles-tu “bon”? Il n'y a qu'une personne qui est bonne, et c'est Dieu. Mais si tu veux avoir la vie éternelle, observe les commandements de Dieu.”</font>
+Un jour, un jeune homme riche s'approcha de Jésus et lui demanda:” Bon Maître, que dois-je faire pour avoir la vie éternelle?” Jésus lui répondit: “Pourquoi m'appelles-tu “bon”? Il n'y a qu'une personne qui est bonne, et c'est Dieu. Mais si tu veux avoir la vie éternelle, observe les commandements de Dieu.”
 
 ===== Important Terms: =====
 
@@ -36,20 +36,14 @@
   * **There is only one who is good, and that is God**  - Another way to say this would be, "The only one who is truly good is God" or, "God is the only one who is truly good."
 ===== Note de traduction: =====
 
-* Un jour - Cette phrase introduit un événement qui se est produit dans le passé, mais ne précise pas le moment précis. Beaucoup de langues ont une façon similaire à commencer à raconter une histoire vraie.
-
-* Jeune homme riche - Cet homme était déjà un responsable politique riche et puissant, même se il était encore jeune.
-
-* Se approcha de Jésus - qui est, "se approcha de Jésus."
-
-* Bon maître - Ce est, «enseignant justes." Il ne disait pas que Jésus était simplement un professeur qualifié.
-
-* Avoir la vie éternelle - Ce est, "pour recevoir la vie éternelle», ou «à vivre avec Dieu pour toujours." Voir également la façon dont "la vie éternelle" a été traduit sur [[: Fr: obs: notes: cadres: 27-01 | [27-01]]] et voir la note à ce sujet là.
-
-* Pourquoi me appelez-vous «bon» - Jésus ne nie pas qu'il est Dieu. Au contraire, il demande si la règle comprend que Jésus est Dieu.
-
-* Il ya un seul qui est bon, et ce est Dieu - ". Dieu est le seul qui est vraiment bon» Une autre façon de dire que ce serait, "Le seul qui est vraiment Dieu est bon» ou,
-
+  * **Un jour** - Cette phrase introduit un événement qui se est produit dans le passé, mais ne précise pas le moment précis. Beaucoup de langues ont une façon similaire à commencer à raconter une histoire vraie.
+  * **Jeune homme riche** - Cet homme était déjà un responsable politique riche et puissant, même se il était encore jeune.
+  * **Se approcha de Jésus** - qui est, "se approcha de Jésus."
+  * **Bon maître** - Ce est, "enseignant justes." Il ne disait pas que Jésus était simplement un professeur qualifié.
+  * **Avoir la vie éternelle** - Ce est, "pour recevoir la vie éternelle", ou "à vivre avec Dieu pour toujours." Voir également la façon dont "la vie éternelle" a été traduit sur **[[:fr:obs:notes:frames:27-01|[27-01]]]** et voir la note à ce sujet là.
+  * **Pourquoi me appelez** - vous "bon" - Jésus ne nie pas qu'il est Dieu. Au contraire, il demande si la règle comprend que Jésus est Dieu.
+  * **Il ya un seul qui est bon, et ce est Dieu** - Une autre façon de dire que ce serait, "Le seul qui est vraiment Dieu est bon" ou, "Dieu est le seul qui est vraiment bon".
+ 
 **[[:fr:obs:notes:frames:27-11|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-02|>>]]**
 
 ~~DISCUSSION~~
