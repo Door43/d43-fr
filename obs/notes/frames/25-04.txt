@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}** Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Alors Satan transporta Jésus dans la ville sainte, le plaça sur le haut du Temple et lui dit: “Si tu es le Fils de Dieu, lance-toi dans le vide, car il est écrit, 'Dieu donnera des ordres à ses anges de te porter sur leurs mains pour que ton pied ne heurte pas une pierre.'”</font>
+Alors Satan transporta Jésus dans la ville sainte, le plaça sur le haut du Temple et lui dit: “Si tu es le Fils de Dieu, lance-toi dans le vide, car il est écrit, 'Dieu donnera des ordres à ses anges de te porter sur leurs mains pour que ton pied ne heurte pas une pierre.'”
 
 ===== Important Terms: =====
 
@@ -28,11 +28,9 @@
   * **so your foot does not hit a stone**  - This means, "so that you will not be hurt at all; not even your foot will be injured on a stone." It could also be translated as, "so that even your foot will not strike against a stone; you will not be injured at all."
 ===== Note de traduction: =====
 
-* Jette-toi - Ce est, "sauter ce bâtiment sur le sol."
-
-* Il est écrit - Ce est, "un prophète de Dieu a écrit il ya longtemps."
-
-* Si votre pied ne touche pas une pierre - Cela signifie, "de sorte que vous ne serez pas mal du tout, pas même votre pied sera blessé sur une pierre." Il pourrait également être traduit comme, "de sorte que même votre pied ne heurte pas contre une pierre, vous ne serez pas blessé du tout."
+  * **Jette-toi** - Ce est, "sauter ce bâtiment sur le sol."
+  * **Il est écrit** - Ce est, "un prophète de Dieu a écrit il ya longtemps."
+  * **Si votre pied ne touche pas une pierre** - Cela signifie, "de sorte que vous ne serez pas mal du tout, pas même votre pied sera blessé sur une pierre." Il pourrait également être traduit comme, "de sorte que même votre pied ne heurte pas contre une pierre, vous ne serez pas blessé du tout."
 
 **[[:fr:obs:notes:frames:25-03|<<]] | [[:fr:obs:notes:25|Up]] | [[:fr:obs:notes:frames:25-05|>>]]**
 
