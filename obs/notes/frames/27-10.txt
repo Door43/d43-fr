@@ -4,7 +4,7 @@
 
 “The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Le lendemain, le Samaritain dut continuer son voyage. Il donna de l'argent à l'aubergiste et lui dit: “Prends soin de cet homme. Tout ce que tu auras dépensé en plus, je te le rembourserai quand je reviendrai.”</font>
+Le lendemain, le Samaritain dut continuer son voyage. Il donna de l'argent à l'aubergiste et lui dit: “Prends soin de cet homme. Tout ce que tu auras dépensé en plus, je te le rembourserai quand je reviendrai.”
 
 ===== Important Terms: =====
 
@@ -22,15 +22,11 @@
   * **repay those expenses**  - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
 ===== Note de traduction: =====
 
-* (Jésus continue à raconter l'histoire.)
-
-* Poursuivre son voyage - Cela pourrait être traduit comme, "continuer à voyager vers sa destination."
-
-* En charge de - Ce est, "qui a réussi." Il se pourrait que cette personne possédait aussi ce lieu d'hébergement.
-
-* Prenez soin de lui - Pour certaines langues, il peut être préférable de dire, «Se il vous plaît prendre soin de lui» pour qu'il soit clair que ce était une demande polie, pas un ordre.
-
-* Rembourser ces dépenses - Cela pourrait aussi être traduit comme, "vous rembourser» ou «rembourser cet argent», ou «rembourser».
+  * (Jésus continue à raconter l'histoire.)
+  * **Poursuivre son voyage** - Cela pourrait être traduit comme, "continuer à voyager vers sa destination."
+  * **En charge de** - Ce est, "qui a réussi." Il se pourrait que cette personne possédait aussi ce lieu d'hébergement.
+  * **Prenez soin de lui** - Pour certaines langues, il peut être préférable de dire, "Se il vous plaît prendre soin de lui" ur qu'il soit clair que ce était une demande polie, pas un ordre.
+  * **Rembourser ces dépenses** - Cela pourrait aussi être traduit comme, "vous rembourser" ou "rembourser cet argent", ou "rembourser".
 
 **[[:fr:obs:notes:frames:27-09|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-11|>>]]**
 
