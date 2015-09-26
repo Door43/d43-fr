@@ -4,7 +4,7 @@
 
 **Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Jésus répondit, “Il est écrit dans la Parole de Dieu, “l'homme n'a pas seulement besoin de pain pour vivre, mais aussi de toutes paroles que Dieu prononce!”</font>
+Jésus répondit, “Il est écrit dans la Parole de Dieu, “l'homme n'a pas seulement besoin de pain pour vivre, mais aussi de toutes paroles que Dieu prononce!”
 
 ===== Important Terms: =====
 
@@ -22,9 +22,8 @@
   * **but they need every word that God speaks!**  - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
 ===== Note de traduction: =====
 
-* Pain - Assurez-vous que vous utilisez le même mot à traduire «pain» ici comme vous avez fait dans [[: Fr: obs: notes: cadres: 25-02 | [25-02]]].
-
-* Mais ils ont besoin chaque mot que Dieu parle!  - Une autre façon de traduire ce serait, «Plutôt, les gens ont besoin d'écouter et d'obéir à tout ce que Dieu dit» ou «Plutôt, les gens ont la vraie vie en croyant et en obéissant à ce que Dieu dit."
+  * **Pain** - Assurez-vous que vous utilisez le même mot à traduire "pain" ici comme vous avez fait dans **[[:fr:obs:notes:frames:25-02|[25-02]]]**.
+  * **Mais ils ont besoin chaque mot que Dieu parle!** - Une autre façon de traduire ce serait, "Plutôt, les gens ont besoin d'écouter et d'obéir à tout ce que Dieu dit" ou "Plutôt, les gens ont la vraie vie en croyant et en obéissant à ce que Dieu dit."
 
 **[[:fr:obs:notes:frames:25-02|<<]] | [[:fr:obs:notes:25|Up]] | [[:fr:obs:notes:frames:25-04|>>]]**
 
