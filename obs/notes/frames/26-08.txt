@@ -4,7 +4,7 @@
 
 Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Puis Jésus s'en alla dans la région de Galilée, et des grandes foules le suivirent. Elles amenèrent les malades ou infirmes, y compris ceux qui ne pouvaient pas voir, marcher, entendre ou parler, et Jésus les guérit.</font>
+Puis Jésus s'en alla dans la région de Galilée, et des grandes foules le suivirent. Elles amenèrent les malades ou infirmes, y compris ceux qui ne pouvaient pas voir, marcher, entendre ou parler, et Jésus les guérit.
 
 ===== Important Terms: =====
 
@@ -22,7 +22,7 @@ Then **Jesus went throughout the region of Galilee**, and large crowds came to h
   * **went throughout the region of Galilee**  - That is, "all around in Galilee" or, "from place to place in Galilee."
 ===== Note de traduction: =====
 
-* Allés dans toute la région de Galilée - Ce est, "tout autour en Galilée» ou «d'un endroit à en Galilée."
+  * **Allés dans toute la région de Galilée** - Ce est, "tout autour en Galilée» ou "d'un endroit à en Galilée."
 
 **[[:fr:obs:notes:frames:26-07|<<]] | [[:fr:obs:notes:26|Up]] | [[:fr:obs:notes:frames:26-09|>>]]**
 
