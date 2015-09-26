@@ -4,7 +4,7 @@
 
 “While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.</font>
+Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.
 
 ===== Important Terms: =====
 
@@ -15,9 +15,8 @@
   * **everything he had**  - That is, "everything he had with him, including the clothes he was wearing."
 ===== Note de traduction: =====
 
-* (Jésus continue à raconter l'histoire.)
-
-* Tout ce qu'il avait - Ce est, "tout ce qu'il avait avec lui, y compris les vêtements qu'il portait."
+  * (Jésus continue à raconter l'histoire.)
+  * **Tout ce qu'il avait** - Ce est, "tout ce qu'il avait avec lui, y compris les vêtements qu'il portait."
 
 **[[:fr:obs:notes:frames:27-04|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-06|>>]]**
 
