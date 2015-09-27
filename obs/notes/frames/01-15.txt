@@ -17,14 +17,17 @@
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
-  * **Dieu fit**  - Dieu créa l'homme et la femme d'une manière très personnelle.
   * **in his own image**  - An image is a physical representation of someone or something. God made people to display or represent some of his qualities and traits, but not to be equal to him.
-  * **à son image**  - Une image est une représentation physique de quelqu'un ou de quelque chose. Dieu a créé les êtres humains pour qu'ils présentent ou manifestent quelques unes des qualités ou quelques uns des traits de caractère de Dieu, mais pas pour être égal à Lui.
   * **very good**  - More intense than the, "it was good" statements on previous days. "Very good" refers to all of creation, not just the man and the woman. Everything was exactly as God intended it to be.
-  * **très bon**  - Cette déclaration "cela était très bon" est plus profonde que les déclarations faites les jours précédents: "cela était bon". "Très bon" fait référence à toute la création, et pas seulement à l'homme et la femme. Tout était exactement comme Dieu avait voulu que ce soit.
   * **creation**  - The six-day period during which God made everything that exists.
+ 
+===== Translation Notes: =====
+  * **Dieu fit**  - Dieu créa l'homme et la femme d'une manière très personnelle.
+  * **à son image**  - Une image est une représentation physique de quelqu'un ou de quelque chose. Dieu a créé les êtres humains pour qu'ils présentent ou manifestent quelques unes des qualités ou quelques uns des traits de caractère de Dieu, mais pas pour être égal à Lui.
+  * **très bon**  - Cette déclaration "cela était très bon" est plus profonde que les déclarations faites les jours précédents: "cela était bon". "Très bon" fait référence à toute la création, et pas seulement à l'homme et la femme. Tout était exactement comme Dieu avait voulu que ce soit.
   * **création**  - La période de six jours durant laquelle Dieu a créé tout ce qui existe.
-====   ====
+
+
 
 **[[:fr:obs:notes:frames:01-14|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-16|>>]]**
 
