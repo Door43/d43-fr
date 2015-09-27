@@ -4,7 +4,7 @@
 
 **John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Jean, le fils de Zacharie et d'Elisabeth grandit et devint un prophète. Il habitait dans le désert, mangeait du miel sauvage et des sauterelles, et portait des vêtements faits avec des poils de chameaux.</font>
+Jean, le fils de Zacharie et d'Elisabeth grandit et devint un prophète. Il habitait dans le désert, mangeait du miel sauvage et des sauterelles, et portait des vêtements faits avec des poils de chameaux.
 
 ===== Important Terms: =====
 
@@ -27,15 +27,11 @@
   * **clothes made from camel hair**  - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
 ===== Note de traduction: =====
 
-* désert  - Ce est, «le désert», ou «une télécommande, le lieu désertique." Il y avait peu de personnes vivant dans cette zone.
-
-* Miel sauvage - Ce miel était le produit naturel des abeilles dans le désert; il n'a pas été cultivé par les gens. Si ce est ce que les gens puissent comprendre par le mot «miel», vous ne pouvez pas besoin de l'appeler «sauvage».
-
-* - Ces sauterelles étaient grandes, saut insectes avec des ailes, comme de très grandes sauterelles. Certaines personnes qui vivent dans le désert les mangent.
-
-* Poil de chameau - Un chameau est un animal qui a les cheveux très rugueuse. Les gens pourraient faire des vêtements hors de lui. Cela pourrait être traduit comme "poils rugueux."
-
-* des vêtements fabriqués à partir de poils de chameau - qui est, "vêtements grossiers faits de poils de chameau." Ces vêtements ne porteraient pas rapidement dans le désert que d'autres vêtements ferait.
+  * **desert**  - Ce est, "le desert", ou "une télécommande, le lieu désertique." Il y avait peu de personnes vivant dans cette zone.
+  * **Miel sauvage** - Ce miel était le produit naturel des abeilles dans le désert; il n'a pas été cultivé par les gens. Si ce est ce que les gens puissent comprendre par le mot «miel», vous ne pouvez pas besoin de l'appeler "sauvage".
+  * **criquets** - Ces sauterelles étaient grandes, saut insectes avec des ailes, comme de très grandes sauterelles. Certaines personnes qui vivent dans le désert les mangent.
+  * **Poil de chameau** - Un chameau est un animal qui a les cheveux très rugueuse. Les gens pourraient faire des vêtements hors de lui. Cela pourrait être traduit comme "poils rugueux."
+  * **des vêtements fabriqués à partir de poils de chameau** - qui est, "vêtements grossiers faits de poils de chameau." Ces vêtements ne porteraient pas rapidement dans le désert que d'autres vêtements ferait.
 
 **[[:fr:obs:notes:frames:23-10|<<]] | [[:fr:obs:notes:24|Up]] | [[:fr:obs:notes:frames:24-02|>>]]**
 
