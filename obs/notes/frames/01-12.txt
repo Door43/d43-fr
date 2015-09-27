@@ -18,12 +18,15 @@ Puis Dieu dit: “il n'est pas bon que l'homme soit seul.” Mais aucun des anim
 ==== Translation Notes: ====
 
   * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **pas bon**  - C'est la première fois que quelque chose dans la création n'a pas été trouvé bon (par Dieu). Cela signife que ce n'était "pas encore (assez) bon", parce que Dieu n'avait pas fini avec la création de l'homme
   * **alone**  - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **seul**  - Adam était le seul être humain, dépourvu de la possibilté d'avoir une relation avec une autre personne, et donc incapable d'avoir des enfants et de se multiplier.
   * **Adam's helper**  - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-  * **une aide pour adam**  - il n'y avait personne qui était similaire à Adam pour se joindre à lui et accomplir la tâche que Dieu lui avait donnée. Aucun des animaux ne pouvait le faire.
-====   ====
+
+ ==== Notes de traduction: ====
+ 
+   * **pas bon**  - C'est la première fois que quelque chose dans la création n'a pas été trouvé bon (par Dieu). Cela signife que ce n'était "pas encore (assez) bon", parce que Dieu n'avait pas fini avec la création de l'homme
+   * **seul**  - Adam était le seul être humain, dépourvu de la possibilté d'avoir une relation avec une autre personne, et donc incapable d'avoir des enfants et de se multiplier.
+   * **une aide pour adam**  - il n'y avait personne qui était similaire à Adam pour se joindre à lui et accomplir la tâche que Dieu lui avait donnée. Aucun des animaux ne pouvait le faire.
+ 
 
 **[[:fr:obs:notes:frames:01-11|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-13|>>]]**
 ~~DISCUSSION~~
