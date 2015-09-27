@@ -24,21 +24,23 @@ Au milieu du jardin, Dieu planta deux arbres particuliers, l'arbre de la vie et 
 ==== Translation Notes: ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
-  * **Au milieu**  - l'emplacement central met l'emphase sur l'importance des deux arbres.
   * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **jardin**  - Un terrain planté d'arbres et de plantes selon un plan - habituellement destiné à produire de la nourriture ou un aspect esthétique.
   * **tree of life**  - Anyone who ate fruit from this tree would never die.
-  * **l'arbre de la vie**  - Quiconque mangerait du fruit de cet arbre mourrait.
   * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
-  * **l'arbre de la connaissance du bien et du mal**  - Le fruit de cet arbre peut rendre quelqu'un capable de connaitre le bien et le mal.
   * **knowledge**  - To know or understand by personal experience.
-  * **connaissance**  - Savoir ou comprendre sur la base de l'expérience personnelle.
   * **good and evil**  - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * le bien et le mal - le mal est le contraire du bien. Ce qui est bien fait référence à ce qui est agréable à Dieu, "le mal" fait référence à tout ce qui n'est pas agréable a Dieu.
   * **die**  - In this instance, he would die both physically and spiritually.
-  * Mourir - Dans ce cas, il mourrait physiquement et spirituellement.
+  
+  ==== Notes de traduction: ====
 
-====   ====
+  * **Au milieu**  - l'emplacement central met l'emphase sur l'importance des deux arbres.
+  * **jardin**  - Un terrain planté d'arbres et de plantes selon un plan - habituellement destiné à produire de la nourriture ou un aspect esthétique.
+  * **l'arbre de la vie**  - Quiconque mangerait du fruit de cet arbre mourrait.
+  * **l'arbre de la connaissance du bien et du mal**  - Le fruit de cet arbre peut rendre quelqu'un capable de connaitre le bien et le mal.
+  * **connaissance**  - Savoir ou comprendre sur la base de l'expérience personnelle.
+  * **le bien et le mal** - le mal est le contraire du bien. Ce qui est bien fait référence à ce qui est agréable à Dieu, "le mal" fait référence à tout ce qui n'est pas agréable a Dieu.
+  * **Mourir** - Dans ce cas, il mourrait physiquement et spirituellement.
+
 
 **[[:fr:obs:notes:frames:01-10|<<]] | [[:fr:obs:notes:01|Up]] | [[:fr:obs:notes:frames:01-12|>>]]**
 
