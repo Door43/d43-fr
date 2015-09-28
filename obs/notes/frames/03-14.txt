@@ -20,12 +20,15 @@ Une fois que **Noé** fut sorti du bateau, Il bâtit un **autel ** et **sacrifia
   * **[[:fr:obe:kt/bless]]**
 
 
+=====Translation Notes=====
+  * **animal that could be used for a sacrifice**  - Another way to say this would be, "that people could use to sacrifice to him."
+  * **God was happy**  - God was pleased with Noah for sacrificing these animals.
+
+
 ===== Notes de traduction: =====
 
-  * **animal that could be used for a sacrifice**  - Another way to say this would be, "that people could use to sacrifice to him."
-  * **animaux qui étaient destinés au sacrifice**- Une autre façon de dire que ce serait, “ce les gens pouvaient utiliser en sacrifie à Dieu.”
-  * **God was happy**  - God was pleased with Noah for sacrificing these animals.
-  * **Dieu fut content **- Dieu était satisfait  <font 14.166666030883789px line-height: 15.833333015441895px;/inherit;;inherit;;inherit>pour les</font> sacrifies<font 14.166666030883789px line-height: 15.833333015441895px;/inherit;;inherit;;inherit></font> <font 14.166666030883789px line-height: 15.833333015441895px;/inherit;;inherit;;inherit>d'</font> animaux que Noé avait faits.
+   * **animaux qui étaient destinés au sacrifice**- Une autre façon de dire que ce serait, “ce les gens pouvaient utiliser en sacrifie à Dieu.”
+   * **Dieu fut content **- Dieu était satisfait pour les sacrifies d'animaux que Noé avait faits.
 
 **[[:fr:obs:notes:frames:03-13|<<]] | [[:fr:obs:notes:03|Up]] | [[:fr:obs:notes:frames:03-15|>>]]**
 
