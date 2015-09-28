@@ -18,12 +18,14 @@ Ils étaient très **orgueilleux**, et ne faisait pas attention à ce que **Dieu
   * **[[:fr:obe:kt/heaven]]**
   * **[[:fr:obe:kt/evil]]**
   * **[[:fr:obe:kt/sin]]**
+=====Translation Notes=====
+   * **tall tower to reach heaven**  - This structure was so tall that its top would be in the sky.
+   * **heaven**  – This could be translated as, "sky."
+
 =====  Notes de traduction: =====
 
-  * **tall tower to reach heaven**  - This structure was so tall that its top would be in the sky.
-  * **grande tour qui devait atteindre le ciel **- Cette structure était si grande que son sommet serait dans le ciel.
-  * **heaven**  – This could be translated as, "sky."
-  * **Le ciel **- Cela peut se traduire par "paradis".
+   * **grande tour qui devait atteindre le ciel **- Cette structure était si grande que son sommet serait dans le ciel.
+   * **Le ciel **- Cela peut se traduire par "paradis".
 **[[:fr:obs:notes:frames:04-01|<<]] | [[:fr:obs:notes:04|Up]] | [[:fr:obs:notes:frames:04-03|>>]]**
 
 ~~DISCUSSION~~
