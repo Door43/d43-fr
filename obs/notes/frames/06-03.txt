@@ -16,9 +16,11 @@
   * **[[:fr:obe:other/Isaac]]**
 
 
+=====Translation Notes=====
+  * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
+
 ===== Notes de traduction: =====
 
-  * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
   * **Rebekah consentit** - Même si les parents de Rebekah arrangeaient son mariage, ils ne ont pas la forcer à aller épouser Isaac.
 
 **[[:fr:obs:notes:frames:06-02|<<]] | [[:fr:obs:notes:06|Up]] | [[:fr:obs:notes:frames:06-04|>>]]**
