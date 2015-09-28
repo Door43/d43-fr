@@ -20,13 +20,16 @@ Le serpent répondit à la femme “Ce n'est pas **vrai**! Vous ne **mourrez** p
   * **[[:fr:obe:kt/evil]]**
 
 
-==== Notes de Traduction: ====
-
+=====Translation Notes=====
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **Comme Dieu **- L'homme et la femme avaient déjà été créés à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait le mal. Cependant, Dieu n'a jamais voulu qu'elle détienne cette connaissance.
   * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
+
+
+===== Notes de Traduction: =====
+
+   * **Comme Dieu **- L'homme et la femme avaient déjà été créés à l'image de Dieu. Le serpent suggère que la femme serait plus comme Dieu si elle comprenait le mal. Cependant, Dieu n'a jamais voulu qu'elle détienne cette connaissance.
   * **Comprendre le bien et le mal**  - Savoir sur la base d'une expérience personnelle les choses qui sont bonnes et celles qui sont mauvaises, ou être en mesure de savoir si quelque chose est bon ou mauvais.
-====   ====
+
 
 **[[:fr:obs:notes:frames:02-03|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-05|>>]]**
 
