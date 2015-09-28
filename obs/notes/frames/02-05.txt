@@ -12,13 +12,16 @@ La femme vit que le fruit était magnifique et paraissait délicieux. Elle voula
   * **[[:fr:obe:kt/wise]]**
 
 
-==== Notes de Traduction: ====
-
+=====Translation Notes=====
   * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-  * **savante **- La femme voulait avoir la perspicacité et la compréhension que le serpent semblait avoir, et que Dieu a.
   * **who was with her**  - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
-  * **qui était avec elle**  - Cette information est importante car elle montre que l'homme était présent lorsque la femme a pris la décision de manger le fruit.
-====   ====
+ 
+
+===== Notes de Traduction: =====
+
+   * **savante **- La femme voulait avoir la perspicacité et la compréhension que le serpent semblait avoir, et que Dieu a.
+   * **qui était avec elle**  - Cette information est importante car elle montre que l'homme était présent lorsque la femme a pris la décision de manger le fruit.
+
 
 **[[:fr:obs:notes:frames:02-04|<<]] | [[:fr:obs:notes:02|Up]] | [[:fr:obs:notes:frames:02-06|>>]]**
 
