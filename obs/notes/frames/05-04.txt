@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&}}
 
-“Your wife, **Sarai**, will have a son—he will be the **son** of **promise**. Name him **Isaac**. **I will make my covenant with him**, and he will become a great nation.<font inherit/inherit;;inherit;;inherit>I will make</font>    **Ismael** <font inherit/inherit;;inherit;;inherit>a great nation, too, but my covenant will be with Isaac.” Then</font>    **God** <font inherit/inherit;;inherit;;inherit>changed</font>    **Abram's** <font inherit/inherit;;inherit;;inherit>name to</font>    **Abraham** <font inherit/inherit;;inherit;;inherit>, which means “</font>    **father of many** <font inherit/inherit;;inherit;;inherit>.” God also changed</font>    Sarai's <font inherit/inherit;;inherit;;inherit>name to</font>    **Sarah** <font inherit/inherit;;inherit;;inherit>, which means “</font>    **princess** <font inherit/inherit;;inherit;;inherit>.”</font>
+“Your wife, **Sarai**, will have a son—he will be the **son** of **promise**. Name him **Isaac**. **I will make my covenant with him**, and he will become a great nation.I will make    **Ismael** a great nation, too, but my covenant will be with Isaac.” Then    **God** changed    **Abram's** name to    **Abraham** , which means “    **father of many** .” God also changed    Sarai's name to    **Sarah** , which means “    **princess** .”
 
-“Ta femme, **Sarai**, aura un fils, il sera le **fils** de la **promesse**. Tu lui donneras le nom **d'Isaac**. **J'établirai mon Alliance avec lui ** et il deviendra une grande nation. <font inherit/inherit;;inherit;;inherit>Je</font>    ferai **d'Ismaël** une grande <font inherit/inherit;;inherit;;inherit>nation</font>    aussi<font inherit/inherit;;inherit;;inherit>,</font>    mais mon<font inherit/inherit;;inherit;;inherit>Alliance</font>    <font inherit/inherit;;inherit;;inherit>sera</font>    avec<font inherit/inherit;;inherit;;inherit>Isaac.”</font>    Puis **Dieu** changea <font inherit/inherit;;inherit;;inherit>le nom</font>    d'Abram en <font inherit/inherit;;inherit;;inherit>Abraham</font>    <font inherit/inherit;;inherit;;inherit>,</font>    ce <font inherit/inherit;;inherit;;inherit>qui</font>    signifie “**père**** ** <font inherit/inherit;;inherit;;inherit>** d'une multitude ** .”</font>    Dieu changea aussi <font inherit/inherit;;inherit;;inherit>le nom de</font>    Sarai <font inherit/inherit;;inherit;;inherit>en  ** Sara ** , qui</font>    veut <font inherit/inherit;;inherit;;inherit>dire “ ** princesse ** .”</font>
+“Ta femme, **Sarai**, aura un fils, il sera le **fils** de la **promesse**. Tu lui donneras le nom **d'Isaac**. **J'établirai mon Alliance avec lui ** et il deviendra une grande nation. Je    ferai **d'Ismaël** une grande nation    aussi,    mais monAlliance    sera    avecIsaac.”    Puis **Dieu** changea le nom    d'Abram en Abraham    ,    ce qui    signifie “**père**** ** ** d'une multitude ** .”    Dieu changea aussi le nom de    Sarai en  ** Sara ** , qui    veut dire “ ** princesse ** .”
 
 ===== Important Terms: =====
 
@@ -29,18 +29,21 @@
   * **[[:fr:obe:other/Abraham]]**
   * **[[:fr:obe:other/Abraham]]**
   * **[[:fr:obe:other/Sarah]]**
+=====Translation Notes=====
+  * (God continues to speak to Abram.)
+  * **son of promise**  - Isaac would be the son that God promised to Sarai and Abram. He would also be the son that God would use to give Abram many descendants.
+  * **I will make my covenant with him**  - This would be the same covenant that God made with Abram.
+  * **father of many**  - As God had promised, Abraham would become the ancestor of many people who would even become many nations.
+  * **princess**  - A princess is a daughter of a king. The names Sarai and Sarah apparently both meant "princess." But God changed her name to signify that she would be the mother of many nations, and some of her descendants would be kings.
+
 ===== Notes de traduction: =====
 
-  * (God continues to speak to Abram.)
   * Dieu continue à parler à Abraham.
-  * **son of promise**  - Isaac would be the son that God promised to Sarai and Abram. He would also be the son that God would use to give Abram many descendants.
   * **fils de la promesse **- Isaac serait le fils que Dieu a promis à Abram et Saraï. Il serait également le fils que Dieu utiliserait pour donner à Abram de nombreux descendants.
-  * **I will make my covenant with him**  - This would be the same covenant that God made with Abram.
   * **J'établirai mon alliance avec lui** - Ce serait la même alliance que Dieu a faite avec Abram.
-  * **father of many**  - As God had promised, Abraham would become the ancestor of many people who would even become many nations.
   * **père de la multitude** Comme Dieu l'avait promis, Abraham deviendrait l'ancetre d'un grand nombre de personne qui deviendraient de beaucoup de nations.
-  * **princess**  - A princess is a daughter of a king. The names Sarai and Sarah apparently both meant "princess." But God changed her name to signify that she would be the mother of many nations, and some of her descendants would be kings.
   * **princesse **- Une princesse est la fille d'un roi. Les prénoms Sarai et Sara apparemment signifient “princesse.” Mais Dieu a changé son nom pour signifier qu'elle serait la mère de plusieurs nations, et certains de ses descendants seraient des rois.
+
 **[[:fr:obs:notes:frames:05-03|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:05-05|>>]]**
 
 ~~DISCUSSION~~
