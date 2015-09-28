@@ -1,5 +1,4 @@
-====== autel ======  F
-
+====== autel -F ======  
 ====== les Faits: ======  
 
 ===== Définition: =====
@@ -19,7 +18,7 @@ Un autel est une structure surélevée sur laquelle des sacrifices étaient brul
 ===== Exemples rires des histories Bibliques: =====
 
   * **[[:fr:obs:notes:frames:03-14|[03-14]]]** Une fois sorti du bateau, Noé a construit un ** autel ** et a offert en sacrifice quelques animaux de chaque espèce qui pouvait être offert en sacrifice.
-  * **[[:fr:obs:notes:frames:05-08|[05-08]]]** Quand ils sont arrivés sur le lieu du sacrifice, Abraham a attaché son fils Isaac et l'a placé sur l' ** autel ** .
+  * **[[:fr:obs:notes:frames:05-08|[05-08]]]** Quand ils sont arrivés sur le lieu du sacrifice, Abraham a attaché son fils Isaac et l'a placé sur l' ** autel **.
   * **[[:fr:obs:notes:frames:13-09|[13-09]]]** Un prêtre tuerait l'animal et le brûlerait sur l' ** autel. **
   * **[[:fr:obs:notes:frames:16-06|[16-06]]]** Il (Gedéon) a construit un nouvel  ** autel ** consacré à Dieu près de l'endroit où l'autel dédié aux idoles se trouvait et a fait un sacrifice à Dieu dessus.
 ~~DISCUSSION~~{{tag>publish ktobs}}
