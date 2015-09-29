@@ -1,10 +1,10 @@
-===== The Ram [05-09] =====
+===== The Ram - Le bélier F[05-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
 Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice.
 
-Abraham vit alors un bélier tout près, qui était coincé dans un buisson. Dieu fournit un bélier à offrir en sacrifice à la place de son fils. Abraham offrit avec bonheur le bélier en sacrifice.
+Abraham vit alors un bélier tout près, qui était coincé dans un buisson. Dieu donna un bélier à offrir en sacrifice à la place de son fils. Abraham offrit avec bonheur le bélier en sacrifice.
 
 ===== Important Terms: =====
 
@@ -22,12 +22,12 @@ Abraham vit alors un bélier tout près, qui était coincé dans un buisson. Die
 
 ===== Translation Notes: =====
 
-  * **a ram**  - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
+  * **a ram** - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
   * **God had provided the ram**  - Just at the right moment, God caused the ram to be stuck in the bush.
 ===== Note de traduction: =====
 
-  * **une ram** - Un bélier est un bouc. Les chèvres ont été l'un des animaux que les gens puissent sacrifice à Dieu.
-  * **Dieu avait fourni le bélier** - Juste au bon moment, Dieu fit le bélier d'être coincé dans la brousse.
+  * **Un bélier** - Un bélier est un bouc. Les chèvres étaient l'un des animaux que les gens pouvaient offrir en sacrifice à Dieu.
+  * **Dieu avait fourni le bélier** - Juste au bon moment, Dieu coinça le bélier dans un buisson.
 
 **[[:fr:obs:notes:frames:05-08|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:05-10|>>]]**
 
