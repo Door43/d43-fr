@@ -18,9 +18,9 @@ Quand les parents de l'enfant ne pouvaient plus le cacher, ils le mirent dans un
 
   * //(There are no notes for this frame.)//
 
-==== notes de traduction: ====
+===== Notes de Traduction: =====
 
-* //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes de ce cadre.) //
 
 **[[:fr:obs:notes:frames:09-05|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-07|>>]]**
 
