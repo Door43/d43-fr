@@ -1,4 +1,4 @@
-===== The Boys Grew Up [07-01] =====
+===== The Boys Grew Up - Les garçons ont grandi F [07-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
@@ -18,15 +18,16 @@ En grandissant, **Jacob aimait rester à la maison**, mais **Esau aimait chasser
   * **[[:fr:obe:other/isaac]]**
 
 =====Translation Notes=====
-  * **loved to stay at home … loved to hunt**  - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
+
+  * **loved to stay at home … loved to hunt** - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
   * **at home**  - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, "at home."
   * **Rebekah loved Jacob, but Isaac loved Esau**  - This could be translated as, "Rebekah was more fond of Jacob, and Isaac was more fond of Esau." This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
  
 
 ===== Notes de traduction: =====
 
-  * **aimé rester à la maison … aimait chasser **- Certaines langues utilisent un mot pour “amour” ici qui est différente de celle utilisée pour “Rebecca aimait Jacob.” Par exemple, cela pourrait être traduit comme, “aimé rester à la maison … aimait chaser" ou "préféré rester à la maison … préféré chasser.”
-  * **à la maison **- Cette expression désigne la zone autour des habitations de la famille. Jacob a préféré rester à proximité des tentes où ils vivaient. Certaines langues ont une expression particulière pour, “à la maison.”
+  * **aimait rester à la maison … aimait chasser **- Certaines langues utilisent un mot pour “aimer” ici qui est différent de celui utilisé pour “Rebecca aimait Jacob.” Par exemple, cela pourrait être traduit comme, “aimait rester à la maison … aimait chasser" ou "préférait rester à la maison … préférait chasser.”
+  * **à la maison**- Cette expression désigne la zone autour des habitations de la famille. Jacob a préféré rester à proximité des tentes où ils vivaient. Certaines langues ont une expression particulière pour, “à la maison.”
   * **Rebecca aimait Jacob, mais Isaac aimait Esaü -**  Cela pourrait être traduit comme "Rébecca était plus friands de Jacob, et Isaac était plus friands d'Esaü." Cela ne signifie pas nécessairement que Rébecca et Isaac ne aimaient pas l'autre fils, mais que chaque parent avait un favori.
 **[[:fr:obs:notes:frames:06-07|<<]] | [[:fr:obs:notes:07|Up]] | [[:fr:obs:notes:frames:07-02|>>]]**
 
