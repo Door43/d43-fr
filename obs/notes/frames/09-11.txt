@@ -21,9 +21,9 @@ Moïse devint un berger dans la nature loin d'Égypte. Il se maria avec une femm
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this in **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
-==== notes de traduction: ====
+===== notes de traduction: =====
 
-* Désert - Voyez comment vous avez traduit cela en [[: Fr: obs: notes: cadres: 09-10 | [09-10]]].
+  * **Désert** - Voyez comment vous avez traduit cela en **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
 
 **[[:fr:obs:notes:frames:09-10|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-12|>>]]**
 
