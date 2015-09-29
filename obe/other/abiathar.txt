@@ -4,13 +4,17 @@
 
 ===== Definition: =====
 
-Text
+Abiathar était le grand sacrificateur de la nation d'Israël durant les regnes des rois David et Solomon.
+
   * bullet
-  * bullet
+  * Abiathar a servi avec le prêtre, Zadok.
+  * Lors le roi Saul a massacré les prètres, Abiathar s'est échappé et est allé à David dans le désert.
+  * Après la mort de David, Abiarthar s'est rebellé contre Solomon en aidant Adonijah lorsqu'il a tenté un coup d'état.
+  * En conséquent, Solomon l'a enlevé du sacerdoce.
 
 (See also: other)
 
-===== Bible References: =====
+===== Bible References: Références bibliques: =====
 
 {{topic>Abiathar&nocomments}}
 
