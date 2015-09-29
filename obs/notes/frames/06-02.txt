@@ -1,4 +1,4 @@
-===== Finding Rebekah [06-02] =====
+===== Finding Rebekah - A la recherche de Rebecca F [06-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
@@ -24,6 +24,7 @@ Après un très long voyage vers le pays où vivait la famille **d'Abraham**, **
 
 
 ===== Notes de traduction: =====
+
   * **petite-fille du frère d'Abraham** - Plus précisément, elle était la fille du fils du frère d'Abraham. Son grand-père était le frère d'Abraham
 
 **[[:fr:obs:notes:frames:06-01|<<]] | [[:fr:obs:notes:06|Up]] | [[:fr:obs:notes:frames:06-03|>>]]** 
