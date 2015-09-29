@@ -1,4 +1,4 @@
-===== Two Nations [06-06] =====
+===== Two Nations - Deux nations F [06-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
@@ -17,6 +17,7 @@
 
 
 ===== Translation Notes: =====
+
   * **from the two sons**  - That is, "from the descendants of the two sons."
   * **They will struggle with each other**  - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[:fr:obs:notes:frames:06-05|[06-05]]]**.
   * **the older son**  - Even though the babies were twins, the baby that came out first would be treated as the older son.
@@ -25,9 +26,9 @@
 ===== Notes de traduction: =====
 
   * **des deux fils **- Ce signifie, “des descendants des deux fils.”
-  * **Elles lutteront l'une contre l'autre **- les deux fils et les deux nations qui descendront d'eux vont constamment se battre l'une contre l'autre. Comparer à **[[:fr:obs:notes:frames:06-05|[06-05]]]**.
-  * **le fils aîné**  - Même si les bébés étaient des jumeaux, le bébé qui est sorti le premier serait traité comme le fils aîné.
-  * **servira le plus jeune **- Cela pourrait être traduit comme “le fils aîné aura à faire ce que le plus jeune lui dit de faire.”
+  * **Elles lutteront l'une contre l'autre **- les deux fils et les deux nations qui descendront d'eux vont constamment se battre l'un contre l'autre. Comparer à **[[:fr:obs:notes:frames:06-05|[06-05]]]**.
+  * **le fils aîné** - Même si les bébés étaient des jumeaux, le bébé qui est sorti le premier sera traité comme le fils aîné.
+  * **servira le plus jeune ** - Cela pourrait être traduit comme “le fils aîné devra faire ce que le plus jeune lui dira de faire.”
 
 
 **[[:fr:obs:notes:frames:06-05|<<]] | [[:fr:obs:notes:06|Up]] | [[:fr:obs:notes:frames:06-07|>>]]** 
