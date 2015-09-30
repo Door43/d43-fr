@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
-Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
+Next, **God** caused all the **farm animals** that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
 
 Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent malades et moururent. Mais le cœur de Pharaon s'était endurci et il ne laissa pas partir les Israélites.
 
@@ -25,8 +25,8 @@ Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent
   * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
   * **heart was hardened**  - See note in **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 ===== Notes de Traduction: =====
-  * **Animaux de ferme** - Il se agit de grands animaux que les Égyptiens utilisaient pour les aider dans leur travail, tels que les chevaux, les ânes, les chameaux, les bovins, les moutons et les chèvres.
-  * **Cœur se endurcit** - Voir note **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
+  * **les bêtes** - Il se agit de grands animaux que les Égyptiens utilisaient pour les aider dans leur travail, tels que les chevaux, les ânes, les chameaux, les bovins, les moutons et les chèvres.
+  * **le cœur de Pharaon s'était endurci** - Voir note **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 
 **[[:fr:obs:notes:frames:10-05|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-07|>>]]**
 
