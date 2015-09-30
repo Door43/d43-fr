@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
+One day, when **Moses** had **grown up**, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
 
 Un jour, alors que Moïse était devenu grand, il vit un Égyptien en train de frapper un esclave Israélite. Moïse essaya de porter secours à son compatriote.
 
@@ -28,8 +28,8 @@ Un jour, alors que Moïse était devenu grand, il vit un Égyptien en train de f
   * **fellow Israelite**  - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
   ===== Notes de Traduction: =====
 
-  * **Grandi** - Une autre façon de dire que ce serait, "devenu un homme."
-  * **Compatriote israélite** - Cette phrase se réfère à l'esclave israélite. Le mot "compagnon" indique ici que Moïse était aussi un Israélite. Bien que la fille du pharaon égyptien soulevé Moïse, Moïse se souvint qu'il était vraiment un Israélite.
+  * **était devenu grand** - Une autre façon de dire que ce serait, "devenu un homme."
+  * **son compatriote** - Cette phrase se réfère à l'esclave israélite. Le mot "compagnon" indique ici que Moïse était aussi un Israélite. Bien que la fille du pharaon égyptien soulevé Moïse, Moïse se souvint qu'il était vraiment un Israélite.
 
 **[[:fr:obs:notes:frames:09-07|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-09|>>]]**
 
