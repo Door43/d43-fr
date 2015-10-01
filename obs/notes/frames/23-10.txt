@@ -4,7 +4,7 @@
 
 When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Quand les mages virent Jésus avec sa mère, ils se prosternèrent et l'adorèrent. Ils offrirent à Jésus leurs trésors. Puis ils regagnèrent leur pays.</font>
+Quand les mages virent Jésus avec sa mère, ils se prosternèrent et l'adorèrent. Ils offrirent à Jésus leurs trésors. Puis ils regagnèrent leur pays.
 
 ===== Important Terms: =====
 
@@ -24,13 +24,12 @@ When the** wise men** saw Jesus with his mother, they **bowed down** and **worsh
   * //Une histoire biblique tirée de: Matthieu 1; Luc 2//
 ===== Note de traduction: =====
 
-* sages - Voyez comment vous avez traduit ce terme dans [[: Fr: obs: notes: cadres: 23-09 | [23-09]]].
+  * **sagesz** - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:23-09|[23-09]]]**.
+  * **Courbé** - qui est, "se inclina à terre." A cette époque, ce était la façon habituelle de montrer beaucoup de respect ou de révérence.
+  * **Cher** - Ce est, "très précieux."
+  * // Une histoire de la Bible à partir de //  -  Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 
-* Courbé - qui est, "se inclina à terre." A cette époque, ce était la façon habituelle de montrer beaucoup de respect ou de révérence.
-
-* Cher - Ce est, "très précieux."
-
-* // Une histoire de la Bible à partir de //  -  Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+//Une histoire biblique tirée de: Matthieu 1; Luc 2//
 
 **[[:fr:obs:notes:frames:23-09|<<]] | [[:fr:obs:notes:23|Up]] | [[:fr:obs:notes:frames:24-01|>>]]**
 
