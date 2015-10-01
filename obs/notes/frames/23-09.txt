@@ -4,7 +4,7 @@
 
 **Sometime later**, **wise men** from countries far to the east saw an **unusual star** in the sky. T**hey realized** it meant a new **king of the Jews** had been born. So, they traveled a great distance to see this king. They came to **Bethlehem** and found **the house** where **Jesus** and his parents were staying.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Un peu plus tard, les mages d'Orient, virent une étoile bizarre dans le ciel. Ils réalisèrent que cela voulait dire que le nouveau roi des Juifs était né. Alors, Ils voyagèrent une grande distance pour voir ce roi. Ils arrivèrent à Bethlehem et trouvèrent la maison dans laquelle Jésus et ses parents vivaient.</font>
+Un peu plus tard, les mages d'Orient, virent une étoile bizarre dans le ciel. Ils réalisèrent que cela voulait dire que le nouveau roi des Juifs était né. Alors, Ils voyagèrent une grande distance pour voir ce roi. Ils arrivèrent à Bethlehem et trouvèrent la maison dans laquelle Jésus et ses parents vivaient.
 
 ===== Important Terms: =====
 
@@ -28,15 +28,11 @@
   * **the house**  - They were no longer staying in the place for animals where he was born.
 ===== Note de traduction: =====
 
-* Quelque temps plus tard - Il ne est pas clair combien de temps il était après la naissance de Jésus devant les sages virent l'étoile, mais il a peut-être pris aussi longtemps que deux ans à se préparer pour le voyage, puis se rendre à Bethléem.
-
-* sages - Les «sages» étaient probablement des astrologues qui ont étudié les étoiles. Ils ont également pu avoir accès aux écrits des prophètes de l'Ancien Testament qui prédisaient la naissance du Messie.
-
-* Étoiles inhabituelle - L'étoile qu'ils avaient remarqué ne était pas une étoile normale. Ce était quelque chose qui est apparu au moment de la naissance de Jésus.
-
-* Ils ont réalisé - Certaines langues peuvent ajouter, "De leurs études, ces chercheurs ont réalisé."
-
-* La maison - Ils ne sont plus logés à la place pour les animaux où il est né.
+  * **Quelque temps plus tard** - Il ne est pas clair combien de temps il était après la naissance de Jésus devant les sages virent l'étoile, mais il a peut-être pris aussi longtemps que deux ans à se préparer pour le voyage, puis se rendre à Bethléem.
+  * **sages** - Les "sages" étaient probablement des astrologues qui ont étudié les étoiles. Ils ont également pu avoir accès aux écrits des prophètes de l'Ancien Testament qui prédisaient la naissance du Messie.
+  * **Étoiles inhabituelle** - L'étoile qu'ils avaient remarqué ne était pas une étoile normale. Ce était quelque chose qui est apparu au moment de la naissance de Jésus.
+  * **Ils ont realize** - Certaines langues peuvent ajouter, "De leurs études, ces chercheurs ont réalisé."
+  * **La maison** - Ils ne sont plus logés à la place pour les animaux où il est né.
 
 **[[:fr:obs:notes:frames:23-08|<<]] | [[:fr:obs:notes:23|Up]] | [[:fr:obs:notes:frames:23-10|>>]]**
 
