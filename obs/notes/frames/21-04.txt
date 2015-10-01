@@ -4,7 +4,7 @@
 
 **God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dieu promit au roi David qu'un de ses descendants régnerait en tant que roi éternellement sur tous les gens qui croiraient en lui. Cela voulait dire que le Messie serait un des descendants de David.</font>
+Dieu promit au roi David qu'un de ses descendants régnerait en tant que roi éternellement sur tous les gens qui croiraient en lui. Cela voulait dire que le Messie serait un des descendants de David.
 
 ===== Important Terms: =====
 
@@ -25,9 +25,9 @@
 ==== Translation Notes: ====
 
   * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself."
-==== notes de traduction: ====
+===== Notes de Traduction: =====
 
-* propres descendants de David - Une autre façon de dire que ce serait, "un descendant direct de David lui-même."
+  * **propres descendants de David** - Une autre façon de dire que ce serait, "un descendant direct de David lui-même."
 
 **[[:fr:obs:notes:frames:21-03|<<]] | [[:fr:obs:notes:21|Up]] | [[:fr:obs:notes:frames:21-05|>>]]**
 
