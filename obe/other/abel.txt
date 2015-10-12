@@ -14,7 +14,7 @@
 
 ( Suggestions pour la traduction: (Traduire les Noms de personnes)- (voir le Manuel Académique de Traduction)
 
-(Voir aussi: [[:fr:obe:other:adam|Adam Adam - F]], [[:fr:obe:other:eve|Eve]], berger [[:fr:obe:other:shepherd|, to shepherd]])
+(Voir aussi: Adam,Adam-F, Eve, berger [[:fr:obe:other:shepherd|,]]garder les moutons).
 
 ===== References dans la Bible: =====
 
