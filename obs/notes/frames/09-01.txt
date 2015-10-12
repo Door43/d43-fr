@@ -8,25 +8,20 @@ Après la mort de Joseph, toute sa famille resta en Égypte. Sa famille et leurs
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:joseph|Joseph (Joseph)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
-
-  * **[[:fr:obe:other/josephot]]**
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:other/descendant]]**
-  * **[[:fr:obe:other/israel]]**
-
-
+  * **[[:fr:obe:other:josephot|Joseph (OT) Joseph (AT) F]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:descendant|descendant]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
   * **called the Israelites**  - The people group that descended from Jacob was called "Israel," which is the name that God gave to Jacob. The people from that group were called "Israelites."
 ===== Notes de Traduction: =====
 
-  * **appelait les Israélites** - Le groupe de personnes qui est descendu de Jacob fut appelé "Israël", qui est le nom que Dieu a donné à Jacob. Les personnes de ce groupe ont été appelés "Israélites."
-
+  * **appelait les Israélites**  - Le groupe de personnes qui est descendu de Jacob fut appelé "Israël", qui est le nom que Dieu a donné à Jacob. Les personnes de ce groupe ont été appelés les "Israélites."
 **[[:fr:obs:notes:frames:08-15|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-02|>>]]**
 
 ~~DISCUSSION~~
