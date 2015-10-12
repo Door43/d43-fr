@@ -3,8 +3,8 @@
 
 ===== Facts: les Faits: =====
 
-Abel was Adam and Eve's second son. Abel était le second fils d'Adam et Eve.
-
+  * Abel was Adam and Eve's second son.
+  * Abel était le second fils d'Adam et d'Eve.
   * Abel was a shepherd.
   * Abel était un berger.
   * Abel pleased God with his life and offerings.
