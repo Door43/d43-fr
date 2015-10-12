@@ -16,15 +16,8 @@ Abel was Adam and Eve's second son. Abel était le second fils d'Adam et Eve.
 
 (Voir aussi: [[:fr:obe:other:adam|Adam Adam - F]], [[:fr:obe:other:eve|Eve]], berger [[:fr:obe:other:shepherd|, to shepherd]])
 
-===== Bible References: =====
+===== References dans la Bible: =====
 
-
-{{topic>:en:bible?abel&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?abel&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
