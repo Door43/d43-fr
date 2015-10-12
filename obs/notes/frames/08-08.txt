@@ -8,27 +8,20 @@ Pharaon fut tellement impressionné par Joseph qu'il le nomma la deuxième perso
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:joseph|Joseph (Joseph)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
+  * **[[:fr:obe:other:pharaoh|Pharoaon]]**
+  * **[[:fr:obe:other:josephot|Joseph (OT) Joseph (AT) F]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+===== Translation Notes =====
 
-  * **[[:fr:obe:other/pharaoh|Pharoaon]]**
-  * **[[:fr:obe:other/josephot]]**
-  * **[[:fr:obe:other/egypt]]**
-
-
-=====Translation Notes=====
-
-
-  * **impressed with** - Pharaoh was amazed by Joseph's wisdom and felt respect for him; he trusted Joseph to make wise decisions that would benefit the people. It may be clearer to say, "impressed with Joseph's wisdom."
-  * **second most powerful man** - Pharaoh made Joseph a very powerful and important ruler over all of Egypt. Only Pharaoh was more powerful and important than Joseph.
-
+  * **impressed with**  - Pharaoh was amazed by Joseph's wisdom and felt respect for him; he trusted Joseph to make wise decisions that would benefit the people. It may be clearer to say, "impressed with Joseph's wisdom."
+  * **second most powerful man**  - Pharaoh made Joseph a very powerful and important ruler over all of Egypt. Only Pharaoh was more powerful and important than Joseph.
 ===== Notes de Traduction: =====
 
-  * **impressionné par** - 
-  * **la deuxième personne la plus importante** - 
-
+  * **impressionné par**  - La sagesse de Joseph a étonné Pharaon donc Pharaon avait beaucoup de respecte pour lui. Il avait assez de la confiance à Joseph de prendre des décisions sage qui bénificiéraient le peuple.  Il vaut mieux, c'est-à-dire qu'il serait plus claire peut-être, écrire qu'il "fut tellement impressionné par la sagesse de Joseph."
+  * **la deuxième personne la plus importante**  - Pharaon a désigné Joseph le plus puissant et le plus important dirigeant dans tout l'Egypte.  Pharaon lui-même était la seule personne qui était plus puissante que Joseph .
 **[[:fr:obs:notes:frames:08-07|<<]] | [[:fr:obs:notes:08|Up]] | [[:fr:obs:notes:frames:08-09|>>]]**
 
 ~~DISCUSSION~~
