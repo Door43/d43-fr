@@ -4,27 +4,21 @@
 
 **Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
 
-Moïse devint un berger dans la nature loin d'Égypte. Il se maria avec une femme de cet endroit et eut deux fils.
-
+**Moïse** devint un **berger** dans la nature loin d'**Égypte**. Il se maria avec une femme de cet endroit et eut deux fils.
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:shepherd|shepherd (berger)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
-
-  * **[[:fr:obe:other/moses]]**
-  * **[[:fr:obe:other/shepherd]]**
-  * **[[:fr:obe:other/egypt]]**
-
-
+  * **[[:fr:obe:other:moses|Moses]]**
+  * **[[:fr:obe:other:shepherd|shepherd, to shepherd]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this in **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
 ===== Notes de Traduction: =====
 
-  * **la nature** - Voyez comment vous avez traduit cela en **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
-
+  * **la nature**  - Voyez comment vous avez traduit cela en **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
 **[[:fr:obs:notes:frames:09-10|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-12|>>]]**
 
 ~~DISCUSSION~~
