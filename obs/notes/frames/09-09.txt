@@ -4,26 +4,19 @@
 
 When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
 
-Pensant que personne ne le voyait, il tua l'Égyptien et l'enterra. Mais quelqu'un vit ce que Moïse avait fait.
-
+Pensant que personne ne le voyait, il tua l'**Égyptien** et l'enterra. Mais quelqu'un vit ce que **Moïse** avait fait.
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptian (Egypte)]]**
-
-  * **[[:fr:obe:other/moses]]**
-  * **[[:fr:obe:other/egypt]]**
-
-
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:moses|Moses]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
-
 ===== Notes de Traduction: =====
 
   * //(Il n'y a pas de notes de ce cadre.) //
-
 **[[:fr:obs:notes:frames:09-08|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-10|>>]]**
 
 ~~DISCUSSION~~
