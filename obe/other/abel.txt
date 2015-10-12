@@ -10,9 +10,9 @@ Abel was Adam and Eve's second son. Abel était le second fils d'Adam et Eve.
   * Abel pleased God with his life and offerings.
   * Abel plaît à Dieu avec sa vie et ses offrandes.
   * Adam and Eve's firstborn son Cain, murdered, Abel.
-  * Le fils ainé d'Adam et Eve,  Cain, a tué Abel.
+  * Le fils ainé d'Adam et Eve, Cain, a tué Abel.
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+( Suggestions pour la traduction: (Traduire les [[:en:ta:vol1:translate:translate_names| ]]Noms de personnes)- (voir le Manuel Academique de Traduction)
 
 (See also: [[:fr:obe:other:adam|Adam Adam - F]], [[:fr:obe:other:eve|Eve]], [[:fr:obe:other:shepherd|shepherd, to shepherd]])
 
