@@ -8,25 +8,20 @@ Alors Jacob envoya ses fils aînés en Égypte pour acheter des vivres. Les frè
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:joseph|Joseph (Joseph)]]**
-
-  * **[[:fr:obe:other/jacob]]**
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:other/josephot]]**
-
-
+  * **[[:fr:obe:other:jacob|Jacob, Israel]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:josephot|Joseph (OT) Joseph (AT) F]]**
 ==== Translation Notes: ====
 
   * **his older sons**  - These were Joseph's older brothers who had sold him into slavery.
   * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
 ===== Notes de Traduction: =====
 
-  * **ses fils aînés** - Ce étaient des frères aînés de Joseph qui lui avait vendu en esclavage.
-  * **ne reconnurent pas Joseph** - Ils ne savaient pas que l'homme était Joseph, parce que maintenant Joseph était beaucoup plus vieux que quand ils l'ont vu dernière, et il était habillé comme un souverain égyptien.
-
+  * **ses fils aînés**  - C'étaient des frères aînés de Joseph qui l'avait vendu en esclavage.
+  * **ne reconnurent pas Joseph**  - Ils ne savaient pas que l'homme était Joseph, parce que maintenant Joseph était beaucoup plus vieux que quand ils l'ont vu la dernière fois, et il était habillé comme un souverain égyptien.
 **[[:fr:obs:notes:frames:08-10|<<]] | [[:fr:obs:notes:08|Up]] | [[:fr:obs:notes:frames:08-12|>>]]**
 
 ~~DISCUSSION~~
