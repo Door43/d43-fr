@@ -18,9 +18,7 @@ Quand le **Pharaon** apprit ce que **Moïse** avait fait, Il essaya de le tuer. 
   * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
 ===== Notes de Traduction: =====
 
-  * **le désert**
- - Le désert était une vaste zone qui était rocailleux et sec. La terre, il ne était pas bon pour la culture alimentaire et peu de gens n'y vivaient.
-
+  * **le désert **- Le désert était une vaste zone qui était rocailleux et sec. La terre, il ne était pas bon pour la culture alimentaire et peu de gens n'y vivaient.
 **[[:fr:obs:notes:frames:09-09|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-11|>>]]**
 
 ~~DISCUSSION~~
