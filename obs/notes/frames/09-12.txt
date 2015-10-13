@@ -10,7 +10,8 @@ Un jour, pendant que **Moïse** **s'occupait de son troupeau**, il vit un buisso
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:sheep|sheepj (mouton)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
+  * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**                                                              
+
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:other:sheep|sheep, ram]]**
   * **[[:fr:obe:kt:god|God]]**
