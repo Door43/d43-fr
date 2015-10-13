@@ -4,10 +4,8 @@
 
 **Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
 
-Moïse et son frère Aaron se rendirent auprès de Pharaon. Ils lui dirent, “Voilà ce que dit le Dieu d'Israël - 'Laisse partir mon peuple!'” Pharaon ne les entendit pas. Au lieu de laisser partir les Israélites, il les forcèrent à travailler encore plus dur!
-
+**Moïse** et son frère **Aaron** se rendirent auprès de **Pharaon**. Ils lui dirent, “Voilà ce que dit le **Dieu d'Israël** - '**Laisse partir mon peuple**!'” Pharaon ne les **entendit** pas. Au lieu de laisser partir les **Israélites**, il les forcèrent à travailler encore plus dur!
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:aaron|Aaron (Aaron)]]**
@@ -15,15 +13,12 @@ Moïse et son frère Aaron se rendirent auprès de Pharaon. Ils lui dirent, “V
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
-
-  * **[[:fr:obe:other/moses]]**
-  * **[[:fr:obe:other/aaron]]**
-  * **[[:fr:obe:other/pharaoh]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/israel]]**
-
-
+  * **[[:fr:obe:other:moses|Moses]]**
+  * **[[:fr:obe:other:aaron|Aaron F]]**
+  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
   * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
@@ -33,12 +28,11 @@ Moïse et son frère Aaron se rendirent auprès de Pharaon. Ils lui dirent, “V
   * **listen to**  – This could be translated as "heed" or, "obey."
 ===== Notes de Traduction: =====
 
-  * **auprès de Pharaon** - Il peut être plus clair de dire, "au palais de Pharaon lui parler."
-  * **Dieu d'Israël** - ce qui pourrait être traduit par "Dieu, qui a choisi les Israélites de son people", ou "Dieu, qui gouverne le peuple d'Israël", ou "le Dieu que le culte d'Israël."
-  * **Laisse partir mon peuple** - Une autre façon de dire que ce serait, "permettre à mes gens d'aller libre" ou "Libérez mon peuple de quitter l'Egypte."
-  * **mon people** - Voir "mon people" dans **[[:fr:obs:notes:frames:09-13|[09-13]]]**.
-  * **ne les entendit pas** - Cela pourrait être traduit par "garde" ou "obéir."
-
+  * **auprès de Pharaon**  - Il peut être plus clair de dire, "au palais de Pharaon lui parler."
+  * **Dieu d'Israël**  - ce qui pourrait être traduit par "Dieu, qui a choisi les Israélites de son people", ou "Dieu, qui gouverne le peuple d'Israël", ou "le Dieu que le culte d'Israël."
+  * **Laisse partir mon peuple**  - Une autre façon de dire que ce serait, "permettre à mes gens d'aller libre" ou "Libérez mon peuple de quitter l'Egypte."
+  * **mon people**  - Voir "mon peuple" dans **[[:fr:obs:notes:frames:09-13|[09-13]]]**.
+  * **ne les entendit pas**  - Cela pourrait être traduit par "garde" ou "obéit."
 **[[:fr:obs:notes:frames:09-15|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-02|>>]]**
 
 ~~DISCUSSION~~
