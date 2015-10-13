@@ -13,6 +13,7 @@
   * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
+
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:kt:yahweh|Yahweh]]**
