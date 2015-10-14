@@ -2,18 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Facts: =====
+===== Les Faits: =====
 
-Absalom was the third son of King David. He was known for his handsome appearance and fiery temperament.
+Absalom était le troisi ème fils du roi D avid.Il était renomm é pour sa belle apparence et un temp érament furieux
 
   * When Absalom's sister Tamar was raped by their half-brother, Amnon, Absalom made a plan to have Amnon killed.
+  * Quand la soeur d'Absalom a été violée par son demi-frère,Amnon, Absalom a élaboré un plan pour le tuer.
   * After the murder of Amnon, Absalom fled to the region of Geshur (where his mother Maacah was from) and stayed there three years. Then King David sent for him to come back to Jerusalem, but did not allow Absalom to come into his presence for two years.
   * Absalom turned some of the people against King David and led a revolt against him.
+  * Après le meurtre d'Amnon,Absalom s'est enfui dans la région de Guechour (où sa mère était née)et y est resté trois ans. Puis le roi David le fit revenir à Jérusalem,mais a refusé de le voir pendant deux ans.
   * David's army fought against Absalom and killed him. David was very grieved when this happened.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[geshur]], [[amnon]])
+(See also: [[:fr:obe:other:geshur|Geshur]], [[:fr:obe:other:amnon|Amnon]])
 
 ===== Bible References: =====
 
