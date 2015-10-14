@@ -2,18 +2,23 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Définition: =====
 
-In ancient times, the acacia was a common shrub or tree growing in the land of Canaan; it is still plentiful there today.
+Autrefois, l'acacia était un buisson ou un arbre très commun et poussant dans le pays de Canaan; il est encore très répandu aujourd'hui.
 
-  * The orange-brown wood of the acacia tree is very hard and durable, making it a useful material for building things.
-  * This wood is highly resistant to decay because it is very dense so that it keeps out water, and it has natural preservatives that keep insects from destroying it.
-  * In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.
-  * Based on the Hebrew word for this tree, the KJV uses the terms "shittah tree" and "shittim wood," rather than acacia.
+Le bois brun- orange de l'acacia est très dur et résistant, ce qui le rend très utile pour construire des choses.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ce bois est très résistant à la détérioration car il est très dense et empêche l'eau de le pènétrer, et il a des propriétés naturelles qui empêchent les insectes de le détruire.
 
-(See also: [[:fr:obe:kt:tabernacle]], [[:fr:obe:other:arkofthecovenant]])
+  * dans la Bible, le bois d'acacia  était utilisé pour construire le tabernacle et l'arc de l'alliance.
+
+.
+
+  * D'après le mot  hébreu de cet arbre, la version KVJ  emploie les expressions "shittah arbre", et "shittim" plutôt qu'acacia.
+
+(Voir:Traduire les mots inconnus - Manuel de l'Académie de Traduction )
+
+(voir aussi: [[:fr:obe:kt:tabernacle|tabernacle]], [[:fr:obe:other:arkofthecovenant|arc de l'alliance]]).
 
 ===== Bible References: =====
 
