@@ -15,15 +15,8 @@ Un abyss ou gouffre est un immense trou ou une crevasse sans fonds.
  Luc: 30-31
 </code>
 
-===== Bible References: =====
+=====   =====
 
-
-{{topic>:en:bible?abyss&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?abyss&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
