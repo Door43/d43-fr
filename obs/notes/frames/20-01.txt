@@ -8,7 +8,6 @@ Le royaume d'Israël et le royaume de Juda avaient péché contre Dieu. Ils avai
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (royaume d'Israël)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (royaume de Juda)]]**
   * **[[:fr:obs:notes:key-terms:sin|sinned (péché)]]**
@@ -19,18 +18,16 @@ Le royaume d'Israël et le royaume de Juda avaient péché contre Dieu. Ils avai
   * **[[:fr:obs:notes:key-terms:repent|repent (repentir)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
-
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/kingdomofjudah]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/covenant]]**
-  * **[[:fr:obe:other/sinai]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/repent]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:other/obey]]**
-
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]] **
+  * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:covenant|covenant]]**
+  * **[[:fr:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:repent|repent, repentance]]**
+  * **[[:fr:obe:kt:worship|worship]]**
+  * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
 
 ==== Translation Notes: ====
 
