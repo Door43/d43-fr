@@ -14,12 +14,12 @@ Le royaume d'Israël et le royaume de Juda avaient péché contre Dieu. Ils avai
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:covenant|covenant (alliance)]]**
   * **[[:fr:obs:notes:key-terms:sinai|Sinai (Sinaï)]]**
-  * **[[:fr:obs:notes:key-terms:prophet|prophets (prophètes)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:repent|repent (se repentir)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
   *
-  * ****[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]** **
+  * [[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]
   * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
   * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
   * **[[:fr:obe:kt:god|God]]**
