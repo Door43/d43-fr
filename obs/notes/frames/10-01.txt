@@ -1,4 +1,5 @@
-===== Let My People Go! [10-01] =====
+===== Let My People Go! [10-01]
+Laisse partir mon peuple!  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
@@ -13,6 +14,7 @@
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
+
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:other:aaron|Aaron F]]**
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
