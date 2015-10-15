@@ -1,4 +1,5 @@
 ===== Pharaoh Refused to Obey [10-02] =====
+===== Pharaon Refusa d'obéir    =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
@@ -11,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
+
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
@@ -23,8 +25,8 @@
 ===== Notes de Traduction: =====
 
   * **les Israélites**  - Il s'agit du peuple d'Israël, aussi appelé, "les Israélites."
-  * **dix plaies terribles**  - La peste est quelque chose de très mauvais ou terrible qui arrive à quelqu'un ou quelque chose. La peste se réfère généralement à quelque chose qui touche de nombreuses personnes ou arrive sur une grande zone géographique. Un autre mot pour "peste" serait "catastrophe".
-  * **tous les dieux d'Égypte**  - Il peut être plus clair dire "tous les dieux que le peuple égyptien adorèrent." Les habitants de l'Egypte adoraient de nombreux faux dieux. Ces faux dieux étaient des êtres spirituels que soit le Dieu d'Israël créé, ou ils n'existaient pas réellement.
+  * **dix plaies terribles**  - La peste est quelque chose de très mauvais ou terrible qui arrive à quelqu'un ou à quelque chose. La peste se réfère généralement à quelque chose qui touche de nombreuses personnes ou arrive sur une grande zone géographique. Un autre mot pour "peste" serait "catastrophe".
+  * **tous les dieux d'Égypte**  - Il peut être plus clair de dire "tous les dieux que le peuple égyptien adorèrent." Les habitants de l'Egypte adoraient de nombreux faux dieux. Ces faux dieux étaient des êtres spirituels que soit le Dieu d'Israël créé, ou ils n'existaient pas réellement.
 **[[:fr:obs:notes:frames:10-01|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-03|>>]]**
 
 ~~DISCUSSION~~
