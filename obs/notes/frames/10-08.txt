@@ -1,4 +1,5 @@
 ===== The Hail [10-08] =====
+===== La Grêle   =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
@@ -35,7 +36,7 @@
 ===== Notes de Traduction: =====
   * **Après cela** - Cela signifie, après Dieu fit les plaies douloureuses apparaissent sur la peau des Egyptiens.
   * **Dieu envoya de la grêle** - Dieu fit tomber la grêle du ciel.
-  * **grêle** - Hail est comme des morceaux de glace qui tombent du ciel comme la pluie fait. Ces morceaux peuvent être très petites ou très grandes. Les plus grands seront blesser ou de tuer tout ce qu'ils tombent sur.
+  * **grêle** - La grêle se compose des morceaux de glace qui tombent du ciel comme la pluie fait. Ces morceaux peuvent être très petites ou très grandes. Les plus grandes peuvent blesser ou tuer tout sur lequel elles tombent.
   * **Vous pouvez sortir** - Le mot "vous" fait référence à Moïse, Aaron, et les Israélites.
 
 **[[:fr:obs:notes:frames:10-07|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-09|>>]]**
