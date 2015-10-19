@@ -1,27 +1,24 @@
-===== Saved by the Blood [11-05] =====
+===== Saved by the Blood [11-05 =====
+
+===== Sauvé par le Sang =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink&}}
 
 All the houses of the **Israelites** had **blood** around the doors, so **God passed over** those houses. Everybody inside them was safe. **They were saved because of the lamb's blood**.
 
 Toutes les maisons des **Israélites** eurent **du sang** autour de leurs portes, donc **Dieu passa par-dessus** ces maisons et toutes les personnes qui se trouvaient à l'intérieur furent sauvées. **Elles furent sauvées par le sang de l'agneau**.
-
 ===== Important Terms: =====
-
 
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:blood|blood (le sang)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:save|saved (sauver/délivrer)]]**
   * **[[:fr:obs:notes:key-terms:lamb|lamb's (agneau)]]**
-
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/blood]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/save]]**
-  * **[[:fr:obe:kt/lamb]]**
-
-
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:blood|blood]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:save|save]]**
+  * **[[:fr:obe:kt:lamb|lamb, Lamb of God]]**
 ==== Translation Notes: ====
 
   * **passed over**  - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
@@ -29,10 +26,9 @@ Toutes les maisons des **Israélites** eurent **du sang** autour de leurs portes
   * **because of the lamb's blood**  - This could be translated as, "because the lamb's blood was on their door." God saw that they had killed their lamb as he had commanded, so he did not kill their son.
 ===== Notes de Traduction: =====
 
-  * **passa par-dessus** - Cela signifie que Dieu adoptée par ces maisons et n'a pas arrêté de tuer ne importe qui là-bas. Cette phrase est devenu le nom de la fête juive, "Pâque".
-  * **Elles furent sauvées** - Dieu n'a pas tué leur fils premier-né.
-  * **par le sang de l'agneau** - Cela pourrait être traduit comme "parce que le sang de l'agneau était à leur porte." Dieu vit qu'ils avaient tué leur agneau comme il l'avait commandé, de sorte qu'il n'a pas tué leur fils.
-
+  * **passa par-dessus**  - Cela signifie que Dieu s'est passé devant ces maisons et ne s'est pas arrêté pour tuer ce qu'il n'importe à qui soit là-bas. Cette phrase est devenu le nom de la fête juive, "la Pâque".
+  * **Elles furent sauvées**  - Dieu n'a pas tué leur fils premier-né.
+  * **par le sang de l'agneau**  - Cela pourrait être traduit comme "parce que le sang de l'agneau était à leur porte." Dieu vit qu'ils avaient tué leur agneau comme il l'avait commandé, de sorte qu'il n'a pas tué leur fils.
 **[[:fr:obs:notes:frames:11-04|<<]] | [[:fr:obs:notes:11|Up]] | [[:fr:obs:notes:frames:11-06|>>]]**
 
 ~~DISCUSSION~~
