@@ -6,8 +6,7 @@
 
 Dieu promit à Abraham que, par son biais, tous les peuples du monde recevraient une bénédiction. Cette bénédiction serait accomplie quand le Messie viendrait plus tard. Il donnerait la possibilité à tous les peuples du monde d'être sauvés.
 
-===== Important Terms: =====
-
+===== Important Terms Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
@@ -16,15 +15,13 @@ Dieu promit à Abraham que, par son biais, tous les peuples du monde recevraient
   * **[[:fr:obs:notes:key-terms:fulfill|fulfilled (accomplir)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:save|saved (sauver/déivrer)]]**
-
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:other/abraham]]**
-  * **[[:fr:obe:other/peoplegroup]]**
-  * **[[:fr:obe:kt/bless]]**
-  * **[[:fr:obe:kt/fulfill]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:kt/save]]**
-
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
+  * **[[:fr:obe:other:peoplegroup|people group, people]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:fr:obe:kt:fulfill|fulfill]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:kt:save|save]]**
 
 ==== Translation Notes: ====
 
