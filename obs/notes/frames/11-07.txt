@@ -1,6 +1,6 @@
 ===== Sorrow in Egypt [11-07] =====
 
-===== La Tristesse en Egypte =====
+===== La Tristesse en Egypte [11-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink&}}
 
@@ -13,6 +13,7 @@ Tous les premiers-nés Égyptiens moururent, depuis le premier-né du captif dan
   * **[[:fr:obs:notes:key-terms:egypt|Egyptian (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
+
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
