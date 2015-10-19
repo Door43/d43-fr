@@ -1,6 +1,6 @@
 ===== Saved by the Blood [11-05] =====
 
-===== Sauvé par le Sang =====
+===== Sauvé par le Sang [11-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?nolink&}}
 
@@ -14,6 +14,7 @@ Toutes les maisons des **Israélites** eurent **du sang** autour de leurs portes
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:save|saved (sauver/délivrer)]]**
   * **[[:fr:obs:notes:key-terms:lamb|lamb's (agneau)]]**
+
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
   * **[[:fr:obe:kt:blood|blood]]**
   * **[[:fr:obe:kt:god|God]]**
