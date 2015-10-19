@@ -1,4 +1,5 @@
-===== The King of Judah Was Punished [20-08]  =====
+===== The King of Judah Was Punished [20-08] =====
+
 ===== Le Roi de Juda a étė puni [20-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?nolink&}}
@@ -9,22 +10,18 @@ Pour punir le roi de Juda pour s'être révolté, les soldats de Nebucadnetsar t
 
 ===== Important Terms-Termes Importants: =====
 
-
   * **[[:fr:obs:notes:key-terms:punish|punish (punir)]]**
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-judah|Judah (royaume de Juda)]]**
   * **[[:fr:obs:notes:key-terms:nebuchadnezzar|Nebuchadnezzar's (Nébucadnetsar)]]**
   * **[[:fr:obs:notes:key-terms:son|sons (fils)]]**
   * **[[:fr:obs:notes:key-terms:babylon|Babylon (Babylone)]]**
-
-  * **[[:fr:obe:other/punish]]**
-  * **[[:fr:obe:other/king]]**
-  * **[[:fr:obe:other/judah]]**
-  * **[[:fr:obe:other/nebuchadnezzar]]**
-  * **[[:fr:obe:kt/son]]**
-  * **[[:fr:obe:other/babylon]]**
-
-
+  * **[[:fr:obe:other:punish|punish, punishment]]**
+  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:judah|Judah]]**
+  * **[[:fr:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
+  * **[[:fr:obe:kt:son|son]]**
+  * **[[:fr:obe:other:babylon|Babylon, Babylonian]]**
 ==== Translation Notes: ====
 
   * **To punish**  - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
@@ -32,10 +29,9 @@ Pour punir le roi de Juda pour s'être révolté, les soldats de Nebucadnetsar t
   * **made him blind**  - This may also be translated as, "destroyed his eyes."
 ===== Notes de Traduction: =====
 
-  * **Pour punir** - Nébucadnetsar punit le roi de Juda en disant à ses soldats de faire ces choses.
-  * **devant lui** - ce qui peut être traduit comme, "où il pouvait voir," ou, "afin qu'il puisse voir," ou "devant ses yeux."
-  * **le rendirent aveugle** - Cela peut aussi être traduit par "ont détruit ses yeux."
-
+  * **Pour punir**  - Nébucadnetsar punit le roi de Juda en disant à ses soldats de faire ces choses.
+  * **devant lui**  - ce qui peut être traduit comme, "où il pouvait voir," ou, "afin qu'il puisse voir," ou "devant ses yeux."
+  * **le rendirent aveugle**  - Cela peut aussi être traduit par "ont crevé ses yeux."
 **[[:fr:obs:notes:frames:20-07|<<]] | [[:fr:obs:notes:20|Up]] | [[:fr:obs:notes:frames:20-09|>>]]**
 
 ~~DISCUSSION~~
