@@ -6,8 +6,7 @@ Through the **prophet Jeremiah**, **God promised** that he would make a **New Co
 
 A travers le prophète Jérémie, Dieu promit qu'Il ferait une Alliance Nouvelle, mais pas comme celle qu'il avait faite avec Israël au Mont Sinaï. Dans cette Alliance Nouvelle, Dieu écrirait ses lois dans le cœur des gens, et ils connaitraient Dieu personnellement. Ils seraient son peuple, et Dieu leur pardonnerait leurs péchés. Le Messie serait le début de l'Alliance Nouvelle.
 
-===== Important Terms: =====
-
+===== Important Terms Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:jeremiah|Jeremiah (Jérémie)]]**
@@ -20,18 +19,16 @@ A travers le prophète Jérémie, Dieu promit qu'Il ferait une Alliance Nouvelle
   * **[[:fr:obs:notes:key-terms:forgive|forgive (pardonner)]]**
   * **[[:fr:obs:notes:key-terms:sin|sins (péché)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
-
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/jeremiah]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/promise]]**
-  * **[[:fr:obe:kt/covenant]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/sinai]]**
-  * **[[:fr:obe:kt/forgive]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/christ]]**
-
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:jeremiah|Jeremiah]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:promise|promise]]**
+  * **[[:fr:obe:kt:covenant|covenant]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:fr:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
 
 ==== Translation Notes: ====
 
