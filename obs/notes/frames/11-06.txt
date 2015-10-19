@@ -1,4 +1,5 @@
 ===== Death of the Firstborn [11-06] =====
+===== Mort des premiers-nés [11-06]  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink&}}
 
@@ -11,6 +12,7 @@ Mais les Égyptiens ne crurent pas en Dieu et ils n'obéirent pas à ses command
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:believe|believe (croire)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
   * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
   * **[[:fr:obe:kt:god|God]]**
