@@ -6,7 +6,7 @@ Even though **God punished** his people for their **sin** by taking them away in
 
 Même si Dieu punit son peuple pour leur péché en les emmenant en exil, Dieu n'oublia pas son peuple ou ses promesses. Dieu continua à veiller sur son peuple et à lui parler à travers Ses prophètes. Il promit qu'après 70 ans, son peuple retournerait dans la Terre Promise.
 
-===== Important Terms: =====
+===== Important Terms Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:punish|punished (punir)]]**
@@ -20,6 +20,7 @@ Même si Dieu punit son peuple pour leur péché en les emmenant en exil, Dieu n
   * **[[:fr:obe:kt:promise|promise]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
   * **[[:fr:obe:kt:promisedland|Promised Land]]**
+
 ==== Translation Notes: ====
 
   * **exile**  - See how you translated this term in **[[:fr:obs:notes:frames:20-09|[20-09]]]**.
