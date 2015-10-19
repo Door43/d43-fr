@@ -8,25 +8,20 @@ Mais les Égyptiens ne crurent pas en Dieu et ils n'obéirent pas à ses command
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:believe|believe (croire)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:kt/God]]**
-
-
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:fr:obe:kt:god|God]]**
 ==== Translation Notes: ====
 
   * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
   * **did not pass over**  - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
 ===== Notes de Traduction: =====
 
-  * **ne crurent pas en Dieu et ils n'obéirent pas à ses commandements** - Dans certaines langues, il peut être plus naturel et évident de dire, "ne pas croire Dieu et donc ils ne ont pas obéi à ses ordres."
-  * **ne passa pas par-dessus** - Il ne est pas passé par leurs maisons. Au contraire, il se est arrêté à chaque maison et tué leur fils aîné.
-
+  * **ne crurent pas en Dieu et ils n'obéirent pas à ses commandements**  - Dans certaines langues, il peut être plus naturel et évident de dire, "ne pas croire Dieu et donc ils n'ont pas obéi à ses ordres."
+  * **ne passa pas par-dessus**  - Il ne s'est pas passé par leurs maisons. Au contraire, il s'est arrêté à chaque maison et a tué leur fils aîné.
 **[[:fr:obs:notes:frames:11-05|<<]] | [[:fr:obs:notes:11|Up]] | [[:fr:obs:notes:frames:11-07|>>]]**
 
 ~~DISCUSSION~~
