@@ -6,8 +6,7 @@
 
 Depuis le tout début, Dieua prévu d'envoyer le Messie. La première promesse concernant l'arrivée du Messie fut faite à Adam et Eve. Dieu promit qu'un descendant, capable d'écraser la tête du serpent, naitrait d'Eve. Le serpent, qui déçut Eve, était Satan. La promesse fût que le Messie vaincrait Satan complètement.
 
-===== Important Terms: =====
-
+===== Important Terms  Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
@@ -16,15 +15,13 @@ Depuis le tout début, Dieua prévu d'envoyer le Messie. La première promesse c
   * **[[:fr:obs:notes:key-terms:eve|Eve (Eve)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendant (descendant)]]**
   * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
-
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:kt/promise]]**
-  * **[[:fr:obe:other/adam]]**
-  * **[[:fr:obe:other/eve]]**
-  * **[[:fr:obe:other/descendant]]**
-  * **[[:fr:obe:kt/satan]]**
-
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:kt:promise|promise]]**
+  * **[[:fr:obe:other:adam|Adam Adam - F]]**
+  * **[[:fr:obe:other:eve|Eve]]**
+  * **[[:fr:obe:other:descendant|descendant]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
 
 ==== Translation Notes: ====
 
