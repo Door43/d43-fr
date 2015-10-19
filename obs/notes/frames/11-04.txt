@@ -1,6 +1,6 @@
 ===== The Passover Meal [11-04] =====
 
-===== La Pâque juive =====
+===== La Pâque juive [11-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink&}}
 
@@ -13,6 +13,7 @@ Les Israélites firent exactement ce que Dieu leur avait ordonné. Dans la nuit,
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
+
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
