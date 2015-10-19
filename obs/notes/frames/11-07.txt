@@ -1,5 +1,7 @@
 ===== Sorrow in Egypt [11-07] =====
 
+===== La Tristesse en Egypte =====
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink&}}
 
 Every **Egyptian** firstborn male died, **from the firstborn of the prisoner in jail**, **to the firstborn of Pharaoh**. Many people in **Egypt** were crying and wailing because of their deep sadness.
@@ -8,23 +10,18 @@ Tous les premiers-nés Égyptiens moururent, depuis le premier-né du captif dan
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:egypt|Egyptian (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
-
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:other/pharaoh]]**
-  * **[[:fr:obe:other/egypt]]**
-
-
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
 
   * **from the firstborn of the prisoner in jail, to the firstborn of Pharaoh**  - This is a way of saying that everyone's firstborn son died–from the son of the least important person to the son of the most important person, and everyone in between.
 ===== Notes de Traduction: =====
 
-  * **depuis le premier-né du captif dans sa prison jusqu'au premier-né du Pharaon** - Ce est une façon de dire que le fils premier-né de tout le monde est mort-du fils de la personne la moins importante au fils de la personne la plus importante, et tout le monde entre les deux.
-
+  * **depuis le premier-né du captif dans sa prison jusqu'au premier-né du Pharaon**  - Voici une façon de dire que le fils premier-né de tout le monde est mort--du fils de la personne la moins importante au fils de la personne la plus importante, et tout le monde entre les deux.
 **[[:fr:obs:notes:frames:11-06|<<]] | [[:fr:obs:notes:11|Up]] | [[:fr:obs:notes:frames:11-08|>>]]**
 
 ~~DISCUSSION~~
