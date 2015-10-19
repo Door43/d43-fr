@@ -6,21 +6,18 @@
 
 Les prophètes de Dieu dirent aussi que le Messie qui arriverait serait un prophète, un prêtre, et un roi. Un prophète est une personne qui entend la parole de Dieu et ensuite la proclame au peuple. Le Messie que Dieu promit d'envoyer serait le prophète sans défaut.
 
-===== Important Terms: =====
-
+===== Important Terms Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:god|God's (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:priest|priest (sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
-
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:kt/priest]]**
-  * **[[:fr:obe:other/king]]**
-
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:kt:priest|priest, priesthood]]**
+  * **[[:fr:obe:other:king|king]]**
 
 ==== Translation Notes: ====
 
