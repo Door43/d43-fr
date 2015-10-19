@@ -1,5 +1,7 @@
 ===== Israel Left Egypt [12-01] =====
 
+===== Israël quitta l'Egypte =====
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&}}
 
 The **Israelites** were very happy to leave **Egypt**. **They were no longer slaves**, and they were **going** to the **Promised Land**! The **Egyptians** gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations **believed** in **God** and went along with the Israelites as they left Egypt.
@@ -8,7 +10,6 @@ Les Israélites étaient très heureux de quitter l'Égypte. Ils n'étaient plus
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israë)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:servant|slaves (serviteur)]]**
@@ -16,16 +17,13 @@ Les Israélites étaient très heureux de quitter l'Égypte. Ils n'étaient plus
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:believe|believed (croire)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:other/servant]]**
-  * **[[:fr:obe:kt/promisedland]]**
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:kt/God]]**
-
-
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:servant|servant, slave, slavery]]**
+  * **[[:fr:obe:kt:promisedland|Promised Land]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:fr:obe:kt:god|God]]**
 ==== Translation Notes: ====
 
   * **They were no longer slaves**  - This could be translated as, "They were not slaves anymore."
@@ -33,10 +31,9 @@ Les Israélites étaient très heureux de quitter l'Égypte. Ils n'étaient plus
   * **Promised Land**  - This is the land that God had promised that he would give to Abraham's descendants.
 ===== Notes de Traduction: =====
 
-  * **Ils n'étaient plus esclaves** - Cela pourrait être traduit comme, "Ils ne étaient pas plus esclaves."
-  * **cheminèrent** - Certaines langues peuvent utiliser un mot plus spécifiques comme "voyage", car ils seraient vont une longue distance à la Terre Promise.
-  * **Terre Promise** - Ce est la terre que Dieu avait promis qu'il donnerait aux descendants d'Abraham.
-
+  * **Ils n'étaient plus esclaves**  - Cela pourrait être traduit comme, "Ils n'étaient plus des esclaves."
+  * **cheminèrent**  - Certaines langues peuvent utiliser un mot plus spécifiques comme "voyage," car ils seraient vont une longue distance à la Terre Promise.
+  * **Terre Promise**  - Ce est la terre que Dieu avait promis qu'il donnerait aux descendants d'Abraham.
 **[[:fr:obs:notes:frames:11-08|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:12-02|>>]]**
 
 ~~DISCUSSION~~
