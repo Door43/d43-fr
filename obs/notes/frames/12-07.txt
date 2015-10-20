@@ -1,4 +1,5 @@
 ===== Moses Divided the Sea [12-07] =====
+===== Moïse divisa la mer [12-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-07.jpg?nolink&}}
 
@@ -23,7 +24,7 @@ Dieu dit à Moïse d'étendre sa main sur la mer pour diviser l'eau. Puis Dieu f
 
 ===== Notes de Traduction: ====
 
-  * **étendre sa main sur la mer** - 
+  * **étendre sa main sur la mer** - Cette expression peut se traduit comme, "tendre sa main sur la mer." C'était une geste pour indiquer que Dieu faisait ce miracle à travers Moïse.
 
 
 **[[:fr:obs:notes:frames:12-06|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:12-08|>>]]**
