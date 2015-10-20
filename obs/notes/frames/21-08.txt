@@ -6,21 +6,18 @@ A **king** is someone who rules over a **kingdom** and **judges** the people. Th
 
 Un roi est quelqu'un qui gouverne un royaume et juge les gens. Le Messie serait le roi parfait qui serait assis sur le trône de David, son ancêtre. Il régnerait éternellement sur le monde, jugerait toujours honnêtement et prendrait des décisions justes.
 
-===== Important Terms: =====
-
+===== Important Terms Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
   * **[[:fr:obs:notes:key-terms:kingdom|kingdom (royaume)]]**
   * **[[:fr:obs:notes:key-terms:judge|judges (juger)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
-
-  * **[[:fr:obe:other/king]]**
-  * **[[:fr:obe:other/kingdom]]**
-  * **[[:fr:obe:kt/judge]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:other/david]]**
-
+  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:kingdom|kingdom]]**
+  * **[[:fr:obe:kt:judge|judge, judgment]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:other:david|David]]**
 
 ==== Translation Notes: ====
 
