@@ -6,16 +6,14 @@
 
 Dieu montra beaucoup de choses aux prophètes concernant l'arrivée du Messie, mais le Messie ne vint durant l'existence d'aucun de ces prophètes. Plus de 400 ans après que la dernière de ces prophéties fut faite, au moment parfait, Dieu envoya le Messie dans le monde.
 
-===== Important Terms: =====
-
+===== Important Terms  Termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
-
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/christ]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
 
 ==== Translation Notes: ====
 
