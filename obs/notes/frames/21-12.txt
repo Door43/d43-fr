@@ -6,21 +6,18 @@ The **prophets** also told about how the **Messiah** would **die**. **Isaiah pro
 
 Les prophètes prédirent aussi la manière dont le Messie mourrait. Isaïe prédit que les gens lui cracheraient dessus, se moqueraient de lui, et le battraient. Puis il serait transpercé et mourrait en souffrant et d'une lente agonie, alors qu'il n'avait rien fait de mal.
 
-===== Important Terms: =====
-
+===== Important Terms Termes Importants  =====
 
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
   * **[[:fr:obs:notes:key-terms:isaiah|Isaiah (Esaïe)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophesied(prophétiser)]]**
-
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:kt/death]]**
-  * **[[:fr:obe:other/isaiah]]**
-  * **[[:fr:obe:kt/prophet]]**
-
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:kt:death|death, die, dead]]**
+  * **[[:fr:obe:other:isaiah|Isaiah]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 
 ==== Translation Notes: ====
 
