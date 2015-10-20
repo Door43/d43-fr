@@ -6,8 +6,7 @@ The **prophets** also said that the **Messiah** would be perfect, **having no si
 
 Les prophètes dirent aussi que le Messie serait parfait, n'ayant aucun péché. Il mourrait pour recevoir la punition des péchés des autres. Sa punition apporterait la paix entre Dieu et le peuple. C'est pour cela que le sacrifice du Messie fut la volonté de Dieu.
 
-===== Important Terms: =====
-
+===== Important Terms termes Importants: =====
 
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
@@ -17,16 +16,14 @@ Les prophètes dirent aussi que le Messie serait parfait, n'ayant aucun péché.
   * **[[:fr:obs:notes:key-terms:punish|punishment (punir)]]**
   * **[[:fr:obs:notes:key-terms:peace|peace (paix)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/death]]**
-  * **[[:fr:obe:kt/receive]]**
-  * **[[:fr:obe:other/punish]]**
-  * **[[:fr:obe:other/peace]]**
-  * **[[:fr:obe:kt/god]]**
-
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:fr:obe:kt:death|death, die, dead]]**
+  * **[[:fr:obe:kt:receive|receive]]**
+  * **[[:fr:obe:other:punish|punish, punishment]]**
+  * **[[:fr:obe:other:peace|peace, peaceful]]**
+  * **[[:fr:obe:kt:god|God]]**
 
 ==== Translation Notes: ====
 
