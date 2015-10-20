@@ -1,4 +1,5 @@
 ===== Israel Crossed the Sea [12-08] =====
+===== Israël traversa la mer [12-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-08.jpg?nolink&}}
 
@@ -22,8 +23,8 @@ Les Israélites marchèrent dans la mer à sec, avec les eaux formant une murail
 
 ===== Notes de Traduction: ====
 
-  * **marchèrent** - 
-  * **avec les eaux formant une muraille des deux cotés** - 
+  * **marchèrent** - Ce mot peut se traduire comme "se promenèrent" ou "allèrent."
+  * **avec les eaux formant une muraille des deux cotés** - Cette expression peut se traduire comme, "et les eaux à tous les deux côtés d'eux se levèrent largement et bien droit comme un mur."
 
 
 **[[:fr:obs:notes:frames:12-07|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:12-09|>>]]**
