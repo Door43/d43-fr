@@ -6,16 +6,14 @@ Soon after the **angel** spoke to **Mary**, she went and visited **Elizabeth**. 
 
 Après que l'ange ait parlé à Marie, elle alla rendre visite à Elisabeth. Aussitôt qu'Elisabeth entendit la salutation de Marie, son enfant tressaillit dans son sein. Les deux femmes se réjouirent de ce que Dieu avait fait pour elles. Marie demeura avec Elisabeth pendant trois mois. Puis elle retourna chez elle.
 
-===== Important Terms: =====
+===== Important Terms  Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
-  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-
-  * **[[:fr:obe:kt/angel]]**
-  * **[[:fr:obe:other/mary]]**
-  * **[[:fr:obe:kt/god]]**
-
+  * **[[:fr:obs:notes:key-terms:angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:angel|angel]]**
+  * **[[:fr:obe:other:mary|Mary]]**
+  * **[[:fr:obe:kt:god|God]]**
 
 ===== Translation Notes: =====
 
