@@ -1,4 +1,4 @@
-===== The Virgin Birth  Né d'une vierge [21-09] =====
+===== The Virgin Birth Né d'une vierge [21-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?nolink&}}
 
@@ -8,7 +8,6 @@ Les prophètes de Dieu prédirent beaucoup de choses au sujet du Messie. Le prop
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God's (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
@@ -16,16 +15,13 @@ Les prophètes de Dieu prédirent beaucoup de choses au sujet du Messie. Le prop
   * **[[:fr:obs:notes:key-terms:prophet|prophesied (prophétiser)]]**
   * **[[:fr:obs:notes:key-terms:virgin|virgin (vierge)]]**
   * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Bethléhem)]]**
-
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:other/isaiah]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/virgin]]**
-  * **[[:fr:obe:other/bethlehem]]**
-
-
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:other:isaiah|Isaiah]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:virgin|virgin]]**
+  * **[[:fr:obe:other:bethlehem|Bethlehem]]**
 ==== Translation Notes: ====
 
   * **Malachi**  - Malachi was the last prophet in the Old Testament.
@@ -35,12 +31,11 @@ Les prophètes de Dieu prédirent beaucoup de choses au sujet du Messie. Le prop
   * **Micah**  - Micah was an Old Testament prophet of God who, like Isaiah, spoke his messages from God almost 800 years before the Messiah came.
 ===== Notes de Traduction: =====
 
-  * **Malachie** - Malachie était le dernier prophète de l'Ancien Testament.
-  * **Prédit** - Cela pourrait être traduit comme "prédit" ou "prophétisé". Cela signifie de dire quelque chose qui va se passer dans l'avenir. Malachie a parlé le message de Dieu au peuple 400 années avant la venue du Messie.
-  * **Prophétisé** - Dans ce contexte, "prophétisé" a le même sens que "prédit" et "prédit", car cela signifie que le prophète a dit quelque chose qui se passerait dans un avenir lointain.
-  * **Le Messie serait né d'une vierge** - Une autre façon de dire que ce serait "une vierge donnerait naissance au Messie."
-  * **Micah** - Micah était un vieux prophète Testament de Dieu qui, comme Isaïe, a parlé de ses messages de Dieu près de 800 ans avant l'arrivée du Messie.
-
+  * **Malachie**  - Malachie était le dernier prophète de l'Ancien Testament.
+  * **Prédit**  - Cela pourrait être traduit comme "prédit" ou "prophétisé". Cela signifie de dire quelque chose qui va se passer dans l'avenir. Malachie a parlé le message de Dieu au peuple 400 années avant la venue du Messie.
+  * **Prophétisé**  - Dans ce contexte, "prophétisé" a le même sens que "prédit" et "prédit", car cela signifie que le prophète a dit quelque chose qui se passerait dans un avenir lointain.
+  * **Le Messie serait né d'une vierge**  - Une autre façon de dire que ce serait "une vierge donnerait naissance au Messie."
+  * **Micah**  - Micah était un vieux prophète Testament de Dieu qui, comme Isaïe, a parlé de ses messages de Dieu près de 800 ans avant l'arrivée du Messie.
 **[[:fr:obs:notes:frames:21-08|<<]] | [[:fr:obs:notes:21|Up]] | [[:fr:obs:notes:frames:21-10|>>]]**
 
 ~~DISCUSSION~~
