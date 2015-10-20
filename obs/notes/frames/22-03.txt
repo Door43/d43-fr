@@ -6,18 +6,16 @@ The **angel** responded to Zechariah, “I was sent by **God** to bring you this
 
 L'ange répondit à Zacharie, “J'ai été envoyé par Dieu pour t'annoncer cette bonne nouvelle. Parce que tu ne m'as pas cru, tu ne pourras parler que le jour de la naissance de l'enfant.” Immédiatement, Zacharie ne put plus parler. Puis l'ange quitta Zacharie. Après cela, Zacharie rentra chez lui, et sa femme tomba enceinte.
 
-===== Important Terms: =====
+===== Important Terms Importants Termes: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
-  * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah (Zacharie)]]**
-
-  * **[[:fr:obe:kt/angel]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:other/zechariah]]**
-
+  * **[[:fr:obs:notes:key-terms:angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:believe|believe (croire)]]**
+  * **[[:fr:obs:notes:key-terms:zechariah-nt|Zechariah (Zacharie)]]**
+  * **[[:fr:obe:kt:angel|angel]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:fr:obe:other:zechariah|Zechariah (OT)]]**
 
 ===== Translation Notes: =====
 
