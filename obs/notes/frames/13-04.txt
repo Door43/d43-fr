@@ -8,7 +8,6 @@ Puis Dieu leur donna l'alliance et leur dit, “Je suis Yaweh, votre Dieu, qui v
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:covenant|covenant (alliance)]]**
   * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
@@ -18,6 +17,7 @@ Puis Dieu leur donna l'alliance et leur dit, “Je suis Yaweh, votre Dieu, qui v
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/covenant]]**
   * **[[:fr:obe:kt/yahweh]]**
