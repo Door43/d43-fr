@@ -6,14 +6,12 @@ So **Joseph** married **Mary** and took her home as his wife, but **he did not s
 
 Alors Joseph prit Marie pour femme, mais il ne la connut qu'après la naissance de l'enfant.
 
-===== Important Terms: =====
+===== Important Terms termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph (Joseph)]]**
-  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
-
-  * **[[:fr:obe:other/josephnt]]**
-  * **[[:fr:obe:other/mary]]**
-
+  * **[[:fr:obs:notes:key-terms:joseph-nt|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
+  * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
+  * **[[:fr:obe:other:mary|Mary]]**
 
 ===== Translation Notes: =====
 
