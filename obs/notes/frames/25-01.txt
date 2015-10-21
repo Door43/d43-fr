@@ -6,24 +6,22 @@ Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out in
 
 Aussitôt que Jésus fut baptisé, le Saint-Esprit lui montra le chemin vers une région sauvage, où il jeûna pendant quarante jours et quarante nuits. Puis, Satan vint vers Jésus et le tenta.
 
-===== Important Terms: =====
+===== Important Terms Termes importants: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Saint Esprit)]]**
-  * **[[:fr:obs:notes:key-terms/fast|fasted (jeûner)]]**
-  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
-  * **[[:fr:obs:notes:key-terms/tempt|tempted (tenter)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/baptize]]**
-  * **[[:fr:obe:kt/spirit]]**
-  * **[[:fr:obe:other/fast]]**
-  * **[[:fr:obe:kt/satan]]**
-  * **[[:fr:obe:kt/tempt]]**
-  * **[[:fr:obe:kt/sin]]**
-
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
+  * **[[:fr:obs:notes:key-terms:holy-spirit|Holy Spirit (Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms:fast|fasted (jeûner)]]**
+  * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms:tempt|tempted (tenter)]]**
+  * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:baptize|baptize, baptism]]**
+  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:other:fast|fast]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:tempt|tempt, temptation]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
 
 ===== Translation Notes: =====
 
