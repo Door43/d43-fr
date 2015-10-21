@@ -23,6 +23,7 @@ Les prophètes prédirent que le Messie mourrait et que Dieu le ressusciterait d
   * **[[:fr:obe:kt:christ|Christ, Messiah]]**
   * **[[:fr:obe:kt:death|death, die, dead]]**
   * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:raise]]**
   * **[[:fr:obe:kt:resurrection|resurrection]]**
   * **[[:fr:obe:kt:save|save]]**
   * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
