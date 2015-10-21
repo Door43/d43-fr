@@ -8,11 +8,11 @@ Dieu combattit pour Israël ce jour là. Il créa la confusion chez les Amorites
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:amorite|Amorites (Amorites)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/amorite]]**
