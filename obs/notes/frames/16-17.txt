@@ -8,7 +8,6 @@ Ce modèle se répéta plusieurs fois: les Israélites péchèrent, Dieu les pun
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -17,6 +16,7 @@ Ce modèle se répéta plusieurs fois: les Israélites péchèrent, Dieu les pun
   * **[[:fr:obs:notes:key-terms:deliverer|deliverer (libérateur)]]**
   * **[[:fr:obs:notes:key-terms:save|save (sauver/délivrer)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:kt/god]]**
