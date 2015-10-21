@@ -8,7 +8,6 @@ Dieu dit à Moïse et aux Israélites, “Si vous m'obéissez et gardez mon Alli
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
@@ -18,6 +17,7 @@ Dieu dit à Moïse et aux Israélites, “Si vous m'obéissez et gardez mon Alli
   * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/israel]]**
