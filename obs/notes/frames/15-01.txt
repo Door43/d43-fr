@@ -8,7 +8,6 @@ Finalement, l'heure pour les Israélites d'entrer dans la Terre Promise arriva. 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
@@ -20,6 +19,7 @@ Finalement, l'heure pour les Israélites d'entrer dans la Terre Promise arriva. 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:kt/promisedland]]**
