@@ -8,7 +8,6 @@ Ensuite Gédéon utilisa l'or pour faire un vêtement spécial comme ceux que le
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:gideon|Gideon (Gédeon)]]**
   * **[[:fr:obs:notes:key-terms:priest-high|high priest (le grand Sacrificateur)]]**
   * **[[:fr:obs:notes:key-terms:worship|worshiping (adorer)]]**
@@ -18,6 +17,7 @@ Ensuite Gédéon utilisa l'or pour faire un vêtement spécial comme ceux que le
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:deliverer|deliverer (libérateur)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/gideon]]**
   * **[[:fr:obe:kt/highpriest]]**
   * **[[:fr:obe:kt/worship]]**
