@@ -8,7 +8,6 @@ David voulut bâtir un temple où tous les Israélites pourrait adorer Dieu et l
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
   * **[[:fr:obs:notes:key-terms:temple|temple (temple)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
@@ -18,6 +17,7 @@ David voulut bâtir un temple où tous les Israélites pourrait adorer Dieu et l
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/david]]**
   * **[[:fr:obe:kt/temple]]**
   * **[[:fr:obe:other/israel]]**
