@@ -8,16 +8,16 @@ Beaucoup de gens vinrent dans le désert pour écouter Jean. Il prêchait pour c
 
 ===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/john-baptist|John (Jean)]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
-  * **[[:fr:obs:notes:key-terms/repent|Repent (repentir)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (Royaume de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms:preach|preached (prêcher)]]**
+  * **[[:fr:obs:notes:key-terms:repent|Repent (se repentir)]]**
+  * **[[:fr:obs:notes:key-terms:kingdom-of-god|kingdom of God (Royaume de Dieu)]]**
+===== **​Termes importants**  =====
 
-  * **[[:fr:obe:other/johnthebaptist]]**
-  * **[[:fr:obe:other/preach]]**
-  * **[[:fr:obe:kt/repent]]**
-  * **[[:fr:obe:kt/kingdomofgod]]**
-
+  * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:fr:obe:other:preach|preach]]**
+  * **[[:fr:obe:kt:repent|repent, repentance]]**
+  * **[[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]]**
 
 ===== Translation Notes: =====
 
