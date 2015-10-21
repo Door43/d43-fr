@@ -8,7 +8,6 @@ Après cela, Elie pria, “Yahweh, Dieu d'Abraham, d'Isaac, et de Jacob, montre-
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Elie)]]**
   * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
   * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
@@ -20,6 +19,7 @@ Après cela, Elie pria, “Yahweh, Dieu d'Abraham, d'Isaac, et de Jacob, montre-
   * **[[:fr:obs:notes:key-terms:servant|servant (serviteur)]]**
   * **[[:fr:obs:notes:key-terms:true|true (vérité)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/elijah]]**
   * **[[:fr:obe:other/pray]]**
   * **[[:fr:obe:kt/yahweh]]**
