@@ -8,7 +8,6 @@ Dieu dit aux Israélites, “Il faut que vous vous débarrassiez de tous les Can
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaanites (Canaan)]]**
@@ -18,6 +17,7 @@ Dieu dit aux Israélites, “Il faut que vous vous débarrassiez de tous les Can
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/canaan]]**
