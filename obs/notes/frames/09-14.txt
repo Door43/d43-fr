@@ -14,6 +14,7 @@
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
 
+===== Termes Importants =====  
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:kt:yahweh|Yahweh]]**
