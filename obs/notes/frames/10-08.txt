@@ -9,7 +9,6 @@
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
@@ -27,7 +26,6 @@
   * **[[:fr:obe:other/aaron]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:other/pray]]**
-
 
 ==== Translation Notes: ====
 
