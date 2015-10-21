@@ -10,7 +10,8 @@ Quand le **Pharaon** apprit ce que **Moïse** avait fait, Il essaya de le tuer. 
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
+
+  * **[[:fr:obe:other:moses|Moses]]**  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
 ==== Translation Notes: ====
