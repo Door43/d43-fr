@@ -16,7 +16,7 @@
   * **[[:fr:obs:notes:key-terms:believe|believe (croire)]]**
   * **[[:fr:obs:notes:key-terms:obey|obey (obéir)]]**
 
-===== Termes importants =====
+===== Termes Importants =====
 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/pharaoh]]**
