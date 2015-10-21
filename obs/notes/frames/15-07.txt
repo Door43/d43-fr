@@ -8,7 +8,6 @@ Les Israélites furent en colère quand ils apprirent que la tribu de Gabaon les
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:gibeon|Gibeonites (Gabaon)]]**
   * **[[:fr:obs:notes:key-terms:peace|peace (paix)]]**
@@ -20,6 +19,7 @@ Les Israélites furent en colère quand ils apprirent que la tribu de Gabaon les
   * **[[:fr:obs:notes:key-terms:gibeon|Gibeon (Gabaon)]]**
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/gibeon]]**
   * **[[:fr:obe:other/peace]]**
