@@ -6,22 +6,20 @@
 
 Quand le moment approchait pour Marie d'enfanter, le gouvernement Romain dit à tout le monde d'aller dans la ville de leurs ancêtres pour un recensement. Joseph et Marie durent faire un long voyage de Nazareth à Bethlehem parce que leur ancêtre était David, et qu'il était né dans la ville de Bethlehem.
 
-===== Important Terms: =====
+===== Important Terms Termes importants: =====
 
-  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
-  * **[[:fr:obs:notes:key-terms/rome|Roman (Romain)]]**
-  * **[[:fr:obs:notes:key-terms/joseph-nt|Joseph (Joseph)]]**
-  * **[[:fr:obs:notes:key-terms/nazareth|Nazareth (Nazareth)]]**
-  * **[[:fr:obs:notes:key-terms/bethlehem|Bethlehem (Béthlehem)]]**
-  * **[[:fr:obs:notes:key-terms/david|David (David)]]**
-
-  * **[[:fr:obe:other/mary]]**
-  * **[[:fr:obe:other/rome]]**
-  * **[[:fr:obe:other/josephnt]]**
-  * **[[:fr:obe:other/nazareth]]**
-  * **[[:fr:obe:other/bethlehem]]**
-  * **[[:fr:obe:other/david]]**
-
+  * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms:rome|Roman (Romain)]]**
+  * **[[:fr:obs:notes:key-terms:joseph-nt|Joseph (Joseph)]]**
+  * **[[:fr:obs:notes:key-terms:nazareth|Nazareth (Nazareth)]]**
+  * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Béthléem)]]**
+  * **[[:fr:obs:notes:key-terms:david|David (David)]]**
+  * **[[:fr:obe:other:mary|Mary]]**
+  * **[[:fr:obe:other:rome|Rome, Roman]]**
+  * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
+  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
+  * **[[:fr:obe:other:bethlehem|Bethlehem]]**
+  * **[[:fr:obe:other:david|David]]**
 
 ===== Translation Notes: =====
 
