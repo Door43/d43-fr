@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
   * **[[:fr:obs:notes:key-terms:servant|servants (serviteurs)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:other/jacob]]**
   * **[[:fr:obe:other/servant]]**
