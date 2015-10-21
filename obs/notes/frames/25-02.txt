@@ -6,19 +6,16 @@
 
 Satan tenta Jésus en disant, “Si tu es le Fils de Dieu, ordonne à ces pierres qu'elles deviennent du pain pour que tu puisses manger!”
 
-===== Important Terms: =====
+===== Important Terms Termes Importants: =====
 
-
-  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
-  * **[[:fr:obs:notes:key-terms/tempt|tempted (tenter)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
-
-  * **[[:fr:obe:kt/satan]]**
-  * **[[:fr:obe:kt/tempt]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/sonofgod]]**
-
+  * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms:tempt|tempted (tenter)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:tempt|tempt, temptation]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
 
 ===== Translation Notes: =====
 
