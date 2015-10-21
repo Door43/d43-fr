@@ -8,7 +8,6 @@ Dieu était en colère contre Salomon et comme punition pour son infidélité, i
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:solomon|Solomon (Salomon)]]**
   * **[[:fr:obs:notes:key-terms:punish|punishment (punir)]]**
@@ -16,6 +15,7 @@ Dieu était en colère contre Salomon et comme punition pour son infidélité, i
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:kingdom|kingdoms (royaume)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/solomon]]**
   * **[[:fr:obe:other/punish]]**
