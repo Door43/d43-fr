@@ -6,22 +6,20 @@ The **shepherds** soon arrived at the place where **Jesus** was and they found h
 
 Les bergers arrivèrent aussitôt là où se trouvait Jésus et ils le trouvèrent couché dans une crèche, comme l'ange le leur avait dit. Ils furent très heureux. Les bergers retournèrent dans les champs où étaient leurs troupeaux, glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu.
 
-===== Important Terms: =====
+===== Important Terms Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/shepherd|shepherds (berger)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
-  * **[[:fr:obs:notes:key-terms/mary|Mary (Marie)]]**
-  * **[[:fr:obs:notes:key-terms/praise|praising (louer)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-
-  * **[[:fr:obe:other/shepherd]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/angel]]**
-  * **[[:fr:obe:other/mary]]**
-  * **[[:fr:obe:other/praise]]**
-  * **[[:fr:obe:kt/god]]**
-
+  * **[[:fr:obs:notes:key-terms:shepherd|shepherds (berger)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:angel|angel (ange)]]**
+  * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
+  * **[[:fr:obs:notes:key-terms:praise|praising (louer)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obe:other:shepherd|shepherd, to shepherd]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:angel|angel]]**
+  * **[[:fr:obe:other:mary|Mary]]**
+  * **[[:fr:obe:other:praise|praise]]**
+  * **[[:fr:obe:kt:god|God]]**
 
 ===== Translation Notes: =====
 
