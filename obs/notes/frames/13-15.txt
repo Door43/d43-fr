@@ -17,6 +17,7 @@ Moïse fit de nouvelles tablettes avec les dix commandements pour remplacer cell
   * **[[:fr:obs:notes:key-terms:sinai|Mount Sinai (Mount Sinaï)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/pray]]**
   * **[[:fr:obe:kt/God]]**
