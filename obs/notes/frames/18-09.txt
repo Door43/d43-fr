@@ -8,7 +8,6 @@ Jéroboam se révolta contre Dieu et ceci poussa les gens à pécher. Il bâtit 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:jeroboam|Jeroboam (Jéroboam)]]**
   * **[[:fr:obs:notes:key-terms:rebel|rebelled (rebel)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -18,6 +17,7 @@ Jéroboam se révolta contre Dieu et ceci poussa les gens à pécher. Il bâtit 
   * **[[:fr:obs:notes:key-terms:temple|Temple (temple)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah (le royaume de Juda)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/jeroboam]]**
   * **[[:fr:obe:other/rebel]]**
   * **[[:fr:obe:kt/god]]**
