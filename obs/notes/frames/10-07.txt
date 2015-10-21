@@ -1,5 +1,5 @@
 ===== The Painful Sores [10-07] =====
-===== Les Plaies à peau douloureuses  =====
+===== Les Plaies à peau douloureuses [10-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink&}}
 
@@ -15,6 +15,8 @@ Ensuite Dieu dit à Moïse de lancer les cendres dans l'air devant Pharaon. Quan
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
+
+===== Termes importants =====
 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/moses]]**
