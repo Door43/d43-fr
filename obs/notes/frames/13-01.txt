@@ -8,13 +8,13 @@ Après avoir dirigé les Israélites à travers la Mer Rouge, Dieu les guida à 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:red-sea|Red Sea (Mers Rouge)]]**
   * **[[:fr:obs:notes:key-terms:sinai|Sinai (Sinai)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/redsea]]**
