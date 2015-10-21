@@ -8,7 +8,6 @@ Un jour, un homme du pays d'Israël nommé Gédéon battait son grain secrèteme
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:gideon|Gideon (Gabaon)]]**
   * **[[:fr:obs:notes:key-terms:midian|Midianites (Madian)]]**
   * **[[:fr:obs:notes:key-terms:angel|angel (ange)]]**
@@ -16,6 +15,7 @@ Un jour, un homme du pays d'Israël nommé Gédéon battait son grain secrèteme
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/gideon]]**
   * **[[:fr:obe:other/midian]]**
   * **[[:fr:obe:kt/angel]]**
