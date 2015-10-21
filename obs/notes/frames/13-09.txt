@@ -8,7 +8,6 @@ Si une personne avait désobéi à une des lois de Dieu, elle pouvait apporter u
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:disobey|disobeyed (désobéir)]]**
   * **[[:fr:obs:notes:key-terms:gods-law|God's law (Le loi de Dieu)]]**
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
@@ -22,6 +21,7 @@ Si une personne avait désobéi à une des lois de Dieu, elle pouvait apporter u
   * **[[:fr:obs:notes:key-terms:aaron|Aaron (Aaron)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/disobey]]**
   * **[[:fr:obe:kt/lawofmoses]]**
   * **[[:fr:obe:other/tentofmeeting]]**
