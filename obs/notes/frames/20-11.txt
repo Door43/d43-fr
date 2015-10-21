@@ -6,12 +6,14 @@ About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defe
 
 Soixante-dix ans plus tard, Cyrus, le roi des Perses, vainquit Babylone, alors l'Empire Perse remplaça l'Empire Babylonien. Les Israélites étaient alors appelés Juifs et la plupart d'entre eux avaient vécu toute leur vie en Babylone. Seulement quelques Juifs très âgés se souvenaient du pays de Juda.
 
-===== Important Terms  Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
   * **[[:fr:obs:notes:key-terms:babylon|Babylon (Babylone)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:jew|Jews (Juif)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:king|king]]**
   * **[[:fr:obe:other:babylon|Babylon, Babylonian]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
