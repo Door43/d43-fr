@@ -8,7 +8,6 @@ Dieu dit aux Israélites de célébrer la Pâque Juive chaque année pour qu'ils
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israë)]]**
   * **[[:fr:obs:notes:key-terms:passover|Passover (Pâques)]]**
@@ -16,6 +15,7 @@ Dieu dit aux Israélites de célébrer la Pâque Juive chaque année pour qu'ils
   * **[[:fr:obs:notes:key-terms:servant|slaves (serviteurs)]]**
   * **[[:fr:obs:notes:key-terms:lamb|lamb (agneau)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/passover]]**
