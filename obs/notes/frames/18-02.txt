@@ -8,7 +8,6 @@ Dans la ville de Jérusalem, Salomon bâtit le Temple que son père avait planif
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:jerusalem|Jerusalem (Jérusalem)]]**
   * **[[:fr:obs:notes:key-terms:solomon|Solomon (Salomon)]]**
   * **[[:fr:obs:notes:key-terms:temple|Temple (temple)]]**
@@ -18,6 +17,7 @@ Dans la ville de Jérusalem, Salomon bâtit le Temple que son père avait planif
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices (sacrifices)]]**
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/jerusalem]]**
   * **[[:fr:obe:other/solomon]]**
   * **[[:fr:obe:kt/temple]]**
