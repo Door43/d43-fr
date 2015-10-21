@@ -1,4 +1,6 @@
 ===== The Egyptians Drowned [12-11] =====
+===== Les Egyptiens se noya [12-11] =====
+
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-11.jpg?nolink&}}
 
@@ -14,6 +16,8 @@ Une fois que tous les Israélites étaient de l'autre côté de la mer, Dieu dit
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptian (Egypte)]]**
 
+===== Termes importants =====
+ 
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/moses]]**
@@ -30,10 +34,10 @@ Une fois que tous les Israélites étaient de l'autre côté de la mer, Dieu dit
 
 ===== Notes de Traduction: =====
 
-  * **étaient de l'autre côté de la mer** - 
-  * **étendre encore une fois son bras** - 
-  * **reprit sa place normale** - 
-  * **Toute l'armée Égyptienne** - 
+  * **étaient de l'autre côté de la mer** - Une autre façon de traduire serait, "se promenèrent à l'autre côté" ou s'arrivèrent à l'autre côté."
+  * **étendre encore une fois son bras** - Une autre façon de traduire serait, se leva le bras sur la mer encore une fois" ou comme ordre directe, i.e. Dieu dit à Moïse: "Etends encore ton bras."
+  * **reprit sa place normale** - Un autre façon de traduire serait "couvrit encore l'endroit où la voie y était" ou "remplit encore la mer entière" ou "revint à l'emplacement où elle était avant que Dieu le separa."
+  * **Toute l'armée Égyptienne** - Ceci peut être traduit comme, "tout le monde dans l'armée égyptien."
 
 **[[:fr:obs:notes:frames:12-10|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:12-12|>>]]**
 
