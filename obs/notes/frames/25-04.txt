@@ -4,22 +4,20 @@
 
 Alors Satan transporta Jésus dans la ville sainte, le plaça sur le haut du Temple et lui dit: “Si tu es le Fils de Dieu, lance-toi dans le vide, car il est écrit, 'Dieu donnera des ordres à ses anges de te porter sur leurs mains pour que ton pied ne heurte pas une pierre.'”
 
-===== Important Terms: =====
+===== Important Terms  Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/temple|Temple (temple)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
-
-  * **[[:fr:obe:kt/satan]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/temple]]**
-  * **[[:fr:obe:kt/sonofgod]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/angel]]**
-
+  * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:temple|Temple (temple)]]**
+  * **[[:fr:obs:notes:key-terms:god-son|Son of God (Fils de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:angel|angels (ange)]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:temple|temple]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:angel|angel]]**
 
 ===== Translation Notes: =====
 
