@@ -8,12 +8,12 @@ Quand les gens entendirent ceci, Ils furent désolés d'avoir péché. Ils prire
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:sin|sinned (péché)]]**
   * **[[:fr:obs:notes:key-terms:canaan|Canaan (Canaan)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:other/moses]]**
