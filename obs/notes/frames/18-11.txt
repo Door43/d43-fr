@@ -7,14 +7,13 @@ In the new **kingdom** of **Israel**, all the **kings** were **evil**. Many of t
 Dans le nouveau royaume d'Israël, tous les rois étaient méchants. Beaucoup de ces rois furent tués par d'autres Israélites qui désiraient devenir roi à leur place.
 
 ===== Important Terms: =====
-
-
   * **[[:fr:obs:notes:key-terms:kingdom|kingdom (royaume)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:king|kings (roi)]]**
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/kingdom]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/king]]**
