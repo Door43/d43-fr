@@ -8,13 +8,13 @@ Puis Elie dit au roi Achab, “Retourne tout de suite à la ville, parce que la 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Elie)]]**
   * **[[:fr:obs:notes:key-terms:king|King (roi)]]**
   * **[[:fr:obs:notes:key-terms:ahab|Ahab (Achab)]]**
   * **[[:fr:obs:notes:key-terms:yahweh|Yahweh (Yahvé)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/elijah]]**
   * **[[:fr:obe:other/king]]**
   * **[[:fr:obe:other/ahab]]**
