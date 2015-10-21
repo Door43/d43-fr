@@ -1,5 +1,5 @@
 ===== The Gnats and the Flies [10-05] =====
-===== Les Poux et les mouches    =====
+===== Les Poux et les mouches  [10-05]  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
 
@@ -17,6 +17,8 @@ Alors Dieu envoya une invasion de poux. Et ensuite il envoya une invasion de mou
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
 
+===== Termes importants =====
+
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/pharaoh]]**
   * **[[:fr:obe:other/moses]]**
@@ -33,9 +35,9 @@ Alors Dieu envoya une invasion de poux. Et ensuite il envoya une invasion de mou
   * **hardened his heart**  - See note in **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 ===== Notes de Traduction: =====
 
-  * **Dieu envoya une invasion** - Cela pourrait être traduit comme, "Dieu a fait qu'il y ait une peste" ou "Dieu a fait un fléau (de moucherons) pour venir sur la terre d'Egypte."
+  * **Dieu envoya une invasion** - Cela peut être traduit comme, "Dieu a fait qu'il y ait une peste" ou "Dieu a fait un fléau (de moucherons) pour venir sur la terre d'Egypte."
   * **poux** - C'étaient des insects volants minuscules et mordre dans les grands essaims, ennuyeux et d'atterrissage sur toutes les personnes et les animaux de l'Egypte.
-  * **mouches venimeuses** - C'étaient beaucoup plus grands insectes volants qui étaient à la fois ennuyeux et destructrice. Il y avait tellement de ces mouches qu'ils couvraient tout, même de remplir les maisons des Egyptiens.
+  * **mouches venimeuses** - C'étaient des beaucoup plus grands insectes volants qui étaient à la fois ennuyeux et destructrice. Il y avait tellement de ces mouches qu'ils couvraient tout, même de remplir les maisons des Egyptiens.
   * **endurci son Coeur** - voir note dans **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 
 **[[:fr:obs:notes:frames:10-04|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-06|>>]]**
