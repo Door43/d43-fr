@@ -8,13 +8,13 @@ Dieu promit à Moïse que dans l'avenir Il susciterait un autre prophète comme 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/promise]]**
   * **[[:fr:obe:other/moses]]**
