@@ -9,11 +9,11 @@ Ensuite **Dieu envoya des ténèbres qui durèrent trois jours**. Il faisait tel
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/egypt]]**
   * **[[:fr:obe:other/israel]]**
