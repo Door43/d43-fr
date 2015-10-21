@@ -16,6 +16,7 @@ Après avoir testé ses frères pour être certain qu'ils avaient changé, Josep
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/josephot]]**
   * **[[:fr:obe:kt/evil]]**
   * **[[:fr:obe:other/servant]]**
