@@ -8,7 +8,6 @@ Aaron fit un veau en fonte. Les Israélites commencèrent à vénérer l'idole f
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:aaron|Aaron (Aaron)]]**
   * **[[:fr:obs:notes:key-terms:idol|idol (idole)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
@@ -18,6 +17,7 @@ Aaron fit un veau en fonte. Les Israélites commencèrent à vénérer l'idole f
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/aaron]]**
   * **[[:fr:obe:other/idol]]**
   * **[[:fr:obe:kt/worship]]**
