@@ -8,7 +8,6 @@ Pour le premier signe, Gédéon mit un tissu sur la terre et il demanda à Dieu 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:gideon|Gideon (Gédeon)]]**
   * **[[:fr:obs:notes:key-terms:sheep|sheep (mouton)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -16,6 +15,7 @@ Pour le premier signe, Gédéon mit un tissu sur la terre et il demanda à Dieu 
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:midian|Midianites (Madian)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/gideon]]**
   * **[[:fr:obe:other/sheep]]**
   * **[[:fr:obe:kt/God]]**
