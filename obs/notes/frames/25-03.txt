@@ -6,15 +6,16 @@
 
 Jésus répondit, “Il est écrit dans la Parole de Dieu, “l'homme n'a pas seulement besoin de pain pour vivre, mais aussi de toutes paroles que Dieu prononce!”
 
-===== Important Terms: =====
+===== Important Terms =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
+===== Termes Importants: =====
 
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/wordofgod]]**
-  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:word-of-god|God's word (la parole de Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
+  * **[[:fr:obe:kt:god|God]]**
 
 ===== Translation Notes: =====
 
