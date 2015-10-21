@@ -11,6 +11,7 @@
   * **[[:fr:obs:notes:key-terms:servant|servant (serviteur)]]**
   * **[[:fr:obs:notes:key-terms:isaac|Isaac's (Isaac)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/Rebekah]]**
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:other/Isaac]]**
