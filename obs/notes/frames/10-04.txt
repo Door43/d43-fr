@@ -1,6 +1,6 @@
 ===== The Frogs [10-04] =====
 
-===== Les Grenouilles =====
+===== Les Grenouilles [10-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
@@ -18,6 +18,8 @@ Dieu envoya une invasion de grenouilles. Pharaon supplia Moïse d'éloigner les 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+=====Termes importants =====
+
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/egypt]]**
   * **[[:fr:obe:other/pharaoh]]**
@@ -32,7 +34,7 @@ Dieu envoya une invasion de grenouilles. Pharaon supplia Moïse d'éloigner les 
   * **hardened his heart**  - He became stubborn again and refused to obey God.
 ===== Notes de Traduction: =====
   * **Dieu envoya une invasion de grenouilles** - Cela pourrait être traduit par "Dieu a causé beaucoup de grenouilles d'apparaître dans toute l'Egypte."
-  * **endurcit son cœur** - Il est devenu à nouveau têtu et a refusé d'obéir à Dieu.
+  * **endurcit son cœur** - Il est devenu à nouveau têtu et s'est refusé à obéir à Dieu.
 
 **[[:fr:obs:notes:frames:10-03|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-05|>>]]**
 
