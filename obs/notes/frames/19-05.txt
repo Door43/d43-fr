@@ -8,7 +8,6 @@ Trois ans et demi plus tard, Dieu dit à Elie de retourner au royaume d'Israël 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Elie)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (royaume d'Israël)]]**
@@ -17,6 +16,7 @@ Trois ans et demi plus tard, Dieu dit à Elie de retourner au royaume d'Israël 
   * **[[:fr:obs:notes:key-terms:worship|worshiped (adorer)]]**
   * **[[:fr:obs:notes:key-terms:baal|Baal (Baal)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/elijah]]**
   * **[[:fr:obe:other/israel]]**
