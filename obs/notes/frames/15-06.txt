@@ -8,7 +8,6 @@ Dieu avait ordonné aux Israélites de ne faire de traité de paix avec aucun de
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:peace|peace (paix)]]**
@@ -16,6 +15,7 @@ Dieu avait ordonné aux Israélites de ne faire de traité de paix avec aucun de
   * **[[:fr:obs:notes:key-terms:gibeon|Gibeonites (Gabaon)]]**
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/peace]]**
