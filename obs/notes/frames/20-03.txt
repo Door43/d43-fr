@@ -25,5 +25,7 @@ Les **Assyriens** réunirent tous les leaders, les gens riches, et ceux qui avai
 ===== Notes de Traduction: =====
 
   * **aptitudes**  - Il s'agit de compétences pratiques telles que le travail du bois, la métallurgie et la construction.
-  * **restèrent**  - C'est "sont restés" ou, "ont été laissés derrière" ou, "ont été autorisés à rester derrière."'**[[:fr:obs:notes:frames:20-02|<<]] | [[:fr:obs:notes:20|Up]] | [[:fr:obs:notes:frames:20-04|>>]]**
+  * **restèrent**  - C'est "sont restés" ou, "ont été laissés derrière" ou, "ont été autorisés à rester derrière."'
+  * **[[:fr:obs:notes:frames:20-02|<<]] | [[:fr:obs:notes:20|Up]] | [[:fr:obs:notes:frames:20-04|>>]]**
+
 ~~DISCUSSION~~
