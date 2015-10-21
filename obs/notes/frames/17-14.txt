@@ -8,7 +8,6 @@ Mais, pour punir David de son péché, son petit garçon mourut. Il y eut aussi 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:punish|punishment (punir)]]**
   * **[[:fr:obs:notes:key-terms:david|David's (David)]]**
   * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
@@ -18,6 +17,7 @@ Mais, pour punir David de son péché, son petit garçon mourut. Il y eut aussi 
   * **[[:fr:obs:notes:key-terms:bathsheba|Bathsheba (Bath-Schéba)]]**
   * **[[:fr:obs:notes:key-terms:solomon|Solomon (Salomon)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/punish]]**
   * **[[:fr:obe:other/david]]**
   * **[[:fr:obe:kt/sin]]**
