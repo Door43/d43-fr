@@ -8,13 +8,13 @@ Pendant plusieurs jours, Moïse était au sommet du Mont Sinaï, en train de par
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:sinai|Mount Sinai (Mount Sinaï))]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:aaron|Aaron (Aaron)]]**
   * **[[:fr:obs:notes:key-terms:idol|idol (idole)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/sinai]]**
   * **[[:fr:obe:kt/God]]**
