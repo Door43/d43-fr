@@ -8,7 +8,6 @@ Eventuellement, Saul mourut sur les champs de bataille, et David devint le roi d
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:saul|Saul (Saul)]]**
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
@@ -18,6 +17,7 @@ Eventuellement, Saul mourut sur les champs de bataille, et David devint le roi d
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:jerusalem|Jerusalem (Jérusalem)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/saul]]**
   * **[[:fr:obe:other/david]]**
   * **[[:fr:obe:other/king]]**
