@@ -8,7 +8,6 @@ Elie fut un prophète à l'époque où Achab fut le roi du royaume d'Israël. Ac
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Elie)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:ahab|Ahab (Achab)]]**
@@ -19,6 +18,7 @@ Elie fut un prophète à l'époque où Achab fut le roi du royaume d'Israël. Ac
   * **[[:fr:obs:notes:key-terms:god-false|god (dieu)]]**
   * **[[:fr:obs:notes:key-terms:baal|Baal (Baal)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/elijah]]**
   * **[[:fr:obe:kt/prophet]]**
   * **[[:fr:obe:other/ahab]]**
