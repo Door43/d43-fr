@@ -13,6 +13,7 @@ Le serpent répondit à la femme “Ce n'est pas **vrai**! Vous ne **mourrez** p
   * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/true]]**
   * **[[:fr:obe:kt/death]]**
   * **[[:fr:obe:kt/God]]**
