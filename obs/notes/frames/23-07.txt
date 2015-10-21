@@ -6,20 +6,18 @@
 
 “Allez voir l'enfant, et vous le trouverez emmailloté et couché dans une crèche.” Soudainement, les cieux se sont remplis d'anges louant Dieu et disant, “Gloire à Dieu dans les lieux très hauts, et paix sur la terre parmi les hommes qu'il agrée!”
 
-===== Important Terms: =====
+===== Important Terms Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/glory|Glory (gloire)]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
-  * **[[:fr:obs:notes:key-terms/peace|peace (paix)]]**
-
-  * **[[:fr:obe:kt/angel]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/glory]]**
-  * **[[:fr:obe:kt/heaven]]**
-  * **[[:fr:obe:other/peace]]**
-
+  * **[[:fr:obs:notes:key-terms:angel|angels (ange)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obs:notes:key-terms:glory|Glory (gloire)]]**
+  * **[[:fr:obs:notes:key-terms:heaven|heaven (le ciel)]]**
+  * **[[:fr:obs:notes:key-terms:peace|peace (paix)]]**
+  * **[[:fr:obe:kt:angel|angel]]**
+  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:glory|glory, glorious]]**
+  * **[[:fr:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
+  * **[[:fr:obe:other:peace|peace, peaceful]]**
 
 ===== Translation Notes: =====
 
