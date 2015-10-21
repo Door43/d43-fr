@@ -16,6 +16,7 @@
   * **[[:fr:obs:notes:key-terms:holy|holy (saint)]]**
   * **[[:fr:obs:notes:key-terms:sabbath|seventh day (septième jour)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/idol]]**
   * **[[:fr:obe:kt/worship]]**
   * **[[:fr:obe:kt/yahweh]]**
