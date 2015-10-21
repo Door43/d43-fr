@@ -8,7 +8,6 @@ Après la mort de Josué, les Israélites désobéirent à Dieu. Ils ne chassèr
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:disobey|disobeyed (désobéir)]]**
@@ -22,6 +21,7 @@ Après la mort de Josué, les Israélites désobéirent à Dieu. Ils ne chassèr
   * **[[:fr:obs:notes:key-terms:true|true (vérité)]]**
   * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/joshua]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/disobey]]**
