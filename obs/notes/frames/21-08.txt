@@ -13,6 +13,8 @@ Un roi est quelqu'un qui gouverne un royaume et juge les gens. Le Messie serait 
   * **[[:fr:obs:notes:key-terms:judge|judges (juger)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:king|king]]**
   * **[[:fr:obe:other:kingdom|kingdom]]**
   * **[[:fr:obe:kt:judge|judge, judgment]]**
