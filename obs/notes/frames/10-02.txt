@@ -1,5 +1,5 @@
 ===== Pharaoh Refused to Obey [10-02] =====
-===== Pharaon Refusa d'obéir    =====
+===== Pharaon Refusa d'obéir   [10-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?nolink&}}
 
@@ -13,6 +13,7 @@
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
 
+===== Termes importants =====
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
