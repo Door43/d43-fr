@@ -20,6 +20,7 @@ Mais Esaü avait déjà pardonné à Jacob, et ils se retrouvèrent avec bonheur
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/esau]]**
   * **[[:fr:obe:kt/forgive]]**
   * **[[:fr:obe:other/jacob]]**
