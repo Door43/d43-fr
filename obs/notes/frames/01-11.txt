@@ -15,6 +15,7 @@ Au milieu du jardin, Dieu planta deux arbres particuliers, l'arbre de la vie et 
   * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
   * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/life]]**
   * **[[:fr:obe:kt/good]]**
