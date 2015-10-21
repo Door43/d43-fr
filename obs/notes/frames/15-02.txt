@@ -8,7 +8,6 @@ Les Israélites devaient traverser le Jourdain pour entrer dans la Terre Promise
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:jordan-river|Jordan River (River Le Jordain)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
@@ -16,6 +15,7 @@ Les Israélites devaient traverser le Jourdain pour entrer dans la Terre Promise
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
   * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateurs)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/jordanriver]]**
   * **[[:fr:obe:kt/promisedland]]**
