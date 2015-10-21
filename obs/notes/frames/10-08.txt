@@ -1,5 +1,5 @@
 ===== The Hail [10-08] =====
-===== La Grêle   =====
+===== La Grêle [10-08]  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&}}
 
@@ -18,6 +18,8 @@
   * **[[:fr:obs:notes:key-terms:sin|sinned (péché)]]**
   * **[[:fr:obs:notes:key-terms:pray|prayed (prier)]]**
 
+===== Termes importants =====
+
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/egypt]]**
   * **[[:fr:obe:other/pharaoh]]**
@@ -34,9 +36,9 @@
   * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
   * **You may go**  - The word "you" refers to Moses, Aaron, and the Israelites.
 ===== Notes de Traduction: =====
-  * **Après cela** - Cela signifie, après Dieu fit les plaies douloureuses apparaissent sur la peau des Egyptiens.
+  * **Après cela** - Cela signifie, après le moment où Dieu fit les plaies douloureuses apparaître sur la peau des Egyptiens.
   * **Dieu envoya de la grêle** - Dieu fit tomber la grêle du ciel.
-  * **grêle** - La grêle se compose des morceaux de glace qui tombent du ciel comme la pluie fait. Ces morceaux peuvent être très petites ou très grandes. Les plus grandes peuvent blesser ou tuer tout sur lequel elles tombent.
+  * **grêle** - La grêle se compose des morceaux de glace qui tombent du ciel comme fait la pluie. Ces morceaux peuvent être très petites ou très grandes. Les plus grands peuvent blesser ou tuer tout sur lequel elles tombent.
   * **Vous pouvez sortir** - Le mot "vous" fait référence à Moïse, Aaron, et les Israélites.
 
 **[[:fr:obs:notes:frames:10-07|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-09|>>]]**
