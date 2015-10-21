@@ -8,12 +8,12 @@ Dieu donna aussi aux Israélites une description détaillée de la tente qu'ils 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
   * **[[:fr:obs:notes:key-terms:priest-high|high priest (le grand Sacrificateur)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/tentofmeeting]]**
