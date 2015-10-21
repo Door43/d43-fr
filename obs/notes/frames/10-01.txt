@@ -21,7 +21,7 @@
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+
 ==== Translation Notes: ====
 
   * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
