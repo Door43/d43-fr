@@ -8,7 +8,6 @@ Une fois que les gens eurent traversé le Jourdain, Dieu dit à Josué comment a
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:jordan-river|Jordan River (River Le Jordain)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
@@ -16,6 +15,7 @@ Une fois que les gens eurent traversé le Jourdain, Dieu dit à Josué comment a
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
   * **[[:fr:obs:notes:key-terms:priest|priests (sacrificateur)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/jordanriver]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/joshua]]**
