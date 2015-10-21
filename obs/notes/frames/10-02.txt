@@ -13,7 +13,7 @@
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
 
-===== Termes importants =====
+===== Termes Importants =====
   * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
