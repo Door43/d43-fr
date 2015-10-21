@@ -8,15 +8,14 @@ Jean, le fils de Zacharie et d'Elisabeth grandit et devint un prophète. Il habi
 
 ===== Important Terms: =====
 
+  * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean)]]**
+  * **[[:fr:obs:notes:key-terms:zechariah-nt|Zechariah (Zacharie)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
+===== **​Termes importants**  =====
 
-  * **[[:fr:obs:notes:key-terms/john-baptist|John (Jean)]]**
-  * **[[:fr:obs:notes:key-terms/zechariah-nt|Zechariah (Zacharie)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
-
-  * **[[:fr:obe:other/johnthebaptist]]**
-  * **[[:fr:obe:other/zechariah]]**
-  * **[[:fr:obe:kt/prophet]]**
-
+  * ****[[:fr:obe:other:johnthebaptist|John (the Baptist)]]** **
+  * **[[:fr:obe:other:zechariah|Zechariah (OT)]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 
 ===== Translation Notes: =====
 
