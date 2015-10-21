@@ -8,7 +8,6 @@ Les dix autres tribus de la nation d'Israël qui s'étaient révoltées contre R
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|nation of Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:rehoboam|Rehoboam (Roboam)]]**
   * **[[:fr:obs:notes:key-terms:jeroboam|Jeroboam (Jéroboam)]]**
@@ -16,6 +15,7 @@ Les dix autres tribus de la nation d'Israël qui s'étaient révoltées contre R
   * **[[:fr:obs:notes:key-terms:kingdom|kingdom (royaume)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (le royaume d'Israë)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/rehoboam]]**
   * **[[:fr:obe:other/jeroboam]]**
