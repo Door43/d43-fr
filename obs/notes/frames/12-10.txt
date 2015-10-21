@@ -1,4 +1,5 @@
 ===== God Fought for Israel [12-10] =====
+===== Dieu combattit pour Israël [12-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-10.jpg?nolink&}}
 
@@ -13,6 +14,8 @@ Alors ils suivirent les Israélites dans la mer, mais Dieu fit paniquer les Egyp
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:chariot|chariots (char)]]**
+
+===== Termes importants =====
 
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/God]]**
@@ -29,9 +32,9 @@ Alors ils suivirent les Israélites dans la mer, mais Dieu fit paniquer les Egyp
 
 ===== Notes de Traduction: =====
 
-  * **dans la mer** - 
-  * **paniquer** - 
-  * **empêcha leurs chars d'avancer** - 
+  * **dans la mer** - C'était une voie de terre sèche le long du fond de la mer, avec une muraille d'eau à chaque côtè.
+  * **paniquer** - Ceci peut être traduit comme "avoir peur et être troublé."
+  * **empêcha leurs chars d'avancer** - Les chars ne pouvaient plus se bouger.
 
 
 
