@@ -13,6 +13,8 @@ Dieu promit au roi David qu'un de ses descendants régnerait en tant que roi ét
   * **[[:fr:obs:notes:key-terms:david|King David (David)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendant)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:kt:promise|promise]]**
   * **[[:fr:obe:other:david|David]]**
