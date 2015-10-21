@@ -6,20 +6,18 @@ Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **thei
 
 Alors Satan lui montra tous les royaumes du monde et leur gloire et dit, “Je te donnerai toutes ces choses si tu te prosternes et m'adores.”
 
-===== Important Terms: =====
+===== Important Terms  Les Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/satan|Satan (Satan)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom|kingdoms (royaumes)]]**
-  * **[[:fr:obs:notes:key-terms/glory|glory (gloire)]]**
-  * **[[:fr:obs:notes:key-terms/worship|worship (adorer)]]**
-
-  * **[[:fr:obe:kt/satan]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:other/kingdom]]**
-  * **[[:fr:obe:kt/glory]]**
-  * **[[:fr:obe:kt/worship]]**
-
+  * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:kingdom|kingdoms (royaumes)]]**
+  * **[[:fr:obs:notes:key-terms:glory|glory (gloire)]]**
+  * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:other:kingdom|kingdom]]**
+  * **[[:fr:obe:kt:glory|glory, glorious]]**
+  * **[[:fr:obe:kt:worship|worship]]**
 
 ===== Translation Notes: =====
 
