@@ -8,7 +8,6 @@ Les Israélites firent la fête parce que Dieu les avait sauvés de l'esclavage 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:save|saved (sauver/délivrer)]]**
@@ -16,6 +15,7 @@ Les Israélites firent la fête parce que Dieu les avait sauvés de l'esclavage 
   * **[[:fr:obs:notes:key-terms:praise|praise (louer)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptian (Egypte)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/save]]**
