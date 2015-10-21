@@ -19,6 +19,7 @@
   * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
   * **[[:fr:obs:notes:key-terms:sarah|Sarah (Sarah)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/Sarah]]**
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/promise]]**
