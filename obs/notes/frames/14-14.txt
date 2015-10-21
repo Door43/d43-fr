@@ -8,7 +8,6 @@ Après que les Israélites aient erré dans le désert pendant 40 ans, tous ceux
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israë)]]**
   * **[[:fr:obs:notes:key-terms:rebel|rebelled (rebel)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -18,6 +17,7 @@ Après que les Israélites aient erré dans le désert pendant 40 ans, tous ceux
   * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète))]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/rebel]]**
   * **[[:fr:obe:kt/God]]**
