@@ -8,7 +8,6 @@ David gouverna avec justice et fidélité pendant beaucoup d'années, et Dieu le
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
   * **[[:fr:obs:notes:key-terms:justice|justice (justice)]]**
   * **[[:fr:obs:notes:key-terms:faithful|faithfulness (fidèle)]]**
@@ -16,6 +15,7 @@ David gouverna avec justice et fidélité pendant beaucoup d'années, et Dieu le
   * **[[:fr:obs:notes:key-terms:bless|blessed (bénir)]]**
   * **[[:fr:obs:notes:key-terms:sin|sinned (péché)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/david]]**
   * **[[:fr:obe:kt/justice]]**
   * **[[:fr:obe:kt/faithful]]**
