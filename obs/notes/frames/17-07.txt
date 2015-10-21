@@ -8,7 +8,6 @@ Mais Dieu envoya le prophète Nathan vers David avec ce message, “Parce tu es 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:nathan|Nathan (Nathan)]]**
@@ -22,6 +21,7 @@ Mais Dieu envoya le prophète Nathan vers David avec ce message, “Parce tu es 
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
   * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/prophet]]**
   * **[[:fr:obe:other/nathan]]**
