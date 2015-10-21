@@ -8,7 +8,6 @@ Les rois de Judas furent des descendants de David. Certains d'entre eux étaient
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:king|kings (roi)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-judah|Judah (royaume de Juda)]]**
   * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants)]]**
@@ -23,6 +22,7 @@ Les rois de Judas furent des descendants de David. Certains d'entre eux étaient
   * **[[:fr:obs:notes:key-terms:god-false|gods (dieu)]]**
   * **[[:fr:obs:notes:key-terms:rebel|rebelled (rebel)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/king]]**
   * **[[:fr:obe:other/kingdomofjudah]]**
   * **[[:fr:obe:other/descendant]]**
