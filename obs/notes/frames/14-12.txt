@@ -8,7 +8,6 @@ Dieu leur donna même miraculeusement de l'eau qui venait d'un rocher. Mais, mal
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
@@ -18,6 +17,7 @@ Dieu leur donna même miraculeusement de l'eau qui venait d'un rocher. Mais, mal
   * **[[:fr:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
   * **[[:fr:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/moses]]**
