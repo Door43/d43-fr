@@ -11,6 +11,7 @@ Dieu montra beaucoup de choses aux prophètes concernant l'arrivée du Messie, m
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah]]**
