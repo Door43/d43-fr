@@ -8,13 +8,13 @@ Tous les rois et la plupart des gens du royaume d'Israël adorèrent des idoles.
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:king|kings (roi)]]**
   * **[[:fr:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel (le royaume d'Israël)]]**
   * **[[:fr:obs:notes:key-terms:worship|worshiped (adorer)]]**
   * **[[:fr:obs:notes:key-terms:idol|idols (idole)]]**
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifice (sacrifice)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/king]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/worship]]**
