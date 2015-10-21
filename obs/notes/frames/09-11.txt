@@ -10,6 +10,8 @@
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:shepherd|shepherd (berger)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:moses|Moses]]**
   * **[[:fr:obe:other:shepherd|shepherd, to shepherd]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
