@@ -11,6 +11,7 @@
   * **[[:fr:obs:notes:key-terms:rebekah|Rebekah (Rebecca)]]**
   * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/rebekah]]**
   * **[[:fr:obe:kt/son]]**
