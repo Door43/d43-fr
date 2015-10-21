@@ -14,6 +14,8 @@ Puis Dieu déplaça la colonne de nuée et la plaça entre les Égyptiens et les
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
 
+===== Termes importants =====
+
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/egypt]]**
@@ -25,7 +27,7 @@ Puis Dieu déplaça la colonne de nuée et la plaça entre les Égyptiens et les
   * **pillar of cloud** – See how you translated this phrase in **[[:fr:obs:notes:frames:12-02|[12-02]]]**
   * **could not see** - The cloud pillar was so large and thick that the Egyptians could no longer see any of the Israelites.
 
-===== Notes de Traduction: ====
+==== Notes de Traduction: ====
 
   * **colonne de nuée** - Voir comment cette expression se traduit en **[[:fr:obs:notes:frames:12-02|[12-02]]]**
   * **empêcher les Égyptiens de voir** - Le pilier de nuée était si grand et épais que les Egyptiens ne pourraient plus voir aucun des Israélites.  
