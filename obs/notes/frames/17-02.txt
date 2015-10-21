@@ -8,7 +8,6 @@ Dieu choisit un jeune Israélite, qui s'appelait David pour être roi après Sau
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelite (Israël)]]**
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
@@ -22,6 +21,7 @@ Dieu choisit un jeune Israélite, qui s'appelait David pour être roi après Sau
   * **[[:fr:obs:notes:key-terms:trust|trusted (la confiance)]]**
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/david]]**
