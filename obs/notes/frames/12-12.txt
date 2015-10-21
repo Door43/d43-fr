@@ -1,5 +1,7 @@
 ===== Israel Believed God [12-12] =====
 
+===== Israël crut à Dieu [12-12] =====
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink&}}
 
 When the **Israelites** saw that the **Egyptians** were dead, they **trusted in God** and **believed** that **Moses** was **a prophet of God**.
@@ -16,6 +18,8 @@ Quand les Israélites virent que les Égyptiens étaient tous morts, ils eurent 
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
 
+===== Termes importants =====
+
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/egypt]]**
   * **[[:fr:obe:kt/God]]**
@@ -31,7 +35,7 @@ Quand les Israélites virent que les Égyptiens étaient tous morts, ils eurent 
 
 ===== Notes de Traduction: =====
 
-  * **eurent confiance en Dieu** - 
+  * **eurent confiance en Dieu** - Ça veut dire que le peuple a possédé dès ce moment-là une confiance que Dieu soit puissant et les protégérait.
 
 
 **[[:fr:obs:notes:frames:12-11|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:12-13|>>]]**
