@@ -8,7 +8,6 @@ Puis Dieu dit à Moïse d'aller au sommet de la montagne pour qu'il puisse voir 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
@@ -17,6 +16,7 @@ Puis Dieu dit à Moïse d'aller au sommet de la montagne pour qu'il puisse voir 
   * **[[:fr:obs:notes:key-terms:trust|trusted (la confiance)]]**
   * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:kt/promisedland]]**
