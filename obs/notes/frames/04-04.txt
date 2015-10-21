@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms:bless|bless (bénir)]]**
   * **[[:fr:obs:notes:key-terms:curse|curse (malédiction)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Abraham]]**
   * **[[:fr:obe:kt/bless]]**
