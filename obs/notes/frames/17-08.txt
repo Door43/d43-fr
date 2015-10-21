@@ -8,7 +8,6 @@ Quand David entendit ces mots, il remercia et loua Dieu immédiatement, parce qu
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:david|David (David)]]**
   * **[[:fr:obs:notes:key-terms:praise|praised (louer)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -17,6 +16,7 @@ Quand David entendit ces mots, il remercia et loua Dieu immédiatement, parce qu
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/david]]**
   * **[[:fr:obe:other/praise]]**
   * **[[:fr:obe:kt/god]]**
