@@ -8,7 +8,6 @@ Dieu était très en colère, et il apparut dans la Tente de la Rencontre. Dieu 
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:tent-of-meeting|Tent of Meeting (Tente d'assignation)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
@@ -16,6 +15,7 @@ Dieu était très en colère, et il apparut dans la Tente de la Rencontre. Dieu 
   * **[[:fr:obs:notes:key-terms:caleb|Caleb (Caleb)]]**
   * **[[:fr:obs:notes:key-terms:promised-land|Promised Land (La Terre Promise)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/tentofmeeting]]**
   * **[[:fr:obe:kt/God]]**
