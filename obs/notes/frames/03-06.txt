@@ -11,6 +11,7 @@
   * **[[:fr:obs:notes:key-terms:noah|Noah (Noé)]]**
   * **[[:fr:obs:notes:key-terms:sacrifice|sacrifices (sacrifice)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Noah]]**
   * **[[:fr:obe:other/sacrifice]]**
