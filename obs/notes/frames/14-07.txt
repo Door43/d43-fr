@@ -8,7 +8,6 @@ Mais le peuple n'écouta pas Caleb et Josué. Il se mit en colère contre Moïse
 
 ===== Important Terms: =====
 
-
   * **[[:fr:obs:notes:key-terms:caleb|Caleb (Caleb)]]**
   * **[[:fr:obs:notes:key-terms:joshua|Joshua (Josué)]]**
   * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
@@ -16,6 +15,7 @@ Mais le peuple n'écouta pas Caleb et Josué. Il se mit en colère contre Moïse
   * **[[:fr:obs:notes:key-terms:egypt|Egypt (Egypte)]]**
   * **[[:fr:obs:notes:key-terms:servant|slaves (serviteurs)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/caleb]]**
   * **[[:fr:obe:other/joshua]]**
   * **[[:fr:obe:other/moses]]**
