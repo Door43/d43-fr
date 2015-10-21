@@ -1,5 +1,5 @@
 ===== The Animals Died [10-06] =====
-===== Les Animaux moururent  ===== 
+===== Les Animaux moururent [10-06] ===== 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
@@ -15,6 +15,7 @@ Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent
   * **[[:fr:obs:notes:key-terms:pharaoh|Pharaoh's (Pharaon)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israelites (Israël)]]**
 
+===== Termes importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/egypt]]**
   * **[[:fr:obe:other/pharaoh]]**
@@ -26,7 +27,7 @@ Puis, Dieu fit que toutes les bêtes qui appartenaient aux Égyptiens tombèrent
   * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
   * **heart was hardened**  - See note in **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 ===== Notes de Traduction: =====
-  * **les bêtes** - Il s'agit de grands animaux que les Égyptiens utilisaient pour les aider dans leur travail, tels que les chevaux, les ânes, les chameaux, les bovins, les moutons et les chèvres.
+  * **les bêtes** - Il s'agit des grands animaux que les Égyptiens utilisaient pour les aider dans leur travail, tels que les chevaux, les ânes, les chameaux, les bovins, les moutons et les chèvres.
   * **le cœur de Pharaon s'était endurci** - Voir note **[[:fr:obs:notes:frames:10-04|[10-04]]]**.
 
 **[[:fr:obs:notes:frames:10-05|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-07|>>]]**
