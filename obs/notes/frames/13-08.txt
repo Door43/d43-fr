@@ -1,4 +1,5 @@
 ===== The Tent of Meeting [13-08] =====
+===== La Tente de la Rencontre [13-08] ===== 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&}}
 
@@ -26,7 +27,7 @@ Dieu donna aussi aux Israélites une description détaillée de la tente qu'ils 
   * **It was called**  - This could be translated as, "They called it" or, "Moses called it."
   * **the room behind the curtain**  - This room was hidden by the curtain. Some languages would call this room, "the room in front of the curtain."
   * **God lived there**  - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: "God was there" or, "God revealed Himself to humans there."
-===== Notes de Traduction: =====
+==== Notes de Traduction: ====
 
   * **une description détaillée** - Cela pourrait être traduit par "Dieu l'a décrit en detail", ou "Dieu leur a dit exactement comment il voulait le faire."
   * **Cette tente s'appelait** - Cela pourrait être traduit comme: "Ils ont appelé cela" ou "Moïse a appelé."
