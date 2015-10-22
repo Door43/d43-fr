@@ -6,7 +6,7 @@ The **law expert** replied that **God's law** says, “**Love the Lord your God 
 
 Le docteur de la Loi dit: “Aimez le Seigneur votre Dieu de tout votre cœur, votre âme, votre force, et votre esprit. Et aimez votre prochain comme vous-même.” Jésus répondit: “Tu dis vrai, fais cela et tu vivras.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:gods-law|God's law (Loi de Dieu)]]**
   * **[[:fr:obs:notes:key-terms:love|Love (amour)]]**
@@ -14,6 +14,8 @@ Le docteur de la Loi dit: “Aimez le Seigneur votre Dieu de tout votre cœur, v
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:life|live (vivre)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
   * **[[:fr:obe:kt:love|love]]**
   * **[[:fr:obe:kt:lord|lord, master, sir]]**
