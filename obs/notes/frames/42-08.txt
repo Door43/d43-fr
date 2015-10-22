@@ -6,18 +6,7 @@
 
 “Il était aussi écrit que mes disciples proclameraient que chacun doit se repentir afin de recevoir le pardon ses péchés. Ils commenceront à précher à Jérusalem puis dans le monde entier. Vous êtes les témoins de tous ces évènenements.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/word-of-god|scriptures (les écritures)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/repent|repent (repentir)]]**
-  * **[[:fr:obs:notes:key-terms/receive|receive (recevoir)]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiveness (pardonner)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethnique)]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses (téoin)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/repent]]**
