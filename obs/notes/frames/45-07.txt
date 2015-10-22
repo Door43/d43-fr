@@ -6,21 +6,7 @@ A **disciple** of **Jesus**' named Philip was one of the **believers** who fled 
 
 Un disciple de Jésus qui s'appelait Philippe était un des croyants qui se sont enfuit de Jérusalem pendant la persécution. Il alla à Samarie pour prêcher le Christ et beaucoup ont été sauvés. Puis, un jour, un ange du Seigneur dira à Philippe de prendre une certaine route qui allait dans le désert. Quand il marchait sur la route, Philippe rencontra un haut-dignitaire éthiopien assis dans son char. Le Saint-Esprit dit à Philippe de lui parler.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/disciple|disciple (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
-  * **[[:fr:obs:notes:key-terms/samaria|Samaria (La Samarie)]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
-  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
-  * **[[:fr:obs:notes:key-terms/angel|angel (ange)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/chariot|chariot (char)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/believer|believers]]**
