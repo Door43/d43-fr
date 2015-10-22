@@ -6,15 +6,7 @@ Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was
 
 Ensuite, deux chefs des Juifs, Joseph et Nicodème, qui croyaient que Jésus était le Messie, demandèrent à Pilate le corps de Jésus. Ils l' enveloppèrent de linge funéraire et le déposèrent dans un tombeau taillé dans le roc. Puis ils roulèrent un grand bloc de pierre devant l'entrée du tombeau.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/jesus]]**
