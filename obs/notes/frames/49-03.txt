@@ -6,12 +6,7 @@
 
 Jésus était aussi un grand Maître, et il parlait avec autorité parce qu'il est le Fils de Dieu. Il enseigna qu'on avait besoin d'aimer les autres gens comme on s'aime.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of God (Fils de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/love|love (amour)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/sonofgod]]**
   * **[[:fr:obe:kt/love]]**
