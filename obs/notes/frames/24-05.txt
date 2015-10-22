@@ -1,4 +1,4 @@
-===== Not the Messiah Pas Le Messie [24-05] =====
+===== Not the Messiah / Pas Le Messie [24-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
@@ -6,11 +6,13 @@ Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am no
 
 Quelques Juifs demandèrent à Jean s'il était le Messie. Jean répondit, “Je ne suis pas le Messie, mais il y a quelqu'un qui viendra après moi. Il est si grand que je ne suis même pas digne de dénouer ses sandales.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jew|Jews (Juif)]]**
   * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:jew|Jew, Jewish]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah]]**
