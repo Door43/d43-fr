@@ -6,19 +6,7 @@
 
 Pierre leur répondit, “Cet homme se tient là, debout guérit par la puissance de Jésus, le Messie. Vous l'avez crucifié, mais Dieu l'a ressuscité! Vous l'avez rejeté, mais c'est en lui seul que ce trouve le salut!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
-  * **[[:fr:obs:notes:key-terms/power|power (puissance]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
-  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
-  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/heal|healed]]**
   * **[[:fr:obe:kt/power]]**
