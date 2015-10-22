@@ -6,18 +6,7 @@
 
 “Bien que Jésus soit mort, Dieu l'a ressuscité. Cela accomplit la prophétie qui disait: 'Tu ne laisseras pas Ton corps se décomposer dans le tombeau.' Nous sommes témoins que Dieu a ressuscité Jésus des morts.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfills (accomplir)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecy (prophétie)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Holy One (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/witness|witnesses (témoin)]]**
-  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/raise]]**
