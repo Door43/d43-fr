@@ -1,4 +1,4 @@
-===== The Birth of Jesus La Naissance de Jésus [23-05] =====
+===== The Birth of Jesus / La Naissance de Jésus [23-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
@@ -6,10 +6,12 @@ When they arrived in **Bethlehem**, there was **no place to stay**. The only roo
 
 Quand ils arrivèrent à Bethlehem, Il n'y avait pas de place pour eux dans l'hôtellerie. La seule pièce qu'ils pouvaient trouver était une étable où les animaux restaient. L'enfant naquit là et sa mère l'allongea dans une crèche, parce qu'il n'y avait pas de lit pour lui. Ils lui donnèrent le nom de Jésus.
 
-===== Important Terms termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Béthléem)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:bethlehem|Bethlehem]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 
