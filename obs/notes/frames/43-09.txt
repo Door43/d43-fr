@@ -6,14 +6,7 @@
 
 “Vous avez crucifié cet homme, Jésus. Voici donc ce que tout le peuple d'Israël doit savoir avec entière certitude: Dieu a fait Seigneur et Messie ce Jésus que vous avez crucifié!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Lord (Maître)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/crucify]]**
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/god]]**
