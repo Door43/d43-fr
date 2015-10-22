@@ -1,4 +1,4 @@
-===== Jesus in Galilee  Jésus En Galilée [26-01] =====
+===== Jesus in Galilee / Jésus En Galilée [26-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
@@ -6,7 +6,7 @@
 
 Après avoir surmonté les tentations de Satan, Jésus, revêtu de la puissance du Saint-Esprit, retourna en Galilée où il demeurait. Jésus alla enseigner de ville en ville. Sa renommée se répandit dans tout le pays.
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:satan|Satan's (Satan)]]**
   * **[[:fr:obs:notes:key-terms:tempt|temptations (tentations)]]**
@@ -14,11 +14,13 @@ Après avoir surmonté les tentations de Satan, Jésus, revêtu de la puissance 
   * **[[:fr:obs:notes:key-terms:power|power (puissance)]]**
   * **[[:fr:obs:notes:key-terms:holy-spirit|Holy Spirit (Saint Esprit)]]**
   * **[[:fr:obs:notes:key-terms:galilee|Galilee (Galilée)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:tempt|tempt, temptation]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:power|power]]**
-  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:kt:holyspirit|Holy Spirit]]**
   * **[[:fr:obe:other:galilee|Galilee, Galilean]]**
 
 ===== Translation Notes: =====
