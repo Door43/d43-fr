@@ -6,19 +6,7 @@ The **high priest** asked Stephen, “**Are these things true**?” Stephen repl
 
 Le Grand-Prêtre demanda à Étienne, “Ces choses sont-elles vraies?” Étienne leur rappela toutes les choses merveilleuses que Dieu avait accomplit depuis le temps d'Abraham jusqu'au temps de Jésus, et comment les croyants continuaient à le désobéir. Puis il dit, “Vous, gens obstinés et rebellés, vous résistez toujours à l'Esprit-Saint, semblable à vos ancêtres, qui avaient toujours rejeté Dieu et tué ses prophètes. Mais vous avez fait quelque chose de pire! Vous avez tué le Messie!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand Sacrificateur)]]**
-  * **[[:fr:obs:notes:key-terms/true|true (vérité)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/abraham|Abraham (Abraham)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/disobey|disobeyed (disobéir)]]**
-  * **[[:fr:obs:notes:key-terms/rebel|rebellious (rebelle)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophets (prophète)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/highpriest|high priest]]**
   * **[[:fr:obe:kt/true]]**
   * **[[:fr:obe:kt/God]]**
