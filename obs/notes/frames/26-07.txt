@@ -1,4 +1,4 @@
-===== The Attempt to Kill Jesus La Tentative De Tuer Jésus [26-07] =====
+===== The Attempt to Kill Jesus / La Tentative De Tuer Jésus [26-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&}}
 
@@ -6,11 +6,13 @@ The people of **Nazareth** dragged **Jesus** out of the **place of worship** and
 
 Le peuple de Nazareth chassa Jésus de la Synagogue et le mena au sommet d'une montagne afin de le précipiter en bas pour le tuer. Mais Jésus, se faufilant dans la foule, quitta la ville de Nazareth.
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:nazareth|Nazareth (Nazareth)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:worship|worship]]**
