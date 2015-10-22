@@ -1,4 +1,4 @@
-===== Worship Only God  Adore Dieu Seulement [25-07] =====
+===== Worship Only God / Adore Dieu Seulement [25-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?nolink&}}
 
@@ -6,7 +6,7 @@
 
 Jésus répondit, “Retire toi Satan! Dans la Parole de Dieu, il ordonne à son peuple 'Adorez le Seigneur, votre Dieu, et vous le servirez, lui seul.”
 
-===== Important Terms Les Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
@@ -14,6 +14,8 @@ Jésus répondit, “Retire toi Satan! Dans la Parole de Dieu, il ordonne à son
   * **[[:fr:obs:notes:key-terms:worship|Worship (adorer)]]**
   * **[[:fr:obs:notes:key-terms:lord|Lord (Seigneur)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
