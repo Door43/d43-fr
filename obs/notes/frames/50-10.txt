@@ -6,15 +6,7 @@
 
 “A la fin, les anges rassembleront tous les gens qui appartiennent au diable et les précipiteront dans la fournaise ardente, où il y aura beaucoup de pleurs et des grincements de dents et des souffrances terribles. Alors, les justes brilleront comme le soleil dans le royaume de Dieu leur Père.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:angel|angels (ange)]]**
-  * **[[:fr:obs:notes:key-terms:satan|devil (diable)]]**
-  * **[[:fr:obs:notes:key-terms:suffer|suffering (souffrir)]]**
-  * **[[:fr:obs:notes:key-terms:righteous|righteous (vertueux)]]**
-  * **[[:fr:obs:notes:key-terms:kingdom-of-god|kingdom (Royaume de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:god-father|God their Father (Dieu le Père)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/angel|angels]]**
   * **[[:fr:obe:kt/satan|devil]]**
   * **[[:fr:obe:kt/suffer|suffering]]**
