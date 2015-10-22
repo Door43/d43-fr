@@ -6,16 +6,7 @@
 
 Jésus fut beaucoup de miracles et ainsi il a montré aux gens qu'il était Dieu. Il marcha sur les eaux, guérit beaucoup de gens malades, sortit les démons, résuscita les morts à la vie, et nourrit 5,000 personnes avec cinq pains et deux poissons.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/miracle|miracles (miracle)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/heal|healed (guérir)]]**
-  * **[[:fr:obs:notes:key-terms/demon|demons (démon)]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/miracle|miracles]]**
   * **[[:fr:obe:kt/God]]**
