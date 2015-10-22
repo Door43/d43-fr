@@ -1,4 +1,5 @@
 ===== Moses Prayed for Israel [13-15] =====
+===== Moïse pria pour Israël [13-15] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink&}}
 
@@ -31,10 +32,11 @@ Moïse fit de nouvelles tablettes avec les dix commandements pour remplacer cell
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
   * **listened to**  - See how you translated this phrase in **[[:fr:obs:notes:frames:13-12|[13-12]]]**.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-===== Notes de Traduction: =====
+==== Notes de Traduction: ====
 
   * **Moïse fit**  -  Moïse a sculpté les tablettes de pierre avec des outils comme un marteau et un burin.
   * **écouta**  -  Voyez comment vous avez traduit cette phrase dans **[[:fr:obs:notes:frames:13-12|[13-12]]]**.
+  * //Une histoire biblique tirée de// - Ces références pourrait être légèrement différentes dan d'autres traductions bibliques.
 
 **[[:fr:obs:notes:frames:13-14|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:14-01|>>]]**
 
