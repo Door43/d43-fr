@@ -1,4 +1,4 @@
-===== The Ministry of Elisha Le Ministère d'Elie [26-06] =====
+===== The Ministry of Elisha / Le Ministère d'Elie [26-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
@@ -14,6 +14,8 @@ Jésus continua en disant que du temps du prophète Elie, Il y avait beaucoup de
   * **[[:fr:obs:notes:key-terms:heal|heal (guérir)]]**
   * **[[:fr:obs:notes:key-terms:naaman|Naaman (Namaan)]]**
   * **[[:fr:obs:notes:key-terms:jew|Jews (Juif)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
