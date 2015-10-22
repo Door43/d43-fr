@@ -1,4 +1,4 @@
-===== Jesus Is the Lamb of God  Jésus est L'agneau De Dieu [24-06] =====
+===== Jesus Is the Lamb of God / Jésus est L'agneau De Dieu [24-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
@@ -6,7 +6,7 @@ The next day, **Jesus** came to be **baptized** by **John**. When John saw him, 
 
 Le lendemain, Jésus vint pour que Jean le baptise. Quand Jean le vit, Il dit, “Voici l'Agneau de Dieu qui enlève le péché du monde.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
@@ -14,6 +14,8 @@ Le lendemain, Jésus vint pour que Jean le baptise. Quand Jean le vit, Il dit, �
   * **[[:fr:obs:notes:key-terms:lamb|Lamb (agneau)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:baptize|baptize, baptism]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
