@@ -6,16 +6,7 @@
 
 Jésus fut crucifié entre deux brigands. Un des deux se moquait de Jésus, mais l'autre dit: “Ne crains-tu pas Dieu? Nous sommes coupables, mais cet homme est innocent.” Puis il dit: “Jésus, souviens-toi de moi dans ton royaume.” Jésus lui dit: “Aujourd'hui tu seras avec moi au Paradis.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
-  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilty (coupable)]]**
-  * **[[:fr:obs:notes:key-terms/innocent|innocent (innocent)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom (Royaume de Dieu)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/crucify]]**
   * **[[:fr:obe:other/mock]]**
