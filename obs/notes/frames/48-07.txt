@@ -6,18 +6,7 @@
 
 Dieu dit à Abraham, “Par Toi, tout le monde sur terre sera béni.” Jésus était un descendant d'Abraham. Tous les groupes de gens sur terre seront bénis en Jésus, parce que toute personne qui croit en lui, sera sauvée de son péché et devient descendant spirituel d'Abraham.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/abraham|Abraham (Abraham)]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethnique)]]**
-  * **[[:fr:obs:notes:key-terms/bless|blessed (béni)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/descendant|descendant (descendant)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
-  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
-  * **[[:fr:obs:notes:key-terms/spirit|spiritual (spirituel)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/Abraham]]**
   * **[[:fr:obe:other/peoplegroup|people groups]]**
