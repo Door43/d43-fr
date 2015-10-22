@@ -6,17 +6,7 @@
 
 A cause de votre péché, vous êtes coupable et vous méritez la mort. Dieu devrait être en colère avec vous, mais il a versé sa colère sur Jésus au lieu de sur vous. Quand Jésus est mort sur la croix, il a prit sur lui votre châtiment .
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/guilt|guilty (coupable)]]**
-  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
-  * **[[:fr:obs:notes:key-terms/receive|received (recevoir)]]**
-  * **[[:fr:obs:notes:key-terms/punish|punishment (punir)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:kt/guilt]]**
   * **[[:fr:obe:kt/death]]**
