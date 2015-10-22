@@ -6,13 +6,7 @@ Because **Adam** and **Eve sinned**, something **even more terrible** happened. 
 
 Parce que Adam et Eve avaient péché, quelque chose d'encore plus terrible est arrivé. Ils sont devenus des ennemis de Dieu. Par suite, toute personne qui est née depuis, est née dans le péché et est aussi ennemi de Dieu. La relation entre Dieu et l'homme a été rompue par le péché. Mais Dieu avait un plan pour rétablir cette relation.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:other/Adam]]**
   * **[[:fr:obe:other/Eve]]**
   * **[[:fr:obe:kt/sin|sinned]]**
