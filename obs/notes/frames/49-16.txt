@@ -6,14 +6,7 @@ If you are a **Christian**, **God** has **forgiven** your **sins** because of wh
 
 Si vous êtes un Chrétien, Dieu vous a pardonné vos péchés à cause de ce que Jésus a fait. Maintenant, Dieu vous considère comme un ami très proche au lieu d'un ennemi.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgiven (pardonner)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/Christian]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/forgive|forgiven]]**
