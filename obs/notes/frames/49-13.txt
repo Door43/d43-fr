@@ -6,16 +6,7 @@
 
 Dieu sauvera quiconque croit en Jésus et le reçoit pour son Seigneur, mais quiconque ne croit pas sera rejeté. Peu importe que vous soyez riche ou pauvre, homme ou femme, vieux ou jeune, et d'où vous êtes. Dieu vous aime and veut que vous croyiez en Jésus pour qu'il puisse avoir une communion avec vous.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/save|save (sauver/délivrer)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/receive|receives (recevoir)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
-  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
-  
+===== Termes Importants ====  
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/save]]**
   * **[[:fr:obe:kt/believe|believes]]**
