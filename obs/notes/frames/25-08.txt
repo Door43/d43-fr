@@ -1,4 +1,4 @@
-===== Angels Ministered to Jesus Les Anges Ont Servi Jésus [25-08] =====
+===== Angels Ministered to Jesus / Les Anges Ont Servi Jésus [25-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink&}}
 
@@ -6,12 +6,14 @@
 
 Jésus ne se soumit pas aux tentations de Satan, alors Satan le quitta. Puis les anges vinrent auprès de lui et le servirent.
 
-===== Important Terms Les Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:satan|Satan's (Satan)]]**
   * **[[:fr:obs:notes:key-terms:tempt|temptations (tentation)]]**
   * **[[:fr:obs:notes:key-terms:angel|angels (ange)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:tempt|tempt, temptation]]**
