@@ -6,22 +6,20 @@
 
 Après avoir surmonté les tentations de Satan, Jésus, revêtu de la puissance du Saint-Esprit, retourna en Galilée où il demeurait. Jésus alla enseigner de ville en ville. Sa renommée se répandit dans tout le pays.
 
-===== Important Terms: =====
+===== Important Terms Termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/satan|Satan's (Satan)]]**
-  * **[[:fr:obs:notes:key-terms/tempt|temptations (tentations)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/power|power (puissance)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Saint Esprit)]]**
-  * **[[:fr:obs:notes:key-terms/galilee|Galilee (Galilée)]]**
-
-  * **[[:fr:obe:kt/satan]]**
-  * **[[:fr:obe:kt/tempt]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/power]]**
-  * **[[:fr:obe:kt/spirit]]**
-  * **[[:fr:obe:other/galilee]]**
-
+  * **[[:fr:obs:notes:key-terms:satan|Satan's (Satan)]]**
+  * **[[:fr:obs:notes:key-terms:tempt|temptations (tentations)]]**
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:power|power (puissance)]]**
+  * **[[:fr:obs:notes:key-terms:holy-spirit|Holy Spirit (Saint Esprit)]]**
+  * **[[:fr:obs:notes:key-terms:galilee|Galilee (Galilée)]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:tempt|tempt, temptation]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:power|power]]**
+  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:other:galilee|Galilee, Galilean]]**
 
 ===== Translation Notes: =====
 
