@@ -6,14 +6,7 @@ For almost 2,000 years, more and more people around the world have been hearing 
 
 Pendant au moins 2,000 ans, de plus en plus de gens dans le monde avaient entendu la bonne nouvelle de Jésus, le Messie. L'Eglise a grandi. Jésus promit qu'il reviendrait à la fin du monde. Même qu'il ne soit pas encore revenu, il gardera sa promesse.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/church|Church (église)]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/goodnews]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Christ|Messiah]]**
