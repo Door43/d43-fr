@@ -6,16 +6,7 @@
 
 Paul et d'autres chefs des Chrétiens voyagèrent vers beaucoup de villes, en prêchant et enseignant la bonne nouvelle de Jésus. Ils ont aussi écrit beaucoup de lettres aux églises pour encourager et enseigner aux chrétiens dans les églises. Quelques-unes de ces lettres sont devenues des livres de la bible.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
-  * **[[:fr:obs:notes:key-terms/preach|preaching (prêcher)]]**
-  * **[[:fr:obs:notes:key-terms/good-news|good news (bonne nouvelle)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/believer|believers (croyant)]]**
-  * **[[:fr:obs:notes:key-terms/church|churches (église)]]**
- 
+===== Termes Importants ===== 
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:kt/Christian]]**
   * **[[:fr:obe:other/preach|preaching]]**
