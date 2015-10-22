@@ -6,13 +6,7 @@
 
 “Jésus a été élevé pour siéger à la droite de Dieu Le Père. Et Jésus a envoyé le Saint-Esprit comme Il l'avait promit. C'est pour cette raison que vous voyez et entendez ces choses-la”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god-father|God the Father (Dieu le Père)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Espirt)]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/godthefather]]**
   * **[[:fr:obe:kt/holyspirit]]**
