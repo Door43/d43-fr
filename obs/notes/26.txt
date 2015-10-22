@@ -1,4 +1,4 @@
-====== 26. Jesus Starts His Ministry  Jésus Commence Son Ministère ======
+====== 26. Jesus Starts His Ministry Jésus Commence Son Ministère ======
 
 ===== Overview: =====
 
@@ -8,39 +8,37 @@ Jésus a commencé son ministère en Galilée. Il alla à Nazareth oû il avait 
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:fr:obs:notes:frames:26-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&200}}]]\\
+Jesus in Galilee Jésus En galilée [26-01]
 
-[[:fr:obs:notes:frames:26-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?200|Frame 26-01}}]]\\ 
-Jesus in Galilee [26-01]\\ 
+[[:fr:obs:notes:frames:26-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&200}}]]\\
+Jesus in Nazareth Jésus à Nazareth  [26-02]
 
-[[:fr:obs:notes:frames:26-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?200|Frame 26-02}}]]\\ 
-Jesus in Nazareth [26-02]\\ 
+[[:fr:obs:notes:frames:26-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&200}}]]\\
+Jesus Read the Scriptures Jésus Lut Les Ecritures [26-03]
 
-[[:fr:obs:notes:frames:26-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?200|Frame 26-03}}]]\\ 
-Jesus Read the Scriptures [26-03]\\ 
+[[:fr:obs:notes:frames:26-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&200}}]]\\
+The Prophesy about Jesus La Prophécie Au Sujet De Jésus [26-04]
 
-[[:fr:obs:notes:frames:26-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?200|Frame 26-04}}]]\\ 
-The Prophesy about Jesus [26-04]\\ 
+[[:fr:obs:notes:frames:26-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&200}}]]\\
+The Ministry of Elijah [26-05]
 
-[[:fr:obs:notes:frames:26-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?200|Frame 26-05}}]]\\ 
-The Ministry of Elijah [26-05]\\ 
+[[:fr:obs:notes:frames:26-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&200}}]]\\
+The Ministry of Elisha [26-06]
 
-[[:fr:obs:notes:frames:26-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?200|Frame 26-06}}]]\\ 
-The Ministry of Elisha [26-06]\\ 
+[[:fr:obs:notes:frames:26-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&200}}]]\\
+The Attempt to Kill Jesus [26-07]
 
-[[:fr:obs:notes:frames:26-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?200|Frame 26-07}}]]\\ 
-The Attempt to Kill Jesus [26-07]\\ 
+[[:fr:obs:notes:frames:26-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&200}}]]\\
+Jesus Healed the Sick [26-08]
 
-[[:fr:obs:notes:frames:26-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?200|Frame 26-08}}]]\\ 
-Jesus Healed the Sick [26-08]\\ 
+[[:fr:obs:notes:frames:26-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-09.jpg?nolink&200}}]]\\
+Jesus Removed the Demons [26-09]
 
-[[:fr:obs:notes:frames:26-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-09.jpg?200|Frame 26-09}}]]\\ 
-Jesus Removed the Demons [26-09]\\ 
-
-[[:fr:obs:notes:frames:26-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?200|Frame 26-10}}]]\\ 
-The Twelve Disciples [26-10]\\ 
+[[:fr:obs:notes:frames:26-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&200}}]]\\
+The Twelve Disciples [26-10]
 
 //A Bible story from: Matthew 4:12-25; Mark 1:14-15, 35-39; 3:13-21; Luke 4:14-30, 38-44//
 
