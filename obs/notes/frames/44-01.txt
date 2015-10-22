@@ -6,13 +6,7 @@
 
 Un jour, Pierre et John montèrent au Temple. Quand ils s'approchaient du portail du Temple, ils virent un homme paralysé qui mendiait.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/peter|Peter]]**
-  * **[[:fr:obs:notes:key-terms/john|John]]**
-  * **[[:fr:obs:notes:key-terms/temple|Temple]]**
-  * **[[:fr:obs:notes:key-terms/beg|begging]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/johntheapostle|John]]**
   * **[[:fr:obe:kt/Temple]]**
