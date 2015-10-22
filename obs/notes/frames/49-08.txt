@@ -6,16 +6,7 @@
 
 Jésus nous dit aussi que Jesus haït le péché. Quand Adam et Eve ont péché, cela a affecté tous leurs descendants. Par suite, chaque personne dans le monde a fait des péchés et est séparé de Dieu. Alors tout le monde devient un ennemi de Dieu.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
-  * **[[:fr:obs:notes:key-terms/descendant|descendants (descendant)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/sin]]**
