@@ -6,15 +6,7 @@ Then **Jesus** explained to them what **God’s word** said about the **Messiah*
 
 Alors Jésus leur expliqua ce que la Parole de Dieu disait au sujet du Messie. Il leur rappela que les prophètes avaient dit que le Messie devrait souffrir et être tué, mais qu'Il ressusciterait le troisième jour. Quand ils arrivèrent à destination, il faisait presque nuit.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophets (prophète)]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/christ]]**
