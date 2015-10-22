@@ -6,19 +6,7 @@ If you are a friend of **God** and a **servant** of **Jesus** the **Master**, yo
 
 Si vous êtes un ami de Dieu et un serviteur de Jésus, le Seigneur, vous allez vouloir obéir l'enseignement de Jésus. Même que vous soyez Chrétien, vous serez tenté par le péché. Mais, Dieu dit, si vous confessez vos péchés, il est fidèle et juste pour vous les pardonner et il vous donnera la force de lutter contre le péché.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (Maïtre)]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christian (Chrétien)]]**
-  * **[[:fr:obs:notes:key-terms/tempt|tempted (tenter)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/faithful|faithful (fidèle)]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:kt/Jesus]]**
