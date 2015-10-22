@@ -1,4 +1,4 @@
-===== Jesus Is the Son of God  Jésus Est Le Fils De Dieu [24-09] =====
+===== Jesus Is the Son of God / Jésus Est Le Fils De Dieu [24-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
@@ -6,7 +6,7 @@
 
 Dieu avait dit à John, “Le Saint-Esprit descendra sur quelqu'un que tu baptiseras. Cette personne est le Fils de Dieu.” Il n'existe qu'un seul Dieu. Mais quand Jean baptisa Jésus, il entendit Dieu le Père parler, il vit Dieu le Fils qui est Jésus, et il vit le Saint-Esprit.
 
-===== Important Terms Termes importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean le baptiste)]]**
@@ -16,6 +16,8 @@ Dieu avait dit à John, “Le Saint-Esprit descendra sur quelqu'un que tu baptis
   * **[[:fr:obs:notes:key-terms:god-father|God the Father (Dieu le Père)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:god-son|Son (fils)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
