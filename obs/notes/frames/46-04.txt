@@ -6,15 +6,7 @@ There was a **disciple** in Damascus named Ananias. **God** said to him, “Go t
 
 Il y avait un disciple à Damas qui s'appelait Ananias. Il dit, “Va à la maison où Saul demeure. Mets tes mains sur Saul pour qu'il puisse voir encore.” Mais Ananias dit, “Maître, j'ai entendu qu'il persécutait les Chrétiens.” Dieu répondit, “Va! j'ai choisi Saul pour qu'il déclare mon nom aux Juifs et aux autres gens. Il souffrira de beaucoup de choses pour mon nom.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/disciple|disciple (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (Maïtre)]]**
-  * **[[:fr:obs:notes:key-terms/persecute|persecuted (persécuter)]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/paul|Saul]]**
