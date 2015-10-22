@@ -6,16 +6,7 @@
 
 Paul a voyagé à Jérusalem pour se retrouver avec les disciples mais au début, tous avaient peur de lui. Puis un croyant qui s'appelait Barnabas amena Paul aux disciples et leur dit comment Saul avait prêché courageusement à Damas au nom de Jésus. Après cela, les disciples acceptèrent Saul.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/believer|believer (croyant)]]**
-  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas (Barnabas)]]**
-  * **[[:fr:obs:notes:key-terms/apostle|apostles (apôtres)]]**
-  * **[[:fr:obs:notes:key-terms/preach|preached (prêcher)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:other/paul|Saul]]**
   * **[[:fr:obe:other/Jerusalem]]**
   * **[[:fr:obe:kt/disciple|disciples]]**
