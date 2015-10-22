@@ -6,16 +6,11 @@
 
 “Quand le grain eut poussé, les serviteurs vinrent demander à leur Maître, 'Maître, tu as planté de la bonne graine dans ton champ. Alors, pourquoi il y-a-t-il des mauvaises herbes dans ton champ? le maître répondit, “Un ennemi a dut les planter.'”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (seigneur)]]**
-  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
-
+===== Termes Importants ===== 
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:kt/lord]]**
   * **[[:fr:obe:kt/good]]**
-\
+
 
 
 ===== Translation Notes: =====
