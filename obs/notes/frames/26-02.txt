@@ -6,22 +6,20 @@
 
 Jésus alla à Nazareth où il avait vécu pendant son enfance. Il entra dans la Synagogue le jour du Sabbat. On lui remit le manuscrit du prophète Esaïe pour qu'il puisse le lire. L'ayant déroulé, il en lut un passage.
 
-===== Important Terms: =====
+===== Important Terms termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/nazareth|Nazareth (Nazareth)]]**
-  * **[[:fr:obs:notes:key-terms/sabbath|Sabbath (Sabbat)]]**
-  * **[[:fr:obs:notes:key-terms/worship|worship (adorer)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
-  * **[[:fr:obs:notes:key-terms/isaiah|Isaiah (Esaïe)]]**
-
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:other/nazareth]]**
-  * **[[:fr:obe:kt/sabbath]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/isaiah]]**
-
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:nazareth|Nazareth (Nazareth)]]**
+  * **[[:fr:obs:notes:key-terms:sabbath|Sabbath (Sabbat)]]**
+  * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms:isaiah|Isaiah (Esaïe)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
+  * **[[:fr:obe:kt:sabbath|Sabbath]]**
+  * **[[:fr:obe:kt:worship|worship]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:isaiah|Isaiah]]**
 
 ===== Translation Notes: =====
 
