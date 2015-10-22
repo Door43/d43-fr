@@ -6,7 +6,7 @@ After **Elizabeth** gave birth to her baby boy, **Zechariah** and Elizabeth name
 
 Après qu'Elisabeth ait donné naissance à un fils, Zacharie et elle lui donnèrent le nom de Jean, comme l'ange l'avait ordonné. Puis Dieu permit à Zacharie de parler à nouveau. Zacharie dit, “Béni soit le Seigneur, parce qu'il s'est souvenu de son peuple! Toi, mon fils, tu seras le prophète du Très-Haut, qui dira aux gens comment recevoir le pardon de leurs péchés!”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:zechariah-nt|Zechariah (Zacharie)]]**
   * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean)]]**
@@ -17,7 +17,9 @@ Après qu'Elisabeth ait donné naissance à un fils, Zacharie et elle lui donnè
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:forgive|forgiveness (pardonner)]]**
   * **[[:fr:obs:notes:key-terms:sin|sins (péché)]]**
-  * **[[:fr:obe:other:zechariah|Zechariah (OT)]]**
+
+===== Termes Importants =====
+  * **[[:fr:obe:other:zechariahnt|Zechariah (NT)]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:angel|angel]]**
   * **[[:fr:obe:kt:god|God]]**
