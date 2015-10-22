@@ -1,4 +1,4 @@
-===== The Wise Men Visited Jesus Les Mages Ont Visité Jésus [23-09] =====
+===== The Wise Men Visited Jesus / Les Mages Ont Visité Jésus [23-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
@@ -6,12 +6,14 @@
 
 Un peu plus tard, les mages d'Orient, virent une étoile bizarre dans le ciel. Ils réalisèrent que cela voulait dire que le nouveau roi des Juifs était né. Alors, Ils voyagèrent une grande distance pour voir ce roi. Ils arrivèrent à Bethlehem et trouvèrent la maison dans laquelle Jésus et ses parents vivaient.
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:wise|wise (sage)]]**
   * **[[:fr:obs:notes:key-terms:king-of-jews|king of the Jews (Roi des juifs)]]**
   * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Béthléem)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:wise|wise, wisdom]]**
   * **[[:fr:obe:kt:kingofthejews|King of the Jews]]**
   * **[[:fr:obe:other:bethlehem|Bethlehem]]**
