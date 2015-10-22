@@ -6,12 +6,7 @@
 
 Jésus a dit à ses disciples une histoire qui aida a expliquer ce qui arrivera aux gens a la fin. Il dit “Un homme planta des bonnes semences dans ses champs. Pendant qu'il dormait, son ennemi vint et planta des mauvaises herbes au milieu du blé, et après il s'en alla.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/good]]**
