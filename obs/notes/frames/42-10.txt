@@ -6,18 +6,7 @@ Jesus said to his **disciples**, “**All authority in heaven and on earth has b
 
 Jésus dit à ses disciples: “Toute autorité au ciel et sur la terre m'a été donnée. Allez, faites des disciples de toutes les nations en les baptisant au nom du Père, du Fils et du Saint-Esprit et en leur enseignant à obéir à tout ce que je vous ai commandé. Souvenez-vous, je serai avec vous pour toujours.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
-  * **[[:fr:obs:notes:key-terms/people-group|people groups (groupe ethique)]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptizing (baptiser)]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son (fils)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
-  * **[[:fr:obs:notes:key-terms/obey|obey (obéir)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/heaven]]**
