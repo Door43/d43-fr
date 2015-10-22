@@ -6,15 +6,7 @@ When **God created the world**, everything was **perfect**. **There was no sin**
 
 Quand Dieu créa le monde, tout était parfait. Il n'y avait pas de péché. Adam et Eve s'aimaient, et ils aimaient Dieu. Il n'y avait pas de mort ou maladies ou souffrance. C'est comment Dieu voulait les choses.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/adam|Adam (Adam)]]**
-  * **[[:fr:obs:notes:key-terms/eve|Eve (Eve)]]**
-  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
-  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:other/Adam]]**
