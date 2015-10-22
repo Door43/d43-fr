@@ -6,14 +6,7 @@ The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were no
 
 Le lendemain de la mise au tombeau de Jésus, était le jour du Sabbat et il n'était pas permis aux Juifs d'aller au tombeau ce jour-là. Très tôt le matin suivant le Sabbat, plusieurs femmes se rendirent au tombeau pour mettre des huiles aromatiques sur le corps de Jésus.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/sabbath|Sabbath (sabbat)]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews (juif)]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb (tomb/tombeau)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/sabbath]]**
   * **[[:fr:obe:other/jew]]**
