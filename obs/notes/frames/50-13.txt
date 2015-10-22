@@ -6,15 +6,7 @@
 
 Jésus promit de donner une couronne à tous ceux qui croient en lui. Ils reigneront avec Dieu pour toujours dans une paix parfaite.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/promise|promised (promesse)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
-  * **[[:fr:obs:notes:key-terms/life|live (vie)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/peace|peace (paix)]]**
-  
+===== Terms Importants =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/promise|promised]]**
   * **[[:fr:obe:kt/believe|believes]]**
