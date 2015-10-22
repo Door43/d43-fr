@@ -6,22 +6,20 @@ Then **Jesus** said, “It is **true** that **no prophet is accepted in his own 
 
 Puis Jésus dit: “Je vous le dis en vérité, aucun prophète n'est bien reçu dans son pays”. Du temps du prophète Elie, il y avait plusieurs veuves en Israël. Mais quand il ne plut pas pendant trois ans et demi, Dieu n'envoya Elie aider aucune d'entre elles mais plutôt une veuve d'une autre nation.”
 
-===== Important Terms: =====
+===== Important Terms Termes importants: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/true|true (vérité)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
-  * **[[:fr:obs:notes:key-terms/elijah|Elijah (Élie)]]**
-  * **[[:fr:obs:notes:key-terms/israel|Israel (Israël)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/true]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/god]]**
-
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:true|true (vérité)]]**
+  * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
+  * **[[:fr:obs:notes:key-terms:elijah|Elijah (Élie)]]**
+  * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
+  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:true|true, truth]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:elijah|Elijah]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:god|God]]**
 
 ===== Translation Notes: =====
 
