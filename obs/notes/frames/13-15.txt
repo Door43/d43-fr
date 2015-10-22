@@ -34,10 +34,9 @@ Moïse fit de nouvelles tablettes avec les dix commandements pour remplacer cell
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 ==== Notes de Traduction: ====
 
-  * **Moïse fit**  -  Moïse a sculpté les tablettes de pierre avec des outils comme un marteau et un burin.
-  * **écouta**  -  Voyez comment vous avez traduit cette phrase dans **[[:fr:obs:notes:frames:13-12|[13-12]]]**.
-  * //Une histoire biblique tirée de// - Ces références pourrait être légèrement différentes dan d'autres traductions bibliques.
-
+  * **Moïse fit**  - Moïse a sculpté les tablettes de pierre avec des outils comme un marteau et un burin.
+  * **écouta**  - Voyez comment vous avez traduit cette phrase dans **[[:fr:obs:notes:frames:13-12|[13-12]]]**.
+  * //Une histoire biblique tirée de//  - Ces références pourrait être légèrement différentes dans d'autres traductions bibliques.
 **[[:fr:obs:notes:frames:13-14|<<]] | [[:fr:obs:notes:13|Up]] | [[:fr:obs:notes:frames:14-01|>>]]**
 
 ~~DISCUSSION~~
