@@ -6,14 +6,7 @@ The **disciples** did not understand the meaning of the story, so they asked **J
 
 Les disciples ne comprenaient pas la signification de l'histoire et demandèrent à Jesus de leur expliquer. Jésus répondit, “Celui qui sème la bonne semence, représente le Messie. Le champ représente le monde. La bonne semence, représente ceux qui font partie du royaume de Dieu.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|God's kingdom (Royaume de Dieu)]]**
-  
+===== Termes Important ===== 
   * **[[:fr:obe:kt/disciple|disciples]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/good]]**
