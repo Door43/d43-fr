@@ -1,4 +1,4 @@
-===== The Ministry of Elijah le Ministère d'Elie [26-05] =====
+===== The Ministry of Elijah / le Ministère d'Elie [26-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
@@ -6,7 +6,7 @@ Then **Jesus** said, “It is **true** that **no prophet is accepted in his own 
 
 Puis Jésus dit: “Je vous le dis en vérité, aucun prophète n'est bien reçu dans son pays”. Du temps du prophète Elie, il y avait plusieurs veuves en Israël. Mais quand il ne plut pas pendant trois ans et demi, Dieu n'envoya Elie aider aucune d'entre elles mais plutôt une veuve d'une autre nation.”
 
-===== Important Terms Termes importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:true|true (vérité)]]**
@@ -14,6 +14,8 @@ Puis Jésus dit: “Je vous le dis en vérité, aucun prophète n'est bien reçu
   * **[[:fr:obs:notes:key-terms:elijah|Elijah (Élie)]]**
   * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:true|true, truth]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
