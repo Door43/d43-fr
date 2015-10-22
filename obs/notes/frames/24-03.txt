@@ -1,4 +1,4 @@
-===== A Baptism of Repentance  Un Baptême de repentance [24-03] =====
+===== A Baptism of Repentance / Un Baptême de repentance [24-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
@@ -6,13 +6,15 @@ When people heard **John's** message, many of them **repented from their sins**,
 
 Quand les gens entendirent le message de Jean, beaucoup d'entre eux se repentirent de leurs péchés et Jean les baptisa. Beaucoup de leaders religieux voulurent être baptisés sans s'être repenti et avoir confessé leurs péchés.
 
-===== Important Terms Termes importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:john-baptist|John's (Jean)]]**
   * **[[:fr:obs:notes:key-terms:repent|repented (repentir)]]**
   * **[[:fr:obs:notes:key-terms:sin|sins (péché)]]**
   * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
   * **[[:fr:obs:notes:key-terms:jewish-leaders|religious leaders (Responsables juifs)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:repent|repent, repentance]]**
   * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
