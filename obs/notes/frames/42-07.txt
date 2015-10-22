@@ -6,16 +6,7 @@
 
 Jésus dit: “Je vous ai annoncé qu'il faut que s'accomplisse tout ce qui est écrit à mon sujet dans les Ecritures,”. Puis il leur ouvrit l'intelligence pour qu'ils comprennent les Écritures et leur dit: “Il était écrit depuis longtemps que le Messie devrait souffrir, mourir, et qu'Il ressusciterait le troisième jour.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|God's word (la parole de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled (accomplir)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
-  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/fulfill]]**
