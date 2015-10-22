@@ -6,15 +6,7 @@ One of the leaders **in the early Church** was a man named Stephen. He **had a g
 
 Un des leaders dans l'église était un homme qui s'appelait Etienne. Il avait une bonne réputation et il était rempli de grâce et de puissance divine. Étienne accomplissait beaucoup de miracles et raisonnait d'une manière persuasive que le peuple devrait croire en Jésus.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/church|Church (église)]]**
-  * **[[:fr:obs:notes:key-terms/holy-spirit|Holy Spirit (Le Saint Esprit)]]**
-  * **[[:fr:obs:notes:key-terms/wise|wisdom (sage)]]**
-  * **[[:fr:obs:notes:key-terms/miracle|miracles (miracle)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/Church]]**
   * **[[:fr:obe:kt/holyspirit|Holy Spirit]]**
   * **[[:fr:obe:kt/wise|wisdom]]**
