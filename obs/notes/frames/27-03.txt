@@ -1,4 +1,4 @@
-===== Who Is My Neighbor? Qui Est Mon Voisin?[27-03] =====
+===== Who Is My Neighbor? / Qui Est Mon Voisin?[27-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
@@ -10,6 +10,8 @@ Mais le docteurde la Loi voulut prouver qu'il était juste, donc demanda: “Qui
 
   * **[[:fr:obs:notes:key-terms/righteous|righteous (vertueux)]]**
 
+
+===== Termes Importants =====
   * **[[:fr:obe:kt/righteous]]**
 
 
