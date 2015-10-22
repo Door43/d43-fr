@@ -1,4 +1,4 @@
-===== Jesus Read the Scriptures  Jésus Lut Les Ecritures [26-03] =====
+===== Jesus Read the Scriptures / Jésus Lut Les Ecritures [26-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
@@ -6,14 +6,16 @@ Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good
 
 Jésus lut: “Dieu m'a donné son Esprit pour que j'annonce la bonne nouvelle aux pauvres, que je libère les opprimés et les captifs et que je rende la vue aux aveugles. C'est l'année de grâce du Seigneur.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obs:notes:key-terms:holy-spirit|Spirit (Saint Esprit)]]**
   * **[[:fr:obs:notes:key-terms:good-news|good news (bonne nouvelle)]]**
   * **[[:fr:obs:notes:key-terms:lord|Lord's (Seigneur)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:kt:holyspirit|Spirit]]**
   * **[[:fr:obe:kt:goodnews|good news, gospel]]**
   * **[[:fr:obe:kt:lord|lord, master, sir]]**
 
