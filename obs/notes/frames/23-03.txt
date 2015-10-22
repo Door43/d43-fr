@@ -1,4 +1,4 @@
-===== Joseph Married Mary  Joseph se  marrie avec Marie [23-03] =====
+===== Joseph Married Mary / Joseph se  marrie avec Marie [23-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
@@ -10,6 +10,8 @@ Alors Joseph prit Marie pour femme, mais il ne la connut qu'après la naissance 
 
   * **[[:fr:obs:notes:key-terms:joseph-nt|Joseph (Joseph)]]**
   * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
   * **[[:fr:obe:other:mary|Mary]]**
 
