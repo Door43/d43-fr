@@ -6,20 +6,18 @@
 
 Un jour, un enseignant de la loi Juive s'adressa à Jésus pour le mettre à l'épreuve en disant: “Maître, que dois-je faire pour gagner la vie éternelle?” Jésus répondit: “Qu'est-il écrit dans la Loi de Dieu?”
 
-===== Important Terms: =====
+===== Important Terms Termes Importants : =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/teacher|Teacher (maître))]]**
-  * **[[:fr:obs:notes:key-terms/inherit|inherit (hériter)]]**
-  * **[[:fr:obs:notes:key-terms/eternal-life|eternal life (la vie éternelle)]]**
-  * **[[:fr:obs:notes:key-terms/gods-law|God's law (Loi de Dieu)]]**
-
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/teacher]]**
-  * **[[:fr:obe:kt/inherit]]**
-  * **[[:fr:obe:kt/eternity]]**
-  * **[[:fr:obe:kt/lawofmoses]]**
-
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:teacher|Teacher (maître))]]**
+  * **[[:fr:obs:notes:key-terms:inherit|inherit (hériter)]]**
+  * **[[:fr:obs:notes:key-terms:eternal-life|eternal life (la vie éternelle)]]**
+  * **[[:fr:obs:notes:key-terms:gods-law|God's law (Loi de Dieu)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:teacher|teacher, Teacher]]**
+  * **[[:fr:obe:kt:inherit|inherit, inheritance]]**
+  * **[[:fr:obe:kt:eternity|everlasting, eternal, eternity]]**
+  * **[[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
 
 ===== Translation Notes: =====
 
