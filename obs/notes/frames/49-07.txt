@@ -6,14 +6,7 @@
 
 Jésus enseigna que Dieu aime beaucoup les pêcheurs. Il veut leur pardonner pour qu'ils deviennent ses enfants.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinners (péché)]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/love|loves]]**
