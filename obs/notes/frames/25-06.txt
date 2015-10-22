@@ -1,4 +1,4 @@
-===== The Third Temptation  La Troisième Tentation [25-06] =====
+===== The Third Temptation / La Troisième Tentation [25-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
@@ -6,13 +6,15 @@ Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **thei
 
 Alors Satan lui montra tous les royaumes du monde et leur gloire et dit, “Je te donnerai toutes ces choses si tu te prosternes et m'adores.”
 
-===== Important Terms  Les Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:kingdom|kingdoms (royaumes)]]**
   * **[[:fr:obs:notes:key-terms:glory|glory (gloire)]]**
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:other:kingdom|kingdom]]**
