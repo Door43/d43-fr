@@ -1,4 +1,4 @@
-===== Preparing the Way Préparant Le Chemin [24-04] =====
+===== Preparing the Way / Préparant Le Chemin [24-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
@@ -6,13 +6,15 @@
 
 Jean dit aux leaders religieux, “Vous races de vipères venimeuses! Repentez vous et changez votre comportement. Chaque arbre qui ne produit pas de bons fruits sera coupé et jeté au feu.” Jean réalisa ce que les prophètes avaient dit, “Voici, j'envoie mon messager qui préparera votre chemin.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:john-baptist|John (Jean)]]**
   * **[[:fr:obs:notes:key-terms:jewish-leaders|religious leaders (Responsables juifs)]]**
   * **[[:fr:obs:notes:key-terms:repent|Repent (repentir)]]**
   * **[[:fr:obs:notes:key-terms:fulfill|fulfilled (accomplir)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophets (prophète)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
   * **[[:fr:obe:kt:repent|repent, repentance]]**
