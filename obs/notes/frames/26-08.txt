@@ -1,4 +1,4 @@
-===== Jesus Healed the Sick  Jésus Guérit le Malade [26-08] =====
+===== Jesus Healed the Sick / Jésus Guérit le Malade [26-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
@@ -6,11 +6,13 @@ Then **Jesus went throughout the region of Galilee**, and large crowds came to h
 
 Puis Jésus s'en alla dans la région de Galilée, et des grandes foules le suivirent. Elles amenèrent les malades ou infirmes, y compris ceux qui ne pouvaient pas voir, marcher, entendre ou parler, et Jésus les guérit.
 
-===== Important Terms termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:galilee|Galilee (Galilée)]]**
   * **[[:fr:obs:notes:key-terms:heal|healed (guérir)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:other:galilee|Galilee, Galilean]]**
   * **[[:fr:obe:other:heal|heal, cure]]**
