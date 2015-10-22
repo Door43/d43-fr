@@ -6,18 +6,7 @@
 
 Jésus est notre Agneau de Pâque. Il était parfait et sans péché et fut crucifié au moment de la cérémonie de Pâque. Quiconque croit en Jésus, le sang de Jésus enlève les péchés de cette personne, et la punition de Dieu passe au-dessus de cette personne.
 
-===== Important Terms: =====
-
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
-  * **[[:fr:obs:notes:key-terms/lamb|Lamb (agneau)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
-  * **[[:fr:obs:notes:key-terms/blood|blood (le sang)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/god|God's (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/punish|punishment (punir)]]**
-  
+===== Termes Importants ===== 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Passover]]**
   * **[[:fr:obe:kt/lamb]]**
