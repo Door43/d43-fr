@@ -14,7 +14,7 @@ Click on the links below to translate each frame of the story.
 Jesus in Galilee Jésus En galilée [26-01]
 
 [[:fr:obs:notes:frames:26-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&200}}]]\\
-Jesus in Nazareth Jésus à Nazareth  [26-02]
+Jesus in Nazareth Jésus à Nazareth [26-02]
 
 [[:fr:obs:notes:frames:26-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&200}}]]\\
 Jesus Read the Scriptures Jésus Lut Les Ecritures [26-03]
@@ -23,10 +23,10 @@ Jesus Read the Scriptures Jésus Lut Les Ecritures [26-03]
 The Prophesy about Jesus La Prophécie Au Sujet De Jésus [26-04]
 
 [[:fr:obs:notes:frames:26-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&200}}]]\\
-The Ministry of Elijah [26-05]
+The Ministry of Elijah Le Ministère d'Elie [26-05]
 
 [[:fr:obs:notes:frames:26-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&200}}]]\\
-The Ministry of Elisha [26-06]
+The Ministry of Elisha Le Ministère d'Elie [26-06]
 
 [[:fr:obs:notes:frames:26-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&200}}]]\\
 The Attempt to Kill Jesus [26-07]
