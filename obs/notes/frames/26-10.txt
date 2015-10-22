@@ -1,4 +1,4 @@
-===== The Twelve Disciples Les12 Disciples [26-10] =====
+===== The Twelve Disciples / Les 12 Disciples [26-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
@@ -10,6 +10,8 @@ Puis Jésus choisit douze hommes qu'il appela ses disciples. Ils voyagèrent ave
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:apostle|apostles (apôtres)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:apostle|apostle, apostleship]]**
 
