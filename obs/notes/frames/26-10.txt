@@ -6,14 +6,12 @@ Then **Jesus** chose twelve men **who were called his apostles**. The apostles t
 
 Puis Jésus choisit douze hommes qu'il appela ses disciples. Ils voyagèrent avec Lui et apprirent beaucoup de choses de Lui.
 
-===== Important Terms: =====
+===== Important Terms termes Importants: =====
 
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/apostle|apostles (apôtres)]]**
-
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/apostle]]**
-
+  * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
+  * **[[:fr:obs:notes:key-terms:apostle|apostles (apôtres)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:apostle|apostle, apostleship]]**
 
 ===== Translation Notes: =====
 
