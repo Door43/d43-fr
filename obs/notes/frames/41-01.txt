@@ -6,17 +6,7 @@ After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said 
 
 Après la crucifixion de Jésus, les incrédules chefs des Juifs dirent à Pilate: “Ce menteur, Jésus, dit qu'il ressuscitera des morts après trois jours. Le tombeau doit être gardé afin de s'assurer que les disciples ne volent pas le corps et ensuite disent qu'il est ressuscité.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/crucify|crucified (crucifier)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/jewish-leaders|Jewish leaders (Responsables juifs)]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
-  * **[[:fr:obs:notes:key-terms/raise|rise (élever)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/crucify]]**
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:other/jewishleaders]]**
