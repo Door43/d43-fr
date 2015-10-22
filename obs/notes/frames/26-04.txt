@@ -1,4 +1,4 @@
-===== The Prophesy about Jesus La Prophécie Au Sujet De Jésus[26-04] =====
+===== The Prophesy about Jesus / La Prophécie Au Sujet De Jésus[26-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
@@ -6,12 +6,14 @@ Then **Jesus** sat down. Everybody watched him closely. They knew the passage of
 
 Puis Jésus s'assit. Tout le monde avait le regard fixé sur Lui. Ils savaient tous que la partie des Saintes Ecritures qu'il venait de lire parlait du Messie. Jésus dit: “Cette parole de l'Écriture, que je viens de vous lire, est accomplie.” Tout le monde était étonné. “N'est-ce pas le fils de Joseph?” dirent-ils.
 
-===== Important Terms termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:word-of-god|scripture (écriture)]]**
   * **[[:fr:obs:notes:key-terms:messiah|Messiah (Messie)]]**
   * **[[:fr:obs:notes:key-terms:joseph-nt|Joseph (Joseph)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah]]**
