@@ -6,17 +6,7 @@ Some believers who fled from the **persecution** in **Jerusalem** went far away 
 
 Certains croyants qui avaient fuit la persécution à Jérusalem partirent très loin à la ville d' Antioche et prêchaient au nom de Jésus. La plupart des gens à Antioche n'étaient pas des Juifs, mais pour la première fois, beaucoup d'entres eux deviennent croyants. Barnabas et Saul voyageront dans la ville d' Antioche pour parler de Jésus à ces nouveaux croyants et pour soutenir l'église. C'était à Antioche que, pour la première fois, les croyants furent appelés “chrétiens”.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
-  * **[[:fr:obs:notes:key-terms/barnabas|Barnabas (Barnabas)]]**
-  * **[[:fr:obs:notes:key-terms/paul|Saul (Saul)]]**
-  * **[[:fr:obs:notes:key-terms/church|church (église)]]**
-  * **[[:fr:obs:notes:key-terms/christian|Christians (Chrétien)]]**
-  
+===== Termes Importants =====  
   * **[[:fr:obe:other/persecute|persectuion]]**
   * **[[:fr:obe:other/Jerusalem]]**
   * **[[:fr:obe:kt/Jesus]]**
