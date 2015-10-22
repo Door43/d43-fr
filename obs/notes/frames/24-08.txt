@@ -1,4 +1,4 @@
-===== You Are My Beloved Son Tu Es Mon Fils Bien- aimé [24-08] =====
+===== You Are My Beloved Son / Tu Es Mon Fils Bien- aimé [24-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&}}
 
@@ -6,7 +6,7 @@ When **Jesus** came up out of the water after being **baptized**, the **Spirit o
 
 Quand Jésus sortit de l'eau après avoir été baptisé, l'Esprit de Dieu apparut sous la forme d'une colombe et elle vint sur lui. Aussitôt la voix de Dieu venant du ciel dit, “Tu es mon Fils bien-aimé, en qui j'ai mis toute mon affection et tu fais toute ma joie.”
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
@@ -14,9 +14,11 @@ Quand Jésus sortit de l'eau après avoir été baptisé, l'Esprit de Dieu appar
   * **[[:fr:obs:notes:key-terms:heaven|heaven (le ciel)]]**
   * **[[:fr:obs:notes:key-terms:god-son|Son (fils)]]**
   * **[[:fr:obs:notes:key-terms:love|love (amour)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:baptize|baptize, baptism]]**
-  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:kt:holyspirit|Spirit of God]]**
   * **[[:fr:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
   * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
   * **[[:fr:obe:kt:love|love]]**
