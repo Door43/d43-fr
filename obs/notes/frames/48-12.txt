@@ -6,14 +6,7 @@
 
 Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus est un le prophète souverain. Il est Dieu, alors tout ce qu'il a dit et fait était de Dieu son Père. C'est pour cette raison que Jésus est appelé la Parole de Dieu.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/moses|Moses (Moïse)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophet (prophète)]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|word of God (la parole de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
- 
+===== Termes Importants ===== 
   * **[[:fr:obe:other/Moses]]**
   * **[[:fr:obe:kt/prophet]]**
   * **[[:fr:obe:kt/wordofgod]]**
