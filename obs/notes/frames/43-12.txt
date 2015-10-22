@@ -6,16 +6,7 @@ About 3,000 people **believed** what **Peter** said and became **disciples** of 
 
 A peu près trois mille personnes crurent ce que Pierre avait dit et devinrent disciples de Jésus. Elles furent baptisées et firent partie de l'église de Jérusalem.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/believe|believed (croire)]]**
-  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
-  * **[[:fr:obs:notes:key-terms/church|church (église)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:other/peter]]**
   * **[[:fr:obe:kt/disciple]]**
