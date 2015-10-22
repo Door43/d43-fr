@@ -6,13 +6,7 @@
 
 Jésus dit que le royaume de Dieu vaut plus que toutes les autres choses dans le monde. La chose la plus importante pour tout le monde est que vous devez appartenir au royaume de Dieu. Pour rentrer dans le royaume de Dieu vous devez être sauvé de votre péché.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (Royaume de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  
+===== Termes Importants ===== 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/kingdomofgod]]**
   * **[[:fr:obe:kt/save|saved]]**
