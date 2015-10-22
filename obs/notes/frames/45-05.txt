@@ -6,15 +6,7 @@
 
 Quand Étienne était mourant, Il s'écria, “Jésus, reçois mon esprit.” Puis il tomba à genoux et lança un dernier cri, “Seigneur, ne leur demande pas compte de ce péché.” Puis il expira.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/receive|receive (recevoir)]]**
-  * **[[:fr:obs:notes:key-terms/spirit|spirit (esprit)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (Maître)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sin (péché)]]**
-  * **[[:fr:obs:notes:key-terms/death|died (mort)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/receive]]**
   * **[[:fr:obe:kt/spirit]]**
