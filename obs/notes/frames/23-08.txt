@@ -1,4 +1,4 @@
-===== The Shepherds Visited Jesus  Les Bergers Ont  Visité Jésus [23-08] =====
+===== The Shepherds Visited Jesus / Les Bergers Ont  Visité Jésus [23-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
@@ -6,7 +6,7 @@ The **shepherds** soon arrived at the place where **Jesus** was and they found h
 
 Les bergers arrivèrent aussitôt là où se trouvait Jésus et ils le trouvèrent couché dans une crèche, comme l'ange le leur avait dit. Ils furent très heureux. Les bergers retournèrent dans les champs où étaient leurs troupeaux, glorifiant et louant Dieu pour tout ce qu'ils avaient entendu et vu.
 
-===== Important Terms Termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:shepherd|shepherds (berger)]]**
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
@@ -14,6 +14,8 @@ Les bergers arrivèrent aussitôt là où se trouvait Jésus et ils le trouvère
   * **[[:fr:obs:notes:key-terms:mary|Mary (Marie)]]**
   * **[[:fr:obs:notes:key-terms:praise|praising (louer)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:other:shepherd|shepherd, to shepherd]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:angel|angel]]**
