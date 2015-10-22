@@ -6,15 +6,7 @@
 
 Dieu ouvrit le coeur de Lydie de sorte qu'elle croyait au message de Jésus, et elle fut baptisée avec sa famille. Elle invita Paul et Silas à loger chez elle, alors ils ont restés avec elle et sa famille.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/baptize|baptized (baptiser)]]**
-  * **[[:fr:obs:notes:key-terms/paul|Paul (Paul)]]**
-  * **[[:fr:obs:notes:key-terms/silas|Silas (Silas)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/Jesus]]**
