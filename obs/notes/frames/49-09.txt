@@ -6,17 +6,7 @@ But **God loved** everyone in the world so much that he **gave his only Son** so
 
 Mais Dieu a tant aimé le monde qu'il donna son fils unique, Jésus, pour que tous ceux qui croient en lui ne seront pas punis pour leurs péchés, mais vivront avec lui pour toujours.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son (Fils de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/punish|punished (punir)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
-  * **[[:fr:obs:notes:key-terms/life|live (vie)]]**
-  
+===== Termes Importants ===== 
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt:love|loved]]**
   * **[[:fr:obe:kt/sonofgod|Son]]**
