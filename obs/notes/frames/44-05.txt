@@ -6,21 +6,7 @@
 
 “Vous êtes ceux qui avaient dit au gouverneur romain de tuer Jésus. Vous avez fait mourir l'Auteur de la Vie, mais Dieu l'a ressuscité des morts. Bien que vous ne compreniez pas ce que vous faisiez, Dieu s'est servit de vos actions pour accomplir les prophéties, que le Messie devait souffrir et mourir. Mais, maintenant changez de vie et tournez-vous vers Dieu pour qu'il efface vos péchés.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/rome|Roman (Romain)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/life|life (vie)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/raise|raised (élever)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfill (accomplir)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecies (prophétie)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/suffer|suffer (souffrir)]]**
-  * **[[:fr:obs:notes:key-terms/repent|repent (repentir)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sins (péché)]]**
- 
+===== Termes Importants ===== 
   * **[[:fr:obe:other/rome|Roman]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/life]]**
