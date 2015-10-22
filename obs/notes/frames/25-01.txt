@@ -1,4 +1,4 @@
-===== Satan Tempted Jesus  Satan A Tenté Jésus [25-01] =====
+===== Satan Tempted Jesus / Satan A Tenté Jésus [25-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
@@ -6,7 +6,7 @@ Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out in
 
 Aussitôt que Jésus fut baptisé, le Saint-Esprit lui montra le chemin vers une région sauvage, où il jeûna pendant quarante jours et quarante nuits. Puis, Satan vint vers Jésus et le tenta.
 
-===== Important Terms Termes importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:baptize|baptized (baptiser)]]**
@@ -15,9 +15,11 @@ Aussitôt que Jésus fut baptisé, le Saint-Esprit lui montra le chemin vers une
   * **[[:fr:obs:notes:key-terms:satan|Satan (Satan)]]**
   * **[[:fr:obs:notes:key-terms:tempt|tempted (tenter)]]**
   * **[[:fr:obs:notes:key-terms:sin|sin (péché)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:baptize|baptize, baptism]]**
-  * **[[:fr:obe:kt:spirit|spirit, spiritual]]**
+  * **[[:fr:obe:kt:holyspirit|Holy Spirit]]**
   * **[[:fr:obe:other:fast|fast]]**
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:tempt|tempt, temptation]]**
