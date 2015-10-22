@@ -6,14 +6,7 @@ Every year, 50 days after the **Passover**, the **Jews** celebrated an important
 
 Chaque année, cinquante jours après la Pâque, les Juifs célébraient une journée de grâce importante,la Pentecôte. Les Juifs de toutes les nations venaient à Jérusalem pour la célébrer ensemble. Cette année-là la Pentecôte se trouva être une semaine aprés que Jésus fut retourné au ciel.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
-  * **[[:fr:obs:notes:key-terms/jew|Jews (juif)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
-
+===== Termes Importants =====
   * **[[:fr:obe:kt/passover]]**
   * **[[:fr:obe:other/jew]]**
   * **[[:fr:obe:other/jerusalem]]**
