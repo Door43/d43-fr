@@ -6,13 +6,7 @@
 
 “Les mauvaises herbes, représentent les gens qui suivent l'Esprit du mal. L'ennemi qui a semé les mauvaises graines représente le diable. La moisson représente la fin du monde, et les moissonneurs représentent les anges de Dieu.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/evil|evil (mal)]]**
-  * **[[:fr:obs:notes:key-terms/satan|devil (diable)]]**
-  * **[[:fr:obs:notes:key-terms/god|God's (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/angel|angels (ange)]]**
- 
+===== Termes Importants =====
   * **[[:fr:obe:kt/evil]]**
   * **[[:fr:obe:kt/satan|devil]]**
   * **[[:fr:obe:kt/God|God's]]**
