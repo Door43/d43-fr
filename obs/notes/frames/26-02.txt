@@ -1,4 +1,4 @@
-===== Jesus in Nazareth Jésus À Nazareth [26-02] =====
+===== Jesus in Nazareth / Jésus À Nazareth [26-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
@@ -6,7 +6,7 @@
 
 Jésus alla à Nazareth où il avait vécu pendant son enfance. Il entra dans la Synagogue le jour du Sabbat. On lui remit le manuscrit du prophète Esaïe pour qu'il puisse le lire. L'ayant déroulé, il en lut un passage.
 
-===== Important Terms termes Importants: =====
+===== Important Terms: =====
 
   * **[[:fr:obs:notes:key-terms:jesus|Jesus (Jésus)]]**
   * **[[:fr:obs:notes:key-terms:nazareth|Nazareth (Nazareth)]]**
@@ -14,6 +14,8 @@ Jésus alla à Nazareth où il avait vécu pendant son enfance. Il entra dans la
   * **[[:fr:obs:notes:key-terms:worship|worship (adorer)]]**
   * **[[:fr:obs:notes:key-terms:prophet|prophet (prophète)]]**
   * **[[:fr:obs:notes:key-terms:isaiah|Isaiah (Esaïe)]]**
+
+===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
   * **[[:fr:obe:kt:sabbath|Sabbath]]**
