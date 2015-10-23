@@ -6,14 +6,6 @@
 
 Dieu était en colère contre Salomon et comme punition pour son infidélité, il promit de diviser la nation d'Israël en deux royaumes après sa mort.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:solomon|Solomon (Salomon)]]**
-  * **[[:fr:obs:notes:key-terms:punish|punishment (punir)]]**
-  * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
-  * **[[:fr:obs:notes:key-terms:israel|Israel (Israël)]]**
-  * **[[:fr:obs:notes:key-terms:kingdom|kingdoms (royaume)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
