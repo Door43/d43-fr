@@ -6,10 +6,6 @@
 
 Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet homme et sa famille comme esclaves pour que sa dette soit acquittée.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
