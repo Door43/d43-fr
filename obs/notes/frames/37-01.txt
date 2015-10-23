@@ -6,15 +6,7 @@ One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus an
 
 Un jour, Jésus reçut un message que Lazare était gravement malade. Lazare et ses deux soeurs, Marie et Marthe, étaient de très bons amis de Jésus. Quand Jésus apprit la nouvelle, il dit: “Cette maladie n'aboutira pas à la mort, mais elle servira à glorifier Dieu.” Jésus était très attaché à ses amis, mais il resta encore deux jours là où il se trouvait.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
-  * **[[:fr:obs:notes:key-terms/death|death (mort)]]**
-  * **[[:fr:obs:notes:key-terms/glory|glory (gloire)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/love|loved (amour)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/Lazarus]]**
   * **[[:fr:obe:kt/death]]**
