@@ -6,15 +6,7 @@ The soldiers brought **Jesus** to a place called “**the Skull**” and nailed 
 
 Les soldats amènèrent Jésus à un endroit qui s'appelait “Le Crâne” et clouèrent ses mains et ses pieds sur la croix. Mais Jésus dit: “Père, pardonne-leur, car ils ne savent pas ce qu'ils font.” Pilate ordonna qu'un écriteau soit fixé au dessus de la tête de Jésus sur lequel était inscrit, “Roi des Juifs.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/cross|cross (croix)]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
-  * **[[:fr:obs:notes:key-terms/forgive|forgive (pardonner)]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
-  * **[[:fr:obs:notes:key-terms/king-of-jews|King of the Jews (Roi des juifs)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/cross]]**
   * **[[:fr:obe:kt/godthefather]]**
