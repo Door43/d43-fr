@@ -6,13 +6,7 @@ Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jes
 
 Ensuite Jésus et ses disciples arrivèrent dans un lieu appelé Géthsémané. Jésus demanda à ses disciples de prier pour qu'ils résistent à la tentation. Puis Jésus alla prier à l'écart.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/pray|pray (prier)]]**
-  * **[[:fr:obs:notes:key-terms/tempt|temptation (tenter)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:other/pray]]**
