@@ -6,11 +6,6 @@ Then **Peter** said to **Jesus**, “**Master****Bold**** Text**, **if it is you
 
 Puis Pierre dit à Jésus: “Seigneur, si c'est toi, ordonne que j'aille vers toi sur les eaux.” Jésus dit à Pierre: “Viens!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/lord|Master (seigneur)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/peter]]**
