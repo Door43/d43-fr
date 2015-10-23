@@ -7,14 +7,6 @@
 
 Dieu dit aux Israélites de célébrer la Pâque Juive chaque année pour qu'ils se souviennent qu'Il avait vaincu les Égyptiens et les avait sauvés de l'esclavage. Ils célébrèrent en tuant un agneau sans défaut, et en le mangeant avec du pain sans levain.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:israel|Israelites (Israë)]]**
-  * **[[:fr:obs:notes:key-terms:passover|Passover (Pâques)]]**
-  * **[[:fr:obs:notes:key-terms:egypt|Egyptians (Egypte)]]**
-  * **[[:fr:obs:notes:key-terms:servant|slaves (serviteurs)]]**
-  * **[[:fr:obs:notes:key-terms:lamb|lamb (agneau)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
