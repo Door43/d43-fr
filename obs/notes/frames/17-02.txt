@@ -6,20 +6,6 @@
 
 Dieu choisit un jeune Israélite, qui s'appelait David pour être roi après Saul. Il était berger dans la ville de Bethlehem. A des moments différents pendant qu'il veillait sur le troupeau de son père, David tua un lion et un ours qui avaient attaqué un mouton. David était un homme modeste et vertueux qui avait confiance en Dieu et qui lui obéissait.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:israel|Israelite (Israël)]]**
-  * **[[:fr:obs:notes:key-terms:david|David (David)]]**
-  * **[[:fr:obs:notes:key-terms:king|king (roi)]]**
-  * **[[:fr:obs:notes:key-terms:saul|Saul (Saul)]]**
-  * **[[:fr:obs:notes:key-terms:shepherd|shepherd (berger)]]**
-  * **[[:fr:obs:notes:key-terms:bethlehem|Bethlehem (Bethléhem)]]**
-  * **[[:fr:obs:notes:key-terms:sheep|sheep (mouton)]]**
-  * **[[:fr:obs:notes:key-terms:humble|humble (humble)]]**
-  * **[[:fr:obs:notes:key-terms:righteous|righteous (vertueu)]]**
-  * **[[:fr:obs:notes:key-terms:trust|trusted (la confiance)]]**
-  * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/god]]**
