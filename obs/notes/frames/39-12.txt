@@ -6,15 +6,7 @@
 
 Mais Pilate eut peur car l'agitation de la foule augmentait, alors il consentit à ce que ses soldats crucifient Jésus. Les soldats romains battirent Jésus à coups de fouets, le revêtirent d'un manteau écarlate et lui posèrent sur la tête une couronne d'épines. Puis ils se moquèrent de lui, disant: “Salut, Roi des Juifs!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
-  * **[[:fr:obs:notes:key-terms/crucify|crucify (crucifier)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/rome|Roman (romain)]]**
-  * **[[:fr:obs:notes:key-terms/mock|mocked (se moquer de)]]**
-  * **[[:fr:obs:notes:key-terms/king-of-jews|King of the Jews (Roi des juifs)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/pilate]]**
   * **[[:fr:obe:kt/crucify]]**
   * **[[:fr:obe:kt/jesus]]**
