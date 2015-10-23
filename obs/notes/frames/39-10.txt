@@ -6,17 +6,7 @@ Jesus answered, “**You have said so**, but **my kingdom is not an earthly king
 
 Jésus répondit: “Tu le dis toi-même, mais mon royaume n'est pas sur terre. Si c'était le cas, mes serviteurs me défendraient. Mais je suis venu sur la terre pour dire la vérité au sujet de Dieu. Qui aime la vérité m'écoute.” Pilate demanda: “Quelle est la vérité?”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom (Royaume de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/kingdom|kingdom (royaume]]**
-  * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/true|truth (vérité)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/love|loves (amour)]]**
-  * **[[:fr:obs:notes:key-terms/pilate|Pilate (Pilate)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/kingdomofgod]]**
   * **[[:fr:obe:other/kingdom]]**
