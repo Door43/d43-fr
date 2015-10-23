@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/joy|joy (joie)]]**
   * **[[:fr:obs:notes:key-terms/persecute|persecution (persécution)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/joy]]**
   * **[[:fr:obe:other/persecute]]**
