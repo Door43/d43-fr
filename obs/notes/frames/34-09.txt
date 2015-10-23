@@ -16,6 +16,7 @@
   * **[[:fr:obs:notes:key-terms/mercy|merciful (miséricorde)]]**
   * **[[:fr:obs:notes:key-terms/sin|sinner (péché)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/taxcollector]]**
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/heaven]]**
