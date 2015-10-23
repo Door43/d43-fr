@@ -7,9 +7,6 @@
 
 “Vous honorerez vos pères et vos mères. Vous ne tuerez point. Vous ne commettrez pas d'adultère. Vous ne volerez point. Vous ne mentirez point. Vous ne convoiterez pas la femme, la maison ou quoi que ce soit qui appartiendrait à votre voisin.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:adultery|adultery (adultère)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/adultery]]**
