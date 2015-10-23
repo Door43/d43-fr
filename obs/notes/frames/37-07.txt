@@ -6,12 +6,7 @@ The **tomb** was a cave with a stone rolled in front of its opening. When **Jesu
 
 Le tombeau était une grotte dont l'entrée était fermée par une pierre. Quand Jésus arriva au tombeau, il leur dit: “Enlevez la pierre.” Mais Marthe dit alors: “Il doit déjà sentir. Cela fait quatre jours qu'il est là.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/tomb|tomb (tombe/tombeau)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/tomb]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/death]]**
