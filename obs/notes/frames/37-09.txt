@@ -6,14 +6,7 @@ Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **
 
 Alors Jésus tourna son regard vers le ciel et dit: “Père, tu as exaucé ma prière et je t'en remercie. Moi, je sais que tu m'exauces toujours, mais si je parle ainsi, c'est pour que tous ceux qui m'entourent croient que c'est toi qui m'as envoyé. Puis il cria d'une voix forte: “Lazare, sors!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/heaven|heaven (le ciel)]]**
-  * **[[:fr:obs:notes:key-terms/god-father|Father (Dieu le Père)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
-  * **[[:fr:obs:notes:key-terms/lazarus|Lazarus (Lazare)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/heaven]]**
   * **[[:fr:obe:kt/godthefather]]**
