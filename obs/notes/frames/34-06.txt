@@ -15,6 +15,7 @@ Puis Jésus dit une parabole au sujet des gens qui croient en leurs bonnes actio
   * **[[:fr:obs:notes:key-terms/tax-collector|tax collector (publicain)]]**
   * **[[:fr:obs:notes:key-terms/jewish-leaders|religious leader (Responsable juifs)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/trust]]**
   * **[[:fr:obe:kt/temple]]**
