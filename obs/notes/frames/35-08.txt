@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
   * **[[:fr:obs:notes:key-terms/god|God (god)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt:son]]**
   * **[[:fr:obe:kt:sin|sinned]]**
   * **[[:fr:obe:kt:God]]**
