@@ -6,9 +6,6 @@
 
 ”'Par exemple, je jeûne deux fois par semaine et je te donne dix pour cent de tous mes revenus.'”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/fast|fast (jeûner)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/fast]]**
