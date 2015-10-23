@@ -6,12 +6,7 @@ The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfill
 
 Les soldats se partagèrent ses vêtements en les tirant au sort. C'est ainsi que s'accomplit cette prophétie de l'Ecriture Sainte qui dit: “Ils se sont partagés mes vêtements et ils ont tiré au sort ma tunique.” C'est exactement ce que firent les soldats.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus' (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/fulfill|fulfilled (accomplir)]]**
-  * **[[:fr:obs:notes:key-terms/prophet|prophecy (prophétie)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/fulfill]]**
   * **[[:fr:obe:kt/prophet]]**
