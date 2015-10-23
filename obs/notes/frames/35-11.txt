@@ -6,10 +6,6 @@
 
 “Quand le fils ainé découvrit qu'il y avait une fête parce que son frère était revenu, il se mit en colère et ne voulut pas entrer. Son père sortit et le pria de venir se réjouir avec eux, mais il refusa.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
-  * **[[:fr:obs:notes:key-terms/beg|begged (mendier/quémander)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
