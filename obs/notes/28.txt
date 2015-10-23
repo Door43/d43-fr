@@ -14,10 +14,10 @@ Click on the links below to translate each frame of the story.
 What Must I Do? Le Riche Notable [28-01]
 
 [[:fr:obs:notes:frames:28-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?nolink&200}}]]\\
-God's Commandments  Les Commandements De Dieu [28-02]
+God's Commandments Les Commandements De Dieu [28-02]
 
 [[:fr:obs:notes:frames:28-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?nolink&200}}]]\\
-What Else Must I Do? [28-03]
+What Else Must I Do?  Que Dois-Je Faire D'autre? [28-03]
 
 [[:fr:obs:notes:frames:28-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?nolink&200}}]]\\
 Sell Everything [28-04]
