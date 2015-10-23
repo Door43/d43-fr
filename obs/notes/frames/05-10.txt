@@ -6,16 +6,6 @@ Then **God** said to **Abraham**, “Because you were willing to give me everyth
 
 Puis Dieu dit à Abraham, “Parce que tu étais disposé à tout me donner, même ton fils unique, je promets de te bénir. Je multiplierai tes descendants, comme les étoiles dans le ciel. Parce que tu as obéi à ma voix, toutes les nations de la terre seront bénies en ta postérité.”
 
-===== Important Terms: =====
-
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
-  * **[[:fr:obs:notes:key-terms:son|son (fils)]]**
-  * **[[:fr:obs:notes:key-terms:promise|promise (promesse)]]**
-  * **[[:fr:obs:notes:key-terms:bless|bless (bénir)]]**
-  * **[[:fr:obs:notes:key-terms:descendant|descendants (descendants]]**
-  * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
