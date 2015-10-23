@@ -12,6 +12,7 @@ Jésus envoya ses disciples pour prêcher et enseigner aux gens dans de nombreux
   * **[[:fr:obs:notes:key-terms/apostle|apostles (apôtres)]]**
   * **[[:fr:obs:notes:key-terms/preach|preach (prêcher)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/apostle]]**
   * **[[:fr:obe:other/preach]]**
