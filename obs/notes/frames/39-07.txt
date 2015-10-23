@@ -6,13 +6,7 @@ Then **Peter vowed**, saying, “**May God curse me if I know this man**!” Imm
 
 Pierre jura, disant, “Que je sois maudit si je connais cet homme!” Immédiatement un coq chanta, et Jésus se retourna et regarda Pierre.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/curse|curse (malédiction)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/peter]]**
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/curse]]**
