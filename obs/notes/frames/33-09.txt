@@ -6,11 +6,6 @@
 
 “Mais la semence dans la bonne terre est une personne qui entend la Parole de Dieu, y donne foi, et porte du fruit.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
-  * **[[:fr:obs:notes:key-terms/word-of-god|word of God (La parole de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/good]]**
