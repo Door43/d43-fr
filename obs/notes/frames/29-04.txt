@@ -6,10 +6,6 @@
 
 “Le serviteur se prosterna devant le roi et dit: ”'Fais preuve de patience envers moi, et je te paierai tout ce que je te dois.' Le roi eut de la compassion pour le serviteur, annula toute sa dette et le laissa partir.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
