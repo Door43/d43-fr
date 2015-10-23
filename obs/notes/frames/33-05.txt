@@ -6,9 +6,6 @@
 
 “Une autre partie de la semence tomba dans la bonne terre. Elle porta du fruit, avec un rendement de 30, 60 ou même 100 grains par épis. Que celui qui a des oreilles pour entendre, entende!”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/good|good (bon)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/good]]**
