@@ -12,6 +12,7 @@ Jésus regarda les disciples et leur dit: “C'est impossible aux hommes, mais r
   * **[[:fr:obs:notes:key-terms/disciple|disciples (dsiciples)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/god]]**
