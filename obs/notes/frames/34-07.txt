@@ -14,6 +14,7 @@
   * **[[:fr:obs:notes:key-terms/adultery|adulterers (adultère)]]**
   * **[[:fr:obs:notes:key-terms/tax-collector|tax collector (publicain)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/sin]]**
