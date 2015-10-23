@@ -12,6 +12,7 @@ Jésus dit: “Le royaume de Dieu est semblable à un roi qui voulait faire rend
   * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
   * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/kingdomofgod]]**
   * **[[:fr:obe:other/king]]**
   * **[[:fr:obe:other/servant]]**
