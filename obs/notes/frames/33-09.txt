@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/word-of-god|word of God (La parole de Dieu)]]**
   * **[[:fr:obs:notes:key-terms/believe|believes (croire)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/good]]**
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/believe]]**
