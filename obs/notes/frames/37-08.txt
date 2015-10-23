@@ -6,13 +6,7 @@
 
 Jésus répondit: “Ne tais-je pas dit, si tu crois en moi, tu verras la gloire de Dieu?” On ôta donc la pierre.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/god|God's (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/glory|glory (gloire)]]**
-  * **[[:fr:obs:notes:key-terms/believe|believe (croire)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/God|God's]]**
   * **[[:fr:obe:kt/glory]]**
