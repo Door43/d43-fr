@@ -6,7 +6,7 @@ Then **Jesus** said to the **disciples**, “One of you will **betray** me.” T
 
 Puis Jésus dit aux disciples: “l'un de vous me trahira.” Les disciples furent consternés et demandèrent: “Qui fera une chose pareille?”. Jésus dit: “La personne à qui je vais donner ce morceau de pain est celle qui me trahira.” Puis il donna le pain à Judas.
 
-===== Termes Importants: =====
+===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt:disciple|disciples]]**
   * **[[:fr:obe:kt:betray]]**
