@@ -6,19 +6,7 @@ Every year, the **Jews** celebrated the **Passover**. This was a celebration of 
 
 Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remercier Dieu d'avoir sauvé leurs ancêtres de l'esclavage en Egypte il y a plusieurs siècles. Environ trois ans après avoir commencé à prêcher et à enseigner publiquement, Jésus dit à ses disciples qu'il voulait fêter la Pâque avec eux à Jerusalem et qu'il serait tué là bas.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jew|Jews (Juif)]]**
-  * **[[:fr:obs:notes:key-terms/passover|Passover (Pâques)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/save|saved (sauver/délivrer)]]**
-  * **[[:fr:obs:notes:key-terms/servant|slavery (serviteur)]]**
-  * **[[:fr:obs:notes:key-terms/egypt|Egypt (Egypte)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/preach|preaching (prêcher)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-  * **[[:fr:obs:notes:key-terms/jerusalem|Jerusalem (Jérusalem)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/Jew|Jews]]**
   * **[[:fr:obe:kt/Passover]]**
   * **[[:fr:obe:kt/God]]**
