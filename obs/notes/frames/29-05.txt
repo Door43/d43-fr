@@ -6,9 +6,6 @@
 
 “Mais quand le serviteur quitta le roi, il rencontra un autre serviteur qui avait envers lui une dette équivalente à plusieurs mois de salaire. Le premier serviteur saisit l'homme et lui dit: “Rends moi ce que tu me dois.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/servant|servant (serviteur)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
