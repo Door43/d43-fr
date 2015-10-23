@@ -6,13 +6,7 @@ Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, 
 
 Finalement, le Grand Prêtre regarda Jésus et lui demanda: “Dis-nous, es-tu le Messie, Le Fils du Dieu vivant?”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/priest-high|high priest (le grand sacrificateur)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/messiah|Messiah (Messie)]]**
-  * **[[:fr:obs:notes:key-terms/god-son|Son of the living God (Fils de Dieu))]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:kt/highpriest]]**
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/christ]]**
