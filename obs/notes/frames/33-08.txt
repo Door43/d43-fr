@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/love|love (amour)]]**
   * **[[:fr:obs:notes:key-terms/god|God (Dieu)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/wordofgod]]**
   * **[[:fr:obe:kt/love]]**
   * **[[:fr:obe:kt/god]]**
