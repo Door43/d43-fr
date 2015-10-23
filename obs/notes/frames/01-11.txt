@@ -6,14 +6,6 @@
 
 Au milieu du jardin, Dieu planta deux arbres particuliers, l'arbre de la vie et l'arbre de la connaissance du bien et du mal. Dieu dit à Adam qu'il pouvait manger du fruit de n'importe quel arbre du jardin, sauf de l'arbre de la connaissance du bien et du mal. S'il mangeait du fruit de cet arbre, il mourrait.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:life|life (vie)]]**
-  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
-  * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
-  * **[[:fr:obs:notes:key-terms:adam|Adam (Adam)]]**
-  * **[[:fr:obs:notes:key-terms:death|die (mort)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
