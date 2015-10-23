@@ -6,10 +6,6 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 
 Puis Dieu dit: “Que la lumière soit!” et la lumière fut. Dieu vit que la lumière était bonne et il l'appela “jour”. Il la sépara des ténèbres, qu'Il appela “nuit”. Dieu créa la lumière le premier jour de la création.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:good|good (bien)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
