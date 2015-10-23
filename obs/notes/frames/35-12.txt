@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/disobey|disobeyed (disobéir)]]**
   * **[[:fr:obs:notes:key-terms/sin|sinful (péché)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/faithful|faithfully]]**
   * **[[:fr:obe:other/disobey|disobeyed]]**
   * **[[:fr:obe:kt/sin|sinful]]**
