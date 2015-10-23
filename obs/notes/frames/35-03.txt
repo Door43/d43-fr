@@ -11,6 +11,7 @@
   * **[[:fr:obs:notes:key-terms/son|sons (fils)]]**
   * **[[:fr:obs:notes:key-terms/inherit|inheritance (hériter)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/inherit]]**
 
