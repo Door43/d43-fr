@@ -6,7 +6,7 @@ Suddenly, there was a **great earthquake**. An **angel that shone as bright as l
 
 Soudain il y eut un violent tremblement de terre. Un ange du Seigneur, qui avait l'apparence de l'éclair, descendit du ciel. Il roula la pierre de côté et s'assit sur elle. Les soldats gardant le tombeau furent saisis d'épouvante et tombèrent comme mort, face contre terre.
 
-===== Termes Importants: =====
+===== Termes Importants =====
   * **[[:fr:obe:kt/angel]]**
   * **[[:fr:obe:kt/heaven]]**
   * **[[:fr:obe:other/tomb]]**
