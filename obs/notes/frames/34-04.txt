@@ -6,10 +6,6 @@
 
 “Le Royaume de Dieu est semblable à un trésor que quelqu'un a caché dans un champ. L'homme qui l'a trouvé le cacha à nouveau. Dans sa joie, il alla vendre tout ce qu'il possèdait, et achèta le champ.”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/kingdom-of-god|kingdom of God (royaume de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms/joy|joy (joie)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/kingdomofgod]]**
