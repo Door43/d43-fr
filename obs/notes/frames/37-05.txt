@@ -6,7 +6,7 @@
 
 Jésus répondit: “je suis la Résurrection et la Vie. Celui qui croit en moi vivra, même s'il meurt, et celui qui vit et croit en moi ne mourra jamais. Crois-tu cela?” Marthe répondit: “Oui Seigneur! Je crois que tu es le Christ, le Fils de Dieu.”
 
-===== Termes Importants: =====
+===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/resurrection]]**
   * **[[:fr:obe:kt/life]]**
