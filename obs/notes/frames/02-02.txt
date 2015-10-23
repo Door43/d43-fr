@@ -5,9 +5,6 @@
 But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?”
 
 Il y avait un **serpent rusé** dans le jardin. Il dit à la femme, “**Dieu**** a t-Il vraiment dit** vous ne mangerez pas de **tous les arbres du jardin**?”
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
