@@ -7,17 +7,6 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 
 Dieu écrivit ces dix commandements sur deux tablettes de pierre et il les donna à Moïse. Dieu donna aux Israélites plusieurs autres lois et règlements à suivre. Dieu promit que s'ils les respectaient, il les aiderait et les protègerait. S'ils ne les respectaient pas, il les punirait.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:ten-commandments|Ten Commandments (Les dix commandements)]]**
-  * **[[:fr:obs:notes:key-terms:moses|Moses (Moïse)]]**
-  * **[[:fr:obs:notes:key-terms:gods-law|laws (La loi de Dieu)]]**
-  * **[[:fr:obs:notes:key-terms:obey|obeyed (obéir)]]**
-  * **[[:fr:obs:notes:key-terms:promise|promised (promesse)]]**
-  * **[[:fr:obs:notes:key-terms:bless|bless (bénir)]]**
-  * **[[:fr:obs:notes:key-terms:disobey|disobeyed (désobéir)]]**
-  * **[[:fr:obs:notes:key-terms:punish|punish (punir)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
