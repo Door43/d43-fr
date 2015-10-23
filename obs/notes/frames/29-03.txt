@@ -12,6 +12,7 @@ Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet
   * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
   * **[[:fr:obs:notes:key-terms/servant|slaves (serviteur)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:other/king]]**
   * **[[:fr:obe:other/servant]]**
