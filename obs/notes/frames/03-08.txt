@@ -6,9 +6,6 @@ Everything that lived on the dry land **died**, except the people and animals th
 
 Tout ce qui vivait sur la terre sèche **périt**, à l'exception des hommes et des animaux qui étaient dans le bateau. Le bateau flotta sur l'eau et préserva de la    noyade tout ce qui était à l'intérieur du bateau.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms:death|died (mort)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/death]]**
