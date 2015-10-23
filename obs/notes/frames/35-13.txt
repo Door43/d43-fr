@@ -6,11 +6,6 @@
 
 “Le père répondit: 'Mon fils, tu es toujours avec moi, et tout ce que j'ai est à toi. Mais il fallait bien se réjouir, parce que ton frère était mort et que maintenant il est revenu à la vie. Il était perdu et il est retrouvé.'”
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
-  * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
-  * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
