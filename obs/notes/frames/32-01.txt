@@ -6,10 +6,6 @@
 
 Un jour, Jésus et ses disciples montèrent dans une barque et traversèrent le lac jusqu'à la région où les Gadaréniens habitaient.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
