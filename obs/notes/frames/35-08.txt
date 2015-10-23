@@ -6,11 +6,7 @@
 
 “Le fils lui dit: 'Père, j'ai péché contre Dieu et contre toi. Je ne suis pas digne d'être appelé ton fils.'”
 
-===== Important Terms: =====
 
-  * **[[:fr:obs:notes:key-terms/son|son (fils)]]**
-  * **[[:fr:obs:notes:key-terms/sin|sinned (péché)]]**
-  * **[[:fr:obs:notes:key-terms/god|God (god)]]**
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt:son]]**
