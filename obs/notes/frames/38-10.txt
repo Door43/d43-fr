@@ -6,13 +6,7 @@
 
 Puis Pierre dit à Jésus: “Même si je dois mourir, Je ne te renierai pas!” Et tous les autres disciples dirent la même chose.
 
-===== Important Terms: =====
-
-  * **[[:fr:obs:notes:key-terms/peter|Peter (Pierre)]]**
-  * **[[:fr:obs:notes:key-terms/jesus|Jesus (Jésus)]]**
-  * **[[:fr:obs:notes:key-terms/death|die (mort)]]**
-  * **[[:fr:obs:notes:key-terms/disciple|disciples (disciple)]]**
-
+===== Termes Importants: =====
   * **[[:fr:obe:other/peter]]**
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/death]]**
