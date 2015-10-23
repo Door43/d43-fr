@@ -11,6 +11,7 @@
   * **[[:fr:obs:notes:key-terms/servant|servants (serviteur)]]**
   * **[[:fr:obs:notes:key-terms/king|king (roi)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:other/king]]**
 
