@@ -12,6 +12,7 @@
   * **[[:fr:obs:notes:key-terms/death|dead (mort)]]**
   * **[[:fr:obs:notes:key-terms/life|alive (vie)]]**
 
+===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/death|dead]]**
   * **[[:fr:obe:kt/life|alive]]**
