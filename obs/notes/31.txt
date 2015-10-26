@@ -8,34 +8,32 @@ One day, Jesus was praying near the lake as his disciples went across it in a bo
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:fr:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&200}}]]\\
+Jesus Prayed Alone  Jésus Pria Seul [31-01]
 
-[[:fr:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?200|Frame 31-01}}]]\\ 
-Jesus Prayed Alone [31-01]\\ 
+[[:fr:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&200}}]]\\
+The Storm L'Orage  [31-02]
 
-[[:fr:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?200|Frame 31-02}}]]\\ 
-The Storm [31-02]\\ 
+[[:fr:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&200}}]]\\
+Jesus Walked on the Water Jésus a marché Sur l'Eau [31-03]
 
-[[:fr:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?200|Frame 31-03}}]]\\ 
-Jesus Walked on the Water [31-03]\\ 
+[[:fr:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&200}}]]\\
+The Disciples Were Afraid  Les Disciples sont Éffrayés [31-04]
 
-[[:fr:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?200|Frame 31-04}}]]\\ 
-The Disciples Were Afraid [31-04]\\ 
+[[:fr:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&200}}]]\\
+Jesus Called Peter  Jésus A Appelé Pierre [31-05]
 
-[[:fr:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?200|Frame 31-05}}]]\\ 
-Jesus Called Peter [31-05]\\ 
+[[:fr:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&200}}]]\\
+Peter Walked on the WaterPierre A Marché Sur L'eau [31-06]
 
-[[:fr:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?200|Frame 31-06}}]]\\ 
-Peter Walked on the Water [31-06]\\ 
+[[:fr:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&200}}]]\\
+Peter Sank Pierre A Coulé [31-07]
 
-[[:fr:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?200|Frame 31-07}}]]\\ 
-Peter Sank [31-07]\\ 
+[[:fr:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&200}}]]\\
+The Son of God Le Fils de Dieu  [31-08]
 
-[[:fr:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?200|Frame 31-08}}]]\\ 
-The Son of God [31-08]\\ 
-
-//A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21//
+// Une histoire biblique tirée de: Matthieu 14:22-33; Marc 6:45-52; Jean 6:16-21//
 
 **[[:fr:obs:notes:30|<< Previous]] | [[:fr:obs:notes:32|Next >>]]**
