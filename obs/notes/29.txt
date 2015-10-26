@@ -23,10 +23,10 @@ Not Able to Repay Incapable De Repayer La Dette [29-03]
 The Debt Is Canceled La Dette Est Annulée [29-04]
 
 [[:fr:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&200}}]]\\
-The Small Debt  La Petite Dette [29-05]
+The Small Debt La Petite Dette [29-05]
 
 [[:fr:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
-To Prison [29-06]
+To Prison  En Prison [29-06]
 
 [[:fr:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&200}}]]\\
 The King Heard [29-07]
