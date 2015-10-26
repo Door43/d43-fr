@@ -17,13 +17,13 @@ How Many Times? Combien De Fois? [29-01]
 The Huge Debt La Dette Énorme [29-02]
 
 [[:fr:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&200}}]]\\
-Not Able to Repay Incapable De Repayer La Dette  [29-03]
+Not Able to Repay Incapable De Repayer La Dette [29-03]
 
 [[:fr:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&200}}]]\\
 The Debt Is Canceled La Dette Est Annulée [29-04]
 
 [[:fr:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&200}}]]\\
-The Small Debt [29-05]
+The Small Debt  La Petite Dette [29-05]
 
 [[:fr:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
 To Prison [29-06]
