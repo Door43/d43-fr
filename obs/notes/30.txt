@@ -11,10 +11,10 @@ Jésus se retira avec ses disciples dans un endroit paisible pour se reposer, ma
 Click on the links below to translate each frame of the story.
 
 [[:fr:obs:notes:frames:30-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&200}}]]\\
-A Quiet Place Un Endroit Paisible  [30-01]
+A Quiet Place Un Endroit Paisible [30-01]
 
 [[:fr:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&200}}]]\\
-The Crowd Followed Jesus [30-02]
+The Crowd Followed Jesus  La Foule Suivit Jésus [30-02]
 
 [[:fr:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&200}}]]\\
 Jesus Taught and Healed People [30-03]
