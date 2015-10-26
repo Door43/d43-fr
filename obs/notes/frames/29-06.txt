@@ -1,11 +1,10 @@
-===== To Prison [29-06] =====
+===== To Prison  En Prison [29-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
 “The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
 
 “Le second serviteur le supplia, disant: “Fais preuve de patience envers moi et je payerai toute ma dette”. Mais le premier serviteur refusa et le jeta en prison jusqu'à ce qu'il eut payé ce qu'il devait.”
-
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
