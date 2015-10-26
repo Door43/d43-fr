@@ -26,10 +26,10 @@ The Debt Is Canceled La Dette Est Annulée [29-04]
 The Small Debt La Petite Dette [29-05]
 
 [[:fr:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
-To Prison  En Prison [29-06]
+To Prison En Prison De Prison En Prison [29-06]
 
 [[:fr:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&200}}]]\\
-The King Heard [29-07]
+The King Heard  le roi A Été Au Courant [29-07]
 
 [[:fr:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&200}}]]\\
 The Wicked Servant [29-08]
