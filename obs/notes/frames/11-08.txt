@@ -11,11 +11,11 @@ La même nuit, Pharaon appela Moïse et Aaron et leur dit, “Prenez les Israél
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:other:aaron|Aaron F]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:pharaoh]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:other:aaron]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:egypt]]**
 ==== Translation Notes: ====
 
   * **called for**  – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
