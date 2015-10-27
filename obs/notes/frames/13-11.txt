@@ -11,7 +11,7 @@ Pendant plusieurs jours, Moïse était au sommet du Mont Sinaï, en train de par
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/sinai]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/aaron]]**
   * **[[:fr:obe:other/idol]]**
 
