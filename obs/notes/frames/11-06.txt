@@ -10,9 +10,9 @@ Mais les Égyptiens ne crurent pas en Dieu et ils n'obéirent pas à ses command
 
 =====Termes Importants =====
 
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:kt:believe]]**
+  * **[[:fr:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands."
