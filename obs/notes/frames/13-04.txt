@@ -10,7 +10,7 @@ Puis Dieu leur donna l'alliance et leur dit, “Je suis Yaweh, votre Dieu, qui v
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/covenant]]**
   * **[[:fr:obe:kt/yahweh]]**
   * **[[:fr:obe:kt/save]]**
