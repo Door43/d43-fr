@@ -11,7 +11,7 @@ Quand Moïse descendit de la montagne et vit l'idole, il était tellement fâch�
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/idol]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/tencommandments]]**
 
 
