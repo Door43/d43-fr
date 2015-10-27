@@ -7,9 +7,9 @@ When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran 
 Quand le **Pharaon** apprit ce que **Moïse** avait fait, Il essaya de le tuer. Moïse s'enfuit d'**Égypte** et se retira dans le désert où il serait hors de danger et loin des soldats du Pharaon.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:pharaoh]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:other:egypt]]**
 ==== Translation Notes: ====
 
   * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
