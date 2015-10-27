@@ -13,7 +13,7 @@ Si une personne avait désobéi à une des lois de Dieu, elle pouvait apporter u
   * **[[:fr:obe:kt/lawofmoses]]**
   * **[[:fr:obe:other/tentofmeeting]]**
   * **[[:fr:obe:other/sacrifice]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/priest]]**
   * **[[:fr:obe:other/altar]]**
   * **[[:fr:obe:kt/blood]]**
