@@ -10,7 +10,7 @@ Moïse avait peur et ne voulait pas aller vers Pharaon parce qu'il pensait qu'il
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/pharaoh]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/aaron]]**
 
 
