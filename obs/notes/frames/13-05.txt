@@ -12,7 +12,7 @@
   * **[[:fr:obe:other/idol]]**
   * **[[:fr:obe:kt/worship]]**
   * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/sabbath]]**
   * **[[:fr:obe:kt/holy]]**
   * **[[:fr:obe:kt/sabbath]]**
