@@ -10,9 +10,9 @@ Les Israélites firent exactement ce que Dieu leur avait ordonné. Dans la nuit,
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:other:egypt]]**
 ==== Translation Notes: ====
 
   * **every firstborn son**  - This means every firstborn son of families who had not made the blood sacrifice, that is, the Egyptians. To make this clear you may want to add, "Every Egyptian firstborn son" (since all the Israelite families had put the blood on their doorposts).
