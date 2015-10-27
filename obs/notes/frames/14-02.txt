@@ -23,7 +23,7 @@ Dieu promit à Abraham, Isaac, et Jacob qu'il donnerait la terre promise à leur
   * **[[:fr:obs:notes:key-terms:evil|evil (mal)]]**
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/promise]]**
   * **[[:fr:obe:other/abraham]]**
   * **[[:fr:obe:other/isaac]]**
@@ -33,7 +33,7 @@ Dieu promit à Abraham, Isaac, et Jacob qu'il donnerait la terre promise à leur
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:kt/worship]]**
   * **[[:fr:obe:other/obey]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/falsegod]]**
   * **[[:fr:obe:kt/evil]]**
 
