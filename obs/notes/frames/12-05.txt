@@ -10,11 +10,11 @@ Moïse dit aux Israélites, “Cessez d'avoir peur! Dieu se battra pour vous auj
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:save|save]]**
-  * **[[:fr:obe:other:redsea|Red Sea, Sea of Reeds]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:save]]**
+  * **[[:fr:obe:other:redsea]]**
 
 ==== Translation Notes: ====
 
