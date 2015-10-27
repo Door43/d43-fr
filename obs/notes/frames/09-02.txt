@@ -7,11 +7,11 @@ After hundreds of years, the number of **Israelites** had become very large. The
 Après des centaines d'années les **Israélites** étaient très nombreux. Les **Égyptiens** ne se souvenaient plus de **Joseph** et de tout ce qu'il avait fait pour les aider. Ils craignaient les Israélites à cause de leur nombre. Alors le **Pharaon** qui gouvernait l'Égypte à ce moment là **fit des Israélites les esclaves** des Égyptiens.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:other:josephot|Joseph (OT) Joseph (AT) F]]**
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:fr:obe:other:servant|servant, slave, slavery]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:other:josephot]]**
+  * **[[:fr:obe:other:pharaoh]]**
+  * **[[:fr:obe:other:servant]]**
 ==== Translation Notes: ====
 
   * **Pharaoh**  – "Pharaoh" is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
