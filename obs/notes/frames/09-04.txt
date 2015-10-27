@@ -7,9 +7,9 @@
 Le **Pharaon** **vit** que les **Israélites** étaient en train d'avoir beaucoup d'enfants, donc il donna l'ordre à son peuple de tuer tous les garçons Israélites en les jetant dans **le Nil**.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:nileriver|Nile River]]**
+  * **[[:fr:obe:other:pharaoh]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:nileriver]]**
 ==== Translation Notes: ====
 
   * **saw**  – Another way to say this would be, "realized" or, "knew."
