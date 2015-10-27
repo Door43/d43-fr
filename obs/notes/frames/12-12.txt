@@ -13,7 +13,7 @@ Quand les Israélites virent que les Égyptiens étaient tous morts, ils eurent 
 
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:kt/prophet]]**
