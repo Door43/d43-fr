@@ -8,7 +8,7 @@ Dieu dit aux Israélites, “Il faut que vous vous débarrassiez de tous les Can
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:kt/promisedland]]**
