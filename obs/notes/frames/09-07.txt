@@ -7,10 +7,10 @@ A daughter of **Pharaoh** saw the basket and looked inside. When she saw the bab
 Une des filles du **Pharaon** aperçut le panier et regarda à l'intérieur. Quand elle aperçut le bébé, **elle le prit et l'éleva comme son propre fils**. Elle embaucha une femme Israélite **comme nourrice** sans savoir que c'était la mère du bébé. Quand l'enfant grandit suffisamment pour ne plus avoir besoin de lait maternel, elle le rendit à la fille du Pharaon qu'il l'appela **Moïse**.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
+  * **[[:fr:obe:other:pharaoh]]**
   * **[[:fr:obe:kt:son|son]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:moses|Moses]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:moses]]**
 ==== Translation Notes: ====
 
   * **took him as her own son**  - She was a princess. When she made him her son, he became a prince of Egypt.
