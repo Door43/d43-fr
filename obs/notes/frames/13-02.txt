@@ -10,7 +10,7 @@ Dieu dit à Moïse et aux Israélites, “Si vous m'obéissez et gardez mon Alli
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/obey]]**
