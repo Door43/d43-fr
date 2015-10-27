@@ -7,17 +7,17 @@
 Dieu ajouta,” J'ai vu la **souffrance de mon peuple**. Je t'enverrai auprès du **Pharaon** **pour que tu fasses sortir les enfants d'Israël de leur esclavage en Égypte**. Je leur donnerai le pays de **Canaan**, le pays **promis** à **Abraham**, **Isaac** et **Jacob**.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:suffer|suffer, suffering]]**
-  * **[[:fr:obe:other:pharaoh|Pharaoh, King of Egypt]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:servant|servant, slave, slavery]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:fr:obe:kt:promise|promise]]**
-  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
-  * **[[:fr:obe:other:isaac|Isaac]]**
-  * **[[:fr:obe:other:jacob|Jacob, Israel]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:suffer]]**
+  * **[[:fr:obe:other:pharaoh]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:servant]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:other:canaan]]**
+  * **[[:fr:obe:kt:promise]]**
+  * **[[:fr:obe:other:abraham]]**
+  * **[[:fr:obe:other:isaac]]**
+  * **[[:fr:obe:other:jacob]]**
 ==== Translation Notes: ====
 
   * **suffering of my people**  - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
