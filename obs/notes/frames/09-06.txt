@@ -8,7 +8,7 @@ Quand les parents de l'enfant ne pouvaient plus le cacher, ils le mirent dans un
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:nileriver|Nile River]]**
+  * **[[:fr:obe:other:nileriver]]**
 ==== Translation Notes: ====
 
   * //(There are no notes for this frame.)//
