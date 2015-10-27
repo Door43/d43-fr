@@ -10,11 +10,11 @@ Toutes les maisons des **Israélites** eurent **du sang** autour de leurs portes
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:kt:blood|blood]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:save|save]]**
-  * **[[:fr:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:kt:blood]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:save]]**
+  * **[[:fr:obe:kt:lamb]]**
 ==== Translation Notes: ====
 
   * **passed over**  - This means that God passed by those houses and did not stop to kill anyone there. This phrase became the name of the Jewish festival, "Passover."
