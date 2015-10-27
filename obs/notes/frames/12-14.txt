@@ -9,7 +9,7 @@ Dieu dit aux Israélites de célébrer la Pâque Juive chaque année pour qu'ils
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:kt/passover]]**
   * **[[:fr:obe:other/egypt]]**
