@@ -7,9 +7,9 @@
 **Moïse** devint un **berger** dans la nature loin d'**Égypte**. Il se maria avec une femme de cet endroit et eut deux fils.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:other:shepherd|shepherd, to shepherd]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:other:shepherd]]**
+  * **[[:fr:obe:other:egypt]]**
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this in **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
