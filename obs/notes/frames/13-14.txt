@@ -11,7 +11,7 @@ Ensuite, Moïse frappa sur l'idole jusqu'à ce qu'elle se transforme en poudre, 
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/idol]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
 
 
 ==== Translation Notes: ====
