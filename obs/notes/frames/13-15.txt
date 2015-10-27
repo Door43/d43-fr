@@ -11,7 +11,7 @@ Moïse fit de nouvelles tablettes avec les dix commandements pour remplacer cell
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:other/pray]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/forgive]]**
   * **[[:fr:obe:other/tencommandments]]**
   * **[[:fr:obe:other/israel]]**
