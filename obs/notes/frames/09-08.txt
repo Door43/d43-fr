@@ -7,11 +7,11 @@ One day, when **Moses** had **grown up**, he saw an **Egyptian** beating an **Is
 Un jour, alors que **Moïse** était **devenu grand**, il vit un **Égyptien** en train de frapper un **esclave Israélite**. Moïse essaya de **porter secours** à **son compatriote**.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:servant|servant, slave, slavery]]**
-  * **[[:fr:obe:kt:save|save]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:servant]]**
+  * **[[:fr:obe:kt:save]]**
 ==== Translation Notes: ====
 
   * **grown up**  - Another way to say this would be, "grown into a man."
