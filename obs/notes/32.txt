@@ -14,10 +14,10 @@ Click on the links below to translate each frame of the story.
 The Country of the Gerasenes La Région Des Gadaréniens [32-01]
 
 [[:fr:obs:notes:frames:32-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&200}}]]\\
-A Man with Evil Spirits Un Démoniaque  [32-02]
+A Man with Evil Spirits Un Démoniaque [32-02]
 
 [[:fr:obs:notes:frames:32-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&200}}]]\\
-Breaking the Chains [32-03]
+Breaking the Chains Brisant Les Chaînes [32-03]
 
 [[:fr:obs:notes:frames:32-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&200}}]]\\
 Living among the Tombs [32-04]
