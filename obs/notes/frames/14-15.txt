@@ -8,7 +8,7 @@ Puis Dieu dit à Moïse d'aller au sommet de la montagne pour qu'il puisse voir 
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/moses]]**
   * **[[:fr:obe:kt/promisedland]]**
   * **[[:fr:obe:other/israel]]**
