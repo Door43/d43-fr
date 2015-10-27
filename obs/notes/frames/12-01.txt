@@ -11,13 +11,13 @@ Les Israélites étaient très heureux de quitter l'Égypte. Ils n'étaient plus
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:other:servant|servant, slave, slavery]]**
-  * **[[:fr:obe:kt:promisedland|Promised Land]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:other:servant]]**
+  * **[[:fr:obe:kt:promisedland]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:kt:believe]]**
+  * **[[:fr:obe:kt:god]]**
 
 ==== Translation Notes: ====
 
