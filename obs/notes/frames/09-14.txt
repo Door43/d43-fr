@@ -7,12 +7,12 @@
 **Moïse** demanda, “Mais si **le peuple** demande qui m'a envoyé, que devrais je dire?” **Dieu** dit, '**Je SUIS QUI JE SUIS**. Dis leur que 'JE SUIS t'a envoyé.' Dis leur aussi, 'Je suis **Yahweh**, le Dieu de vos ancêtres, **Abraham, Isaac, et Jacob**'. Voila **mon nom** pour l'éternité.”
 
 ===== Termes Importants =====  
-  * **[[:fr:obe:other:moses|Moses]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:yahweh|Yahweh]]**
-  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
-  * **[[:fr:obe:other:isaac|Isaac]]**
-  * **[[:fr:obe:other:jacob|Jacob, Israel]]**
+  * **[[:fr:obe:other:moses]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:yahweh]]**
+  * **[[:fr:obe:other:abraham]]**
+  * **[[:fr:obe:other:isaac]]**
+  * **[[:fr:obe:other:jacob]]**
 ==== Translation Notes: ====
 
   * **the people**  - See "my people" in **[[:fr:obs:notes:frames:09-13|[09-13]]]**.
