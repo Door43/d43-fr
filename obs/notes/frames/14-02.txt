@@ -29,6 +29,7 @@ Dieu promit à Abraham, Isaac, et Jacob qu'il donnerait la terre promise à leur
   * **[[:fr:obe:other/isaac]]**
   * **[[:fr:obe:other/jacob]]**
   * **[[:fr:obe:kt/promisedland]]**
+  * **[[:fr:obe:other:descendant]]**
   * **[[:fr:obe:other/peoplegroup]]**
   * **[[:fr:obe:other/canaan]]**
   * **[[:fr:obe:kt/worship]]**
