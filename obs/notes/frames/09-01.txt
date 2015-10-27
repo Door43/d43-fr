@@ -8,10 +8,10 @@ Après la mort de Joseph, toute sa famille resta en Égypte. Sa famille et leurs
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:josephot|Joseph (OT) Joseph (AT) F]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:fr:obe:other:descendant|descendant]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:josephot]]**
+  * **[[:fr:obe:other:egypt]]**
+  * **[[:fr:obe:other:descendant]]**
+  * **[[:fr:obe:other:israel]]**
 ==== Translation Notes: ====
 
   * **called the Israelites**  - The people group that descended from Jacob was called "Israel," which is the name that God gave to Jacob. The people from that group were called "Israelites."
