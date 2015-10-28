@@ -14,10 +14,10 @@ Click on the links below to translate each frame of the story.
 The Mustard Seed La Graine De Moutarde [34-01]
 
 [[:fr:obs:notes:frames:34-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&200}}]]\\
-The Large Tree  Le Grand Arbre [34-02]
+The Large Tree Le Grand Arbre [34-02]
 
 [[:fr:obs:notes:frames:34-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&200}}]]\\
-The Yeast [34-03]
+The Yeast  La levure [34-03]
 
 [[:fr:obs:notes:frames:34-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&200}}]]\\
 The Treasure in the Field [34-04]
