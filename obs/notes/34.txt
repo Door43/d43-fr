@@ -17,10 +17,10 @@ The Mustard Seed La Graine De Moutarde [34-01]
 The Large Tree Le Grand Arbre [34-02]
 
 [[:fr:obs:notes:frames:34-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&200}}]]\\
-The Yeast  La levure [34-03]
+The Yeast La levure [34-03]
 
 [[:fr:obs:notes:frames:34-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&200}}]]\\
-The Treasure in the Field [34-04]
+The Treasure in the Field  Le Trésor Dans Le Champ [34-04]
 
 [[:fr:obs:notes:frames:34-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&200}}]]\\
 The Perfect Pearl [34-05]
