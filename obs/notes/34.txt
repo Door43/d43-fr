@@ -20,10 +20,10 @@ The Large Tree Le Grand Arbre [34-02]
 The Yeast La levure [34-03]
 
 [[:fr:obs:notes:frames:34-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&200}}]]\\
-The Treasure in the Field  Le Trésor Dans Le Champ [34-04]
+The Treasure in the Field Le Trésor Dans Le Champ [34-04]
 
 [[:fr:obs:notes:frames:34-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&200}}]]\\
-The Perfect Pearl [34-05]
+The Perfect Pearl La Perle Parfaite  [34-05]
 
 [[:fr:obs:notes:frames:34-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&200}}]]\\
 Two Men at the Temple [34-06]
