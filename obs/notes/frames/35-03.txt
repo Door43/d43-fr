@@ -6,8 +6,6 @@
 
 “Un homme avait deux fils. Le plus jeune dit à son père: 'Père, donne-moi maintenant la part du bien qui doit me revenir! 'Alors le père partagea son bien entre ses deux fils.”
 
-
-
 ===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/inherit]]**
