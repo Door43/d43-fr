@@ -13,7 +13,6 @@ Quand Josué fut un homme âgé, il rassembla tous les Israélites. Ensuite, Jos
   * **[[:fr:obe:other/obey]]**
   * **[[:fr:obe:kt/covenant]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/israel]]**
   * **[[:fr:obe:other/sinai]]**
   * **[[:fr:obe:kt/promise]]**
   * **[[:fr:obe:kt/faithful]]**
