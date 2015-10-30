@@ -10,8 +10,8 @@ Les **Assyriens** réunirent tous les leaders, les gens riches, et ceux qui avai
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]] (Assyrie,Assyriens,royaume d'Assyrie)**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]] (Israël, Israélites,nation d'Israël)**
+  * **[[:fr:obe:other:assyria]]**
+  * **[[:fr:obe:other:israel]]**
 
 ==== Translation Notes: ====
 
