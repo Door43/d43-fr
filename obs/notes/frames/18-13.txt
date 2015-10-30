@@ -18,9 +18,10 @@ Les rois de Judas furent des descendants de David. Certains d'entre eux étaient
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:kt/evil]]**
   * **[[:fr:obe:other/idol]]**
+  * **[[:fr:obe:other/sacrifice]]**
   * **[[:fr:obe:kt/falsegod]]**
   * **[[:fr:obe:other/rebel]]**
-  * **[[:fr:obe:other/israel]]**
+
 
 
 ==== Translation Notes: ====
