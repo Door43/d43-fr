@@ -8,13 +8,13 @@ Dieu promit à Abraham que, par son biais, tous les groupes ethniques du monde r
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
-  * **[[:fr:obe:other:peoplegroup|people group, people]]**
-  * **[[:fr:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:fr:obe:kt:fulfill|fulfill]]**
-  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
-  * **[[:fr:obe:kt:save|save]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:other:abraham]]**
+  * **[[:fr:obe:other:peoplegroup]]**
+  * **[[:fr:obe:kt:bless]]**
+  * **[[:fr:obe:kt:fulfill]]**
+  * **[[:fr:obe:kt:christ]]**
+  * **[[:fr:obe:kt:save]]**
 ==== Translation Notes: ====
 
   * **through him**  – That is, "because of one of his descendants."
