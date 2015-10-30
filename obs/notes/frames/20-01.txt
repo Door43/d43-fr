@@ -9,16 +9,16 @@ Le **royaume d'Israël** et le **royaume de Juda** avaient **péché** contre **
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:Israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
-  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:covenant|covenant]]**
-  * **[[:fr:obe:other:sinai|Sinai, Mount Sinai]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:kt:repent|repent, repentance]]**
-  * **[[:fr:obe:kt:worship|worship]]**
-  * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:fr:obe:other:Israel]]**
+  * **[[:fr:obe:other:kingdomofjudah]]**
+  * **[[:fr:obe:kt:sin]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:covenant]]**
+  * **[[:fr:obe:other:sinai]]**
+  * **[[:fr:obe:kt:prophet]]**
+  * **[[:fr:obe:kt:repent]]**
+  * **[[:fr:obe:kt:worship]]**
+  * **[[:fr:obe:other:obey]]**
 
 ==== Translation Notes: ====
 
