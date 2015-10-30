@@ -8,10 +8,10 @@ L'Empire Perse était fort mais miséricordieux envers les gens qui avaient ét�
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:mercy|mercy, merciful]]**
-  * **[[:fr:obe:other:jew|Jew, Jewish]]**
-  * **[[:fr:obe:kt:temple|temple]]**
-  * **[[:fr:obe:other:jerusalem|Jerusalem]]**
+  * **[[:fr:obe:kt:mercy]]**
+  * **[[:fr:obe:other:jew]]**
+  * **[[:fr:obe:kt:temple]]**
+  * **[[:fr:obe:other:jerusalem]]**
 
 ==== Translation Notes: ====
 
