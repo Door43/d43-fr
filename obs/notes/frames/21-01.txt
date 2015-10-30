@@ -8,13 +8,13 @@ Depuis le tout début, Dieu a prévu d'envoyer le Messie. La première promesse 
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
-  * **[[:fr:obe:kt:promise|promise]]**
-  * **[[:fr:obe:other:adam|Adam Adam - F]]**
-  * **[[:fr:obe:other:eve|Eve]]**
-  * **[[:fr:obe:other:descendant|descendant]]**
-  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:christ]]**
+  * **[[:fr:obe:kt:promise]]**
+  * **[[:fr:obe:other:adam]]**
+  * **[[:fr:obe:other:eve]]**
+  * **[[:fr:obe:other:descendant]]**
+  * **[[:fr:obe:kt:satan]]**
 ==== Translation Notes: ====
 
   * **From the very beginning**  - That is, from when the earth was first created.
