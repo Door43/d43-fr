@@ -9,7 +9,7 @@ Environ 100 ans après que les Assyriens aient détruit le royaume d'Israël, Di
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/assyria]]**
-  * **[[:fr:obe:other/israel]]**
+  * **[[:fr:obe:other/kingdomofisrael]]**
   * **[[:fr:obe:kt/god]]**
   * **[[:fr:obe:other/nebuchadnezzar]]**
   * **[[:fr:obe:other/king]]**
