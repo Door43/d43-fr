@@ -1,4 +1,4 @@
-===== Come Down from the Cross Descend de La Croix [40-05] =====
+===== Come Down from the Cross Descends De La Croix [40-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
@@ -7,21 +7,20 @@ The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They 
 Les chefs des Juifs et la foule se moquaient de Jésus, disant: “si tu es le Fils de Dieu, descends de la croix! Sauve-toi toi-même! Alors on te croira.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/jewishleaders]]**
-  * **[[:fr:obe:other/mock]]**
-  * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/sonofgod]]**
-  * **[[:fr:obe:kt/cross]]**
-  * **[[:fr:obe:kt/save]]**
-  * **[[:fr:obe:kt/believe]]**
 
-
+  * **[[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:fr:obe:other:mock|mock, ridicule]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:fr:obe:kt:cross|cross]]**
+  * **[[:fr:obe:kt:save|save]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
 ===== Translation Notes: =====
 
   * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
 ===== Note de traduction: =====
 
-  * ** croire**  - C'est à dire, "croire en vous», ou «croire que vous êtes le Messie."
+  * **croire**  - C'est à dire, "croire en vous», ou «croire que vous êtes le Messie."
 **[[:fr:obs:notes:frames:40-04|<<]] | [[:fr:obs:notes:40|Up]] | [[:fr:obs:notes:frames:40-06|>>]]**
 
 ~~DISCUSSION~~
