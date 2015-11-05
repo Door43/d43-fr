@@ -14,7 +14,7 @@ Click on the links below to translate each frame of the story.
 The House of the High Priest la Maison Du Grand Prêtre [39-01]
 
 [[:fr:obs:notes:frames:39-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&200}}]]\\
-The False Witnesses [39-02]
+The False Witnesses Les Faux Témoins [39-02]
 
 [[:fr:obs:notes:frames:39-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&200}}]]\\
 Are You the Son of God? [39-03]
