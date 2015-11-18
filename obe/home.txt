@@ -9,3 +9,4 @@
 ==== All terms from both lists: ====
 
 {{pagequery>ns:fr:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+
