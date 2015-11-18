@@ -1,0 +1,9 @@
+====== OBE Key Terms ======
+
+Link to [[:fr:obe:other:home|OBE Other Terms]] \\ 
+Link to [[:fr:obe:home|All OBE Terms]]
+
+
+<nspages fr:obe:kt -title -exclude:home -textPages="List of key terms:">
+
+~~NOCACHE~~
