@@ -3,7 +3,3 @@
 This the list of important words and phrases. Click on the word to learn more.
 
 <nspages fr:obs:notes:key-terms -title -exclude:home -textPages="List of all OBS French important words:">
-
-
-
-{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext;  sort=title:asc; display={title}; natsort; showcount; nbCol=3; hidemsg; hidejump;}}
