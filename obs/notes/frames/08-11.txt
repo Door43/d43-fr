@@ -1,4 +1,4 @@
-===== The Brothers Bought Food [08-11] =====
+===== The Brothers Bought Food - Les frères ont acheté de la nourriture [08-11] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
@@ -17,8 +17,9 @@ Alors Jacob envoya ses fils aînés en Égypte pour acheter des vivres. Les frè
   * **did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
 ===== Notes de Traduction: =====
 
-  * **ses fils aînés**  - C'étaient des frères aînés de Joseph qui l'avait vendu en esclavage.
-  * **ne reconnurent pas Joseph**  - Ils ne savaient pas que l'homme était Joseph, parce que maintenant Joseph était beaucoup plus vieux que quand ils l'ont vu la dernière fois, et il était habillé comme un souverain égyptien.
+  * **ses fils aînés**  - C'étaient les frères aînés de Joseph qui l'avaient vendu en tant qu'esclave.
+  * **ne reconnurent pas Joseph**  - Ils ne savaient pas que l'homme était Joseph, parce que Joseph était beaucoup plus vieux que quand ils l'avaient vu la dernière fois, et il était habillé comme un souverain égyptien.
+
 **[[:fr:obs:notes:frames:08-10|<<]] | [[:fr:obs:notes:08|Up]] | [[:fr:obs:notes:frames:08-12|>>]]**
 
 ~~DISCUSSION~~
