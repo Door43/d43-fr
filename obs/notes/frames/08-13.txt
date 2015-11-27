@@ -1,4 +1,4 @@
-===== Joseph Was Alive [08-13] =====
+===== Joseph Was Alive - Joseph était vivant [08-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
@@ -18,7 +18,7 @@ Quand les frères de Joseph retournèrent chez eux et dirent à leur père, Jaco
 
 ==== notes de traduction: ====
 
-//(Il n'y a pas de notes de ce cadre.) //
+//(Il n'y a pas de notes dans ce cadre.) //
 
 
 **[[:fr:obs:notes:frames:08-12|<<]] | [[:fr:obs:notes:08|Up]] | [[:fr:obs:notes:frames:08-14|>>]]**
