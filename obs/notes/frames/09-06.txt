@@ -1,10 +1,10 @@
-===== Moses in a Basket [09-06] =====
+===== Moses in a Basket - Moïse dans le panier [09-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink&}}
 
 When the boy's parents could no longer hide him, they put him in a **floating basket among the reeds along the edge of the Nile River** in order to save him from being killed. His older sister watched to see what would happen to him.
 
-Quand les parents de l'enfant ne pouvaient plus le cacher, ils le mirent dans un panier flottant parmi les roseaux sur les bords du Nil afin qu'il ait la vie sauvé. Sa grande sœur resta à regarder pour savoir ce qui lui arriverait.
+Quand les parents de l'enfant ne pouvaient plus le cacher, ils le mirent dans un panier flottant et le placèrent parmi les roseaux sur les bords du Nil afin qu'il ait la vie sauve. Sa grande sœur resta à regarder pour savoir ce qui lui arriverait.
 
 
 ===== Termes Importants =====
@@ -14,7 +14,7 @@ Quand les parents de l'enfant ne pouvaient plus le cacher, ils le mirent dans un
   * //(There are no notes for this frame.)//
 ===== Notes de Traduction: =====
 
-  * //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes dans ce cadre.) //
 **[[:fr:obs:notes:frames:09-05|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-07|>>]]**
 
 ~~DISCUSSION~~
