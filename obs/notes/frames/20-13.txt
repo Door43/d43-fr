@@ -1,10 +1,10 @@
-===== The Temple Was Rebuilt  Le Temple a été reconstruit [20-13] =====
+===== The Temple Was Rebuilt - Le Temple a été reconstruit [20-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
 When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
 
-Quant les gens arrivèrent à Jérusalem, ils rebâtirent le Temple et le mur autour de la ville. Alors qu'ils étaient encore gouvernés par d'autres peuples, ils habitèrent une fois de plus dans la Terre Promise et adorèrent Dieu dans le Temple.
+Quant les gens arrivèrent à **Jérusalem**, ils rebâtirent le **Temple** et **le mur** autour de la ville. Bien qu'ils étaient encore **gouvernés par d'autres peuples**, ils habitèrent une fois de plus dans la **Terre Promise** et **adorèrent Dieu dans le Temple**.
 
 
 ===== Termes Importants =====
@@ -16,7 +16,7 @@ Quant les gens arrivèrent à Jérusalem, ils rebâtirent le Temple et le mur au
 
 ==== Translation Notes: ====
 
-  * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
+  * **the people** - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
   * **the wall**  - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
   * **ruled by other people**  - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.
   * **once again**  - In some languages this might need to be translated as, "now" or, "as their ancestors had done" or, "just as before the Exile."
@@ -29,9 +29,9 @@ Quant les gens arrivèrent à Jérusalem, ils rebâtirent le Temple et le mur au
 
   * **les gens**  -C'est à dire les Israélites, les descendants de Jacob, qui étaient maintenant appelés les Juifs.
   * **le mur**  - Ce mur était très épais (2,5 mètres) et a été construit pour protéger la ville contre les pirates.
-  * **gouvernés par d'autres peuples**  - c'est une autre nation qui les contrôlait. Les Juifs ont été reconnus par les Perses à ce moment, et plus tard par d'autres nations.
+  * **gouvernés par d'autres peuples**  - Cela signifie que c'était une autre nation qui les contrôlait. Les Juifs ont été gouvernés par les Perses à ce moment là, et plus tard par d'autres nations.
   * **une fois de plus**  - Dans certaines langues cela pourrait être traduit comme, "maintenant" ou, "comme leurs ancêtres l'avaient fait" ou, "tout comme avant l'exil."
-  * **adorèrent Dieu dans le Temple**  - Ils adoraient Yahvé, le seul vrai Dieu, au Temple qu'ils ont reconstruit.
+  * **adorèrent Dieu dans le Temple**  - Ils adoraient Yahvé, le seul vrai Dieu, au Temple qu'ils avaient reconstruit.
 
 **[[:fr:obs:notes:frames:20-12|<<]] | [[:fr:obs:notes:20|Up]] | [[:fr:obs:notes:frames:21-01|>>]]**
 
