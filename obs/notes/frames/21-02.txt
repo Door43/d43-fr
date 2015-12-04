@@ -1,10 +1,10 @@
-===== A Promise for the Whole World Une promesse pour le monde entier [21-02] =====
+===== A Promise for the Whole World - Une promesse pour le monde entier [21-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
 **God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
 
-Dieu promit à Abraham que, par son biais, tous les groupes ethniques du monde recevraient une bénédiction. Cette bénédiction serait accomplie quand le Messie viendrait plus tard. Il donnerait la possibilité à tous les peuples du monde d'être sauvés.
+**Dieu** promit à **Abraham** que, **par son biais**, tous **les groupes ethniques** du monde recevraient une **bénédiction**. Cette bénédiction serait **accomplie** quand le **Messie** viendrait plus tard. Il donnerait la possibilité à tous les peuples du monde d'être sauvés.
 
 
 ===== Termes Importants =====
@@ -18,9 +18,11 @@ Dieu promit à Abraham que, par son biais, tous les groupes ethniques du monde r
 ==== Translation Notes: ====
 
   * **through him**  – That is, "because of one of his descendants."
+
 ===== Notes de Traduction: =====
 
-  * **À travers lui**  - C'est à dire, "Par l'un de ses descendants".
+  * **Par son biais**  - C'est à dire, "Grace à l'un de ses descendants".
+
 **[[:fr:obs:notes:frames:21-01|<<]] | [[:fr:obs:notes:21|Up]] | [[:fr:obs:notes:frames:21-03|>>]]**
 
 ~~DISCUSSION~~
