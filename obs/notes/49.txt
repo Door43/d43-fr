@@ -14,10 +14,10 @@ Click on the links below to translate each frame of the story.
 The Virgin Birth Né d'une vierge [49-01]
 
 [[:fr:obs:notes:frames:49-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&200}}]]\\
-The Miracles Les miracles  [49-02]
+The Miracles Les miracles [49-02]
 
 [[:fr:obs:notes:frames:49-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&200}}]]\\
-Jesus the Teacher Jésus le maítre  [49-03]
+Jesus the Teacher Jésus le maítre [49-03]
 
 [[:fr:obs:notes:frames:49-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-04.jpg?nolink&200}}]]\\
 Love God Above All Aime Dieu pardessus tout [49-04]
@@ -26,16 +26,16 @@ Love God Above All Aime Dieu pardessus tout [49-04]
 The Value of Salvation La valeur du salut [49-05]
 
 [[:fr:obs:notes:frames:49-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-06.jpg?nolink&200}}]]\\
-Not All Will Be Saved Pas tous ne seront sauvés   [49-06]
+Not All Will Be Saved Tout le monde  ne sera pas sauvé [49-06]
 
 [[:fr:obs:notes:frames:49-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-07.jpg?nolink&200}}]]\\
-God Loves Sinners Dieu aime les pécheurs  [49-07]
+God Loves Sinners Dieu aime les pécheurs [49-07]
 
 [[:fr:obs:notes:frames:49-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink&200}}]]\\
-God Hates Sin  Dieu hait le péché  [49-08]
+God Hates Sin Dieu hait le péché [49-08]
 
 [[:fr:obs:notes:frames:49-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&200}}]]\\
-God Gave His Son  Dieu a donné son fils [49-09]
+God Gave His Son Dieu a donné son fils [49-09]
 
 [[:fr:obs:notes:frames:49-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&200}}]]\\
 Jesus Died in Our Place Jésus est mort à notre place [49-10]
@@ -44,26 +44,26 @@ Jesus Died in Our Place Jésus est mort à notre place [49-10]
 The Sinless Sacrifice [49-11]
 
 [[:fr:obs:notes:frames:49-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-12.jpg?nolink&200}}]]\\
-Jesus Died and Rose Again Jésus est mort et réssuscité  [49-12]
+Jesus Died and Rose Again Jésus est mort et réssuscité [49-12]
 
 [[:fr:obs:notes:frames:49-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink&200}}]]\\
 God Loves You Dieu vous aime [49-13]
 
 [[:fr:obs:notes:frames:49-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-14.jpg?nolink&200}}]]\\
-Believe in Jesus  Crois en Jésus [49-14]
+Believe in Jesus Crois en Jésus [49-14]
 
 [[:fr:obs:notes:frames:49-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-15.jpg?nolink&200}}]]\\
 God's Kingdom of Light Le royaume de lumière de Dieu [49-15]
 
 [[:fr:obs:notes:frames:49-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&200}}]]\\
-Sins Are Forgiven Les péchés sont pardonnés  [49-16]
+Sins Are Forgiven Les péchés sont pardonnés [49-16]
 
 [[:fr:obs:notes:frames:49-17|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-17.jpg?nolink&200}}]]\\
-Follow Jesus' Teachings  Suis les enseignements de Jésus [49-17]
+Follow Jesus' Teachings Suis les enseignements de Jésus [49-17]
 
 [[:fr:obs:notes:frames:49-18|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink&200}}]]\\
-Grow as a Christian  Grandis en tant que chrétien [49-18]
+Grow as a Christian Grandis en tant que chrétien [49-18]
 
-// une histoire biblique tirée de: Romains 3:21-26, 5:1-11; Jean 3:16; Marc 16:16; Colossiens 1:13-14; 2 Corinthiens 5:17-21; 1 Jean 1:5-10//
+//une histoire biblique tirée de: Romains 3:21-26, 5:1-11; Jean 3:16; Marc 16:16; Colossiens 1:13-14; 2 Corinthiens 5:17-21; 1 Jean 1:5-10//
 
 **[[:fr:obs:notes:48|<< Previous]] | [[:fr:obs:notes:50|Next >>]]**
