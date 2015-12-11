@@ -8,8 +8,10 @@ Puis Dieu dit: “Que la lumière soit!” et la lumière fut. Dieu vit que la l
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/good]]**
+
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:good|good, goodness]] (bon,bonté)**
+
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
