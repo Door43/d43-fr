@@ -11,7 +11,7 @@ L'église a attendu le retour de Jésus pendant prés de 2000 ans. Jésus a ense
 Click on the links below to translate each frame of the story.
 
 [[:fr:obs:notes:frames:50-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&200}}]]\\
-The Church Is Growing La croissance de L'église  [50-01]
+The Church Is Growing La croissance de L'église [50-01]
 
 [[:fr:obs:notes:frames:50-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&200}}]]\\
 The Good News la Bonne Nouvelle [50-02]
@@ -20,7 +20,7 @@ The Good News la Bonne Nouvelle [50-02]
 The Fields Are Ripe Les champs sont mûrs [50-03]
 
 [[:fr:obs:notes:frames:50-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&200}}]]\\
-Remain Faithful restez fidèles [50-04]
+Remain Faithful Restez fidèles [50-04]
 
 [[:fr:obs:notes:frames:50-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&200}}]]\\
 The Enemy L'ennemi [50-05]
