@@ -29,7 +29,7 @@ The Enemy L'ennemi [50-05]
 The Weeds Les mauvaises herbes [50-06]
 
 [[:fr:obs:notes:frames:50-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&200}}]]\\
-Wait for the Harvest Attendre pour la moisson [50-07]
+Wait for the Harvest Attendez pour la moisson [50-07]
 
 [[:fr:obs:notes:frames:50-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&200}}]]\\
 The Field Is the World Le champ est le monde [50-08]
