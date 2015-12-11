@@ -1,4 +1,4 @@
-===== Wait for the Harvest  Attendez la moisson [50-07] =====
+===== Wait for the Harvest Attendez pour la moisson [50-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
