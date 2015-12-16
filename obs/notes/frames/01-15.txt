@@ -9,7 +9,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:bless|bless, blessed, blessin)]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessin]]**
   * **[[:fr:obe:kt:good|good, goodness]]**
 
 ==== Translation Notes: ====
