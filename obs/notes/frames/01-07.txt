@@ -8,9 +8,11 @@ Le cinquième jour, Dieu parla et créa tout ce qui nage dans l'eau ainsi que to
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/good]]**
-  * **[[:fr:obe:kt/bless]]**
+
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:good|good, goodness (Bon, bonté)]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing]] (bénir, a béni, bénédiction)**
+
 ===== Translation Notes: =====
 
 
