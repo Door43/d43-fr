@@ -14,10 +14,10 @@ On trouve ici la vraie histoire de la manière dont Dieu créa en seulement six 
 Click on the images below to translate each frame of the story.
 
 [[:fr:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
-The Beginning [01-01]\\
+The Beginning Le commencement  [01-01]\\
 \\
 [[:fr:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200}}]]\\
-God Created Light [01-02]\\
+God Created Light Dieu créa la lumière  [01-02]\\
 \\
 [[:fr:obs:notes:frames:01-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&200}}]]\\
 God Created the Sky [01-03]\\
