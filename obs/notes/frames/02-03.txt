@@ -7,11 +7,11 @@ The woman answered, “**God** told us we could eat the **fruit** of any tree ex
 La femme répondit, “**Dieu** nous a dit que nous pouvions manger du fruit de n'importe quel arbre sauf de celui de **l'arbre de la connaissance du bien et du mal**. Dieu nous a dit, 'Si vous mangez ce fruit ou si seulement vous le touchez, **vous mourrez**.'”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/good]]**
-  * **[[:fr:obe:kt/evil]]**
-  * **[[:fr:obe:kt/death]]**
 
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:good|good, goodness (Bon, la bonté)]]**
+  * **[[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant,méchanceté)]]**
+  * **[[:fr:obe:kt:death|death, die, dead]] (La mort, mourir, mort)**
 
 ===== Translation Notes=====
 
