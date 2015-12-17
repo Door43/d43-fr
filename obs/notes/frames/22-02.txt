@@ -1,13 +1,14 @@
-===== You Will Have a Son  Tu auras un fils [22-02] =====
+===== You Will Have a Son - Tu auras un fils [22-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
 The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
 
-L'ange dit à Zacharie, “Ta femme aura un fils. Tu lui donneras le nom de Jean. Il sera rempli de l'Esprit Saint et il préparera les gens pour la venue du Messie!” Zacharie répondit, “Ma femme et moi nous sommes trop vieux pour avoir des enfants! Comment est ce que je saurai que cela va arriver?”
+L'**ange** dit à **Zacharie**, “Ta femme aura un fils. Tu le nommeras **Jean**. Il sera **rempli de l'Esprit Saint** et il **préparera les gens pour la venue du Messie**!” Zacharie répondit, “Ma femme et moi nous sommes trop vieux pour avoir des enfants! Comment est ce que je saurai que cela va arriver?”
 
 
 ===== Termes Importants =====
+
   * **[[:fr:obe:kt:angel|angel]]**
   * **[[:fr:obe:other:zechariah|Zechariah (OT)]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
@@ -16,14 +17,16 @@ L'ange dit à Zacharie, “Ta femme aura un fils. Tu lui donneras le nom de Jean
 
 ===== Translation Notes: =====
 
-  * **The angel**  - This refers to the angel that came to Zechariah in **[[:fr:obs:notes:frames:22-01|[22-01]]]**.
+  * **The angel** - This refers to the angel that came to Zechariah in **[[:fr:obs:notes:frames:22-01|[22-01]]]**.
   * **filled with the Holy Spirit**  - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
   * **How will I know this will happen?**  - Another way to translate this would be, "How can I be sure that this will truly happen?"
+
 ===== Notes de traduction: =====
 
-  * **L'ange**  - Il s'agit de l'ange qui est venu à Zacharie **[[:fr:obs:notes:frames:22-01|[22-01]]]**.
-  * **Rempli de l'Esprit Saint**  - C'est à dire, "contrôlé par l'Esprit Saint", ou "donné la sagesse et la puissance de l'Esprit Saint."
-  * **Comment vais-je savoir ce qui va se passer?**  - Une autre façon de traduire ce serait: "Comment puis-je être sûr que cela va vraiment arriver?"
+  * **L'ange**  - Il s'agit de l'ange qui est apparu à Zacharie **[[:fr:obs:notes:frames:22-01|[22-01]]]**.
+  * **Rempli de l'Esprit Saint**  - C'est à dire, "contrôlé par l'Esprit Saint", ou "rempli de sagesse et de puissance par l'Esprit Saint."
+  * **Comment est ce que je saurai que cela va arriver?**  - Une autre façon de traduire ce serait: "Comment puis-je être sûr que cela va vraiment arriver?"
+
 **[[:fr:obs:notes:frames:22-01|<<]] | [[:fr:obs:notes:22|Up]] | [[:fr:obs:notes:frames:22-03|>>]]**
 
 ~~DISCUSSION~~
