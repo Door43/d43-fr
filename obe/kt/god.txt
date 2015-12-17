@@ -1,8 +1,8 @@
 ====== God (Dieu) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
-In the Bible, the term "God" refers to the eternal being named "Yahweh," who created the universe out of nothing. Yahwehexists as Father, Son, and Holy Spirit.    .
+In the Bible, the term "God" refers to the eternal being named "Yahweh," who created the universe out of nothing. Yahweh exists as Father, Son, and Holy Spirit. .
 
   * God has always existed – he existed before anything else existed, and he will continue to exist forever.
   * He is the only true God and has authority over everything in the universe
@@ -12,7 +12,17 @@ In the Bible, the term "God" refers to the eternal being named "Yahweh," who cre
   * God revealed his name as "Yahweh" which means, "he is" or "I am" or "the One who (always) exists."
   * The Bible also teaches about false "gods" which are nonliving idols that people wrongly worship.
 
-===== Translation Suggestions: =====
+Dans la Bible, le mot "Dieu" fait référence à Celui qui a existé en toute éternité, du nom de "Yawhé",et qui a créé l'univers à partir de rien. Yawhé existe en tant que Père, Fils et Saint Esprit.
+
+  * Dieu a toujours existé-- Il a existé avant l'existence de toutes choses, et il sera pour toujours existant.
+  * Il est le seul vrai Dieu et a autorité sur tout ce qui existe dans l'univers.
+  * Dieu est parfaitement juste, infiniment sage, saint, équitable, miséricordieux et amour.
+  * Il est Dieu gardien de son alliance, qui accomplit toujours ses promesses.
+  * Dieu a créé les gens pour qu'ils l'adorent et Il est le seul qu'ils devraient adorer.
+  * Dieu a révélé son nom "Yawhé" qui signifie "Il est" ou "Je suis" ou "Celui qui existe depuis toujours".
+  * la Bible nous enseigne au sujet "des faux dieux" qui sont des idoles sans vie que les gens adorent à tort.
+
+===== Translation Suggestions: Suggestions pour la traduction: =====
 
   * "God" could be translated with a word or phrase that means, "Deity" or "Creator" or "Supreme Being."
   * Other ways to translate "God" might include, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
@@ -20,15 +30,24 @@ In the Bible, the term "God" refers to the eternal being named "Yahweh," who cre
   * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
   * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:fr:obe:kt:yahweh|Yahweh]], [[:fr:obe:kt:godthefather|God the Father, Heavenly Father]], [[:fr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:fr:obe:kt:sonofgod|Son of God, the Son]], [[:fr:obe:kt:falsegod|false god, god]], [[:fr:obe:other:creation|create, creation, Creator]], [[:fr:obe:other:idol|idol]])
 
-===== Bible References: =====
+  * "Dieu" pourrait être traduit avec un mot ou une phrase qui signifie, "Divinité "ou "Créateur" ou "Être Suprême."
+  * Une autre façon de traduire "Dieu" serait, "Créateur Suprême" ou " Seigneur Souverain et Infini" ou " L'Éternel Suprême."
+  * Considérez comment la langue locale ou nationale interprète "Dieu".  Il pourrait y avoir déjà un mot pour "Dieu" dans la langue de traduction. Si c'est le cas, il est important de s'assurer que ce mot remplit les caractéristiques du seul véritable Dieu décrites ci-dessus.
+  * Lorsque les traductions en anglais parlent d'un faux dieu le mot est écrit avec "g minuscule"et lorsqu'elles se réfèrent à Dieu le seul vrai Dieu, elles utilisent "G majuscule." D'autres langues peuvent aussi choisir de l'écrire pareillement. Un autre moyen de les distinguer serait d'utiliser des mots différents pour  "Dieu" et "dieu.
+
+La phrase "Je serai leur Dieu et ils seront mon peuple" pourrait être traduit comme,"Moi, Dieu, Je gouvernerai  ce peuple; ils m'appartiendront et m'adoreront."
+
+(Suggestions de traduction:Comment traduire les noms)
+
+Bible References: Références bibliques:
 
 {{topic>:en:bible?god&nocomments&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: exemples tirés des histoires Bibliques   =====
 
   * **[[:fr:obs:notes:frames:01-01|[01-01]]]****God**  created the universe and everything in it in six days.
   * **[[:fr:obs:notes:frames:01-15|[01-15]]]****God**  made man and woman in his own image.
