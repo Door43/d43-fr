@@ -8,10 +8,10 @@ La femme répondit, “**Dieu** nous a dit que nous pouvions manger du fruit de 
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:kt:good|good, goodness (Bon, la bonté)]]**
-  * **[[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant,méchanceté)]]**
-  * **[[:fr:obe:kt:death|death, die, dead]] (La mort, mourir, mort)**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:good]]**
+  * **[[:fr:obe:kt:evil]]**
+  * **[[:fr:obe:kt:death]] **
 
 ===== Translation Notes=====
 
