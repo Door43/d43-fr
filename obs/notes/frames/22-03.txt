@@ -1,13 +1,14 @@
-===== Unable to Speak  Incapable de parler [22-03] =====
+===== Unable to Speak - Incapable de parler [22-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
 The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
 
-L'ange répondit à Zacharie, “J'ai été envoyé par Dieu pour t'annoncer cette bonne nouvelle. Parce que tu ne m'as pas cru, tu ne pourras parler que le jour de la naissance de l'enfant.” Immédiatement, Zacharie ne put plus parler. Puis l'ange quitta Zacharie. Après cela, Zacharie rentra chez lui, et sa femme tomba enceinte.
+L'**ange** répondit à Zacharie, “J'ai été envoyé par **Dieu** pour t'annoncer cette bonne nouvelle. Parce que tu ne m'as pas **cru**, tu ne pourras parler que le jour de la naissance de l'enfant.” Immédiatement, **Zacharie** ne put plus parler. Puis l'ange quitta Zacharie. Après cela, Zacharie rentra chez lui, et sa femme **tomba enceinte**.
 
 
 ===== Termes Importants =====
+
   * **[[:fr:obe:kt:angel|angel]]**
   * **[[:fr:obe:kt:god|God]]**
   * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
@@ -19,7 +20,8 @@ L'ange répondit à Zacharie, “J'ai été envoyé par Dieu pour t'annoncer cet
 
 ===== Note de traduction: =====
 
-  * **Tombée enceinte**  - Certaines langues ont des façons polies de dire "devenir enceinte." Utilisez une expression qui ne sera pas gênant pour les lecteurs.
+  * **Tombée enceinte**  - Certaines langues ont des manières polies de dire "tomber enceinte." Utilisez une expression qui ne sera pas gênante pour les lecteurs.
+
 **[[:fr:obs:notes:frames:22-02|<<]] | [[:fr:obs:notes:22|Up]] | [[:fr:obs:notes:frames:22-04|>>]]**
 
 ~~DISCUSSION~~
