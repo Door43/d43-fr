@@ -1,13 +1,14 @@
-===== The Birth of Jesus / La Naissance de Jésus [23-05] =====
+===== The Birth of Jesus - La Naissance de Jésus [23-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
 When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
 
-Quand ils arrivèrent à Bethlehem, Il n'y avait pas de place pour eux dans l'hôtellerie. La seule pièce qu'ils pouvaient trouver était une étable où les animaux restaient. L'enfant naquit là et sa mère l'allongea dans une crèche, parce qu'il n'y avait pas de lit pour lui. Ils lui donnèrent le nom de Jésus.
+Quand ils arrivèrent à **Bethléem**, Il n'y avait **pas de place** pour eux dans l'hôtellerie. La seule pièce qu'ils pouvaient trouver était une **étable où les animaux restaient**. L'enfant naquit là et sa mère l'allongea dans une **crèche**, parce qu'il n'y avait pas de lit pour lui. Ils lui donnèrent le nom de **Jésus**.
 
 
 ===== Termes Importants =====
+
   * **[[:fr:obe:other:bethlehem|Bethlehem]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 
@@ -18,9 +19,10 @@ Quand ils arrivèrent à Bethlehem, Il n'y avait pas de place pour eux dans l'h�
   * **feeding trough**  - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
 ===== Notes de traduction: =====
 
-  * **Pas de place pour rester**  - C'est à dire, "pas de lieu habituel pour rester." Parce que Bethléem était bondée à cette époque, les chambres pour les invités habituels étaient déjà pleines de gens.
-  * **Endroit où les animaux sont restés**  - C'était un endroit pour mettre les animaux à l'abri, pas un endroit où les gens vivaient. Traduire ceci avec un terme qui serait normalement utilisé pour un lieu où les animaux ont été maintenus.
-  * **Auge**  - C'est à dire, "boîte d'alimentation animale", ou "boîte en bois ou en pierre pour nourrir les animaux." La boîte aurait été remplie de foin pour fournir une surface rembourrée pour y  allonger le bébé.
+  * **Pas de place pour rester**  - C'est à dire, "pas de lieu habituel pour rester." Parce que Bethléem était bondée à cette époque, les chambres habituelles réservées aux visiteurs étaient déjà pleines.
+  * **Endroit où les animaux restaient**  - C'était un endroit pour mettre les animaux à l'abri, pas un endroit où les gens vivaient. Traduire ceci avec un terme qui serait normalement utilisé pour un lieu où on garde les animaux.
+  * **Auge**  - C'est à dire, "récipient servant à nourrir les animaux", ou "boîte en bois ou en pierre servant à nourrir les animaux." La boîte aurait été remplie de foin pour fournir une surface rembourrée pour y  allonger le bébé.
+
 **[[:fr:obs:notes:frames:23-04|<<]] | [[:fr:obs:notes:23|Up]] | [[:fr:obs:notes:frames:23-06|>>]]**
 
 ~~DISCUSSION~~
