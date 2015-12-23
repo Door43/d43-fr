@@ -48,6 +48,8 @@ Comprendre le mot "bon" est en rapport avec ce dont nous parlons et peut donc av
 
 {{topic>:en:bible?good&nocomments}}
 
+===== **Références de la Bible:**  =====
+
 ===== Examples from the Bible stories: =====
 
   * **[[:fr:obs:notes:frames:01-04|[01-04]]]** God saw that what he had created was **good**.
