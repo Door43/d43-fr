@@ -1,12 +1,11 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - French ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:fr:obe:kt:home|Key Terms]]
-  * [[:fr:obe:other:home|Other Terms]]
+  * [[:fr:obe:kt:home]]
+  * [[:fr:obe:other:home]]
 
+==== All Important Terms: ====
 
-==== All terms from both lists: ====
-
-{{pagequery>ns:fr:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages fr:obe -r -title -exclude:home -textPages="">
 
