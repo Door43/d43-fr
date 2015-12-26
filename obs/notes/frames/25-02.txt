@@ -1,10 +1,10 @@
-===== The First Temptation / La Première Tentation [25-02] =====
+===== The First Temptation / La Première Tentation [25-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
 **Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
 
-Satan tenta Jésus en disant, “Si tu es le Fils de Dieu, ordonne à ces pierres qu'elles deviennent du pain pour que tu puisses manger!”
+**Satan tenta Jésus** en disant, “Si tu es le **Fils de Dieu**, **ordonne à ces pierres qu'elles deviennent du pain** pour que tu puisses manger!”
 
 
 ===== Termes Importants =====
@@ -19,8 +19,8 @@ Satan tenta Jésus en disant, “Si tu es le Fils de Dieu, ordonne à ces pierre
   * **bread**  - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
 ===== Notes de traduction: =====
 
-  * **Transformer ces rochers en pain**  - Cela peut aussi être traduit par "faire que ces rochers deviennent des pains" ou "surnaturellement changer ces rochers en pain."
-  * **Pain**  - Cela pourrait être traduit comme "nourriture" pour les langues où le pain n'est pas un aliment commun. Dans la culture des Juifs, le pain est la nourriture principale.
+  * **ordonne à ces pierres qu'elles deviennent du pain**  - Cela peut aussi être traduit par "fais que ces rochers deviennent des pains" ou "surnaturellement transforme ces rochers en pain."
+  * **Pain**  - Cela pourrait être traduit comme "nourriture" pour les langues où le pain n'est pas un aliment commun. Dans la culture juive, le pain était la nourriture principale.
 **[[:fr:obs:notes:frames:25-01|<<]] | [[:fr:obs:notes:25|Up]] | [[:fr:obs:notes:frames:25-03|>>]]**
 
 ~~DISCUSSION~~
