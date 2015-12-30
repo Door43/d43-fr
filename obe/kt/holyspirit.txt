@@ -16,10 +16,14 @@ Ces mots se réfèrent au Saint Esprit qui est Dieu. Dieu, unique et véritable 
 
 ===== Translation Suggestions: =====
 
+===== Suggestions pour la traduction: =====
+
   * This term could be translated with the words used to translate "holy" and "spirit."
   * Ways to translate this term could also include, "the Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
+  * On pourrait traduire ce terme avec les mots choisis pour traduire "saint" et "esprit."
+  * D'autres façons de traduire ce mot pourraient être, "L'Esprit pur" ou "l'Esprit qui est saint" ou "Dieu l'Esprit."
 
-(See also: [[:fr:obe:kt:holy]], [[:fr:obe:kt:spirit]], [[:fr:obe:kt:god]], [[:fr:obe:kt:lordgod]], [[:fr:obe:kt:godthefather]], [[:fr:obe:kt:sonofgod]], [[:fr:obe:kt:gift]])
+(See also: Voir aussi): [[:fr:obe:kt:holy|holy, holiness (Saint, la sainteté)]], [[:fr:obe:kt:spirit|spirit (esprit), spiritual]], [[:fr:obe:kt:god|God (Dieu)]], [[:fr:obe:kt:lordgod|Lord]], [[:fr:obe:kt:godthefather|God the Father (Dieu le Père), Heavenly Father]], [[:fr:obe:kt:sonofgod|Son of God (Fils de Dieu), the Son]], [[:fr:obe:kt:gift|gift]]
 
 ===== Bible References: =====
 
