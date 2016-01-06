@@ -46,7 +46,14 @@ This term is used in two different ways in the Bible. Physically, it often refer
   * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language, unless that would be offensive.
   * It is important in a translation to use the same word or phrase for both physical death and spiritual death. In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in some contexts where it is being contrasted to spiritual death.
 
-(See also: [[:fr:obe:kt:life]], [[:En:obe:kt:believe]], [[:fr:obe:kt:faith]])
+(See also: [[:fr:obe:kt:life|life, live, living, alive (La vie, vivre, vivant,​vivant)]], [[:en:obe:kt:believe|believe, believe in, belief]], [[:fr:obe:kt:faith|faith]])
+
+===== **Suggestions pour traduire:**  =====
+
+  * Pour traduire ce mot il est mieux d'utiliser un mot courant ou une phrase du language quotidien qui exprime la mort dans la langue appropriée.
+  * Dans certaines langues, "mourir" peut exprimer "ne pas vivre". Le mot "mort" peut se traduire par "sans vie" ou "ne pas être en vie."
+  * Beaucoup de langues utilisent des expressions figuratives pour décrire la mort telles que " rendre son dernier soupir" en français. Cependant il est mieux d'utiliser le mot direct pour "mort" qui existe dans la langue courante à moins que cela provoque.
+  * Il est important dans la traduction d'utiliser le même mot pour la mort physique et  la mort spirituelle. Dans certaines langues, il est beaucoup plus clair de dire "la mort spirituelle" quand le contexte impose ce sens. Quelques traducteurs peuvent aussi préférer dire "la mort physique"quand c'est en contraste avec la mort spirituelle.
 
 ===== Bible References: =====
 
