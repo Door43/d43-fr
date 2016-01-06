@@ -46,7 +46,7 @@ Bible References: Références bibliques:
 
 {{topic>:en:bible?god&nocomments&nocomments}}
 
-===== Examples from the Bible stories: Exemples tirés des histoires Bibliques =====
+===== Examples from the Bible stories: Exemples à partir des histoires Bibliques =====
 
   * **[[:fr:obs:notes:frames:01-01|[01-01]]]****God**  created the universe and everything in it in six days.
   * **[[:fr:obs:notes:frames:01-15|[01-15]]]****God**  made man and woman in his own image.
