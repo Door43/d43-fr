@@ -39,7 +39,7 @@ God Created the Birds and Fish Dieu créa les oiseaux et les poissons [01-07]\\
 God Created the Animals Dieu créa les animaux [01-08]\\
 \\
 [[:fr:obs:notes:frames:01-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&200}}]]\\
-God Made Man in His Image Dieu créa l'homme à son image[01-09]\\
+God Made Man in His Image Dieu créa l'homme à son image [01-09]\\
 \\
 [[:fr:obs:notes:frames:01-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&200}}]]\\
 God Made Adam Dieu créa Adam [01-10]\\
