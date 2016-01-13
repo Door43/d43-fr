@@ -7,12 +7,12 @@ The snake responded to the woman, “That is not **true**! You will not **die**.
 Le serpent répondit à la femme “Ce n'est pas **vrai**! Vous ne **mourrez** pas. **Dieu** sait justement qu'aussitôt que vous en mangerez, vous serez **comme Dieu**, **capables de comprendre le bien et le mal**.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/true]]**
-  * **[[:fr:obe:kt/death]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/good]]**
-  * **[[:fr:obe:kt/evil]]**
 
+  * **[[:fr:obe:kt:true|true, truth]](vrai,vérité)**
+  * **[[:fr:obe:kt:death|death, die, dead (La mort, mourir,mort)]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:good|good, goodness (Bon, la bonté)]]**
+  * **[[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]]**
 
 =====Translation Notes=====
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
