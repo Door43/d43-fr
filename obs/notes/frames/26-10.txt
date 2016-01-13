@@ -1,10 +1,10 @@
-===== The Twelve Disciples / Les 12 Disciples [26-10] =====
+===== The Twelve Disciples / Les douze Disciples [26-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
 Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
 
-Puis Jésus choisit douze hommes qu'il appela ses disciples. Ils voyagèrent avec Lui et apprirent beaucoup de choses de Lui.
+Puis **Jésus** choisit douze hommes **qui furent appelés ses disciples**. Ils voyagèrent avec Lui et **apprirent beaucoup de choses de Lui**.
 
 
 ===== Termes Importants =====
@@ -18,8 +18,8 @@ Puis Jésus choisit douze hommes qu'il appela ses disciples. Ils voyagèrent ave
   
 ===== Note de traduction: =====
 
-  * **Appris de lui**  - C'est à dire , "tiré de ce qu'il leur a enseigné" ou, "a appris de tout ce qu'il a dit et fait."
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **apprirent beaucoup de choses de Lui**  - C'est à dire , "apprirent de ce qu'il leur a enseigné" ou, "apprirent de tout ce qu'il a dit et fait."
+  * //Une histoire biblique tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Matthieu 4:12-25; Marc 1:14-15, 35-39; 3:13-21; Luc 4:14-30, 38-44//
 
 **[[:fr:obs:notes:frames:26-09|<<]] | [[:fr:obs:notes:26|Up]] | [[:fr:obs:notes:frames:27-01|>>]]**
