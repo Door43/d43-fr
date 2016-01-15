@@ -25,11 +25,11 @@
   * **hail**  - Hail is like chunks of ice that fall down from the clouds as rain does. These chunks can be very small or very large. The larger ones will hurt or kill whatever they fall on.
   * **You may go**  - The word "you" refers to Moses, Aaron, and the Israelites.
 ===== Notes de Traduction: =====
-  * **Après cela** - Cela signifie, après le moment où Dieu fit les plaies douloureuses apparaître sur la peau des Egyptiens.
-  * **Dieu envoya de la grêle** - Dieu fit tomber la grêle du ciel.
-  * **grêle** - La grêle se compose des morceaux de glace qui tombent du ciel comme fait la pluie. Ces morceaux peuvent être très petites ou très grandes. Les plus grands peuvent blesser ou tuer tout sur lequel elles tombent.
-  * **Vous pouvez sortir** - Le mot "vous" fait référence à Moïse, Aaron, et les Israélites.
 
+  * **Après cela**  - Cela signifie, après que Dieu ait envoyé les plaies douloureuses  sur la peau des Egyptiens.
+  * **Dieu envoya de la grêle**  - Dieu fit tomber la grêle du ciel.
+  * **grêle**  - La grêle se compose de morceaux de glace qui tombent du ciel comme la pluie. Ces morceaux peuvent être très petits ou très grands. Les plus grands peuvent blesser ou tuer tout ceux sur lesquels ils tombent.
+  * **Vous pouvez sortir**  - Le mot "vous" fait référence à Moïse, Aaron, et les Israélites.
 **[[:fr:obs:notes:frames:10-07|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-09|>>]]**
 
 ~~DISCUSSION~~
