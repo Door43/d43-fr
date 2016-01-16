@@ -1,10 +1,10 @@
-===== The Samaritan  Le Samaritain [27-08] =====
+===== The Samaritan / Le Samaritain [27-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
 “The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
 
-La personne suivante, qui se retrouva sur cette route, fut un Samaritain. (Les Samaritains étaient les descendants des Juifs qui s'étaient mariés avec des gens d'autres nations. Les Juifs et les Samaritains se détestaient). Mais quand ce Samaritain vit le Juif, il fut ému de compassion, soigna ses plaies et les recouvrit de pansements.
+La personne suivante, **qui se retrouva** sur cette route, fut un **Samaritain**. (Les Samaritains étaient les descendants des Juifs qui s'étaient mariés avec des gens d'autres nations. Les Juifs et les Samaritains se détestaient). Mais quand ce Samaritain vit le Juif, il fut ému de compassion, soigna ses plaies et les recouvrit de pansements.
 
 
 ===== Termes Importants =====
@@ -18,8 +18,8 @@ La personne suivante, qui se retrouva sur cette route, fut un Samaritain. (Les S
   * **walk down**  - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
 ===== Note de traduction: =====
 
-  * (Jésus continue de raconter l'histoire.)
-  * **Descendre**  - c'est à dire " voyageait le long." Ces personnes se déplaçaient d'une ville à l'autre. Assurez-vous que cela ne signifie pas qu'ils faisaient juste une promenade.
+  * (Jésus continue à raconter l'histoire.)
+  * **qui se retrouva**  - c'est à dire " voyagea le long." Ces personnes se déplaçaient d'une ville à l'autre. Assurez-vous que cela ne signifie pas qu'ils étaient juste en train de se promener.
 **[[:fr:obs:notes:frames:27-07|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-09|>>]]**
 
 ~~DISCUSSION~~
