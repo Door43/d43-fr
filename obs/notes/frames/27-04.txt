@@ -1,10 +1,10 @@
-===== The Jewish Traveler  le Voyageur Juif [27-04] =====
+===== The Jewish Traveler  le Voyageur Juif [27-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
 **Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
 
-Jésus lui répondit par une parabole. “Un homme Juif voyageait de Jérusalem à Jéricho.
+**Jésus** répondit au **docteur de la loi** par une parabole. “Un **homme Juif** voyageait de **Jérusalem** à **Jéricho**.
 
 
 ===== Termes Importants =====
@@ -21,8 +21,8 @@ Jésus lui répondit par une parabole. “Un homme Juif voyageait de Jérusalem 
   * **from Jerusalem to Jericho**  - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
 ===== Notes de traduction: =====
 
-  * (Le cadre semblable à un nuage autour de cette image indique que Jésus raconte une histoire, et pas nécessairement une explication d'événement historique.)
-  * **Expert en droit**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:27-01|[27-01]]]**.
+  * (Le cadre qui ressemble à un nuage autour de cette image indique que Jésus raconte une histoire, et qu'il n'est pas nécessairement d'expliquer un événement historique.)
+  * **docteur de la loi**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:27-01|[27-01]]]**.
   * **De Jérusalem à Jericho**  - Dans certaines langues, vous pouvez traduire ceci par, "de la ville de Jérusalem à la ville de Jericho."
 **[[:fr:obs:notes:frames:27-03|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-05|>>]]**
 
