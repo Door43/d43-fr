@@ -1,10 +1,10 @@
-===== The Robbers  Les Voleurs [27-05] =====
+===== The Robbers / Les Voleurs [27-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
 “While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
 
-Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout ce qu'il avait. Ils le battirent presqu'à mort, puis s'en allèrent.
+Pendant son voyage, l'homme fut attaqué par une bande de brigands. Ils **prirent tout ce qu'il avait** et le battirent presqu'à mort. Puis, ils s'en allèrent.
 
 
 ===== Termes Importants =====
@@ -17,7 +17,7 @@ Pendant son voyage, il fut attaqué par une bande de brigands qui prirent tout c
   * **everything he had**  - That is, "everything he had with him, including the clothes he was wearing."
 ===== Note de traduction: =====
 
-  * (Jésus continue de raconter l'histoire.)
+  * (Jésus continue à raconter l'histoire.)
   * **Tout ce qu'il avait**  - C'est à dire, "tout ce qu'il avait avec lui, y compris les vêtements qu'il portait."
 **[[:fr:obs:notes:frames:27-04|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:27-06|>>]]**
 
