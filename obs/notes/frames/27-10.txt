@@ -4,8 +4,7 @@
 
 “The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of him**, and if you spend any more money than this, I will **repay those expenses** when I return.’”
 
-"Le lendemain, le **Samaritain** dut **continuer son voyage**. Il donna de l'argent à la personne **chargée de** l'auberge et dit: '**Prends soin de lui**. Tout ce que tu auras dépensé en plus, je te **le rembourserai** quand je reviendrai.'”
-
+"Le lendemain, le **Samaritain** dut **continuer son voyage**. Il donna de l'argent à la personne **chargée de** l'auberge et dit: '**Prenez soin de lui**, et si vous dépensez plus que ce montant, je vous **rembourserai ces dépenses** quand je reviendrai.'”
 ===== Termes Importants =====
   * **[[:fr:obe:other/samaria]]**
 
