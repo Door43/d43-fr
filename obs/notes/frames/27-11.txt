@@ -1,10 +1,10 @@
-===== Do the Same Fais De Même  [27-11] =====
+===== Do the Same / Fais de Même  [27-11] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
 Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
 
-Finalement, Jésus demanda au docteur de la Loi, “A ton avis, lequel des trois hommes s'est montré le prochain de celui qui a été victime des brigands?” Il répondit: “l'homme qui l'a aidé.” Jésus lui dit: “Vas, et toi, fais de même. ”
+Finalement, **Jésus** demanda au **docteur de la Loi**, “**Qu'en penses tu?** Lequel de ces trois hommes a été le prochain de celui qui a été cambriolé et battu?” Il répondit: “l'homme qui a **fait preuve de miséricorde** envers lui.” Jésus lui dit: “Va, et fais de même. ”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -23,13 +23,13 @@ Finalement, Jésus demanda au docteur de la Loi, “A ton avis, lequel des trois
 
 ===== Notes de traduction: =====
 
-  * **Expert en droit**  - C'est à dire, "un expert dans la loi juive." Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:27-01|[27-01]]]**.
+  * **docteur de la Loi**  - C'est à dire, "un expert de la loi juive." Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:27-01|[27-01]]]**.
   * **les trois hommes**  - Les trois hommes étaient le prêtre, le Lévite, et le Samaritain.
-  * **Voisin**  - Jésus utilise le mot "prochain" dans un sens plus large que dans **[[:fr:obs:notes:frames:27-02|[27-02]]]**. "Voisin" se réfère ici à toute personne que nous rencontrons nécessitant notre aide.
-  * **Était un voisin**  - Cela peut aussi être traduit par "s'est comporté comme un voisin" ou, "était un ami", ou "a agi d'une manière aimante". Voyez comment vous avez traduit "voisin" dans **[[:fr:obs:notes:frames:27-02|[27-02]]]** and **[[:fr:obs:notes:frames:27-03|[27-03]]]**.
-  * **Vous allez faire**  - C'est à dire, "Vous aussi, vous devriez aller faire" ou "Maintenant,faites de même ." Jésus commandait l'expert en droit de faire ce que le Samaritain a fait.
-  * **Faire la même chose**  - C'est à dire, "aimer les autres, même vos ennemis." Assurez-vous que ce n'est pas l'expression "la même" mais que cela se réfère à aider un blessé.
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **prochain**  - Jésus utilise le mot "prochain" dans un sens plus large que dans **[[:fr:obs:notes:frames:27-02|[27-02]]]**. "prochain" se réfère ici à toute personne que nous rencontrons et qui a besoin de notre aide.
+  * **a été le prochain**  - Cela peut aussi être traduit par "s'est comporté comme un prochain" ou, "était un ami", ou "a agi d'une manière aimante". Voyez comment vous avez traduit "prochain" dans **[[:fr:obs:notes:frames:27-02|[27-02]]]** and **[[:fr:obs:notes:frames:27-03|[27-03]]]**.
+  * **Va, et fais**  - C'est à dire, "Vous aussi, vous devriez aller faire" ou "Maintenant,faites de même." Jésus donnait l'ordre au docteur de la loi de faire ce que le Samaritain avait fait.
+  * **fais de même**  - C'est à dire, "aimer les autres, même vos ennemis." Assurez-vous que "de même" ne se réfère pas seulement à l'aide qu'on peut apporter à un blessé.
+  * //Une histoire biblique tirée de // - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Luc 10:25-37//
 
 **[[:fr:obs:notes:frames:27-10|<<]] | [[:fr:obs:notes:27|Up]] | [[:fr:obs:notes:frames:28-01|>>]]**
