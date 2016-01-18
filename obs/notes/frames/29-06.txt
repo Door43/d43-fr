@@ -4,7 +4,7 @@
 
 “The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
 
-“Le **second serviteur tomba à genoux** et dit, 'Fais preuve de patience envers moi et je payerai toute ma dette”. Mais le premier serviteur **le jeta en prison** jusqu'à ce qu'il eut payé ce qu'il devait.”
+“L'**autre serviteur tomba à genoux** et dit, 'Fais preuve de patience envers moi et je payerai toute ma dette”. Mais le premier serviteur **jeta l'autre serviteur en prison** jusqu'à ce qu'il eut payé ce qu'il devait.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
@@ -18,9 +18,9 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **second serviteur**  - Traduire cette phrase de la même manière que dans **[[:fr:obs:notes:frames:29-05|[29-05]]]**.
+  * **autre serviteur**  - Traduire cette phrase de la même manière que dans **[[:fr:obs:notes:frames:29-05|[29-05]]]**.
   * **Tomba à genoux**  - Cette phrase a la même signification que dans **[[:fr:obs:notes:frames:29-04|[29-04]]]**.
-  * **le jeta en prison**  - Cela pourrait aussi être traduit comme "l'homme avait mis en prison." Le mot "jeta" est figuratif et signifie qu'il a été fait d'une manière énergique.
+  * **jeta l'autre serviteur en prison**  - Cela pourrait aussi être traduit comme "fit mettre l'homme en prison." Le mot "jeta" est figuratif et signifie que cela fut fait d'une manière énergique.
 **[[:fr:obs:notes:frames:29-05|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-07|>>]]**
 
 ~~DISCUSSION~~
