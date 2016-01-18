@@ -1,10 +1,10 @@
-===== The First and the Last  Le Premier Et Le Dernier [28-10] =====
+===== The First and the Last / Le Premier et le Dernier [28-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
 **Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
 
-Jésus leur répondit: “Tous ceux qui auront quitté, à cause de mon nom, leur maison, leurs frères, leurs sœurs, leur père, leur mère, leurs enfants ou leur terre, recevront cent fois plus, et hériteront la vie éternelle. Mais ceux qui sont maintenant les premiers seront les derniers, et ceux qui sont maintenant les derniers seront les premiers.”
+**Jésus** leur répondit: “Tous ceux qui **auront quitté** leur maison, leurs frères, leurs sœurs, leur père, leur mère, leurs enfants ou leur terre, **à cause de mon nom**, recevront **cent fois plus**, et hériteront **la vie éternelle**. Mais **ceux qui sont maintenant les premiers seront les derniers**, et **ceux qui sont maintenant les derniers seront les premiers**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -22,12 +22,12 @@ Jésus leur répondit: “Tous ceux qui auront quitté, à cause de mon nom, leu
 
 ===== Notes de traduction: =====
 
-  * **A quitté**  - C'est à dire , "a laissé derrière" ou "a renoncé", ou "a compté comme moins important que Dieu."
-  * **À cause de moi**  - cela peut aussi être traduit comme, "à cause de moi", ou "sur mon compte."
+  * **auront quitté**  - C'est à dire , "auront laissé derrière" ou "auront renoncé", ou "auront estimé moins important que Dieu."
+  * **à cause de mon nom**  - cela peut aussi être traduit comme, "à cause de moi", ou "à mon sujet."
   * **100 fois plus**  - C'est à dire, "beaucoup plus que ce qu'il avait avant."
-  * **Ceux qui sont les premiers seront derniers**  - C'est à dire, "beaucoup de gens qui sont importants aujourd'hui, ne le seront pas par la suite ."
-  * **Ceux qui sont les derniers seront les premiers**  - C'est à dire, "beaucoup de gens qui sont considérés comme ne pas être très importants sur la terre seront considérés comme très importants dans le ciel", ou "Beaucoup de gens qui sont considérés maintenant comme ayant peu de valeur sur la terre seront très appréciés dans le ciel".
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **ceux qui sont maintenant les premiers seront les derniers**  - C'est à dire, "beaucoup de gens qui sont importants aujourd'hui, ne le seront pas par la suite."
+  * **ceux qui sont maintenant les derniers seront les premiers**  - C'est à dire, "beaucoup de gens qui sont considérés comme n'étant pas très importants sur la terre seront considérés comme très importants dans le ciel", ou "Beaucoup de gens qui sont considérés maintenant comme ayant peu de valeur sur la terre seront très appréciés dans le ciel".
+  * //Une histoire biblique tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Matthieu 19:16-30; Marc 10:17-31; Luc 18:18-30//
 
 **[[:fr:obs:notes:frames:28-09|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:29-01|>>]]**
