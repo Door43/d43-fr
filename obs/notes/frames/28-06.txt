@@ -1,10 +1,10 @@
-===== The Camel and the Needle / Le Chameau Et L'Aiguille [28-06] =====
+===== The Camel and the Needle / Le Chameau et l'Aiguille [28-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
 Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
 
-Puis, **Jésus** dit à ses **disciples**, “Il est extrêmement difficile à ceux qui ont des richesses d'entrer dans le royaume de Dieu! Oui, il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le royaume de Dieu.”
+Puis, **Jésus** dit à ses **disciples**, “Il est extrêmement difficile pour les riches d'**entrer dans le royaume de Dieu**! Oui, il est plus facile à un **chameau** de passer par le **trou d'une aiguille** qu'à un riche d'entrer dans le royaume de Dieu.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -20,8 +20,8 @@ Puis, **Jésus** dit à ses **disciples**, “Il est extrêmement difficile à c
 ===== Notes de traduction: =====
 
   * **Entrer dans le royaume de Dieu**  - Cela peut aussi être traduit par "devenir un citoyen dans le royaume de Dieu."
-  * **chameau**  - Les chameaux sont très grands animaux qui sont souvent utilisés pour transporter de lourdes charges. Si chameau n'est pas connu dans votre région de la langue, une phrase telle que, "très gros animal" ou "bête de somme" pourrait être utilisé. Si vous choisissez de remplacer le nom par un autre grand animal, assurez-vous que l'animal aurait été connu par le peuple avec qui Jésus parlait, comme, "boeuf" ou "âne."
-  * **Chas d'une aiguille**  - Il s'agit du petit trou dans l'extrémité d'une aiguille à coudre. L'idée de quelque chose de grand comme un chameau passant par le chas d'une aiguille est destinée à représenter quelque chose d'impossible à réaliser.
+  * **chameau**  - Les chameaux sont de très grands animaux qui sont souvent utilisés pour transporter de lourdes charges. Si les chameaux ne sont pas connus dans votre zone linguistique, une phrase telle que, "un très gros animal" ou "une bête de somme" pourrait être utilisé. Si vous choisissez d'utiliser à la place le nom d'un autre grand animal, assurez-vous que l'animal aurait été connu par le peuple à qui Jésus parlait, tel qu' "un boeuf" ou "un âne."
+  * **Chas d'une aiguille**  - Il s'agit du petit trou à l'extrémité d'une aiguille à coudre. L'idée de quelque chose de grand comme un chameau passant par le chas d'une aiguille est destinée à représenter quelque chose d'impossible à réaliser.
 **[[:fr:obs:notes:frames:28-05|<<]] | [[:fr:obs:notes:28|Up]] | [[:fr:obs:notes:frames:28-07|>>]]**
 
 ~~DISCUSSION~~
