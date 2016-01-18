@@ -34,7 +34,7 @@ The Gnats and the Flies Les poux et les mouches [10-05]
 The Animals Died Les animaux moururent [10-06]
 
 [[:fr:obs:notes:frames:10-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink&200}}]]\\
-The Painful Sores [10-07]
+The Painful Sores  Les maux douloureux [10-07]
 
 [[:fr:obs:notes:frames:10-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-08.jpg?nolink&200}}]]\\
 The Hail La grêle [10-08]
