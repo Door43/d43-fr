@@ -4,7 +4,7 @@
 
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
 
-“Ses **compagnons**, ayant vu **ce qui s'était passé**, **furent profondément attristés**. Ils allèrent tout raconter au **roi**.”
+“Ses **compagnons**, ayant vu **ce qui s'était passé**, **furent profondément attristés**. Ils allèrent **tout** raconter au **roi**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
