@@ -4,7 +4,7 @@
 
 “The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
 
-“Le second serviteur le supplia, disant: “Fais preuve de patience envers moi et je payerai toute ma dette”. Mais le premier serviteur refusa et le jeta en prison jusqu'à ce qu'il eut payé ce qu'il devait.”
+“Le **second serviteur tomba sur ses genoux** et dit, 'Fais preuve de patience envers moi et je payerai toute ma dette”. Mais le premier serviteur *le jeta en prison** jusqu'à ce qu'il eut payé ce qu'il devait.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
