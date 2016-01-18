@@ -1,10 +1,10 @@
-===== The Debt Is Canceled  La Dette Est Annulée [29-04] =====
+===== The Debt Is Canceled / La Dette Est Annulée [29-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
 “The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
 
-“Le serviteur se prosterna devant le roi et dit: ”'Fais preuve de patience envers moi, et je te paierai tout ce que je te dois.' Le roi eut de la compassion pour le serviteur, annula toute sa dette et le laissa partir.”
+“Le **serviteur se prosterna devant le roi** et dit: 'Fais preuve de patience envers moi, et je te paierai tout ce que je te dois.' Le roi **eut de la compassion** pour le serviteur, **annula toute sa dette** et le laissa partir.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
@@ -21,10 +21,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Tomba à genoux**  - C'est à dire "rapidement s'agenouilla sur le terrain." C'était une façon de montrer son humilité et son désir pour le roi de l'aider. Assurez-vous que cela ne résonne pas comme s'il est tombé accidentellement.
-  * **Devant le roi**  - Cela signifie, "en face du roi."
-  * **Eu pitié**  - C'est à dire "ressenti de la compassion pour" ou " se senti désolé pour." Le roi savait que le serviteur et sa famille souffriraient grandement s'ils étaient vendus en esclavage.
-  * **Annulé toute sa dette**  - Cela peut être traduit comme, "dit que le serviteur n'avait pas besoin de rembourser tout l'argent qu'il devait le roi."
+  * **se prosterna**  - C'est à dire "rapidement s'agenouilla sur le terrain." C'était une façon de montrer son humilité et son désir pour le roi de l'aider. Assurez-vous que cela ne résonne pas comme s'il est tombé accidentellement.
+  * **devant le roi**  - Cela signifie, "en face du roi."
+  * **eut de la compassion**  - C'est à dire "ressenti de la compassion pour" ou " se senti désolé pour." Le roi savait que le serviteur et sa famille souffriraient grandement s'ils étaient vendus en esclavage.
+  * **annula toute sa dette**  - Cela peut être traduit comme, "dit que le serviteur n'avait pas besoin de rembourser tout l'argent qu'il devait le roi."
 **[[:fr:obs:notes:frames:29-03|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-05|>>]]**
 
 ~~DISCUSSION~~
