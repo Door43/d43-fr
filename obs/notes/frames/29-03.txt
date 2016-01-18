@@ -1,10 +1,10 @@
-===== Not Able to Repay Incapable De Repayer La Dette [29-03] =====
+===== Not Able to Repay / Incapable De Repayer La Dette [29-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
 
-Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet homme et sa famille comme esclaves pour que sa dette soit acquittée.”
+Etant donné que le **serviteur** n'avait pas de quoi **payer la dette**, le **roi** dit: “Vendez cet homme et sa famille comme **esclaves pour que sa dette soit acquittée**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
@@ -19,7 +19,7 @@ Comme le serviteur n'avait pas de quoi payer sa dette, le roi dit: “Vendez cet
 
   * (Jésus continue l'histoire.)
   * **Payer la dette**  - C'est à dire, "rembourser l'argent qu'il devait au roi."
-  * **Pour effectuer votre paiement sur sa dette**  - ce qui pourrait être traduit comme, "et d'utiliser l'argent reçue de leur vente pour payer une partie de ce qu'il me doit."
+  * **pour que sa dette soit acquittée**  - ce qui pourrait être traduit comme, "et utilisez l'argent reçu de leur vente pour payer une partie de ce qu'il me doit."
 **[[:fr:obs:notes:frames:29-02|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:29-04|>>]]**
 
 ~~DISCUSSION~~
