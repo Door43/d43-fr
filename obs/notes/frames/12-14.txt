@@ -1,4 +1,5 @@
 ===== An Annual Feast [12-14] =====
+
 ===== Une fête annuelle [12-14] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&}}
@@ -6,32 +7,28 @@
 **God** commanded the **Israelites** to celebrate **the Passover** every year in order to **remember how God gave them victory over** the **Egyptians** and rescued them from being **slaves**. They celebrated by killing a **perfect lamb**, eating it with **bread that was made without yeast**, and telling about how God had **saved** them.
 
 **Dieu** dit aux **Israélites** de célébrer **la Pâque Juive** chaque année pour qu'**ils se souviennent qu'Il avait vaincu les Égyptiens** et les **avait sauvés** de l'**esclavage**. Ils célébrèrent en tuant un** agneau sans défaut**, et en le mangeant avec du **pain sans levain.**
-
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/passover]]**
-  * **[[:fr:obe:other/egypt]]**
-  * **[[:fr:obe:other/servant]]**
-  * **[[:fr:obe:kt/lamb]]**
 
-
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:passover|Passover]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:servant|servant, slave, slavery (servante, esclave, esclavage)]]**
+  * **[[:fr:obe:kt:lamb|lamb, Lamb of God]]**
 ==== Translation Notes: ====
 
-
-  * **the Passover** - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
-  * **remember how God gave them victory over** – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
-  * **perfect lamb** - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
-  * **bread that was made without yeast** - Another way to say this is, "unleavened bread." See how you translated this in **[[:fr:obs:notes:frames:11-03|[11-03]]]**.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **the Passover**  - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
+  * **remember how God gave them victory over**  – This could be translated as, "regularly remind themselves of how God defeated." The word "remember" here doesn't just mean to not forget; it also means to formally commemorate something.
+  * **perfect lamb**  - The word "perfect" here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, "a completely healthy and well-formed lamb."
+  * **bread that was made without yeast**  - Another way to say this is, "unleavened bread." See how you translated this in **[[:fr:obs:notes:frames:11-03|[11-03]]]**.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 ==== Notes de Traduction: ====
 
   * **la Pâque**  - Une autre façon de traduire serait "les activités associées à la Pâque" ou "la fête de la Pâque" ou le repas de la Pâque.
   * **se souviennent qu'Il avait vaincu**  - Une autre façon de traduire serait "se rappeler fréquemment comment Dieu avait vaincu." Le mot "se souvenir" ici ne veut seulement dire de ne pas oublier; cela veut dire aussi commémorer quelque chose solennellement.
   * **agneau sans défaut**  - Le mot "sans défaut" ici refère à un agneau sans maladie ni rien d'autre de mal. Une autre façon de dire serait "en bonne santé et sans difformité.
   * **pain sans levain**  - Une autre façon de le dire serait "pain sans levure." Voir comment vous avez traduit cette expression dans **[[:fr:obs:notes:frames:11-03|[11-03]]]**.
-  * //Une histoire biblique tirée de//  - Ces rèférences pourrait être légèrement différentes dans d'autres traductions biblique.
+  * //Une histoire biblique tirée de//  - Ces rèférences pourraient être légèrement différentes dans d'autres traductions bibliques.
 **[[:fr:obs:notes:frames:12-13|<<]] | [[:fr:obs:notes:12|Up]] | [[:fr:obs:notes:frames:13-01|>>]]**
 
 ~~DISCUSSION~~
