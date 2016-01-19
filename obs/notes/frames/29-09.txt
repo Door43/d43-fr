@@ -1,10 +1,10 @@
-===== Forgive Your Brother Pardonnez  Votre Frère [29-09] =====
+===== Forgive Your Brother / Pardonnez à Votre Frère [29-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
 **Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
 
-Alors, Jésus dit: “C'est ainsi que mon Père Céleste vous traitera, si chacun de vous ne pardonne pas à son frère de tout son cœur.”
+**Alors, Jésus dit**: “**C'est** ainsi que **mon Père Céleste** vous traitera, si chacun de vous ne **pardonne pas à son frère de tout son cœur**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -23,12 +23,12 @@ Alors, Jésus dit: “C'est ainsi que mon Père Céleste vous traitera, si chacu
   * //Une histoire biblique tirée de: Matthieu 18:21-35//
 ===== Notes de traduction: =====
 
-  * **Alors Jésus dit**  - Certaines langues peuvent ajouter, "à ses disciples."
-  * **C'est ainsi **- "C'est ainsi" renvoie à la façon dont le roi a puni le serviteur impitoyable dans **[[:fr:obs:notes:frames:29-08|[29-08]]]**.
+  * **Alors, Jésus dit**  - Certaines langues pourrait ajouter, "à ses disciples."
+  * **C'est**  - "C'est" renvoie à la façon dont le roi a puni le serviteur impitoyable dans **[[:fr:obs:notes:frames:29-08|[29-08]]]**.
   * **Mon Père celeste**  - C'est à dire, "mon Père dans les cieux." Jésus exprime sa relation personnelle unique avec Dieu le Père.
   * **Votre frère**  - Voyez comment vous avez traduit cela dans **[[:fr:obs:notes:frames:29-01|[29-01]]]**.
-  * **À partir de votre cœur**  - c'est à dire "avec sincérité" ou "vraiment" ou "véritablement" ou "honnêtement."
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **de tout son cœur**  - c'est à dire "avec sincérité" ou "vraiment" ou "véritablement" ou "honnêtement."
+  * //Une histoire biblique tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 **[[:fr:obs:notes:frames:29-08|<<]] | [[:fr:obs:notes:29|Up]] | [[:fr:obs:notes:frames:30-01|>>]]**
 
 ~~DISCUSSION~~
