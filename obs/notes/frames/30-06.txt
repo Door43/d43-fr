@@ -1,10 +1,10 @@
-===== Preparation for the Meal   Préparation Pour Le Repas [30-06] =====
+===== Preparation for the Meal / Préparation Pour Le Repas [30-06] F=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
 **Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
 
-Jésus envoya ses disciples dire aux gens qui étaient dans la foule de s'asseoir sur l'herbe, par groupes de cinquante personnes.
+**Jésus** envoya ses **disciples** dire aux gens qui étaient dans la foule de s'asseoir sur l'herbe, par groupes de cinquante personnes.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
