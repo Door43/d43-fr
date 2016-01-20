@@ -1,10 +1,10 @@
-===== Everyone Ate  Chacun A mangé [30-08] =====
+===== Everyone Ate / Tout le monde mangea [30-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
 Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
 
-Puis Jésus rompit le pain et les poissons. Il donna les morceaux à ses disciples qui les distribuèrent à la foule. Les disciples continuèrent à distribuer la nourriture à la foule, il n'en manqua pas et tout le monde fut rassasié.
+Puis **Jésus rompit le pain et les poissons**. Il donna les morceaux à ses **disciples** pour qu'ils les distribuent à la foule. Les disciples continuèrent à distribuer la nourriture à la foule, **il n'en manqua pas** et tout le monde mangea et fut rassasié.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -18,9 +18,9 @@ Puis Jésus rompit le pain et les poissons. Il donna les morceaux à ses discipl
   * **were satisfied**  - That is, "were no longer hungry" or, "were not hungry any more."
 ===== Notes de traduction: =====
 
-  * **Rompit le pain et le poisson**  - C'es á dire, "a coupé le pain et le poisson en morceaux."
-  * **Il n'a jamais manqué**  - Une autre façon de dire serait, "il y en avait toujours de reste."
-  * **Étaient satisfaits**  - C'est à dire, "n'avaient plus faim" ou "n'étaient plus affamés."
+  * **Rompit le pain et le poisson**  - C'est à dire, "a coupé le pain et le poisson en morceaux."
+  * **il n'en manqua pas**  - Une autre façon de dire cela serait, "il en restait davantage."
+  * **fut rassasié**  - C'est à dire, "n'avaient plus faim" ou "n'étaient plus affamés."
 **[[:fr:obs:notes:frames:30-07|<<]] | [[:fr:obs:notes:30|Up]] | [[:fr:obs:notes:frames:30-09|>>]]**
 
 ~~DISCUSSION~~
