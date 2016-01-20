@@ -1,10 +1,10 @@
-===== Five Loaves and Two Fish  Cinq pains et Cinq poissons  [30-05] =====
+===== Five Loaves and Two Fish  Cinq pains et Cinq poissons  [30-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
 But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
 
-Mais Jésus dit aux disciples: “Donnez-leur vous-mêmes à manger.” Ils lui répondirent: “Comment peut-on faire cela? Nous n'avons que cinq pains et deux petits poissons.”
+Mais **Jésus** dit aux **disciples**: “Donnez-leur vous-mêmes à manger.” Ils lui répondirent: “**Comment faire cela**? Nous n'avons que cinq pains et deux petits poissons.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -14,9 +14,10 @@ Mais Jésus dit aux disciples: “Donnez-leur vous-mêmes à manger.” Ils lui 
 ===== Translation Notes: =====
 
   * **How can we do that?**  - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
+
 ===== Note de traduction: =====
 
-  * **Comment pouvons-nous le faire?**  - Cela pourrait être traduit comme, "Nous ne pouvons pas faire ça!" ou "Il est impossible de faire ça!" Les disciples ne posaient pas réellement une question . Au contraire, ils exprimaient fortement qu'ils ne pensaient pas que c'était possible.
+  * **Comment faire cela?**  - Cela pourrait être traduit comme, "Nous ne pouvons pas faire ça!" ou "Il est impossible de faire ça!" Les disciples n'étaient pas réellement en train de poser une question. Au contraire, ils étaient en train d'exprimer fortement qu'ils ne pensaient pas que c'était possible.
 **[[:fr:obs:notes:frames:30-04|<<]] | [[:fr:obs:notes:30|Up]] | [[:fr:obs:notes:frames:30-06|>>]]**
 
 ~~DISCUSSION~~
