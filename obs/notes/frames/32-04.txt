@@ -1,10 +1,10 @@
-===== Living among the Tombs  Demeurant Dans Les Tombeaux [32-04] =====
+===== Living among the Tombs / Demeurant Dans Les Tombeaux [32-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
 The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
 
-Cet homme demeurait dans les sépulcres de la région. Il criait jour et nuit. Il ne portait pas de vêtements et se meurtrissait régulièrement avec des pierres.
+Cet homme demeurait **dans les sépulcres** de la région. Il criait jour et nuit. Il ne portait pas de vêtements et se meurtrissait régulièrement avec des pierres.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/tomb]]**
@@ -15,7 +15,7 @@ Cet homme demeurait dans les sépulcres de la région. Il criait jour et nuit. I
   * **among the tombs**  - That is "near the tombs" or, "around the tombs."
 ===== Note de traduction: =====
 
-  * **Parmi les tombes**  - C'est à dire "près des tombeaux" ou "autour des tombes."
+  * **dans les sépulcres**  - C'est à dire "près des tombes" ou "autour des tombes."
 **[[:fr:obs:notes:frames:32-03|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-05|>>]]**
 
 ~~DISCUSSION~~
