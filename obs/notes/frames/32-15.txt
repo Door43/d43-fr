@@ -1,10 +1,10 @@
-===== Who Touched Me? Qui M'A Touché? [32-15] =====
+===== Who Touched Me? Qui m'a touché? [32-15] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
 Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
 
-Immédiatement, Jésus réalisa qu'une force était sortie de lui. Alors il se retourna et demanda: “Qui m'a touché?” Les disciples répondirent: “Il y a beaucoup de gens autour de toi qui auraient pu te toucher. Comment peux-tu demander, 'Qui m'a touché?'”
+Immédiatement, **Jésus** réalisa qu'**une force était sortie de lui**. Alors il se retourna et demanda: “Qui m'a touché?” Les **disciples** répondirent: “Il y a beaucoup de gens autour de toi qui auraient pu te toucher. **Comment peux-tu demander, 'Qui m'a touché?'**”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -18,8 +18,8 @@ Immédiatement, Jésus réalisa qu'une force était sortie de lui. Alors il se r
   * **Why did you ask, 'Who touched me?'**  - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
 ===== Notes de traduction: =====
 
-  * **Force était sortie de lui**  - Cela peut être traduit comme " le pouvoir de guérison avait coulé de lui en quelqu'un d'autre", ou "quelqu'un avait été guéri à cause de son pouvoir." Jésus n'a pas perdu tout pouvoir à cause de cela.
-  * **Pourquoi avez-vous demandé, "Qui m'a touché?"**  - Dans certaines langues, il peut être préférable d'utiliser une citation indirecte ici, telle que "Pourquoi avez-vous demandé qui vous a touché?" ou: "Pourquoi vous vous demandez qui vous a touché?"
+  * **une force était sortie de lui**  - Cela peut être traduit par" le pouvoir de guérison avait jailli de lui vers quelqu'un d'autre", ou "quelqu'un avait été guéri à cause de son pouvoir." Jésus n'a perdu aucun pouvoir à cause de cela.
+  * **Comment peux-tu demander, 'Qui m'a touché?'**  - Dans certaines langues, il peut être préférable d'utiliser une citation indirecte ici, telle que "Pourquoi as tu demandé qui t'a touché?" ou: "Pourquoi te demandes tu qui t'a touché?"
 **[[:fr:obs:notes:frames:32-14|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-16|>>]]**
 
 ~~DISCUSSION~~
