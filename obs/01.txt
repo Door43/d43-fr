@@ -1,4 +1,4 @@
-====== 1. La Création 1 ======
+====== 1. La Création ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
