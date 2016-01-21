@@ -1,10 +1,10 @@
-===== The Sick Woman  La Femme Malade [32-13] =====
+===== The Sick Woman / La Femme Malade [32-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
 **Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
 
-Jésus retourna sur l'autre rive du lac. Une fois arrivé, une grande foule se réunit autour de lui et le pressa. Dans la foule, il y avait une femme atteinte d'une perte de sang depuis douze ans. Elle avait dépensé tout son argent chez les docteurs, sans être soulagée, et elle allait de plus en plus mal.
+**Jésus** retourna sur l'autre rive du lac. Une fois arrivé, une grande foule se réunit autour de lui et **le pressa**. Dans la foule, il y avait une femme atteinte d'une perte de sang depuis douze ans. Elle avait dépensé tout son argent chez les docteurs afin qu'on la **guérisse**, mais et **son état n'a fait qu'empirer**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -17,8 +17,8 @@ Jésus retourna sur l'autre rive du lac. Une fois arrivé, une grande foule se r
   * **she only got worse**  - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
 ===== Notes de traduction: =====
 
-  * **a pressé sur lui**  - C'est à dire, "a poussé fort contre lui" ou " l' a pressé de tous côtés."
-  * **Elle n'a fait qu'empirer**  - C'est à dire, "son état ne faisait qu'empirer" ou, "son état de santé a empiré au lieu d'être meilleur" ou, "à la place, elle est devenue plus malade."
+  * **le pressa**  - C'est à dire, "poussa fort contre lui" ou " l' a pressé de tous côtés."
+  * **son état n'a fait qu'empirer**  - C'est à dire, "son état ne faisait qu'empirer" ou, "son état de santé a empiré au lieu d'être meilleur" ou, "à la place, elle est devenue plus malade."
 **[[:fr:obs:notes:frames:32-12|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-14|>>]]**
 
 ~~DISCUSSION~~
