@@ -1,10 +1,10 @@
-===== The Pigs Drowned Les Cochons Se Noyèrent [32-08] =====
+===== The Pigs Drowned / Les Pourceaux Se Noyèrent [32-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
 The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
 
-Les démons sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux se précipitèrent dans le lac, du haut des pentes escarpées et se noyèrent. Il y avait environ 2,000 pourceaux dans le troupeau.
+Les **démons** sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux se précipitèrent dans le lac, du haut des pentes escarpées et se noyèrent. Il y avait environ 2,000 pourceaux dans le **troupeau**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/demon]]**
@@ -15,7 +15,7 @@ Les démons sortirent de l'homme et entrèrent dans les pourceaux. Les pourceaux
   * **herd**  - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
 ===== Note de traduction: =====
 
-  * **Troupeau**  - C'est à dire, "troupeau de porcs", ou "groupe de porcs." Beaucoup de langues ont des noms spécifiques pour les groupes d'animaux, tels que "troupeau de moutons", "troupeau", "meute de chiens" et "banc de poissons." Utilisez un mot qui peut être utilisé de manière appropriée pour un grand groupe de porcs.
+  * **Troupeau**  - C'est à dire, "troupeau de pourceaux", ou "groupe de pourceaux." Beaucoup de langues ont des noms spécifiques pour les groupes d'animaux, tels que "troupeau de moutons", "troupeau", "meute de chiens" et "banc de poissons." Utilisez un mot qui peut être utilisé de manière appropriée pour un grand groupe de porcs.
 **[[:fr:obs:notes:frames:32-07|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-09|>>]]**
 
 ~~DISCUSSION~~
