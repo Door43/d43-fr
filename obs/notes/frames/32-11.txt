@@ -1,10 +1,10 @@
-===== Go Home  Va Chez Toi [32-11] =====
+===== Go Home / Va Chez Toi [32-11] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
 But **Jesus** said to him, “No, I want you to go home and tell your friends and family about everything that **God** has done for you and **how he has had mercy on you**.”
 
-Mais Jésus lui dit: “Non, je veux que tu ailles dans ta maison, et que tu racontes à tes amis et ta famille tout ce que le Seigneur a fait pour toi, et comment il a eu pitié de toi.”
+Mais **Jésus** lui dit, “Non, je veux que tu ailles chez, et que tu racontes à tes amis et ta famille tout ce que **Dieu** a fait pour toi, et **comment il a eu pitié de toi**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -17,7 +17,7 @@ Mais Jésus lui dit: “Non, je veux que tu ailles dans ta maison, et que tu rac
   * **how he has had mercy on you**  - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
 ===== Note de traduction: =====
 
-  * **Comment il a eu pitié de toi**  - Cela peut être traduit comme "comment il a montré la miséricorde envers vous" ou "qu'il a été miséricordieux envers vous."
+  * **Comment il a eu pitié de toi**  - Cela peut être traduit par "comment il a fait preuve de miséricorde envers toi" ou "qu'il a été miséricordieux envers toi."
 **[[:fr:obs:notes:frames:32-10|<<]] | [[:fr:obs:notes:32|Up]] | [[:fr:obs:notes:frames:32-12|>>]]**
 
 ~~DISCUSSION~~
