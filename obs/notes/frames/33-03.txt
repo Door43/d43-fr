@@ -1,10 +1,10 @@
-===== The Seed on the Rocks  Les Graines Sur Les Rocailles  [33-03] =====
+===== The Seed on the Rocks / Les Graines Sur Les Roches [33-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
 “Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
 
-“Une autre partie de la semence tomba dans des endroits pierreux, où elle n'avait pas beaucoup de terre. La semence dans les endroits pierreux, leva aussitôt. Mais quand le soleil parut et qu'il fit chaud, les plants désséchèrent faute de racines et moururent.
+“Une autre partie de la semence tomba sur un **sol rocailleux**, où il n'y avait pas beaucoup de terre. La semence sur le sol rocailleux, leva aussitôt. Mais quand le soleil parut et qu'il fit chaud, les plants desséchèrent et moururent.
 
 ===== Termes Importants =====
 
@@ -15,7 +15,7 @@
 ===== Note de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Sol rocailleux**  - c'est à dire " un terrain qui était plein de rochers."
+  * **sol rocailleux**  - c'est à dire " un terrain qui était plein de roches."
 **[[:fr:obs:notes:frames:33-02|<<]] | [[:fr:obs:notes:33|Up]] | [[:fr:obs:notes:frames:33-04|>>]]**
 
 ~~DISCUSSION~~
