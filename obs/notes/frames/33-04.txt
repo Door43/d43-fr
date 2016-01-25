@@ -4,7 +4,7 @@
 
 “Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
 
-“Une autre partie de la semence tomba parmi les épines. La semence commença à pousser mais **les épines étouffèrent la semence"" qui ne produisit pas de grain.”
+“Une autre partie de la semence tomba parmi les épines. La semence commença à pousser mais **les épines l'étouffèrent**. Alors les plantes qui poussèrent de la semence parmi **les épines** ne produisirent pas de grain.”
 
 ===== Termes Importants =====
 
@@ -17,10 +17,9 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-
-  * **Les épines**  - Ce sont "les plantes épineuses" ou, "Les buissons d'épines".
-  * **Étouffèrent**  - Cela peut aussi être traduit par "les couvrirent", ou "les ont pressées."
-  * **Sol épineux**-****  C'est à dire, "terre qui a été recouverte de buissons épineux."
+  * **les épines**  - Ce sont "les plantes épineuses" ou, "Les buissons d'épines".
+  * **l'étouffèrent**  - Cela peut aussi être traduit par "les recouvrirent", ou "les ont pressées."
+  * **parmi les épines**  - C'est à dire, "terre qui était recouverte de buissons épineux."
 **[[:fr:obs:notes:frames:33-03|<<]] | [[:fr:obs:notes:33|Up]] | [[:fr:obs:notes:frames:33-05|>>]]**
 
 ~~DISCUSSION~~
