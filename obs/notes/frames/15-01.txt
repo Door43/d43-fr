@@ -7,34 +7,31 @@
 Finalement, l'heure pour les Israélites d'entrer dans la Terre Promise arriva. Josué envoya deux espions à la ville Cananéenne de Jéricho qui était protégée par de grands murs. Dans cette ville vivait une prostituée nommée Rahab, qui cacha les espions et les aida à prendre la fuite dans la nuit. Elle fit cela parce qu'elle croyait en Dieu. Les espions promirent de protéger Rahab et sa famille quand Jéricho serait détruite par les Israélites.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/canaan]]**
-  * **[[:fr:obe:kt/promisedland]]**
-  * **[[:fr:obe:other/joshua]]**
-  * **[[:fr:obe:other/canaan]]**
-  * **[[:fr:obe:other/jericho]]**
-  * **[[:fr:obe:other/rahab]]**
-  * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/promise]]**
 
-
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:fr:obe:kt:promisedland|Promised Land]]**
+  * **[[:fr:obe:other:joshua|Joshua]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:fr:obe:other:jericho|Jericho]]**
+  * **[[:fr:obe:other:rahab|Rahab]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:promise|promise]]**
 ==== Translation Notes: ====
 
-
-  * **At last it was time for** - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
-  * **two spies to the Canaanite city of Jericho** - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:fr:obs:notes:frames:14-04|[14-04]]]**.
-  * **protected by strong walls** - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
-  * **escape** – It is also possible to add, "escape from people in Jericho who wanted to harm them."
-  * **her family** - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people.
-
+  * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
+  * **two spies to the Canaanite city of Jericho**  - This could be translated as, "two men to Jericho, a city in Canaan, to find out information about it." Also see the notes for, "spy out the land" in **[[:fr:obs:notes:frames:14-04|[14-04]]]**.
+  * **protected by strong walls**  - This could be translated as, "completely surrounded by thick, strong walls made of stone to protect it from their enemies."
+  * **escape**  – It is also possible to add, "escape from people in Jericho who wanted to harm them."
+  * **her family**  - Rahab asked for protection for her father, mother, brothers, and sisters. Use your word for family that includes these people.
 ===== Notes de Traduction: =====
 
-  * **Finalement, l'heure pour**  -
-  * **Deux espions à la ville Cananéenne de Jéricho**  -
-  * **était protégée par de grands murs**  -
-  * **prendre la fuite**  -
-  * **sa famille**  -
+  * **Finalement, l'heure pour**  -"finalement" signifie "enfin"ou "aprés une longue attente." En termes plus clairs " l'heure" pourrait être exprimé par" aprés avoir erré pendant quarante ans dans le désert, Dieu leur a finalement  permis de...."
+  * **Deux espions à la ville Cananéenne de Jéricho**  - Cela pourrait être traduit par "... deux hommes à Jéricho, une ville de Canaan, pour en avoir des informations." voir les notes de traductions pour "espionner le pays en [14-04].
+  * **était protégée par de grands murs**  - On pourrait traduire par" totalement encerclée par des murs en pierre épais et solides pour la protéger des ennemis.
+  * **prendre la fuite**  - il serait possible d'ajouter," s'échapper des gens de Jéricho qui voulaient leur faire du mal.
+  * **sa famille**  - Rahab demandait que son père, sa mère,ses frères et ses soeurs soient protégés. utilisez le mot pour "famille" qui comprend toutes se spersonnes.
 **[[:fr:obs:notes:frames:14-15|<<]] | [[:fr:obs:notes:15|Up]] | [[:fr:obs:notes:frames:15-02|>>]]**
 
 ~~DISCUSSION~~
