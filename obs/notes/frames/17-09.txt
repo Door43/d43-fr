@@ -5,16 +5,14 @@
 **David ruled with justice and faithfulness for many years**, and **God blessed** him. However, **toward the end of his life he sinned terribly** against God.
 
 **David gouverna avec justice et fidélité pendant beaucoup d'années**, et** Dieu le bénit**. Cependant, **vers la fin de sa vie il pécha terriblement** contre Dieu.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/david]]**
-  * **[[:fr:obe:kt/justice]]**
-  * **[[:fr:obe:kt/faithful]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/bless]]**
-  * **[[:fr:obe:kt/sin]]**
 
-
+  * **[[:fr:obe:other:david|David]]**
+  * **[[:fr:obe:kt:justice|just, justice, justly]]**
+  * **[[:fr:obe:kt:faithful|faithful, faithfulness]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing (Bénir, a béni ou béni, la bénédiction)]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(le péché,coupable,pécher,péchant)]]**
 ==== Translation Notes: ====
 
   * **David ruled with justice and faithfulness for many years**  - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
@@ -22,11 +20,9 @@
   * **sinned terribly**  - That is, "sinned in a very evil way." David's sin was especially evil.
 ===== Notes de Traduction: =====
 
-  * **David gouverna avec justice et fidélité pendant beaucoup d'années** - 
-  * **vers la fin de sa vie** - 
-  * **pécha terriblement** -
-
-
+  * **David gouverna avec justice et fidélité pendant beaucoup d'années**  - On pourrait le traduire par, " quand David gouverna le peuple,durant de nombreuses années il fut juste et équitable, et resta fidèle  à Dieu."
+  * **vers la fin de sa vie**  - On pourrait traduire par," quand David était plus vieux" ou " plus tard au cours de la vie de David."
+  * **pécha terriblement**  - Cela signifie," commit un trés trés grand péché." Le péché de David était tout à fait  horrible.
 **[[:fr:obs:notes:frames:17-08|<<]] | [[:fr:obs:notes:17|Up]] | [[:fr:obs:notes:frames:17-10|>>]]**
 
 ~~DISCUSSION~~
