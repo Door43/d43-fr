@@ -5,22 +5,20 @@
 But **God** sent **the prophet Nathan** to **David** with this message, “Because you are a **man of war**, you will not build **this Temple** for me. Your **son** will build it. But, I will **bless** you greatly. One of your **descendants** will rule as king over my people forever!” The only descendant of David who could rule forever was the **Messiah**. The Messiah was God’s Chosen One who would save the people of the world from their **sin**.
 
 Mais **Dieu** envoya** le prophète Nathan** vers **David** avec ce message, “Parce tu es un** homme de guerre**, tu ne bâtiras pas **ce Temple** pour moi. Ton **fils** le bâtira. Mais, je te **bénirai ** grandement. Un de tes **descendants** régnera sur mon peuple pour toujours!” Le seul descendant de David qui aurait pu régner pour toujours était le **Messie**.” Le Messie était celui qui avait été choisi par Dieu et qui sauverait le monde de son **péché**.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/nathan]]**
-  * **[[:fr:obe:other/david]]**
-  * **[[:fr:obe:kt/temple]]**
-  * **[[:fr:obe:kt/son]]**
-  * **[[:fr:obe:kt/bless]]**
-  * **[[:fr:obe:other/king]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/christ]]**
-  * **[[:fr:obe:other/descendant]]**
-  * **[[:fr:obe:kt/sin]]**
 
-
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:nathan|Nathan]]**
+  * **[[:fr:obe:other:david|David]]**
+  * **[[:fr:obe:kt:temple|temple]]**
+  * **[[:fr:obe:kt:son|son]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing (Bénir, a béni ou béni, la bénédiction)]]**
+  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
+  * **[[:fr:obe:other:descendant|descendant]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(le péché,coupable,pécher,péchant)]]**
 ==== Translation Notes: ====
 
   * **the prophet Nathan**  – It may be more natural in some languages to say, "a prophet named Nathan."
@@ -29,11 +27,10 @@ Mais **Dieu** envoya** le prophète Nathan** vers **David** avec ce message, “
   * **from sin**  - That is, "from the terrible consequences of their sin."
 ===== Notes de Traduction: =====
 
-  * **le prophète Nathan** - Il peut être plus naturelle dans certaines langues de dire, "une  prophète nommé Nathan. "
-  * **Homme de guerre** - Ce est, "l'homme qui se bat batailles." David a tué beaucoup de gens dans la bataille contre les ennemis des Israélites. Dieu ne punit pas David, mais Dieu voulait un homme de paix pour construire le Temple où les gens l'adorent.
-  * **ce Temple** - Ce est, "ce bâtiment pour le culte", ou "ce lieu de culte."
-  * **de son péché** - Ce est, "Des terribles conséquences de leur péché". 
-
+  * **le prophète Nathan**  - Il peut être plus naturel dans certaines langues de dire, "un prophète nommé Nathan. "
+  * **Homme de guerre**  - Cela signifie, "l'homme qui combat dans les batailles." David a tué beaucoup de gens dans la bataille contre les ennemis des Israélites. Dieu ne punissait pas David, mais Dieu voulait un homme de paix pour construire le Temple où les gens l'adoreraient.
+  * **ce Temple**  - C'est à dire, "ce bâtiment pour le culte", ou "ce lieu de culte."
+  * **de son péché**  - C'est à dire , "Des terribles conséquences de leur péché".
 **[[:fr:obs:notes:frames:17-06|<<]] | [[:fr:obs:notes:17|Up]] | [[:fr:obs:notes:frames:17-08|>>]]**
 
 ~~DISCUSSION~~
