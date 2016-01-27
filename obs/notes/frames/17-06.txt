@@ -19,10 +19,9 @@
 ==== Translation Notes: ====
 
   * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-===== Notes de Traduction: =====
+===== Note de Traduction: =====
 
-  * **bâtir un temple** - David voulait construire un bâtiment permanent pour adorer Dieu qui remplacerait la Tente portable de réunion.
-
+  * **bâtir un temple**  - David voulait construire un bâtiment permanent pour adorer Dieu qui remplacerait la Tente portable de rencontre.
 **[[:fr:obs:notes:frames:17-05|<<]] | [[:fr:obs:notes:17|Up]] | [[:fr:obs:notes:frames:17-07|>>]]**
 
 ~~DISCUSSION~~
