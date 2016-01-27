@@ -5,23 +5,19 @@
 So **Joshua** gathered the **Israelite** army and they marched all night **to reach the Gibeonites**. In the early morning **they surprised the Amorite armies** and attacked them.
 
 Alors** Josué** rassembla l'armée **Israélite** et ils marchèrent toute la nuit **pour arriver à Gabaon**. Très tôt le matin,** ils surprirent les armées Amorites** et les attaquèrent.​
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/joshua]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/gibeon]]**
-  * **[[:fr:obe:other/amorite]]**
 
-
+  * **[[:fr:obe:other:joshua|Joshua]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:gibeon|Gibeon, Gibeonite]]**
+  * **[[:fr:obe:other:amorite|Amorite]]**
 ==== Translation Notes: ====
 
-
-  * **to reach the Gibeonites** - That is, "to get to the Gibeonites" or, "to arrive at where the Gibeonites lived." The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were.
-  * **they surprised the Amorite armies** - The Amorites did not know that the Israelites were coming to attack them.
-
+  * **to reach the Gibeonites**  - That is, "to get to the Gibeonites" or, "to arrive at where the Gibeonites lived." The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were.
+  * **they surprised the Amorite armies**  - The Amorites did not know that the Israelites were coming to attack them.
 ==== Translation Notes: ====
 
-  * **pour arriver à Gabaon**  - Cela signifie, "pour atteindre les Gabaonites" ou " pour arriver là où les Gabaonites vivaient"
+  * **pour arriver à Gabaon**  - Cela signifie, "pour atteindre les Gabaonites" ou " pour arriver là où les Gabaonites vivaient." Les Gabaonites vivaient en Canaan, mais Canaan est une grande région, aussi l'armée israélite a dû voyager toute la nuit pour atteindre le camp des Gabaonites.
   * **ils surprirent les armées Amorites**  - Les Amoréens ne savaient pas que les Israélites arrivaient pour les attaquer.
 **[[:fr:obs:notes:frames:15-07|<<]] | [[:fr:obs:notes:15|Up]] | [[:fr:obs:notes:frames:15-09|>>]]**
 
