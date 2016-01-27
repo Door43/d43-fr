@@ -5,30 +5,26 @@
 **God** had commanded the **Israelites** not to make a **peace treaty** with any of the people groups in **Canaan**. **But one of the Canaanite people groups, called the Gibeonites**, **lied to Joshua and said** they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the Israelites did not ask God **where the Gibeonites were from**. So Joshua made a peace treaty with them.
 
 **Dieu** avait ordonné aux** Israélites** de ne faire de **traité de paix** avec aucun des autres groupes de gens dans le pays de **Canaan**. **Mais un des groupes Cananéens, qui s'appelait la tribu** **de Gabaon mentit à Josué**.** Ils dirent** qu'ils venaient d'un endroit éloigné de Canaan. Ils demandèrent à Josué de faire un traité de paix avec eux. Josué et les Israélites n'avaient pas demandé à Dieu **d'où ils venaient**. Alors Josué fit un traité de paix avec eux.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/peace]]**
-  * **[[:fr:obe:other/canaan]]**
-  * **[[:fr:obe:other/gibeon]]**
-  * **[[:fr:obe:other/joshua]]**
 
-
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:peace|peace, peaceful]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:fr:obe:other:gibeon|Gibeon, Gibeonite]]**
+  * **[[:fr:obe:other:joshua|Joshua]]**
 ==== Translation Notes: ====
 
-
-  * **peace treaty** – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
-  * **But one of the Canaanite people groups called the Gibeonites** – Some languages may introduce this as, "But one day a Canaanite people group by the name of the Gibeonites …"
-  * **lied to Joshua and said** - This could be translated as, "They lied to Joshua by saying" or, "They falsely said to Joshua" or, "They falsely told Joshua."
-  * **where the Gibeonites were from** - That is, "where the Gibeonites lived" or, "where the Gibeonites' home was." "Gibeonites" means, "people of Gibeon."
-
+  * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
+  * **But one of the Canaanite people groups called the Gibeonites**  – Some languages may introduce this as, "But one day a Canaanite people group by the name of the Gibeonites …"
+  * **lied to Joshua and said**  - This could be translated as, "They lied to Joshua by saying" or, "They falsely said to Joshua" or, "They falsely told Joshua."
+  * **where the Gibeonites were from**  - That is, "where the Gibeonites lived" or, "where the Gibeonites' home was." "Gibeonites" means, "people of Gibeon."
 ==== Translation Notes: ====
 
-  * **traité de paix**  -
-  * **Mais un des groupes Cananéens, qui s'appelait la tribu de Gabaon**  -
-  * **mentit à Josué. Ils dirent**  -
-  * **d'où ils venaient**  -
+  * **traité de paix**  - C'est un accord entre deux groupes de personnes qui décident de ne pas se faire du mal mais de vivre en paix et de s'entraider.On pourrait le traduire par "un accord de paix."
+  * **Mais un des groupes Cananéens, qui s'appelait la tribu de Gabaon**  - certaines langues pourraient le présenter ainsi "mais un jour, un groupe de Cananéens du nom de Gabaonites..."
+  * **mentit à Josué. Ils dirent**  - On pourrait le traduire par "ils mentirent à Josué en disant" ou " ils ont faussement dit à Josué."
+  * **d'où ils venaient**  - C'est à dire, "où les Gabaonites vivaient" ou "où se trouvaient leurs maisons."  "Gabaonites" :ce sont les gens de Gibéon.
 **[[:fr:obs:notes:frames:15-05|<<]] | [[:fr:obs:notes:15|Up]] | [[:fr:obs:notes:frames:15-07|>>]]**
 
 ~~DISCUSSION~~
