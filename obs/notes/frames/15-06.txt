@@ -25,12 +25,10 @@
 
 ==== Translation Notes: ====
 
-  * **traité de paix** - 
-  * **Mais un des groupes Cananéens, qui s'appelait la tribu de Gabaon** - 
-  * **mentit à Josué. Ils dirent** - 
-  * **où ils venaient** - 
-
-
+  * **traité de paix**  -
+  * **Mais un des groupes Cananéens, qui s'appelait la tribu de Gabaon**  -
+  * **mentit à Josué. Ils dirent**  -
+  * **d'où ils venaient**  -
 **[[:fr:obs:notes:frames:15-05|<<]] | [[:fr:obs:notes:15|Up]] | [[:fr:obs:notes:frames:15-07|>>]]**
 
 ~~DISCUSSION~~
