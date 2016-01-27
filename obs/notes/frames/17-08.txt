@@ -1,4 +1,4 @@
-===== David Praised God /  David loua Dieu [17-08] =====
+===== David Praised God / David loua Dieu [17-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?nolink&}}
 
@@ -7,24 +7,22 @@ When **David** heard **these words**, he immediately thanked and **praised God**
 Quand David entendit ces mots, il remercia et loua Dieu immédiatement, parce que Dieu lui avait promis ce grand honneur et beaucoup de bénédictions. David ne savait pas quand Dieu ferait ces choses. Mais il s'est avéré que les Israélites durent attendre longtemps avant l'arrivée du Messie, presque 1,000 ans.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/david]]**
-  * **[[:fr:obe:other/praise]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/promise]]**
-  * **[[:fr:obe:kt/bless]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/christ]]**
 
-
+  * **[[:fr:obe:other:david|David]]**
+  * **[[:fr:obe:other:praise|praise]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:promise|promise]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing (Bénir, a béni ou béni, la bénédiction)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
 ==== Translation Notes: ====
 
   * **these words**  - That is, "the words the prophet had just said." This refers back to the promises in **[[:fr:obs:notes:frames:17-07|[17-07]]]**.
   * **this great honor**  - People who lived later would highly respect David because some of his descendants would be kings over Israel and one of them would be the Messiah.
 ===== Notes de Traduction: =====
 
-  * **ces mots** - ce est "les mots du prophète venait de dire." Ceci renvoie aux promesses **[[:fr:obs:notes:frames:17-07|[17-07]]]**.
-  * **ce grand honneur** - Les gens qui vivaient tard seraient très respectent David parce que certains de ses descendants serait rois sur Israël et l'un d'eux serait le Messie.
-
+  * **ces mots**  - c'està dire "les mots que  le prophète venait de dire." Ceci renvoie aux promesses **[[:fr:obs:notes:frames:17-07|[17-07]]]**.
+  * **ce grand honneur**  - Les gens qui vivraient plus tard seraient très respectueux envers David parce que certains de ses descendants seraient rois sur Israël et l'un d'eux serait le Messie.
 **[[:fr:obs:notes:frames:17-07|<<]] | [[:fr:obs:notes:17|Up]] | [[:fr:obs:notes:frames:17-09|>>]]**
 
 ~~DISCUSSION~~
