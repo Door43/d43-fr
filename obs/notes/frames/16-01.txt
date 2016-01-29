@@ -5,22 +5,20 @@
 After **Joshua** died, the **Israelites disobeyed God** and **did not drive out the rest of the Canaanites** or **obey God's laws**. The Israelites began to **worship** the Canaanite **gods** instead of **Yahweh**, **the true God**. The Israelites had no king, so everyone did **what they thought was right for them**.
 
 Après la mort de** Josué**, les **Israélites désobéirent à Dieu**.** Ils ne chassèrent pas le reste des Cananéens** ou **n'obéirent pas aux lois de Die**u. Les Israélites commencèrent à **vénérer** les **dieux** des Cananéens à la place de **Yahweh**, **le vrai Dieu**. Ils n'avaient pas de roi, donc chacun** faisait ce que bon lui semblait**.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/joshua]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/disobey]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/canaan]]**
-  * **[[:fr:obe:other/obey]]**
-  * **[[:fr:obe:kt/lawofmoses]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:kt/falsegod]]**
-  * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/true]]**
-  * **[[:fr:obe:other/king]]**
 
-
+  * **[[:fr:obe:other:joshua|Joshua]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
+  * **[[:fr:obe:kt:worship|worship]]**
+  * **[[:fr:obe:kt:falsegod|false god, god]]**
+  * **[[:fr:obe:kt:yahweh|Yahweh]]**
+  * **[[:fr:obe:kt:true|true, truth(vrai,la vérité)]]**
+  * **[[:fr:obe:other:king|king]]**
 ==== Translation Notes: ====
 
   * **and did not drive out**  – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, "They did not."
@@ -30,12 +28,11 @@ Après la mort de** Josué**, les **Israélites désobéirent à Dieu**.** Ils n
   * **what they thought was right for them**  – This means that they all did whatever they wanted to do, including many evil things.
 ===== Notes de Traduction: =====
 
-  * **Ils ne chassèrent pas** - Ce raconte comment ils ont désobéi à Dieu, donc dans certaines langues, il peut être préférable de commencer cela comme une nouvelle phrase, "Ils ne ont pas."
-  * **chassèrent pas le reste des Cananéens** - Cela peut se traduire, "se battre avec le reste des Cananéens pour les forcer à quitter la terre."
-  * **et n'obéirent pas aux lois de Dieu** - Cela signifie que les gens ont également désobéi aux lois que Dieu a donné aux Israélites au mont Sinaï.
-  * **le vrai Dieu** - Ce est, "le seul vrai Dieu." Yahvé est le seul que les gens devraient adorer.
-  * **ce que bon lui semblait** - Cela signifie que tous faisaient ce qu'ils voulaient faire, y compris beaucoup de choses mauvaises.
-
+  * **Ils ne chassèrent pas**  - Ceci nous raconte comment ils ont désobéi à Dieu, donc dans certaines langues, il peut être préférable de commencer cela comme une nouvelle phrase, "Ils n'ont pas..."
+  * **chassèrent pas le reste des Cananéens**  - Cela peut se traduire, "se battre avec le reste des Cananéens pour les forcer à quitter la terre."
+  * **et n'obéirent pas aux lois de Dieu**  - Cela signifie que les gens ont également désobéi aux lois que Dieu a donné aux Israélites au mont Sinaï.
+  * **le vrai Dieu**  - C'est à dire, "le seul vrai Dieu." Yahvé est le seul dieu que les gens devraient adorer.
+  * **ce que bon lui semblait**  - Cela signifie que tous faisaient ce qu'ils voulaient faire, y compris beaucoup de choses mauvaises.
 **[[:fr:obs:notes:frames:15-13|<<]] | [[:fr:obs:notes:16|Up]] | [[:fr:obs:notes:frames:16-02|>>]]**
 
 ~~DISCUSSION~~
