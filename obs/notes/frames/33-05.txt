@@ -1,4 +1,4 @@
-===== The Seed in Good Soil / Les Graines Sur Le Bon Sol [33-05] =====
+===== The Seed in Good Soil / Les Graines dans La Bonne terre [33-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
@@ -12,14 +12,16 @@
 
 ===== Translation Notes: =====
 
-  * (Jesus continues the story.)
+(Jesus continues the story.)
+
   * **good soil**  - That is, "fertile soil" or, "soil that was good for growing plants."
   * **He who has ears, let him hear!**  - This saying means, "Everyone who hears what I am saying should listen to me carefully" or, "If anyone hears what I have said, he should pay attention to what I mean." This can also be translated as a command. "Since you have ears to hear, listen carefully to what I am saying."
 ===== Notes de traduction: =====
 
-  * (Jésus continue l'histoire.)
-  * **Bonne terre**  - C'est à dire, "sol fertile" ou, "sol qui était bon pour les plantes en pleine croissance."
-  * **Celui qui a des oreilles, qu'il entendre!**  - Cela signifie dire, "Tout le monde qui entend ce que je dis doit m'écouter attentivemen" ou, "Si quelqu'un entend ce que j'ai dit, il doit prêter attention à ce que je veux dire". Cela peut aussi être traduit par un ordre. "Puisque vous avez des oreilles pour entendre, écoutez attentivement ce que je dis."
+(Jésus continue l'histoire.)
+
+  * **Bonne terre**  - C'est à dire, "sol fertile" ou, "sol qui était bon pour faire pousser des plantes."
+  * **Que celui qui a des oreilles pour entendre, entende!**  - Cela expression signifie, "Tous ceux qui entendent ce que je dis doivent m'écouter attentivemen" ou, "Si quelqu'un entend ce que j'ai dit, il doit prêter attention à ce que je veux dire". Cela peut aussi être traduit par un ordre. "Etant donné que vous avez des oreilles pour entendre, écoutez attentivement ce que je dis."
 **[[:fr:obs:notes:frames:33-04|<<]] | [[:fr:obs:notes:33|Up]] | [[:fr:obs:notes:frames:33-06|>>]]**
 
 ~~DISCUSSION~~
