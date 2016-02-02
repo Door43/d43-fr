@@ -41,10 +41,10 @@ The Sheep Skin La toison de mouton [16-09]
 Too Many Soldiers Beaucoup trop de soldats [16-10]
 
 [[:fr:obs:notes:frames:16-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-11.jpg?nolink&200}}]]\\
-The Midianite's Dream Le rêve du Madianite  [16-11]
+The Midianite's Dream Le rêve du Madianite [16-11]
 
 [[:fr:obs:notes:frames:16-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-12.jpg?nolink&200}}]]\\
-Gideon's Army [16-12]
+Gideon's Army  L'armée de Gédéon [16-12]
 
 [[:fr:obs:notes:frames:16-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-13.jpg?nolink&200}}]]\\
 The Attack [16-13]
