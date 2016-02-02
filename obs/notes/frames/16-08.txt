@@ -5,16 +5,14 @@
 Then the **Midianites came again to steal from the Israelites**. There were so many of them that **they could not be counted**. **Gideon** called the Israelites together to fight them. Gideon asked **God for two signs** so he could be sure **that God would use him to save Israel**.
 
 Ensuite les** Madianites vinrent encore dans l'intention de voler les Israélites**. Ils étaient tellement nombreux que **c'était impossible de les compter. Gédéon** fit appel à tous les Israélites pour se battre contre leurs ennemis. Gédéon demanda à **Dieu** de lui donner **deux signes pour qu'il soit sûr que Dieu allait l'utiliser pour sauver Israël**. ​
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/midian]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/gideon]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/save]]**
-  * **[[:fr:obe:other/israel]]**
 
-
+  * **[[:fr:obe:other:midian|Midian, Midianites]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:gideon|Gideon]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:save|save]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
 ==== Translation Notes: ====
 
   * **came again to steal from the Israelites**  – This could be translated as, "came again to the Israelites' land to steal things from them."
@@ -24,12 +22,11 @@ Ensuite les** Madianites vinrent encore dans l'intention de voler les Israélite
   * **to save Israel**  - This could be translated as, "to rescue Israel from the Midianites."
 ===== Notes de Traduction: =====
 
-  * **vinrent encore dans l'intention de voler les Israélites** - Cela pourrait être traduit comme "nouveau venu sur la terre de les Israélites de voler des choses d'eux."
-  * **c'était impossible de les compter** - Cela pourrait être traduit comme "Le nombre de Madian était trop grande pour compter", ou "il serait très difficile de compter tous les Madianites."
-  * **deux signes** - Cela pourrait être traduit comme, "de faire deux miracles" ou, "de faire deux choses impossibles se produisent."
-  * **Dieu allait l'utiliser** - Cela pourrait être traduit comme, "que Dieu lui permettrait" ou, "que Dieu l'aiderait" ou, "que Dieu l'appelait."
-  * **pour sauver Israël** - Cela pourrait être traduit comme, "pour sauver Israël de Madian."
-
+  * **vinrent encore dans l'intention de voler les Israélites**  - On pourrait traduire par "vinrent encore dans le territoire des Israélites pour leur voler des affaires."
+  * **c'était impossible de les compter**  - Cela pourrait être traduit comme "Les  Madianites  étaient trop innombrables  pour être comptés", ou "il serait très difficile de compter tous les Madianites."
+  * **deux signes**  - Cela pourrait être traduit comme, "de faire deux miracles" ou, "de faire en sorte que deux choses impossibles arrivent."
+  * **Dieu allait l'utiliser**  - Cela pourrait être traduit comme, "que Dieu lui permettrait" ou, "que Dieu l'aiderait" ou, "que Dieu l'appelerait à...."
+  * **pour sauver Israël**  - Cela pourrait être traduit comme, "pour sauver Israël de Madian."
 **[[:fr:obs:notes:frames:16-07|<<]] | [[:fr:obs:notes:16|Up]] | [[:fr:obs:notes:frames:16-09|>>]]**
 
 ~~DISCUSSION~~
