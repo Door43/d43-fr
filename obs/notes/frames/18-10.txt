@@ -4,7 +4,8 @@
 
 The **kingdoms** of **Judah** and **Israel** became enemies and often fought against each other.
 
-Les** Royaumes** de** Juda** et d'**Israël** devinrent ennemis et combattirent souvent l'un contre l'autre.
+Les** Royaumes** de** Juda** et **d'******I**sraël** devinrent ennemis et combattirent souvent l'un contre l'autre.
+
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:kingdom|kingdom]]**
