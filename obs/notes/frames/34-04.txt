@@ -1,10 +1,10 @@
-===== The Treasure in the Field Le Trésor Dans Le Champ  [34-04] =====
+===== The Treasure in the Field / Le Trésor Dans Le Champ [34-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
 “The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
 
-“Le Royaume de Dieu est semblable à un trésor que quelqu'un a caché dans un champ. L'homme qui l'a trouvé le cacha à nouveau. Dans sa joie, il alla vendre tout ce qu'il possèdait, et achèta le champ.”
+“Le **Royaume de Dieu** est semblable à **un trésor** que quelqu'un a caché dans un champ. L'homme qui l'a trouvé **le cacha à nouveau**. **Rempli de joie**, il alla vendre tout ce qu'il possèdait, et utilisa l'argent pour **acheter ce champ**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/kingdomofgod]]**
@@ -21,10 +21,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus a dit une autre histoire.)
-  * **Trésor**  - C'est à dire, "quelque chose qui est très précieux."
-  * **Enterré à nouveau**  - Il est également possible d'ajouter, "de sorte que personne d'autre ne le trouve."
-  * **Rempli de joie**  - Une autre façon de dire est, "très heureux" ou "excité."
-  * **Acheter ce domaine**  - Certaines personnes peuvent vouloir ajouter, "de sorte que le trésor serait le sien."
+  * **trésor**  - Il s'agit de, "quelque chose qui est très précieux."
+  * **le cacha à nouveau**  - Il est également possible d'ajouter, "de sorte que personne d'autre ne le trouve."
+  * **rempli de joie**  - Une autre façon de dire cela est, "très heureux" ou "excité."
+  * **acheter ce champ**  - Certaines personnes peuvent vouloir ajouter, "de sorte que le trésor soit le sien."
 **[[:fr:obs:notes:frames:34-03|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-05|>>]]**
 
 ~~DISCUSSION~~
