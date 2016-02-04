@@ -1,10 +1,10 @@
-===== Spiritual Fruit / Fruit Spirituel [33-09] =====
+===== Spiritual Fruit / Du Fruit Spirituel [33-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
 
-“Mais la semence dans **la bonne terre est une personne** qui entend la **Parole de Dieu**, **y donne foi**, et **porte du fruit**.”
+“Mais **la bonne terre est une personne** qui entend la **Parole de Dieu**, **y croit**, et **porte du fruit**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/good]]**
@@ -23,10 +23,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue à expliquer l'histoire.)
-  * **Bonne terre**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:33-05|[33-05]]]**.
-  * **Est une personne**  - Voyez comment vous avez traduit cette comparaison **[[:fr:obs:notes:frames:33-06|[33-06]]]**.
-  * **Produisent des fruits**  - Voyez comment vous avez traduit cette expression dans **[[:fr:obs:notes:frames:33-08|[33-08]]]**.
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **bonne terre**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:33-05|[33-05]]]**.
+  * **est une personne**  - Voyez comment vous avez traduit cette comparaison dans **[[:fr:obs:notes:frames:33-06|[33-06]]]**.
+  * **produisent du fruit**  - Voyez comment vous avez traduit cette expression dans **[[:fr:obs:notes:frames:33-08|[33-08]]]**.
+  * //Une histoire de la Bible tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Matthieu 13:1-8, 18-23; Marc 4:1-8, 13-20; Luc 8:4-15//
 
 **[[:fr:obs:notes:frames:33-08|<<]] | [[:fr:obs:notes:33|Up]] | [[:fr:obs:notes:frames:34-01|>>]]**
