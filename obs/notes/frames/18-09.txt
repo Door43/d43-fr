@@ -4,19 +4,17 @@
 
 **Jeroboam rebelled** against **God** and **caused the people to sin**. He built two **idols** for his people to **worship instead of worshiping God at the Temple in the kingdom of Judah**.
 
-**Jéroboam se révolta** contre **Dieu** et **ceci**** poussa les gens à pécher**. Il bâtit deux idoles e du royaume de Judas, pour que son peuple les adore **au lieu d'adorer Dieu dans le temple de Jérusalem**.
-
+**Jéroboam se révolta** contre **Dieu** et causa **les gens à pécher**. Il bâtit deux idoles pour que son peuple les adore **au lieu d'adorer Dieu au temple dans le royaume de Juda. **
 ===== Termes Importants =====
-  * **[[:fr:obe:other/jeroboam]]**
-  * **[[:fr:obe:other/rebel]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:other/idol]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:kt/temple]]**
-  * **[[:fr:obe:other/kingdomofjudah]]**
 
-
+  * **[[:fr:obe:other:jeroboam|Jeroboam]]**
+  * **[[:fr:obe:other:rebel|rebel, rebellious]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(le péché,coupable,pécher,péchant)]]**
+  * **[[:fr:obe:other:idol|idol, idolatrous]]**
+  * **[[:fr:obe:kt:worship|worship]]**
+  * **[[:fr:obe:kt:temple|temple]]**
+  * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
 ==== Translation Notes: ====
 
   * **caused the people to sin**  - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
