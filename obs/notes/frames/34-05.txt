@@ -1,10 +1,10 @@
-===== The Perfect Pearl  La Parfaite Perle [34-05] =====
+===== The Perfect Pearl / La Parfaite Perle [34-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
 “The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
 
-“Le royaume de Dieu est aussi semblable à une perle sans défaut et de grande valeur. Quand un marchand de perles la trouva, il vendit tout ce qu'il possèdait, et utilisa l'argent pour l'acheter.”
+“Le **royaume de Dieu** est aussi semblable à une **perle sans défaut et de grande valeur**. Quand un **marchand de perles** la trouva, il vendit tout ce qu'il possèdait, et utilisa l'argent pour l'acheter.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/kingdomofgod]]**
@@ -20,10 +20,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue avec une autre histoire sur le royaume de Dieu.)
-  * **Perle parfaite**  - C'est à dire, "une perle sans défaut."
-  * **Perles**  - Si les perles sont inconnues, ceci peut être traduit comme "belle pierre» ou «belle chose  semblable à la pierre."
-  * **D'une grande valeur**  - C'est à dire, "qui a été très précieuse" ou, "qui valait beaucoup d'argent."
-  * ** Marchand de perles**  - C'est à dire, "négociant en perles" ou, " commerçant de perles." Il s'agit d'une personne dont l'activité est l'achat et la vente de perles.
+  * **perle sans défaut**  - C'est à dire, "une perle sans défaut."
+  * **perles**  - Si les perles sont inconnues, ceci peut être traduit comme "de belles pierre» ou «de belles choses  semblables à de la pierre."
+  * **de grande valeur**  - C'est à dire, "qui avait une grande valeur" ou, "qui valait beaucoup d'argent."
+  * ** marchand de perles**  - C'est à dire, "négociant en perles" ou, "commerçant de perles." Il s'agit d'une personne dont l'activité est l'achat et la vente de perles.
 **[[:fr:obs:notes:frames:34-04|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-06|>>]]**
 
 ~~DISCUSSION~~
