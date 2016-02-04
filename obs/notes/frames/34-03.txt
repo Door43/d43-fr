@@ -1,10 +1,10 @@
-===== The Yeast  La Levure [34-03] =====
+===== The Yeast / La Levure [34-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
 **Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
 
-**Jésus** dit cette autre **parabole**: “Le **Royaume de Dieu** est semblable à du **levain** qu'une femme a mis dans **trois mesures de farine**, pour **faire lever toute la pâte**.”
+**Jésus** raconta une autre **parabole**: “Le **Royaume de Dieu** est semblable à du **levain** qu'une femme a mis dans **trois mesures de farine**, pour **faire lever la pâte**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -19,10 +19,10 @@
   * **it spreads throughout the dough**  - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
 ===== Notes de traduction: =====
 
-  * Histoire - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:34-01|[34-01]]]**.
-  * **Levure**  - Cela peut aussi être traduit comme "levain" ou, "Un peu de levain". Il est ajouté à la pâte à pain pour la faire monter. Un peu de levure peut être mélangée dans une grande quantité de pâte et faire tout lever toute la pâte.
-  * **Pâte à pain**  - Il s'agit d'un mélange de farine et de liquide pouvant être façonné et cuit dans le pain. Si vous n'avez pas les mots pour la pâte ou de la farine, vous pouvez emprunter un mot pour la farine ou l'appeler " graine écrasée."
-  * **Il se propage dans toute la pâte**  - C'est à dire, "chaque partie de la pâte a de la levure en elle", ou "la levure se développe dans toute la pâte."
+  * **parabole** - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:34-01|[34-01]]]**.
+  * **levain**  - Cela peut aussi être traduit comme "levure" ou, "Un petit peu de levain". Il est ajouté à la pâte à pain pour la faire monter. Un petit peu de levure peut être mélangée à une grande quantité de pâte et faire lever toute la pâte.
+  * **trois mesures de farine**  - Il s'agit d'un mélange de farine et de liquide qui peut être transformé et cuit en pain. Si vous n'avez pas de mots pour la pâte ou de la farine, vous pouvez emprunter un mot pour la farine ou l'appeler " graine écrasée."
+  * **faire lever la pâte**  - C'est à dire, "chaque partie de la pâte a de la levure en elle", ou "la levure se répand dans toute la pâte."
 **[[:fr:obs:notes:frames:34-02|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-04|>>]]**
 
 ~~DISCUSSION~~
