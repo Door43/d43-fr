@@ -1,10 +1,10 @@
-===== The Large Tree Le Grand Arbre  [34-02] =====
+===== The Large Tree / Le Grand Arbre  [34-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
 “But when the **mustard seed grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
 
-“Mais quand la **graine de moutarde pousse**, elle dépasse toutes les autres **plantes du potager** et devient un arbuste, de sorte que les oiseaux du ciel viennent **nicher** dans ses branches.”
+“Mais quand la **graine de moutarde poussa**, elle devint la plus grande des **plantes du potager** de sorte que les oiseaux du ciel vinrent **nicher dans** ses branches.”
 
 ===== Termes Importants =====
 
@@ -19,10 +19,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Graine de moutarde**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:34-01|[34-01]]]**.
-  * **Grandit**  - Vous pouvez ajouter, "en une plante mature."
+  * **graine de moutarde**  - Voyez comment vous avez traduit ce terme dans **[[:fr:obs:notes:frames:34-01|[34-01]]]**.
+  * **poussa**  - Vous pouvez ajouter, "en une plante mature."
   * **plantes de jardin**  - Cela peut aussi être traduit comme "plantes qui seraient plantées dans un jardin."
-  * **nichent dans**  - Cela peut aussi être traduit par "se posent  sur" ou "se perchent sur."
+  * **nicher dans**  - Cela peut aussi être traduit par "se poser  sur" ou "se percher sur."
 **[[:fr:obs:notes:frames:34-01|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-03|>>]]**
 
 ~~DISCUSSION~~
