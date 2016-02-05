@@ -5,13 +5,11 @@
 Then the **prophets** of **Baal prayed to Baal**, “Hear us, Baal!” All day long they prayed and **shouted** and even **cut themselves with knives**, but **there was no answer**.
 
 Puis les** prophètes** de** Baal** prièrent **Baal**, “Écoutez-nous, oh Baal!” Ils prièrent et **crièrent** toute la journée. Ils **se coupèrent même avec les couteaux** mais **il n'y eut pas de répons****e**.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/baal]]**
-  * **[[:fr:obe:other/pray]]**
 
-
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:other:baal|Baal]]**
+  * **[[:fr:obe:other:pray|pray, prayer]]**
 ==== Translation Notes: ====
 
   * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
@@ -20,11 +18,10 @@ Puis les** prophètes** de** Baal** prièrent **Baal**, “Écoutez-nous, oh Baa
   * **there was no answer**  - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
 ===== Notes de Traduction: =====
 
-  * **prièrent Baal** - les prophètes de Baal Baal demandé d'envoyer le feu sur le taureau, ils préparés comme un sacrifice.
-  * **crièrent** - Ils ont crié haut et fort ou appelés à Baal.
-  * **se coupèrent même avec les couteaux** - Ils se blessées avec des couteaux comme un moyen extrême de montrer leur dévotion à Baal, en espérant que ce serait le persuader de les écouter.
-  * **il n'y eut pas de réponse** - Il n'y avait pas de réponse d'aucune sorte à leur cris de joie, pas de feu est venu brûler le sacrifice.
-
+  * **prièrent Baal**  - les prophètes de Baal  demandérent à Baal d'envoyer le feu sur le taureau qu'ils avaient  préparé en tant que sacrifice.
+  * **crièrent**  - Ils  crièrent de vive voix ou implorèrent de vive voix  Baal.
+  * **se coupèrent même avec les couteaux**  - Ils se sont blessés avec des couteaux comme un moyen extrême de montrer leur dévotion à Baal, en espérant qu'ils le persuaderaient de les écouter.
+  * **il n'y eut pas de réponse**  - Il n'y avait pas de réponse d'aucune sorte à leur cris ,et aucun feu ne survint pour brûler le sacrifice.
 **[[:fr:obs:notes:frames:19-07|<<]] | [[:fr:obs:notes:19|Up]] | [[:fr:obs:notes:frames:19-09|>>]]**
 
 ~~DISCUSSION~~
