@@ -1,10 +1,10 @@
-===== The Proud Will Be Humbled L'Arrogant Sera Humilié [34-10] =====
+===== The Proud Will Be Humbled / L'Arrogant Sera Humilié [34-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
 Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
 
-Alors Jésus dit: “En vérité, je vous le dit, Dieu entendit la prière collecteur d'impôts et le déclara juste. Mais Il n'aima pas la prière du chef religieux. Quiconque s'élève sera abaissé, et celui qui s'abaisse sera élevé.”
+Alors **Jésus** dit: “En **vérité**, je vous le dis, **Dieu** entendit la **prière du publicain** et **le déclara juste**. Mais Il n'aima pas la prière du **pharisien**. Dieu **abaisse** quiconque **s'élève**, et il élève celui **qui s'abaisse**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
@@ -26,11 +26,11 @@ Alors Jésus dit: “En vérité, je vous le dit, Dieu entendit la prière colle
  
 ===== Notes de traduction: =====
 
-  * **L'a déclaré juste**-C'est à dire, "le considérait comme une personne juste." Même si le percepteur d'impôts était un pécheur, Dieu était miséricordieux envers lui à cause de son humilité et de sa repentance.
-  * **S'humilier**  - Cela pourrait aussi être traduit par "donnera un statut inférieur à" ou, "aura pour effet de ne pas être important." Il pourrait être traduit comme au sens figuré, "fera tomber."
-  * **Se lever**  - C'est à dire "donnera une position plus élevée á " ou "honorera."
-  * **S'humilie**  - C'està dire, "choisit de se comporter d'une manière humble", ou "a une attitude humble de lui-même."
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **le déclara juste**  - C'est à dire, "le considéra comme une personne juste." Même si le publicain était un pécheur, Dieu était miséricordieux envers lui à cause de son humilité et de sa repentance.
+  * **abaisse**  - Cela pourrait aussi être traduit par "donnera un statut inférieur à" ou, "amènera à ne pas être important." Il pourrait être traduit comme au sens figuré, "fera chuter."
+  * **élève**  - C'est à dire "donnera une position plus élevée á " ou "honorera."
+  * **s'abaisse**  - C'est à dire, "choisit de se comporter d'une manière humble", ou "a une attitude humble."
+  * //Une histoire biblique tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Matthieu 13:31-33, 44-46; Marc 4:30-32; Luc 13:18-21; 18:9-14//
 
 **[[:fr:obs:notes:frames:34-09|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:35-01|>>]]**
