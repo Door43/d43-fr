@@ -1,10 +1,10 @@
-===== I Am Good  Je Suis Bon [34-08] =====
+===== I Am Good / Je Suis Bon [34-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
 “‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
 
-”'Par exemple, je jeûne deux fois par semaine et je te donne dix pour cent de tous mes revenus.'”
+”'Par exemple, je **jeûne** deux fois par semaine et je te donne **dix pour cent** de tous mes revenus.'”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/fast]]**
@@ -17,9 +17,9 @@
   * **ten percent**  - That is, "one-tenth."
 ===== Notes de traduction: =====
 
-  * (Jésus continue à parler de la prière du chef religieux.)
-  * **Je jeûne**  - Le chef religieux croyait que faire cela lui gagnait la faveur de Dieu.
-  * **Dix pour cent**  - C'està dire "un dixième."
+  * (Jésus continue à parler de la prière du pharisien.)
+  * **Je jeûne**  - Le pharisien croyait que faire cela lui gagnait la faveur de Dieu.
+  * **dix pour cent**  - C'est à dire "un dixième."
 **[[:fr:obs:notes:frames:34-07|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-09|>>]]**
 
 ~~DISCUSSION~~
