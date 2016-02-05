@@ -1,10 +1,10 @@
-===== The Tax Collector's Prayer La Prière Du Collecteur D'Impôts [34-09] =====
+===== The Tax Collector's Prayer / La Prière Du Publicain [34-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
 “But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
 
-“Mais le collecteur d'impôts qui se tenait à l'écart du chef religieux, ne jetait même pas un regard vers les cieux. Au lieu de cela, il se frappait la poitrine et priait: 'Dieu, aie pitié de moi parce que je suis pécheur,'”
+“Mais le **publicain qui se tenait à l'écart** du **pharisien**, **ne jetait même pas un regard vers les cieux**. Au lieu de cela, **il se frappait la poitrine avec le poing** et **priait**: '**Dieu**, aie **pitié** de moi parce que je suis **pécheur**,'”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/taxcollector]]**
@@ -23,9 +23,9 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Se tenait loin**  - Cela peut aussi être traduit par "se tenait à une distance" ou, " est  resté à l'écart."
-  * **N'a même pas lever les yeux au ciel**  - Le mot "même" indique que les gens normalement levèrent les yeux au ciel quand ils prient Dieu, mais que cet homme ne le faisait pas parce qu'il était tellement honteux de son péché.
-  * **A martelé  sa poitrine avec son poing**  - Cela pourrait aussi être traduit comme, "en raison de son chagrin, il a frappé sa poitrine avec son poing", ou "il martelé sa poitrine dans la douleur." Si les gens trouvent cela difficile à comprendre, car ils ont battu leur poitrine pour d'autres raisons, vous pouvez traduire ceci par, "il a montré son désespoir."
+  * **se tenait à l'écart**  - Cela peut aussi être traduit par "se tenait à une distance" ou, "restait à l'écart."
+  * **ne jetait même pas un regard vers les cieux**  - Le mot "même" indique que normalement les gens levaient les yeux au ciel quand ils priaient Dieu, mais que cet homme ne le faisait pas parce qu'il avait tellement honte de son péché.
+  * **il se frappait la poitrine avec le poing**  - Cela pourrait aussi être traduit comme, "en raison de son chagrin, il frappait sa poitrine avec son poing", ou "il martelait sa poitrine de douleur." Si les gens trouvent cela difficile à comprendre, parce qu'il frappe leur poitrine pour d'autres raisons, vous pouvez traduire ceci par, "il montrait son désespoir."
 **[[:fr:obs:notes:frames:34-08|<<]] | [[:fr:obs:notes:34|Up]] | [[:fr:obs:notes:frames:34-10|>>]]**
 
 ~~DISCUSSION~~
