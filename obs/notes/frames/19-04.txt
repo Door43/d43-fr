@@ -5,12 +5,10 @@
 So **Elijah** went to a **neighboring country**. A widow and her son in that country had almost run out of food because of **the famine**. But they **took care of** Elijah, and **God provided for them so that their flour jar and their bottle of oil never became empty**. They had food through the whole famine. Elijah stayed there for several years.
 
 Alors, **Elie** alla dans** un pays voisin**. Une veuve et son fils dans ce pays n'avaient presque plus de nourriture à cause de la **famine**. Mais ils **prirent soin ** d'Elie, donc **Dieu pourvut à leurs besoins de manière à ce que leur pot de farine et leur bouteille d'huile ne désemplirent jamais**. Ils eurent de quoi manger, pendant toute la durée de la famine. Elie resta avec eux pendant plusieurs années.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:kt/god]]**
 
-
+  * **[[:fr:obe:other:elijah|Elijah]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
 ==== Translation Notes: ====
 
   * **neighboring country**  - This refers to a country that was beside, or shared a border with Israel.
@@ -21,13 +19,12 @@ Alors, **Elie** alla dans** un pays voisin**. Une veuve et son fils dans ce pays
   * **bottle of oil**  - In Israel, olive oil is used for cooking. This could be translated as, "bottle of cooking oil." The widow used the flour and the oil for making bread.
 ===== Notes de Traduction: =====
 
-  * **pays voisin** - Il se agit d'un pays qui était à côté, ou une frontière commune avec Israël.
-  * **la famine** - Si nécessaire, cela pourrait être traduit comme "la famine causée par la sécheresse."
-  * **ils prirent soin d'** - Cela signifie qu'ils lui ont donné un endroit pour rester dans leur maison et fourni de la nourriture pour lui. Cela ne signifie pas qu'il était malade.
-  * **Dieu pourvut à leurs besoins ... ne désemplirent jamais** - Cela pourrait être traduit par "Dieu a empêché leur pot de farine et de leur bouteille d'huile de devenir vide" ou "Dieu a fait ... de ne jamais devenir vide."
-  * **pot de farine** - Il se agit d'un vase d'argile dans laquelle la veuve a gardé sa fourniture de farine.
-  * **bouteille d'huile** - En Israël, l'huile d'olive est utilisée pour la cuisson. Cela pourrait être traduit comme, "bouteille d'huile de cuisson." La veuve utilisé de la farine et de l'huile pour la fabrication du pain.
-
+  * **pays voisin**  - Il s'agit d'un pays qui était à côté, ou partageait une frontière commune avec Israël.
+  * **la famine**  - Si nécessaire, cela pourrait être traduit par "la famine causée par la sécheresse."
+  * **ils prirent soin d'**  - Cela signifie qu'ils lui ont donné un endroit pour rester dans leur maison et l'ont nourri. Cela ne signifie pas qu'il était malade.
+  * **Dieu pourvut à leurs besoins … ne désemplirent jamais**  - Cela pourrait être traduit par "Dieu a empêché leur pot de farine et  leur bouteille d'huile de devenir vide" ou "Dieu a fait … de ne jamais devenir vide."
+  * **pot de farine**  - Il s'agit d'un vase d'argile dans lequel la veuve a gardé sa réserve de farine.
+  * **bouteille d'huile**  - En Israël, l'huile d'olive est utilisée pour la cuisson. Cela pourrait être traduit comme, "bouteille d'huile de cuisson." La veuve utilisa de la farine et de l'huile pour la fabrication du pain.
 **[[:fr:obs:notes:frames:19-03|<<]] | [[:fr:obs:notes:19|Up]] | [[:fr:obs:notes:frames:19-05|>>]]**
 
 ~~DISCUSSION~~
