@@ -1,10 +1,10 @@
-===== The Two Sons les Deux Fils [35-03] =====
+===== The Two Sons / les Deux Fils [35-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
 “There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
 
-“Un homme avait deux fils. Le plus jeune dit à son père: 'Père, donne-moi maintenant la part du bien qui doit me revenir! 'Alors le père partagea son bien entre ses deux fils.”
+“Un homme avait deux **fils**. Le plus jeune dit à son père: 'Père, donne-moi maintenant **la part du bien qui doit me revenir**! 'Alors le père partagea son **bien** entre ses deux fils.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
@@ -18,8 +18,8 @@
 ===== Note de traduction: =====
 
   * (Jésus raconte l'histoire.)
-  * ** Mon héritage ** - Cela pourrait être traduit comme "la partie de votre richesse qui sera de plein droit la mienne quand vous mourrez."
-  * ** Propriété** - C'est à dire la "richesse" ou, "Biens". Cette propriété aurait probablement inclus terre, les animaux, et de l'argent.
+  * ** la part du bien qui doit me revenir** - Cela pourrait être traduit comme "la partie de votre richesse qui sera de plein droit la mienne quand vous mourrez."
+  * **bien** - C'est à dire la "richesse" ou, "Biens". Ce bien allait probablement inclure des terres, des animaux, et de l'argent.
 
 **[[:fr:obs:notes:frames:35-02|<<]] | [[:fr:obs:notes:35|Up]] | [[:fr:obs:notes:frames:35-04|>>]]**
 
