@@ -1,10 +1,10 @@
-===== The Son Repented  Le Fils S'Est Repenti [35-06] =====
+===== The Son Repented / Le Fils S'Est Repenti [35-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
 “Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
 
-“Alors, le plus jeune fils se dit, ”'Combien de serviteurs chez mon père ont du pain en abondance, et moi, ici je meurs de faim! Je retournerai vers mon père et je lui demanderai d'être un de ses serviteurs.'”
+“Alors, le plus jeune fils se dit, '**Que suis-je en train de faire**? ”'Tous les **serviteurs** de mon père ont de la nourriture en abondance, et moi, ici je meurs de faim. Je retournerai vers mon père et lui demanderai d'être un de ses serviteurs.'”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant|servants]]**
@@ -17,7 +17,7 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Que suis-je en train de faire?**  - C'est à dire, "Pourquoi ai-je vivre comme ça?" ou, "je ne devrais pas vivre comme ça!" ou, "Il n'y a pas de sens pour moi de vivre comme ça." Le fils ne demande pas vraiment une question, de sorte que certaines langues auront à traduire cela comme une déclaration.
+  * **Que suis-je en train de faire?**  - C'est à dire, "Pourquoi suis-je en train de vivre comme ça?" ou, "je ne devrais pas vivre comme ça!" ou, "Ca ne fait pas de sens que je vive comme ça." Le fils ne pose pas vraiment une question, donc certaines langues devront traduire cela comme une déclaration.
 **[[:fr:obs:notes:frames:35-05|<<]] | [[:fr:obs:notes:35|Up]] | [[:fr:obs:notes:frames:35-07|>>]]**
 
 ~~DISCUSSION~~
