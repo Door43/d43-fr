@@ -1,10 +1,10 @@
-===== The Famine La Famine [35-05] =====
+===== The Famine / La Famine [35-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
 “After that, **a severe famine happened** in the land where the younger son was, and he had **no money to buy food**. So he took the only job he could find, **feeding pigs**. He was so miserable and hungry that he wanted to eat the pigs’ food.”
 
-“Après cela, une grand famine survint dans le pays où le plus jeune fils habitait, et il n'avait plus d'argent pour s'acheter à manger. Alors il se mit au service d'un habitant du pays, qui l'envoya dans ses champs garder les pourceaux. Il eut tellement faim qu'il voulut manger ce que mangeaient les pourceaux.”
+“Après cela, **une grand famine survint** dans le pays où le plus jeune fils habitait, et il n'avait **plus d'argent pour s'acheter à manger**. Alors il accepta le seul emploi qu'il pouvait trouver, **garder les pourceaux**. Il eut tellement faim qu'il voulut manger ce que mangeaient les pourceaux.”
 
 ===== Termes Importants =====
 
@@ -19,10 +19,10 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Une grave famine qui s'est passé **  - C'est à dire, "il y avait très peu de nourriture." Dans certaines langues, ceci pourrait être traduit comme, "il y avait une grave famine."
-  * **Pas d'argent pour acheter de la nourriture **  - En raison de la famine, la nourriture était très chere, et il avait déjà dépensé tout son argent.
-  * **Emploi **  - Il s'agit du travail qu'il ferait pour quelqu'un d'autre en échange d'argent. Si ce n'est pas clair, cette phrase pourrait commencer par: "Alors, afin de gagner un peu d'argent, il a pris le seul travail."
-  * **Alimentation pour les porcs**  - C'est à dire, "donner de la nourriture aux porcs." Cela aurait été considéré comme l'un des emplois les plus faibles dans la société à l'heure actuelle. Si votre langue a un certain mot pour des fonctions subalternes, utiliser ce mot.
+  * **une grand famine survint**  - C'est à dire, "il y avait très peu de nourriture." Dans certaines langues, ceci pourrait être traduit comme, "il y avait une grave famine."
+  * **plus d'argent pour s'acheter à manger**  - En raison de la famine, la nourriture était très chère, et il avait déjà dépensé tout son argent.
+  * **Emploi**  - Il s'agit du travail qu'il ferait pour quelqu'un d'autre en échange d'argent. Si ce n'est pas clair, cette phrase pourrait commencer par: "Alors, afin de gagner un peu d'argent, il a pris le seul travail."
+  * **garder les pourceaux**  - C'est à dire, "donner de la nourriture aux porcs." Cela aurait été considéré comme l'un des emplois les plus bas dans la société à cette époque. Si votre langue a un terme pour des fonctions subalternes, utiliser ce terme.
 **[[:fr:obs:notes:frames:35-04|<<]] | [[:fr:obs:notes:35|Up]] | [[:fr:obs:notes:frames:35-06|>>]]**
 
 ~~DISCUSSION~~
