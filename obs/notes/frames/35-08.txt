@@ -1,10 +1,10 @@
-===== I Have Sinned  J'Ai Péché [35-08] =====
+===== I Have Sinned / J'Ai Péché [35-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
 “The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
 
-“Le fils lui dit: 'Père, j'ai péché contre Dieu et contre toi. Je ne suis pas digne d'être appelé ton fils.'”
+“Le **fils** lui dit: 'Père, j'ai **péché contre Dieu et contre toi**. **Je ne suis pas digne** d'être appelé ton fils.'”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt:son]]**
@@ -18,8 +18,8 @@
 ===== Notes de traduction: =====
 
   * (Jésus continue l'histoire.)
-  * **Péché contre Dieu et contre vous **  - Ce pourrait être traduit comme "péché contre Dieu, et j'ai aussi péché contre toi."
-  * **Je ne suis pas digne **  - Il est également possible de dire, "Je ne suis pas digne" ou, "Par conséquent, je ne suis pas digne."
+  * **péché contre Dieu et contre vous**  - Cela pourrait être traduit comme "péché contre Dieu, et j'ai aussi péché contre toi."
+  * **Je ne suis pas digne**  - Il est également possible de dire, "Je ne suis pas digne" ou, "Par conséquent, je ne suis pas digne."
 **[[:fr:obs:notes:frames:35-07|<<]] | [[:fr:obs:notes:35|Up]] | [[:fr:obs:notes:frames:35-09|>>]]**
 
 ~~DISCUSSION~~
