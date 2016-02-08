@@ -23,10 +23,9 @@
 ==== Translation Notes: ====
 
   * **start showing justice and mercy**  - This can be translated as, "start being just and merciful" or, "begin to demonstrate justice and mercy."
-===== Notes de Traduction: =====
+===== Note de Traduction: =====
 
-  * **commencer à faire preuve de justice et de clémence** - Cela peut être traduit comme "commencer à être juste et miséricordieux" ou "commencer à démontrer la justice et de la miséricorde."
-
+  * **commencer à faire preuve de justice et de clémence**  - Cela peut être traduit comme "commencer à être juste et miséricordieux" ou "commencer à démontrer de la justice et de la miséricorde."
 **[[:fr:obs:notes:frames:19-15|<<]] | [[:fr:obs:notes:19|Up]] | [[:fr:obs:notes:frames:19-17|>>]]**
 
 ~~DISCUSSION~~
