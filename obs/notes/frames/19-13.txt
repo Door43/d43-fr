@@ -5,15 +5,13 @@
 Then **Elijah** said to **King Ahab**, “Return immediately to the city, because the rain is coming.” Soon **the sky grew black**, and a heavy rain began. **Yahweh** had ended the **drought** and proved that he is the true **God**.
 
 Puis **Elie** dit au **roi Achab**, “Retourne tout de suite à la ville, parce que la pluie arrive.” Presque immédiatement, **le ciel devint noir** et une grosse pluie commença à tomber.**Yavhé** avait arrêté la sécheresse et prouvé qu'il était le seul vrai **Dieu**.
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:other/king]]**
-  * **[[:fr:obe:other/ahab]]**
-  * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/god]]**
 
-
+  * **[[:fr:obe:other:elijah|Elijah]]**
+  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:ahab|Achab]]**
+  * **[[:fr:obe:kt:yahweh|Yahweh]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
 ==== Translation Notes: ====
 
   * **the sky grew black**  - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
@@ -21,7 +19,7 @@ Puis **Elie** dit au **roi Achab**, “Retourne tout de suite à la ville, parce
 ===== Notes de Traduction: =====
 
   * **le ciel devint noir**  - Soit, "le ciel est devenu très sombre." De gros nuages pluvieux couvraient le ciel, le faisant paraître gris foncé ou noir.
-  * **sécheresse**  - Soit, "longtemps à sec et sans pluie."
+  * **sécheresse**  - Soit, "une longue période sèche et sans pluie."
 **[[:fr:obs:notes:frames:19-12|<<]] | [[:fr:obs:notes:19|Up]] | [[:fr:obs:notes:frames:19-14|>>]]**
 
 ~~DISCUSSION~~
