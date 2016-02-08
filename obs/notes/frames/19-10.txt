@@ -1,37 +1,34 @@
-===== The Prayer of Elijah / La Prière D'Elie  [19-10] =====
+===== The Prayer of Elijah / La Prière D'Elie [19-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink&}}
 
 Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **Jacob**, **show us** today that you are the God of **Israel** and that **I am your servant**. **Answer me** so that **these people will know** that you are the **true** God.”
 
 Après cela, **Elie** **pria**, “**Yahweh**, **Dieu** d'**Abraham**, d'**Isaac**, et de** Jacob**,** montre-nous ** aujourd'hui que tu es le Dieu d'**Israël** et que **je suis ton serviteur**. **Réponds-moi** pour que **ces gens sachent** que tu es le **vrai** Dieu.”
-
 ===== Termes Importants =====
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:other/pray]]**
-  * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:other/abraham]]**
-  * **[[:fr:obe:other/isaac]]**
-  * **[[:fr:obe:other/jacob]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/servant]]**
-  * **[[:fr:obe:kt/true]]**
 
-
+  * **[[:fr:obe:other:elijah|Elijah]]**
+  * **[[:fr:obe:other:pray|pray, prayer]]**
+  * **[[:fr:obe:kt:yahweh|Yahweh]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
+  * **[[:fr:obe:other:isaac|Isaac]]**
+  * **[[:fr:obe:other:jacob|Jacob, Israel]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:servant|servant, slave, slavery (servante, esclave, esclavage)]]**
+  * **[[:fr:obe:kt:true|true, truth(vrai,la vérité)]]**
 ==== Translation Notes: ====
 
-  * **show us**  - That is, "prove to us" or, "demonstrate to us."
+  * **show us**  - that is, "prove to us" or, "demonstrate to us."
   * **I am your servant**  - This could be translated as, "You have given me authority to serve you and do these things."
   * **Answer me**  - That is, "respond to my prayer" or, "send the fire that I have asked you for."
   * **these people will know**  - This may be translated as, "these people will see and understand."
 ===== Notes de Traduction: =====
 
-  * **montre-nous** - Ce est, "nous prouver", ou "nous démontrer."
-  * **je suis ton serviteur** - Cela pourrait être traduit comme: "Vous me avez donné le pouvoir de vous servir et de faire ces choses."
-  * **Réponds-moi** - Ce est, "répondre à ma prière" ou "envoyer le feu que je vous ai demandé."
-  * **ces gens sachent** - Cela peut être traduit comme, "ces gens vont voir et à comprendre."
-
+  * **montre-nous**  - Cela signifie, " prouve- nous", ou " démontre-nous."
+  * **je suis ton serviteur**  - Cela pourrait être traduit par: "Vous m'avez donné le pouvoir de vous servir et de faire ces choses."
+  * **Réponds-moi**  - Cela signifie, "réponds à ma prière" ou "envoie le feu que je t'ai demandé."
+  * **ces gens sachent**  - Cela peut être traduit par, "ces gens  voient et  comprennent."
 **[[:fr:obs:notes:frames:19-09|<<]] | [[:fr:obs:notes:19|Up]] | [[:fr:obs:notes:frames:19-11|>>]]**
 
 ~~DISCUSSION~~
