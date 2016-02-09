@@ -1,10 +1,10 @@
-===== Peter's Comments  les Commentaires De Pierre [36-04] =====
+===== Peter's Comments / les Commentaires De Pierre [36-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
 As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
 
-Tandis que Moïse et Elie parlaient avec Jésus, Pierre dit à Jésus: “Il est bon que nous soyons ici. Dressons trois tentes, une pour toi, une pour Moïse, et une pour Elie.” Pierre ne comprenait pas ce qu'ils disaient.
+Tandis que **Moïse** et **Elie** parlaient avec **Jésus**, **Pierre** dit à Jésus, “Il est bon que nous soyons ici. Dressons trois **tentes**, une pour toi, une pour Moïse, et une pour Elie.” Pierre **ne comprenait pas ce qu'ils disaient**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/moses|Moses]]**
@@ -19,8 +19,8 @@ Tandis que Moïse et Elie parlaient avec Jésus, Pierre dit à Jésus: “Il est
   * **did not know what he was saying**  - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
 ===== Notes de traduction: =====
 
-  * **Abris**  - Cela peut aussi être traduit comme "appentis" ou "cabanes de jardin" ou "tentes". Cela se réfère aux petits abris temporaires et individuels que les Juifs fabriquaient à partir de branches d'arbres au cours d'une fête juive annuelle.
-  * **Ne savait pas ce qu'il disait **  - C'est à dire, "parlait sans comprendre ce qui se passait", ou "parlait sans penser clairement parce qu'il était tellement excité."
+  * **tentes**  - Cela peut aussi être traduit comme "appentis" ou "cabanes de jardin" ou "tentes". Cela se réfère aux petits abris temporaires et individuels que les Juifs fabriquaient à partir de branches d'arbres au cours d'une fête juive annuelle.
+  * **ne comprenait pas ce qu'ils disaient**  - C'est à dire, "parlait sans comprendre ce qui se passait", ou "parlait sans penser clairement parce qu'il était tellement excité."
 **[[:fr:obs:notes:frames:36-03|<<]] | [[:fr:obs:notes:36|Up]] | [[:fr:obs:notes:frames:36-05|>>]]**
 
 ~~DISCUSSION~~
