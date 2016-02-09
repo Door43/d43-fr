@@ -31,19 +31,19 @@ Loading the Boat Le chargement de l'arche [03-05]\\
 The Animals Came L'Arrivée des animaux [03-06]\\
 \\
 [[:fr:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&200}}]]\\
-The Rain Began  La pluie commença  [03-07]\\
+The Rain Began La pluie commença [03-07]\\
 \\
 [[:fr:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&200}}]]\\
-Safe from the Flood  Sauvé du déluge [03-08]\\
+Safe from the Flood Sauvé du déluge [03-08]\\
 \\
 [[:fr:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&200}}]]\\
-The Rain Stopped  La pluie s'arrêta [03-09]\\
+The Rain Stopped La pluie cessa [03-09]\\
 \\
 [[:fr:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&200}}]]\\
-The Raven [03-10]\\
+The Raven Le corbeau  [03-10]\\
 \\
 [[:fr:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&200}}]]\\
-The Dove [03-11]\\
+The Dove La colombe  [03-11]\\
 \\
 [[:fr:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
 Dry Land [03-12]\\
