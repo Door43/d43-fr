@@ -4,7 +4,7 @@
 
 Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
 
-Puis **Moïse** et le prophète **Elie apparurent**. Ces hommes avaient vécu sur terre des centaines d'années auparavant. Ils s'entretenaient avec Jésus au sujet de sa mort, **qui devait survenir bientôt à Jérusalem**.
+Puis **Moïse** et le prophète **Elie apparurent**. Ces hommes avaient vécu sur terre des centaines d'années auparavant. Ils s'entretenaient avec **Jésus** au sujet de **sa mort**, **qui devait survenir bientôt à Jérusalem**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/Moses]]**
@@ -22,9 +22,9 @@ Puis **Moïse** et le prophète **Elie apparurent**. Ces hommes avaient vécu su
   * **in Jerusalem**  - Some languages may prefer to say, "in the city of Jerusalem."
 ===== Notes de traduction: =====
 
-  * **Apparu **  - Il est également possible de dire, "paru de nulle part." Ils étaient tout à coup là.
-  * **Sa mort, qui allait bientôt arriver **- Cela pourrait être traduit comme "comment il allait bientôt mourir", ou "comment il allait bientôt être tué."
-  * **À Jérusalem **  - Certaines langues peut préférer à-dire "à la ville de Jérusalem ".
+  * **apparurent**  - Il est également possible de dire, "apparurent de nulle part." Ils étaient tout à coup là.
+  * **sa mort, qui devait survenir bientôt**  - Cela pourrait être traduit comme "comment il allait bientôt mourir", ou "comment il allait bientôt être tué."
+  * **à Jérusalem**  - Certaines langues peuvent préférer dire "dans la ville de Jérusalem ".
 **[[:fr:obs:notes:frames:36-02|<<]] | [[:fr:obs:notes:36|Up]] | [[:fr:obs:notes:frames:36-04|>>]]**
 
 ~~DISCUSSION~~
