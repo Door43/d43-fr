@@ -9,11 +9,11 @@ Le guardien tremblait de peur! Il vint à Paul et Silas et leur demanda, “Que 
 ===== Termes Importants =====  
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:other/Silas]]**
-  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:kt/save]]**
   * **[[:fr:obe:kt/Believe]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt:lord|Master]]**
-  * **[[:fr:obe:other/preach|preached]]**
+  * **[[:fr:obe:kt:lord]]**
+  * **[[:fr:obe:other/preach]]**
   * **[[:fr:obe:kt/goodnews]]**
 
 
