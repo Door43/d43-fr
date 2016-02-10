@@ -7,12 +7,12 @@
 “A la fin, les anges rassembleront tous les gens qui appartiennent au diable et les précipiteront dans la fournaise ardente, où il y aura beaucoup de pleurs et des grincements de dents et des souffrances terribles. Alors, les justes brilleront comme le soleil dans le royaume de Dieu leur Père.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/angel|angels]]**
-  * **[[:fr:obe:kt/satan|devil]]**
-  * **[[:fr:obe:kt/suffer|suffering]]**
-  * **[[:fr:obe:kt/righteous]]**
-  * **[[:fr:obe:kt/kingdomofgod]]**
-  * **[[:fr:obe:kt/godthefather]]**
+  * **[[:fr:obe:kt:angel]]**
+  * **[[:fr:obe:kt:satan]]**
+  * **[[:fr:obe:kt:suffer]]**
+  * **[[:fr:obe:kt:righteous]]**
+  * **[[:fr:obe:kt:kingdomofgod]]**
+  * **[[:fr:obe:kt:godthefather]]**
 ===== Translation Notes: =====
 
   * **who belong to the devil**  - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
