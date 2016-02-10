@@ -16,32 +16,32 @@ Click on the images below to translate each frame of the story.
 Hagar Agar [05-01]\\
 \\
 [[:fr:obs:notes:frames:05-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&200}}]]\\
-Ishmael Was Born La naissance d'Ismaël  [05-02]\\
+Ishmael Was Born La naissance d'Ismaël [05-02]\\
 \\
 [[:fr:obs:notes:frames:05-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&200}}]]\\
-God Renewed the Covenant  Dieu renouvela l'allliance[05-03]\\
+God Renewed the Covenant Dieu renouvela l'allliance [05-03]\\
 \\
 [[:fr:obs:notes:frames:05-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&200}}]]\\
-God Promised Isaac's Birth  Dieu promit la naissance d'Isaac [05-04]\\
+God Promised Isaac's Birth Dieu promit la naissance d'Isaac [05-04]\\
 \\
 [[:fr:obs:notes:frames:05-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&200}}]]\\
-Birth of Isaac  La naissance d'Isaac  [05-05]\\
+Birth of Isaac La naissance d'Isaac [05-05]\\
 \\
 [[:fr:obs:notes:frames:05-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&200}}]]\\
-Test of Faith  Test de foi  [05-06]\\
+Test of Faith Test de foi [05-06]\\
 \\
 [[:fr:obs:notes:frames:05-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&200}}]]\\
-God Will Provide  Dieu pourvoiera [05-07]\\
+God Will Provide Dieu pourvoiera [05-07]\\
 \\
 [[:fr:obs:notes:frames:05-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&200}}]]\\
 The Sacrifice Le sacrifice [05-08]\\
 \\
 [[:fr:obs:notes:frames:05-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&200}}]]\\
-The Ram Le bélier  [05-09]\\
+The Ram Le bélier [05-09]\\
 \\
 [[:fr:obs:notes:frames:05-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&200}}]]\\
 The Blessing La bénédiction [05-10]
 
-//A Bible story from: Genesis 16-22  Une histoire biblique tirée de Genèse 16-22//
+//A Bible story from: Genesis 16-22 Une histoire biblique tirée de Genèse 16-22//
 
 **[[:fr:obs:notes:04|<< Previous]] | [[:fr:obs:notes:06|Next >>]]**
