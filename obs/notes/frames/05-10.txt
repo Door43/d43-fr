@@ -5,17 +5,15 @@
 Then **God** said to **Abraham**, “Because you were willing to give me everything, even **your only son**, I **promise** to **bless** you. Your **descendants** will be more than **the stars in the sky**. Because you have **obeyed** me, **all the families of the world** will be **blessed through your family**.”
 
 Puis** Dieu** dit à **Abraham**, “Parce que tu étais disposé à tout me donner, même** ton fils unique**, je **promets ** de te **bénir**. Je multiplierai tes **descendants**, comme **les étoiles dans le ciel**. Parce que tu as **obéi** à ma voix, **toutes les nations de la terre ** seront **bénies en ta postérité**.”
-
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/Abraham]]**
-  * **[[:fr:obe:kt/son]]**
-  * **[[:fr:obe:kt/promise]]**
-  * **[[:fr:obe:kt/bless]]**
-  * **[[:fr:obe:other/descendant]]**
-  * **[[:fr:obe:other/obey]]**
 
-
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:abraham|Abraham, Abram]]**
+  * **[[:fr:obe:kt:son|son]]**
+  * **[[:fr:obe:kt:promise|promise]]**
+  * **[[:fr:obe:kt:bless|bless, blessed, blessing (Bénir, a béni ou béni, la bénédiction)]]**
+  * **[[:fr:obe:other:descendant|descendant]]**
+  * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
 ===== Translation Notes: =====
 
   * **your only son**  - See explanation in **[[:fr:obs:notes:frames:05-08|[05-08]]]**.
@@ -23,14 +21,13 @@ Puis** Dieu** dit à **Abraham**, “Parce que tu étais disposé à tout me don
   * **all the families of the world**  - Here, "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children.
   * **blessed through your family**  - Here, "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-===== Note de traduction: =====
+===== Notes de traduction: =====
 
-  * **ton fils unique** - Voir explication dans **[[:fr:obs:notes:frames:05-08|[05-08]]]**.
-  * **les étoiles dans le ciel** - Voir explication dans **[[:fr:obs:notes:frames:04-05|[04-05]]]**.
-  * Toutes les familles du monde - ici, "les familles" s'applique aux grands groupes distincts de personnes sur terre, plutôt qu'à chaque groupe de parents et d'enfants.
-  * **Béni par la biais de votre famille** - Ici, la "famille" fait référence aux nombreux descendants qu'Abraham aurait. Les futures générations du monde seraient bénies par le biais des descendants d'Abraham. La plus grande bénédiction viendrait de nombreuses générations plus tard, par le biais du serviteur choisi de Dieu, le Messie.
-  * //Une histoire Biblique tirée de // - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible. 
-  
-  
- **[[:fr:obs:notes:frames:05-09|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:06-01|>>]]**
+  * **ton fils unique**  - Voir explication dans **[[:fr:obs:notes:frames:05-08|[05-08]]]**.
+  * **les étoiles dans le ciel**  - Voir explication dans **[[:fr:obs:notes:frames:04-05|[04-05]]]**.
+  * Toutes les familles du monde - ici, "les familles" s'applique aux différents groupes de peuples du monde, plutôt qu'à chaque groupe de parents et d'enfants.
+  * **Béni par la biais de votre famille**  - Ici, la "famille" fait référence aux nombreux descendants qu'Abraham aurait. Les futures générations du monde seraient bénies par le biais des descendants d'Abraham. La plus grande bénédiction viendrait de nombreuses générations plus tard, par le biais du serviteur choisi de Dieu, le Messie.
+  * //Une histoire Biblique tirée de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+**[[:fr:obs:notes:frames:05-09|<<]] | [[:fr:obs:notes:05|Up]] | [[:fr:obs:notes:frames:06-01|>>]]**
+
 ~~DISCUSSION~~
