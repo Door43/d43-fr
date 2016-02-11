@@ -1,10 +1,10 @@
-===== Jesus Carried His Cross Jésus A Porté Sa Croix [40-01] =====
+===== Jesus Carried His Cross / Jésus A Porté Sa Croix [40-01] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
 After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
 
-Quand les soldats eurent fini de se moquer de Jésus, ils l'emmenèrent pour le crucifier. Ils lui firent porter la croix sur laquelle il devait mourir.
+Quand les soldats **eurent fini de se moquer de Jésus**, ils **l'emmenèrent pour le crucifier**. Ils lui firent porter la **croix** sur laquelle il devait mourir.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/mock]]**
@@ -19,8 +19,8 @@ Quand les soldats eurent fini de se moquer de Jésus, ils l'emmenèrent pour le 
   * **to crucify him**  - That is, "to kill him on a cross."
 ===== Notes de traduction: =====
 
-  * **Emmenèrent **  - C'est à dire, "Forcé à aller avec eux", Cela pourrait aussi être traduit comme "l'ont emmené."
-  * **Pour le crucifier **  - C'est à dire, "pour le tuer sur une croix."
+  * **l'emmenèrent**  - C'est à dire, "le forcerent à aller avec eux", Cela pourrait aussi être traduit comme "l'emmenèrent."
+  * **pour le crucifier**  - C'est à dire, "pour le tuer sur une croix."
 **[[:fr:obs:notes:frames:39-12|<<]] | [[:fr:obs:notes:40|Up]] | [[:fr:obs:notes:frames:40-02|>>]]**
 
 ~~DISCUSSION~~
