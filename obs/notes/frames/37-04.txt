@@ -1,10 +1,10 @@
-===== Martha Met Jesus  Marthe A Rencontré Jésus [37-04] =====
+===== Martha Met Jesus / Marthe A Rencontré Jésus [37-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
 When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead** for four days. **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
 
-Quand Jésus arriva dans la ville natale de Lazare, Lazare était déjà mort depuis quatre jours. Marthe alla à la rencontre de Jésus et dit: “Seigneur, si tu avais été là, mon frère ne serait pas mort. Mais je sais maintenant que tout ce que tu demanderas à Dieu, Il te l'accordera.”
+Quand **Jésus** arriva dans la ville natale de **Lazare**, Lazare était déjà **mort** depuis quatre jours. **Marthe alla à la rencontre de Jésus** et dit “**Seigneur**, si tu avais été là, **mon frère ne serait pas mort**. Mais je **crois que Dieu t'accordera tout ce que tu lui demanderas**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
@@ -22,9 +22,9 @@ Quand Jésus arriva dans la ville natale de Lazare, Lazare était déjà mort de
 ===== Notes de traduction: =====
 
   * **Marthe**- Marthe était la sœur de Lazare et de Marie. Voir **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
-  * **Sortit à la rencontre de Jésus **  - C'est à dire, "Est allé à la rencontre de Jésus comme il entrait dans la ville"
-  * **Mon frère ne serait pas mort**  - C'est à dire , " Si vous aviez guéri mon frère et il ne serait pas mort", ou "vous pourriez avoir empêché mon frère de mourir."
-  * **Vous donnera ce que vous demanderez de lui**  - C'est à dire, "fera ce que vous lui demandez de faire."
+  * **Marthe alla à la rencontre de Jésus**  - C'est à dire, "est allé à la rencontre de Jésus alors qu'il entrait dans la ville"
+  * **Mon frère ne serait pas mort**  - C'est à dire , "vous auriez guéri mon frère et il ne serait pas mort", ou "vous auriez pu empêcher mon frère de mourir."
+  * **t'accordera tout ce que tu lui demanderas**  - C'est à dire, "fera ce que tu lui demanderas de faire."
 **[[:fr:obs:notes:frames:37-03|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-05|>>]]**
 
 ~~DISCUSSION~~
