@@ -42,7 +42,7 @@ Moses Fled from Egypt Moïse s'enfuya dans le désert [09-10]
 Moses in the Wilderness Moïse dans le désert [09-11]
 
 [[:fr:obs:notes:frames:09-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-12.jpg?nolink&200}}]]\\
-The Burning Bush le buisson ardent [09-12]
+The Burning Bush Le buisson ardent [09-12]
 
 [[:fr:obs:notes:frames:09-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&200}}]]\\
 God Sent Moses to Egypt Dieu envoya Moïse en Egypte [09-13]
