@@ -13,7 +13,7 @@
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this in **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
-===== Notes de Traduction: =====
+===== Note de Traduction: =====
 
   * **la nature**  - Voyez comment vous avez traduit cela en **[[:fr:obs:notes:frames:09-10|[09-10]]]**.
 **[[:fr:obs:notes:frames:09-10|<<]] | [[:fr:obs:notes:09|Up]] | [[:fr:obs:notes:frames:09-12|>>]]**
