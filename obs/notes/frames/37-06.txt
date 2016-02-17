@@ -1,10 +1,10 @@
-===== Mary Met Jesus  Marie À La Rencontre De Jésus [37-06] =====
+===== Mary Met Jesus / Marie alla à La Rencontre De Jésus [37-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-06.jpg?nolink&}}
 
 Then **Mary** arrived. She **fell at the feet of Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**.” Jesus asked them, “Where have you put **Lazarus**?” They told him, “In the **tomb**. Come and see.” Then Jesus wept.
 
-Puis Marie courut vers Jésus. Elle se jeta à ses pieds et dit: “Seigneur, si tu avais été ici, mon frère ne serait pas mort.” Jesus leur demanda: “Où avez vous mis Lazare?” Elles répondirent: “Dans le tombeau, viens voir.” Alors Jésus pleura.
+Puis **Marie** courut vers Jésus. Elle **se jeta aux pieds de Jésus** et dit, “**Seigneur**, si tu étais là, **mon frère ne serait pas mort**.” Jesus leur demanda: “Où avez vous mis **Lazare**?” Elles répondirent: “Dans le **tombeau**, viens voir.” Alors Jésus pleura.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
@@ -19,9 +19,9 @@ Puis Marie courut vers Jésus. Elle se jeta à ses pieds et dit: “Seigneur, si
   * **my brother would not have died.**  - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
 ===== Notes de traduction: =====
 
-  * **Mary**  - C'était la même femme que dans **[[:fr:obs:notes:frames:37-01|[37-01]]]**, pas la mère de Jésus.
-  * **Tomba aux pieds de Jésus **  - C'est à dire, "s'agenouilla aux pieds de Jésus" comme un signe de respect.
-  * **Mon frère ne serait pas mort.**  - C'est à dire, "vous pourriez avoir empêcher mon frère de mourir" ou, "vous pourriez avoir empêché la mort de mon frère" ou "mon frère serait encore en vie."
+  * **Marie**  - C'était la même femme que dans **[[:fr:obs:notes:frames:37-01|[37-01]]]**, pas la mère de Jésus.
+  * **se jeta aux pieds de Jésus**  - C'est à dire, "s'agenouilla aux pieds de Jésus" comme un signe de respect.
+  * **mon frère ne serait pas mort.**  - C'est à dire, "tu aurais empêché mon frère de mourir" ou, "tu aurais pu prévenir la mort de mon frère" ou "mon frère serait encore en vie."
 **[[:fr:obs:notes:frames:37-05|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-07|>>]]**
 
 ~~DISCUSSION~~
