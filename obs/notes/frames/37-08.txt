@@ -1,18 +1,16 @@
-===== Rolling the Stone Away  Roulant La Pierre Hors De.. [37-08] =====
+===== Rolling the Stone Away / Otant La Pierre [37-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}Ô
 
 **Jesus** responded, “**Did I not tell you** that you would **see God's glory** if you **believe** in me?” So **they rolled the stone away**.
 
-Jésus répondit: “Ne t'ai-je pas dit, si tu crois en moi, tu verras la gloire de Dieu?” On ôta donc la pierre.
+**Jésus** répondit: “**Ne t'ai-je pas dit** que si tu **crois** en moi, tu **verras la gloire** de Dieu?” Alors **on ôta la pierre**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:kt/God|God's]]**
   * **[[:fr:obe:kt/glory]]**
   * **[[:fr:obe:kt/believe]]**
-
-
 
 ===== Translation Notes: =====
 
@@ -21,9 +19,9 @@ Jésus répondit: “Ne t'ai-je pas dit, si tu crois en moi, tu verras la gloire
   * **rolled the stone away**  - Some languages should say, "rolled the stone away from the opening of the tomb."
 ===== Notes de traduction: =====
 
-  * **Ne t'ai-je pas  dit?**  - C'est à dire, "N'oubliez pas ce que je vous ai dit." Jésus ne demande pas cette question pour obtenir une réponse, de sorte que certaines langues devrait se traduire cela comme une affirmation.
-  * **Voir la gloire de Dieu **  - C'est à dire, "voir la gloire de Dieu affichée» ou «  montrer Dieu tel qu'il est."
-  * **Roulé la pierre **  - Certaines langues devrait dire, "roulé la pierre loin de l'ouverture de la tombe. "
+  * **Ne t'ai-je pas dit?**  - C'est à dire, "Souviens toi de ce que je t'ai dit." Jésus ne pose pas cette question pour obtenir une réponse, de sorte que certaines langues devrait traduire cela comme un ordre.
+  * **voir la gloire de Dieu**  - C'est à dire, "voir la gloire de Dieu affichée" ou, "voir Dieu montrer combien il est grand."
+  * **Otez la pierre **  - Certaines langues devrait dire, "Poussez la pierre hors de l'ouverture de la tombe. "
 **[[:fr:obs:notes:frames:37-07|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-09|>>]]**
 
 ~~DISCUSSION~~
