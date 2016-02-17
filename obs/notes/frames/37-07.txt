@@ -1,10 +1,10 @@
-===== Open the Tomb   Ouvrez La Tombe [37-07] =====
+===== Open the Tomb / Ouvrez La Tombe [37-07] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
 The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
 
-Le tombeau était une grotte dont l'entrée était fermée par une pierre. Quand Jésus arriva au tombeau, il leur dit: “Enlevez la pierre.” Mais Marthe dit alors: “Il doit déjà sentir. Cela fait quatre jours qu'il est là.”
+Le **tombeau** était une grotte dont l'entrée était fermée par une pierre. Quand **Jésus** arriva au tombeau, **il leur dit**, “**Enlevez la pierre**.” Mais **Marthe** dit alors, “**Cela fait quatre jours qu'il est mort** Il doit déjà sentir.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/tomb]]**
@@ -18,10 +18,10 @@ Le tombeau était une grotte dont l'entrée était fermée par une pierre. Quand
   * **He has been dead for four days**  - This could also be translated as, "He died four days ago and his body is lying there."
 ===== Notes de traduction: =====
 
-  * **Il leur a dit**  - C'est à dire, "aux hommes là-bas." Il n'a probablement pas dit à Marthe et Marie de rouler la pierre.
-  * **Roulera la pierre **  - Certaines langues peuvent préférer dire, "Roulez la pierre de l'ouverture de la tombe."
-  * **Marthe **- Marthe était la sœur de Lazare et de Marie. Voir **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
-  * **Il est mort depuis quatre jours **  - Cela pourrait aussi être traduit comme: "Il est mort il ya quatre jours et son corps est couché là".
+  * **Il leur dit**  - C'est à dire, "Il dit aux hommes qui étaient là." Il n'était probablement pas en train de demander à Marthe et Marie d'enlever la pierre.
+  * **enlevez la pierre**  - Certaines langues peuvent préférer dire, "Roulez la pierre de l'ouverture de la tombe."
+  * **Marthe**  - Marthe était la sœur de Lazare et de Marie. Voir **[[:fr:obs:notes:frames:37-01|[37-01]]]**.
+  * **Il est mort depuis quatre jours**  - Cela pourrait aussi être traduit par "Il est mort il y a quatre jours et son corps repose là".
 **[[:fr:obs:notes:frames:37-06|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-08|>>]]**
 
 ~~DISCUSSION~~
