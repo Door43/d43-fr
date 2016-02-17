@@ -1,10 +1,10 @@
-===== The Passover  La Pâque [38-01] =====
+===== The Passover / La Pâque [38-01] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
 Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
 
-Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remercier Dieu d'avoir sauvé leurs ancêtres de l'esclavage en Egypte il y a plusieurs siècles. Environ trois ans après avoir commencé à prêcher et à enseigner publiquement, Jésus dit à ses disciples qu'il voulait fêter la Pâque avec eux à Jerusalem et qu'il serait tué là bas.
+Chaque année, les **Juifs** célébraient la **Pâque**. C'était une fête pour remercier **Dieu** d'avoir **libéré** leurs ancêtres de **l'esclavage** en **Egypte il y a plusieurs siècles**. Environ trois ans après que Jesus ait commencé à **prêcher** et à enseigner publiquement, Jésus dit à ses **disciples** qu'il voulait fêter la Pâque avec eux à **Jerusalem** et qu'il serait tué là bas.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/Jew|Jews]]**
@@ -22,7 +22,7 @@ Chaque année, les Juifs célébraient la Pâque. C'était une fête pour remerc
   * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
 ===== Note de traduction: =====
 
-  * **Plusieurs siècles auparavant **  - "C'està dire, "des centaines d'années avant " ou, "très longtemps avant".
+  * **il y a plusieurs siècles**  - "C'est à dire, "des centaines d'années avant " ou, "très longtemps avant".
 **[[:fr:obs:notes:frames:37-11|<<]] | [[:fr:obs:notes:38|Up]] | [[:fr:obs:notes:frames:38-02|>>]]**
 
 ~~DISCUSSION~~
