@@ -1,10 +1,10 @@
-===== Lazarus Was Alive Again Lazare Est Vivant De Nouveau [37-10] =====
+===== Lazarus Was Alive Again / Lazare Est Vivant De Nouveau [37-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
 So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** told them, “Help him take off those grave clothes and release him!” Many of the **Jews believed** in Jesus **because of this miracle**.
 
-Alors Lazare sortit! Il était enveloppé de linges mortuaires. Jésus leur dit: “Déliez-le de ces bandes et laissez-le aller!” Beaucoup de Juifs crurent en Jésus à cause de ce miracle
+Alors **Lazare sortit**! Il était enveloppé de **linges mortuaires**. **Jésus** leur dit, “Déliez-le de ces bandes et laissez-le aller!” Beaucoup de **Juifs crurent** en Jésus **à cause de ce miracle**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/lazarus]]**
@@ -13,11 +13,6 @@ Alors Lazare sortit! Il était enveloppé de linges mortuaires. Jésus leur dit:
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/miracle]]**
 
-
-
-  
-
-
 ===== Translation Notes: =====
 
   * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
@@ -25,9 +20,9 @@ Alors Lazare sortit! Il était enveloppé de linges mortuaires. Jésus leur dit:
   * **because of this miracle**  - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
 ===== Notes de traduction: =====
 
-  * **Lazare est sorti!**  - Certaines langues doivent dire: "Lazare est sorti de la tombe!"
-  * **Vêtements de la tombe **  - C'est à dire, "vêtements de l'enterrement." Cela peut aussi être traduit par "bandages de sépulture", ou "bandes de tissu."
-  * **A cause de ce miracle **  - C'est à dire, "parce que Dieu avait fait ce miracle étonnant" ou, "parce que Jésus avait fait revivre Lazare".
+  * **Lazare est sorti!**  - Certaines langues doivent dire, "Lazare est sorti de la tombe!"
+  * **linges mortuaires**  - C'est à dire, "vêtements d'enterrement." Cela peut aussi être traduit par "bandes de sépulture" ou, "bandes de tissu."
+  * **A cause de ce miracle**  - C'est à dire, "parce que Dieu avait fait ce miracle étonnant" ou, "parce que Jésus avait fait revivre Lazare".
 **[[:fr:obs:notes:frames:37-09|<<]] | [[:fr:obs:notes:37|Up]] | [[:fr:obs:notes:frames:37-11|>>]]**
 
 ~~DISCUSSION~~
