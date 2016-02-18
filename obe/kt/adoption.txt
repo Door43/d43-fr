@@ -1,6 +1,6 @@
 ====== adoption ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 ===== Definition: Définition =====
 
@@ -9,7 +9,7 @@ The term "adoption" refers to the process or action of someone legally or formal
 Le terme "adoption" signifie devenir l'enfant de personnes qui ne sont pas les parents naturels selon des formalités légales.
 
   * The Bible uses "adoption" and "adopt" in a figurative way to describe how God causes people to be part of his family, making them his spiritual sons and daughters.
-  * La Bible  emploie les mots "adoption" et "adopter" dans un sens figuratif pour décrire comment Dieu a intégré des gens en tant que membres de sa famille, en devenant  spirituellement  ses fils et ses filles.
+  * La Bible emploie les mots "adoption" et "adopter" dans un sens figuratif pour décrire comment Dieu a intégré des gens en tant que membres de sa famille, en devenant spirituellement ses fils et ses filles.
   * As adopted children, believers are co-heirs along with Jesus Christ, having a right to all the privileges of sons and daughters of God.
   * En tant qu'enfants adoptés, les croyants sont co-héritiers avec Jésus Christ, possédant tous les privilèges accordés aux fils et aux filles de Dieu.
 
@@ -26,7 +26,7 @@ Le terme "adoption" signifie devenir l'enfant de personnes qui ne sont pas les p
 
 (See: heir, inherit, inheritance, spirit, spiritual other)
 
-===== Bible References: =====
+===== Bible References: Rérences bibliques: =====
 
 {{topic>:en:bible?adoption&nocomments}}~~DISCUSSION~~
 
