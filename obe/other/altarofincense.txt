@@ -1,6 +1,6 @@
 ====== altar of incense / l'autel des parfums ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 =====   =====
 
@@ -11,9 +11,9 @@ L'autel des parfums était une pièce de meuble sur lequel le prêtre brûlerait
   * The altar of incense was made of wood, and its top and sides were covered with gold. It was about a half meter long, a half meter wide, and one meter tall.
   * L'autel des parfums était construit en bois, avec le dessus et ses côtés couverts d'or. Sa longueur était d'environ un demi mètre, sa largeur un demi mètre et sa hauteur un mètre.
   * At first it was kept in the tabernacle. Then it was kept in the temple.
-  * On  le gardait dans le tabernacle. plus tard il fût gardé dans le temple.
+  * On le gardait dans le tabernacle. plus tard il fût gardé dans le temple.
   * Every morning and evening a priest would burn incense on it.
-  * Chaque matin et soir  le prêtre y brûlait des parfums.
+  * Chaque matin et soir le prêtre y brûlait des parfums.
   * This can also be translated as "altar for burning incense" or, "golden altar" or, "incense burner" or, "incense table,"
   * On pourrait aussi traduire ce terme par " un autel pour brûler les parfums" ou "l'autel d'or" ou "la table des parfums"
 
@@ -21,15 +21,8 @@ L'autel des parfums était une pièce de meuble sur lequel le prêtre brûlerait
 
 (See also: [[:fr:obe:other:incense|incense]]) Voir aussi: (parfum)
 
-===== Bible References: =====
+===== Bible References:  Références Bibliques: =====
 
-
-{{topic>:en:bible?altarofincense&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?altarofincense&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
