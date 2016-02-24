@@ -2,19 +2,24 @@
 
 ====== les Faits: ======  
 
-===== Facts: =====
+=====   =====
 
 The altar of incense was a piece of furniture on which a priest would burn incense as an offering to God. It was also called the golden altar.
 
-    * The altar of incense was made of wood, and its top and sides were covered with gold. It was about a half meter long, a half meter wide, and one meter tall.
-    * At first it was kept in the tabernacle. Then it was kept in the temple. 
-    * Every morning and evening a priest would burn incense on it.
-    * This can also be translated as "altar for burning incense" or, "golden altar" or, "incense burner" or, "incense table,"
+L'autel des parfums était une pièce de meuble sur lequel le prêtre brûlerait des parfums en offrande à Dieu. On l'appelait l'autel d'or.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * The altar of incense was made of wood, and its top and sides were covered with gold. It was about a half meter long, a half meter wide, and one meter tall.
+  * L'autel des parfums était construit en bois, avec le dessus et ses côtés couverts d'or. Sa longueur était d'environ un demi mètre, sa largeur un demi mètre et sa hauteur un mètre.
+  * At first it was kept in the tabernacle. Then it was kept in the temple.
+  * On  le gardait dans le tabernacle. plus tard il fût gardé dans le temple.
+  * Every morning and evening a priest would burn incense on it.
+  * Chaque matin et soir  le prêtre y brûlait des parfums.
+  * This can also be translated as "altar for burning incense" or, "golden altar" or, "incense burner" or, "incense table,"
+  * On pourrait aussi traduire ce terme par " un autel pour brûler les parfums" ou "l'autel d'or" ou "la table des parfums"
 
-(See also: [[incense]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]]) Suggestion de traduction ( Traduire les Noms)
 
+(See also: [[:fr:obe:other:incense|incense]]) Voir aussi: (parfum)
 
 ===== Bible References: =====
 
