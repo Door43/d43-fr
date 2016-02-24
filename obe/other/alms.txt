@@ -1,6 +1,6 @@
 ====== alms / Aumônes ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 ===== Definition: Définition: =====
 
@@ -13,7 +13,7 @@ Le terme "aumônes" se référe á l'argent, la nourriture ou toutes autres chos
   * Jesus warned against giving alms to try to impress other people.
   * Jésus a mis en garde contre le fait de faire des aumônes pour impressionner les autres.
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?alms&nocomments}}~~DISCUSSION~~
 
