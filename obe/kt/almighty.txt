@@ -6,21 +6,22 @@
 
 The term "Almighty" literally means "all-powerful" and in the Bible, it always refers to God.
 
-Ce terme signifie littéralement "tout -puissant" dans la Bible et se réfère toujours à Dieu.
+Ce terme signifie littéralement "Tout-Puissant" dans la Bible et se réfère toujours à Dieu.
 
   * The phrase "the Almighty" or "the Almighty One" are titles that reveal that God has complete power and authority over everything.
   * La phrase "le Tout-Puissant" est un titre qui révèle que Dieu a tout pouvoir et autorité sur tout.
   * "Almighty God" or "God Almighty" are other titles for God that use this term.
   * "Dieu tout -Puissant" est un autre titre qui nomme Dieu.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions:  Suggestion de Traduction =====
 
   * This term could also be translated as "All-powerful" or "Completely Powerful One" or "God, who is completely powerful."
+  * On pourrait traduire ce terme par "Tout Puissant" ou "Le Tout-Puissant" ou "Dieu, qui est Tout-Puissant."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]]) Voir: (Traduire les Noms)
 
-(See also: [[en:obe:kt:power]])
+(See also: [[:en:obe:kt:power|power]]) (Voir aussi :pouvoir,puissance)
 
-===== Bible References: =====
+===== Bible References:   Références Bibliques: =====
 
 {{topic>:en:bible?almighty&nocomments}}~~DISCUSSION~~{{tag>publish}}
