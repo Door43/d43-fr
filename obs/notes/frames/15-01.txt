@@ -8,16 +8,15 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:fr:obe:kt:promisedland|Promised Land]]**
-  * **[[:fr:obe:other:joshua|Joshua]]**
-  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:fr:obe:other:jericho|Jericho]]**
-  * **[[:fr:obe:other:rahab|Rahab]]**
-  * **[[:fr:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:kt:promise|promise]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:canaan]]**
+  * **[[:fr:obe:kt:promisedland]]**
+  * **[[:fr:obe:other:joshua]]**
+  * **[[:fr:obe:other:jericho]]**
+  * **[[:fr:obe:other:rahab]]**
+  * **[[:fr:obe:kt:believe]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:promise]]**
 ==== Translation Notes: ====
 
   * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
