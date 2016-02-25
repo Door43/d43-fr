@@ -7,13 +7,13 @@ After three and a half years, **God** told **Elijah** to return to the **kingdom
 Trois ans et demi plus tard, **Dieu** dit à **Elie** de retourner au **royaume d'Israël** et de **parler à Achab, parce qu'il allait envoyer** la pluie. Quand Achab vit Elie, il lui dit, “te voilà semeur de troubles!” Elie lui répondit, “Tu es le **semeur de troubles**! Tu as abandonné le Seigneur, le vrai Dieu, et tu as **vénéré Baal**. Amène tout le peuple du royaume d'Israël au **Mont Carmel**.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:other/ahab]]**
-  * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:other/baal]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:other:elijah]]**
+  * **[[:fr:obe:other:kingdomofisrael]]**
+  * **[[:fr:obe:other:ahab]]**
+  * **[[:fr:obe:kt:yahweh]]**
+  * **[[:fr:obe:kt:worship]]**
+  * **[[:fr:obe:other:baal]]**
 
 
 ==== Translation Notes: ====
