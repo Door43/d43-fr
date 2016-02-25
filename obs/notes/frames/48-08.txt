@@ -7,16 +7,15 @@ When **God** told **Abraham** to offer his **son**, **Isaac**, as a **sacrifice*
 Quand Dieu dit à Abraham d'offrir son fils Isaac, comme sacrifice, Dieu pourvut un agneau pour que Abraham le sacrifie à la place de son fils, Isaac. Nous méritons tous de mourir pour nos péchés! Mais Dieu pourvut Jésus, l'agneau de Dieu, comme sacrifice pour qu'il meure à notre place.
 
 ===== Termes Importants =====  
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/Abraham]]**
-  * **[[:fr:obe:kt/son]]**
-  * **[[:fr:obe:other/Isaac]]**
-  * **[[:fr:obe:other/sacrifice]]**
-  * **[[:fr:obe:kt/lamb]]**
-  * **[[:fr:obe:kt/death|die]]**
-  * **[[:fr:obe:kt/sin|sins]]**
-  * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/lamb|Lamb of God]]**
+  * **[[:fr:obe:kt:God]]**
+  * **[[:fr:obe:other:Abraham]]**
+  * **[[:fr:obe:kt:son]]**
+  * **[[:fr:obe:other:Isaac]]**
+  * **[[:fr:obe:other:sacrifice]]**
+  * **[[:fr:obe:kt:lamb]]**
+  * **[[:fr:obe:kt:death]]**
+  * **[[:fr:obe:kt:sin]]**
+  * **[[:fr:obe:kt:Jesus]]**
 
 
 ===== Translation Notes: =====
