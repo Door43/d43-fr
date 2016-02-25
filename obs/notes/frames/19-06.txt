@@ -7,12 +7,12 @@ All the people of the **kingdom of Israel**, including the 450 **prophets** of *
 Tout le peuple du** royaume d'Israël**, y compris les quatre cent cinquante **prophètes de Baal**, vinrent au **Mont Carmel**. **Elie** dit au peuple, “**Pendant combien de temps** allez-vous changer d'avis? **Si le Seigneur est Dieu**, servez le Seigneur. **Si Baal est Dieu**, servez Baal.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/baal]]**
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:kt/yahweh]]**
-  * **[[:fr:obe:kt/god]]**
+  * **[[:fr:obe:other:kingdomofisrael]]**
+  * **[[:fr:obe:kt:prophet]]**
+  * **[[:fr:obe:other:baal]]**
+  * **[[:fr:obe:other:elijah]]**
+  * **[[:fr:obe:kt:yahweh]]**
+  * **[[:fr:obe:kt:god]]**
 
 
 ==== Translation Notes: ====
