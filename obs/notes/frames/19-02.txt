@@ -7,15 +7,15 @@
 **Elie** fut un **prophète** à l'époque où **Achab** fut le **roi** du** royaume d'Israël**. Achab fut un homme **mauvais** qui encouragea les gens à** vénérer** un faux **dieu** nommé** Baal**. Elie dit à Achab, “il n'y aura ni pluie ni rosée dans le royaume d'Israël, **jusqu'à ce que je déclare le contraire**.” **Cette déclaration rendit Achab très en colère**.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/elijah]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/ahab]]**
-  * **[[:fr:obe:other/king]]**
-  * **[[:fr:obe:other/israel]]**
-  * **[[:fr:obe:kt/evil]]**
-  * **[[:fr:obe:kt/worship]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:other/baal]]**
+  * **[[:fr:obe:other:elijah]]**
+  * **[[:fr:obe:kt:prophet]]**
+  * **[[:fr:obe:other:ahab]]**
+  * **[[:fr:obe:other:king]]**
+  * **[[:fr:obe:other:kingdomofisrael]]**
+  * **[[:fr:obe:kt:evil]]**
+  * **[[:fr:obe:kt:worship]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:other:baal]]**
 
 
 ==== Translation Notes: ====
