@@ -8,11 +8,10 @@ Le **prophète Isaïe prédit** aussi que le **Messie** serait **haï sans aucun
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:other:isaiah|Isaiah]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
-  * **[[:fr:obe:kt:betray|betray, betrayer]]**
+  * **[[:fr:obe:kt:prophet]]**
+  * **[[:fr:obe:other:isaiah]]**
+  * **[[:fr:obe:kt:christ]]**
+  * **[[:fr:obe:kt:betray]]**
 
 ==== Translation Notes: ====
 
