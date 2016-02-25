@@ -7,12 +7,12 @@ The other ten tribes of the **nation of Israel** that rebelled against **Rehoboa
 Les dix autres tribus de la **nation d'Israël ** qui s'étaient révoltées contre **Réhoboam choisirent**, **un homme nommé Jéroboam comme roi**. **Ils établirent leur royaume** au nord du pays et l'appelèrent le **Royaume d'Israël**.
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:rehoboam|Rehoboam]]**
-  * **[[:fr:obe:other:jeroboam|Jeroboam]]**
-  * **[[:fr:obe:other:king|king]]**
-  * **[[:fr:obe:other:kingdom|kingdom]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:rehoboam]]**
+  * **[[:fr:obe:other:jeroboam]]**
+  * **[[:fr:obe:other:king]]**
+  * **[[:fr:obe:other:kingdom]]**
+
 ==== Translation Notes: ====
 
   * **set up their kingdom**  - This may be translated as, they "established" or, "built" their kingdom. This sentence may also be translated as, "They separated themselves from the other two tribes and lived in the northern part of the land, and they called their country "Israel.'"
