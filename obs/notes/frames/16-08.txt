@@ -8,12 +8,12 @@ Ensuite les** Madianites vinrent encore dans l'intention de voler les Israélite
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:midian|Midian, Midianites]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:gideon|Gideon]]**
-  * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:kt:save|save]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:other:midian]]**
+  * **[[:fr:obe:other:israel]]**
+  * **[[:fr:obe:other:gideon]]**
+  * **[[:fr:obe:kt:god]]**
+  * **[[:fr:obe:kt:save]]**
+ 
 ==== Translation Notes: ====
 
   * **came again to steal from the Israelites**  – This could be translated as, "came again to the Israelites' land to steal things from them."
