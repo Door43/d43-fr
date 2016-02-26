@@ -2,16 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Facts: =====
+=====   =====
 
 Ammon was the younger son of Lot by his younger daughter, and his descendants are called the Ammonites.
 
+Ammi était le fils de Lot avec sa fille cadette,et ses descendants s'appellent les Ammonites.
+
   * The Ammonites lived east of the Jordan River and were hostile toward the Israelites.
+  * Les Ammonites vivaient à l'est du Jourdain et étaient hostiles envers les Israélites.
   * The Ammonites hired a prophet named Balaam to curse Israel, but God did not allow it.
+  * Les Ammonites endgagèrent iun prophète du nom de Balaam pour maudire les Israélites, mais dieu ne le permit pas.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]]) Suggestions de Traduction:
 
-(See also: [[en:obe:kt:curse]])
+(See also: [[:en:obe:kt:curse|curse, cursed]])
 
 ===== Bible References: =====
 
