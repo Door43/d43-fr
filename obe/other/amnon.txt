@@ -2,14 +2,18 @@
 
 ====== les Faits: ======  
 
-===== Facts: =====
+=====   =====
 
 Amnon was the oldest son of King David and his wife Ahinoam.
 
-  * Amnon raped his half-sister Tamar, who was also Absalom's sister.
-  * Because of this, Absalom plotted against Amnon and had him killed.
+Amnom était le fils aîné du roi David et de sa femme Ahinoam.
 
-(See also: [[:fr:obe:other:david]], [[:fr:obe:other:absalom]])
+  * Amnon raped his half-sister Tamar, who was also Absalom's sister.
+  * Amnon déshonora sa demi-soeur Tamar qui était la soeur d'Absalom en couchant avec elle.
+  * Because of this, Absalom plotted against Amnon and had him killed.
+  * A cause de cela, Absalom complota contre Amnon et le fit tuer.
+
+(See also: [[:fr:obe:other:david|David]], [[:fr:obe:other:absalom|Absalom F]])
 
 ===== Bible References: =====
 
