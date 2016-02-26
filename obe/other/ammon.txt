@@ -1,6 +1,6 @@
 ====== Ammon, Ammonites(Ammi, Ammonites) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 =====   =====
 
@@ -15,9 +15,9 @@ Ammi était le fils de Lot avec sa fille cadette,et ses descendants s'appellent 
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]]) Suggestions de Traduction:
 
-(See also: [[:en:obe:kt:curse|curse, cursed]])
+(See also: [[:en:obe:kt:curse|curse, cursed]]) Voir aussi:
 
-===== Bible References: =====
+===== Bible References:  Références Bibliques: =====
 
 {{topic>:en:bible?ammon&nocomments}}~~DISCUSSION~~
 
