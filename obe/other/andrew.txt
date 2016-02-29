@@ -1,16 +1,21 @@
 ====== Andrew / André ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Andrew was one of twelve men whom Jesus chose to be his disciples (later called apostles).
 
+André était l'un des douze hommes que Jésus appela pour être ses disciples (plus tard appelés apôtres).
+
   * Andrew's brother was Simon Peter. Both of them were fishermen.
+  * Le frère d'André était Simon Pierre.  Tous deux étaient pècheurs.
   * Peter and Andrew were the first disciples of Jesus to be mentioned in the Bible. They were fishing in the Sea of Galilee when Jesus called them to be his disciples.
-  * Before Peter and Andrew met Jesus, they had been disciples of John the Baptizer..
+  * Pierre et André furent les deux premier disciples de Jésus mentionnés dans la Bible. Ils pèchaient dans la mer de Galilée Quand Jésus les appela pour être ses disciples.
+  * Before Peter and Andrew met Jesus, they had been disciples of John the Baptizer.
+  * Avant que Jésus appellle Pierre et André, ils étaient disciples de jean Baptiste.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]]) ( Suggestions de Traduction:
 
-(See also: [[peter]], [[seaofgalilee]], [[johnthebaptist]], [[en:obe:kt:apostle]], [[en:obe:kt:disciple]]
+(See also : (Voir aussi: [[:fr:obe:other:peter|Peter, Simon Peter, Cephas]], [[:fr:obe:other:seaofgalilee|Sea of Galilee]], [[:fr:obe:other:johnthebaptist|John (the Baptist)]], [[:en:obe:kt:apostle|apostle, apostleship]], [[:en:obe:kt:disciple|disciple]]
 
 ===== Bible References: =====
 
