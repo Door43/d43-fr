@@ -23,13 +23,16 @@ Le terme "oindre" signifie, mettre ou verser de l'huile sur un objet ou une pers
   * Jesus the Messiah is the one who was chosen and anointed as a Prophet, High Priest, and King.
   * Jésus le Messie est celui qui a été choisi et oint en tant que Prophète, Souverain Sacrificateur, et Roi.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de Traduction: =====
 
   * Depending on the context, the term "anoint" could be translated as "pour oil on" or "put oil on" or "consecrate by pouring perfumed oil on."
+  * Selon le context, le terme "oindre" pourrait être traduit par "verser de l'huile sur" ou "mettre de l'huile sur" ou "consacrer en versant de l'huile parfumée sur."
   * To "be anointed" could be translated as "be consecrated with oil."
+  * "Etre oint" pourrait être traduit par "être consacré avec de l'huile."
   * A phrase like "the anointed priest," could be translated as "the priest who was consecrated with oil" or " the priest who was set apart by the pouring on of oil."
+  * une expression comme " le prêtre oint", pourrait être traduit par " le prêtre qui était consacré avec de l'huile" ou " le prêtre qui a été mis à part l'onction de l'huile."
 
-(See also: [[:fr:obe:kt:christ|]], [[:fr:obe:kt:prophet]], [[:fr:obe:kt:kingofthejews]], [[:fr:obe:kt:priest]], [[:fr:obe:kt:highpriest]])
+(See also Voir aussi: [[:fr:obe:kt:christ|Christ, Messiah]], [[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:fr:obe:kt:kingofthejews|King of the Jews]], [[:fr:obe:kt:priest|priest, priesthood]], [[:fr:obe:kt:highpriest|high priest]])
 
 ===== Bible References: =====
 
