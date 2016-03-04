@@ -1,13 +1,16 @@
 ====== Apollos ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
-Apollos was a Jew from the city of Alexandria in Greece who was well-educated in the Hebrew Scriptures and who was an eloquent speaker. 
+Apollos was a Jew from the city of Alexandria in Greece who was well-educated in the Hebrew Scriptures and who was an eloquent speaker.
+
+Apollos était un juif de la viile d'Alexandrie en Grèce qui était féru dans les Ecritures hébraïques et un orateur éloquent.
 
   * Apollos was instructed by two Christians in Ephesus named Aquila and Priscilla.
+  * Apollos fut instruit par deux chrétiens d'Ephèse qui s'appelaient Aquilas et Priscillle.
   * Paul emphasized how he (Paul), Apollos, and other teachers were part of a team working together in God's harvest.
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Paul mit l'emphase sur le fait qu'il faisait équipe avec Apollos et d'autres enseignants pour l'oeuvre dans la moisson de Dieu.
+  * Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
