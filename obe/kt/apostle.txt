@@ -21,13 +21,16 @@ Les apôtres étaient des hommes envoyés par Jésus pour prêcher au sujet de D
   * The term "apostleship" refers to the position and authority of those who were chosen as apostles.
   * Le terme "apostolat" se réfère à la fonction et l'autorité de ceux qui étaient choisis en tant qu'apôtres.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de Traduction: =====
 
   * The word "apostle" can also be translated with a word or phrase that means, "someone who is sent out" or "sent out one" or "person who is called to go out and preach God's message to people."
+  * Le mot " apôtre" ppourrait être ausi traduit avec un mot ou une phrase tel que "quelqu'un qui est envoyé" ou "l'envoyé" ou "personne appelé à aller prêcher le message de Dieu au peuple.
   * It is important to translate the terms "apostle" and "disciple" in different ways from each other.
-  * Also consider how this term was translated in a Bible translation in a local or national language. (See [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Il est important que la traduction de chaque terme "apôtre" et "disciple" soit différente pour chacun des deux mots.
+  * Also consider how this term was translated in a Bible translation in a local or national language. (See [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Considérez aussi comment ce terme a été traduit dans une version de la Bible en langue locale ou nationale. (Voir             )
 
-(See also: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:kt:thetwelve]], [[:fr:obe:kt:authority|authority]])
+(See also Voir aussi: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:kt:thetwelve|the twelve, the eleven]], [[:fr:obe:kt:authority|authority]])
 
 ===== Bible References: =====
 
