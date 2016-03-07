@@ -22,7 +22,7 @@
   * **t'abandonne**  - Vérifier pour voir comment vous avez traduit cela en **[[:fr:obs:notes:frames:38-08|[38-08]]]**.
   * **vous avoir tous**  - C'est à dire, "vous contrôler complètement" ou "que vous le serviez complètement." Le mot "vous" est au pluriel dans cette phrase. Tous les mots "vous" et "votre" qui suivent sont singuliers.
   * **que votre foi ne manque pas**  - C'est à dire, "que vous ne cessiez pas de croire en moi."
-  * **avant que le coq chante**  - Le coq chante normalement à la première lumière du jour nouveau. Si ce n'est pas clair, il peut être utile de dire: "Avant que le coq chante demain à l'aube" ou, "avant que le coq chante demain matin."
+  * **avant que le coq ne chante**  - Le coq chante normalement à la première lumière du jour nouveau. Si ce n'est pas clair, il peut être utile de dire: "Avant que le coq chante demain à l'aube" ou, "avant que le coq chante demain matin."
 **[[:fr:obs:notes:frames:38-08|<<]] | [[:fr:obs:notes:38|Up]] | [[:fr:obs:notes:frames:38-10|>>]]**
 
 ~~DISCUSSION~~
