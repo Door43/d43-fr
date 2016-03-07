@@ -2,17 +2,22 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 "Aram" is the name of a region where Abraham's relatives lived. It was located in what is the modern day country of Syria.
 
+"Aram" est le nom de la région où la famille d'Abraham a vécu. Elle se trouve dans le pays moderne de la syrie.
+
   * The people living in Aram became known as "Arameans" and spoke the Aramaic language.
+  * Le peuple qui vivait en Aram  est connu sous le nom d'Araméens et parle la langue Araméique
   * One of Shem's sons was named Aram. Another man named Aram was a cousin of Rebekah. It is probable that the region of Aram was named after one of these two men.
+  * Un des fils de Sem s'appela Aram. Un autre, du nom d'Aram, était le cousin de Rébecca. Il est probable que le nom de la région d'Aram est dérivé de l'un de ces deux hommes.
   * This region was also called "Paddan Aram" and later became known by the Greek name, "Syria."
+  * Cette région est aussi appelée "Paddam Aram" et fut connu plus tard sous le grec de "Syrie."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestions de traduction:: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:fr:obe:other:PaddanAram]], [[:fr:obe:other:Syria]], [[:fr:obe:other:Shem]], [[:fr:obe:other:Rebekah]])
+(See also Voir aussi: [[:fr:obe:other:paddanaram|Paddan Aram]], [[:fr:obe:other:syria|Syria]], [[:fr:obe:other:shem|Shem]], [[:fr:obe:other:rebekah|Rebekah]])
 
 ===== Bible References: =====
 
