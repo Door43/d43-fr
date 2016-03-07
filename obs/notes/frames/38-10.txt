@@ -1,10 +1,10 @@
-===== Peter's Promise  La Promesse De Pierre  [38-10] =====
+===== Peter's Promise / La Promesse De Pierre [38-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
 **Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
 
-Puis Pierre dit à Jésus: “Même si je dois mourir, Je ne te renierai pas!” Et tous les autres disciples dirent la même chose.
+Puis **Pierre** dit à **Jésus**: “Même si je dois **mourir**, Je ne **te renierai** jamais!” Et tous les autres **disciples** dirent la même chose.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/peter]]**
@@ -18,7 +18,7 @@ Puis Pierre dit à Jésus: “Même si je dois mourir, Je ne te renierai pas!”
   * **deny you**  - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
 ===== Note de traduction: =====
 
-  * **Vous dénier **- C'est à dire, "nier que je vous connais», ou «nier que je suis ton disciple" ou, " vous renier."
+  * **Vte renierai**-  C'est à dire, "nier que je te connais», ou «nier que je suis ton disciple" ou, "te renier."
 **[[:fr:obs:notes:frames:38-09|<<]] | [[:fr:obs:notes:38|Up]] | [[:fr:obs:notes:frames:38-11|>>]]**
 
 ~~DISCUSSION~~
