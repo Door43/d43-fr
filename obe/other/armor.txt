@@ -2,15 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "armor" refers to the equipment a soldier uses to fight in a battle and protect himself from enemy attacks.
 
-  * Parts of a soldier's armor include a helmet, a shield, a breastplate, leg coverings, and a sword.
-  * The apostle Paul compares physical armor to spiritual armor that God gives the believer to help him fight spiritual battles.
-  * God's armor to fight Satan includes truth, righteousness, the gospel of peace, faith, salvation, and the Holy Spirit.
+Le terme "armure" se référe à l'équipement utilisé par un soldat pour combattre les attaques de l'ennemi et se protéger.
 
-(See also: [[:En:obe:other:peace]], [[:fr:obe:kt:faith]], [[:fr:obe:kt:salvation]], [[:fr:obe:kt:HolySpirit]], [[:fr:obe:kt:spirit]])
+  * Parts of a soldier's armor include a helmet, a shield, a breastplate, leg coverings, and a sword.
+  * les pièces de l'armure d'un soldat comprennent un casque, un bouclier, une cuirasse des jambiéres et une épée.
+  * The apostle Paul compares physical armor to spiritual armor that God gives the believer to help him fight spiritual battles.
+  * l'apôtre Paul compare l'armure physique et l'armure spirituelle que Dieu donne au croyant pour l'aider à combattre les batailles spiritiuelles.
+  * God's armor to fight Satan includes truth, righteousness, the gospel of peace, faith, salvation, and the Holy Spirit.
+  * l'armure De Dieu pour combattre satan comprend la vérité, la justice, l'évangile de paix,la foi, le salut, et le Saint Esprit.
+
+(See also Voir aussi: [[:en:obe:other:peace|peace, peaceful]], [[:fr:obe:kt:faith|faith]], [[:fr:obe:kt:salvation|salvation]], [[:fr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Le Saint Esprit, l'Esprit de Dieu, L'Esprit du Seigneur)]], [[:fr:obe:kt:spirit|spirit, spiritual]])
 
 ===== Bible References: =====
 
