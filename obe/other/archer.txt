@@ -2,17 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "archer" refers to a man who is skilled at using a bow and arrow as a weapon.
 
+Le terme"archer" se référe à un homme qui sait se servir d'un arc et d'une flèche en tant qu'arme.
+
   * Usually an archer is a soldier who uses a bow and arrow to fight in an army.
+  * Normalement un archer est un soldat qui se sert d'un arc et d'une flèche pour combattre dans une armée.
   * Archers were an important part of the Assyrian military force.
+  * Des archers faisaient grandement partie de la force militaire Assyrienne.
   * Another way to translate this might be, "bow-man."
+  * On pourrait traduire aussi ce terme par" l'homme à l'arc."
 
-
-(See also: [[:fr:obe:other:Assyria]])
-
+(See also Voir aussi : [[:fr:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]])
 
 ===== Bible References: =====
 
