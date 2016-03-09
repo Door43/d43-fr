@@ -1,16 +1,21 @@
 ====== Asia/Asie ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 In Bible times, "Asia" was the name of a province of the Roman Empire. It was located in the westernmost part of what is modern-day Turkey.
 
-  * Paul traveled to Asia and shared the gospel in several cities there. Among these were the cities of Ephesus and Colossae. 
+Dans les temps bibliques, "Asie" était le nom d'une province de l'empire Romain. Elle se trouvait dans la partie occidentale de la Turquie actuelle.
+
+  * Paul traveled to Asia and shared the gospel in several cities there. Among these were the cities of Ephesus and Colossae.
+  * Paul voyagea en Asie et y annonça la bonne nouvelle dans plusieurs de ses villes. Parmi celles-ci il y  avait Ephèse et Colosses.
   * To avoid confusion with modern day Asia, it may be necessary to translate this as, "the ancient Roman province called Asia."
+  * Pour éviter toute confusion avec l'Asie moderne, il serait bon de traduire cela par, "l'ancienne province romaine appelée Asie."
   * All of the churches referenced in Revelation were in the Roman province of Asia.
+  * Toutes les églises mentionnées dans le livre de l'Apocalypse étaient dans la province romaine de l'Asie.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[rome|Rome]], [[paul|Paul]], [[ephesus|Ephesus]], other)
+(See also Voir aussi: [[:fr:obe:other:rome|Rome]], [[:fr:obe:other:paul|Paul]], [[:fr:obe:other:ephesus|Ephesus]], other)
 
 ===== Bible References: =====
 
