@@ -1,14 +1,15 @@
 ====== Artaxerxes/Artaxerxès ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Text
+
   * bullet
   * bullet
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: other)
+(See also Voir aussi: other)
 
 ===== Bible References: Références Bibliques =====
 
