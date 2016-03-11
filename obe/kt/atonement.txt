@@ -13,13 +13,16 @@ L'expression "expiation" se réfère à Dieu qui a pourvu au sacrifice payant po
   * As recorded in the New Testament, Christ's death on the cross is the only atonement for sin. When he died, he took the punishment that people deserved because of their sin. His death was the last blood sacrifice needed.
   * Selon les Ecrits du Nouveau Testament, la mort de Christ sur la croix est l'unique expiation pour nos péchés. Quand Il est mort, Il a pris le châtiment réservé aux gens à cause de leur péchés. Sa mort était le sacrifice de sang qui était nécessaire.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "atone" could be translated as "make amends for" or "pay back" or "make restitution for."
+  * Le terme "expier" pourrait se traduire par "amender" ou "rendre" " ou "faire restitution"
   * Ways to translate "atonement" could include, "restitution" or "restoration" or "payment."
+  * on pourrait traduire "expiation" par "restitution" ou "restoration" ou "paiement."
   * Make sure the translation of this term does not refer to payment of money.
+  * Soyez sûrs que la traduction de ce terme ne se réfère pas à un paiement monétaire.
 
-(See also: [[:En:obe:kt:propitiation]], [[:En:obe:kt:forgive]], [[:fr:obe:kt:reconcile]])
+(See also: [[:en:obe:kt:propitiation|propitiation]], [[:en:obe:kt:forgive|forgive, forgiveness]], [[:fr:obe:kt:reconcile|reconcile, reconciliation]])
 
 ===== Bible References: Références Bibliques: =====
 
