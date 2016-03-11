@@ -20,15 +20,8 @@ Autorité est le pouvoir d'influencer et de contrôler quelqu'un ou quelquechose
 
 
 
-===== Bible References: =====
+===== Bible References: références Bibliques: =====
 
-
-{{topic>:en:bible?authority&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?authority&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
