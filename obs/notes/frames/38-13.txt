@@ -1,10 +1,10 @@
-===== The Disciples Slept  Les Disciples Se Sont Endormis [38-13] =====
+===== The Disciples Slept / Les Disciples Se Sont Endormis [38-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
 
-Après chaque prière, Jésus revint vers ses disciples, mais ils étaient endormis. Lorsqu'il revint pour la troisième fois, Jésus leur dit: “Levez-vous! Celui qui m'a trahi est là.”
+**Après chaque temps de prière**, **Jésus** revint vers ses **disciples**, mais ils étaient endormis. Lorsqu'il revint pour la troisième fois, Jésus leur dit: “Levez-vous! **Celui qui m'a trahi** est là.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/pray]]**
@@ -18,7 +18,7 @@ Après chaque prière, Jésus revint vers ses disciples, mais ils étaient endor
   * **After each time of prayer**  - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:fr:obs:notes:frames:38-12|[38-12]]]**.
 ==== note de traduction: ====
 
-  * **Après chaque temps de prière **  - C'est à dire, "Chaque fois que Jésus a prié cette prière." Il s'agit des trois fois où il a prié, comme mentionné dans **[[:fr:obs:notes:frames:38-12|[38-12]]]**.
+  * **Après chaque temps de prière**  - C'est à dire, "Chaque fois que Jésus pria cette prière." Il s'agit des trois fois où il a prié, comme mentionné dans **[[:fr:obs:notes:frames:38-12|[38-12]]]**.
 **[[:fr:obs:notes:frames:38-12|<<]] | [[:fr:obs:notes:38|Up]] | [[:fr:obs:notes:frames:38-14|>>]]**
 
 ~~DISCUSSION~~
