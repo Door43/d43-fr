@@ -11,15 +11,8 @@ Un adversaire est une personne ou un groupe qui s'oppose à quelqu'un ou quelque
   * Dans la Bible, on se réfère au diable comme un "adversaire" et " un ennemi".
   * Adversaire peut être traduit par "opposant" ou "ennemi", mais cela suggère une forte opposition.
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?adversary&nocomments&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?adversary&nocomments&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
