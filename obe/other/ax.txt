@@ -13,15 +13,8 @@ Une hache est un outil qui sert à abattre des arbres ou fendre du bois.
   * ​An ax is similar to an adz or machete. If your culture is not familiar with axes, you may be able to use the word for adz or machete.
   * Une hache est semblable à une herminette ou une machette. Si votre culture ne connait pas les haches, vous pouvez utiliser les mots "herminette" ou "machette."
 
-===== Bible References: =====
+===== Bible References: Références Bibliques =====
 
-
-{{topic>:en:bible?ax&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?ax&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
