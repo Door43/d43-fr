@@ -1,10 +1,10 @@
-===== The House of the High Priest  La Maison Du Grand Prêtre [39-01] =====
+===== The House of the High Priest / La Maison Du Grand Prêtre [39-01] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
 It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
 
-C'était le milieu de la nuit. Les soldats conduisirent Jésus à la maison du Grand Prêtre pour qu'il le questionne. Pierre le suivait à distance. Quand Jésus fut introduit dans la maison, Pierre resta dehors et se réchauffa auprès du feu.
+C'était **le milieu de la nuit**. Les soldats conduisirent **Jésus** à la maison du **Grand Prêtre** pour qu'il **l'interroge**. **Pierre** le suivait à distance. Quand Jésus fut introduit dans la maison, Pierre resta dehors et se réchauffa auprès du feu.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -18,8 +18,8 @@ C'était le milieu de la nuit. Les soldats conduisirent Jésus à la maison du G
   * **to question him**  - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
 ===== Notes de traduction: =====
 
-  * **Le milieu de la nuit **  - Cette expression signifie, "à mi-chemin de la nuit" ou "très tard dans la nuit".
-  * **Pour l'interroger **  - C'est à dire, " de poser des questions à Jésus pour essayer de trouver en lui  quelque chose  dont ils pourraient l' accuser de faire le mal."
+  * **le milieu de la nuit**  - Cette expression signifie, "la moitié de la nuit" ou "très tard dans la nuit".
+  * **pour qu'il l'interroge**  - C'est à dire, "pour qu'il pose des questions à Jésus pour essayer de trouver quelque chose de mal dont ils pourraient l'accuser."
 **[[:fr:obs:notes:frames:38-15|<<]] | [[:fr:obs:notes:39|Up]] | [[:fr:obs:notes:frames:39-02|>>]]**
 
 ~~DISCUSSION~~
