@@ -1,17 +1,23 @@
 ====== Babel/Babel ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Babel was a chief city in a region called Shinar in the southern part of Mesopotamia. Shinar was later called Babylonia.
 
-  * The city of Babel was founded by Ham's great grandson, Nimrod who ruled the region of Shinar.
+Babel était une importante ville dans la région de Shinar  au Sud de la Mésopotamie. Shinar s'appela plus tard babylonie.
+
+  * The city of Babel was founded by Ham's great grandson, Nemrod who ruled the region of Shinar.
+  * La ville de Babel fut fondée par l'arrière petit fils d'Ham, Nemrod qui gouverna la région de Shinar.
   * The people of Shinar became proud and decided to build a tower high enough to reach heaven. This later became known as the "Tower of Babel."
+  * Le peuple de Shinar devint fier et décida de construire une tour assez haute pour atteindre le ciel. Elle fut connue plus tard sous le nom de la "Tour de Babel."
   * Because the people building the tower refused to spread out as God had commanded, he confused their languages so that they could not understand one another. This forced them to be scattered across the earth.
+  * Comme le peuple construisait la tour et refusait de se disperser comme Dieu l'avait commandé, Dieu confondit leur langage afin qu'ils ne puissent pas se comprendre les uns les autres. Ils furent ainsi forcés de se disperser sur toute la terre..
   * The root meaning of the word for "Babel" is "confusion," named for when God confused the people's language.
+  * La racine du mot "Babel" est "confusion" , nom donné quand Dieu confondit le langage du peuple.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[babylon]], [[ham]],  [[mesopotamia]] )
+(See also: [[:fr:obe:other:babylon|Babylon, Babylonian]], [[:fr:obe:other:ham|Ham]], [[:fr:obe:other:mesopotamia|Mesopotamia]] )
 
 ===== Bible References: =====
 
