@@ -15,15 +15,8 @@ Béelzebul est le chef des démons et un autre nom pour Satan.
 
 (See also Voir aussi: [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]], [[:en:obe:kt:satan|Satan, devil, evil one]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible? beelzebul&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible? beelzebul&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
