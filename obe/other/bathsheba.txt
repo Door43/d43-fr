@@ -1,18 +1,23 @@
 ====== Bathsheba(Bethsabé) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
 
+Bethsabé était la femme d'Urie, qui était un soldat de l'armée du roi David. Elle devint la femme de David et la mère de Salomon.
+
   * David committed adultery with Bathsheba while she was married to Uriah.
-  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba. 
+  * David a commis l'adultère avec Betsabé alors qu'elle était mariée avec Urie.
+  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba.
+  * Quand bethsabé fut enceinte avec l'enfant de David, David fit tuer Urie au cours d'un combat. David épousa ensuite Bethsabé.
   * God punished David for his sin by causing the child to die several days after he was born.
+  * Dieu punit David pour son péché en causant la mort de l'enfant quelques jours après sa naissance.
   * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
+  * Plus tard, Bethsabé donna naissance à un autre fils, Salomon, qui régna après david.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[uriah]], [[david]], [[solomon]])
-
+(See also Voir aussi: [[:fr:obe:other:uriah|Uriah]], [[:fr:obe:other:david|David]], [[:fr:obe:other:solomon|Solomon]])
 
 ===== Bible References: =====
 
