@@ -29,9 +29,9 @@ Les termes "croire" et "croire en" sont à peu près similaires mais leurs défi
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * To "believe" could be translated as to "know to be true" or "know to be right."
-  * "Croire " pourrait se traduire par "savoir que c'est vrai" ou "savoir que que c'est juste."
+  * "Croire" pourrait se traduire par "savoir que c'est vrai" ou "savoir que que c'est juste."
   * To "believe in" could be translated as, "trust completely" or "rely on and know to be true."
-  * "Croire en" pourrait se traduire par " faire totalement confiance" ou "compter sur et savoir que c'est vrai."
+  * "Croire en" pourrait se traduire par "faire totalement confiance" ou "compter sur et savoir que c'est vrai."
 
 (See also Voir aussi: [[:fr:obe:kt:faith|faith]], [[:fr:obe:kt:believer|believer]])
 
