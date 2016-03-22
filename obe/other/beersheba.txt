@@ -1,15 +1,19 @@
 ====== Beersheba/Beersheba ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 In Old Testament times, Beersheba was a city located about 45 miles southwest of Jerusalem in a desert area that is now called the Negev.
 
+Dans l'Ancien Testament, Beersheba était une ville localisée à environ 45 kilomètres au Sud-Ouest de Jérusalem dans une région désertique actuellement appelée le Neguev.
+
   * The desert surrounding Beersheba was the wilderness area where Hagar and Ishmael wandered after Abraham sent them away from his tents.
+  * Le désert entourant Beersheba était un vaste endroit sauvage où Hagar et Ismaël errèrent lorsqu'Abraham les renvoya de ses tentes.
   * The name of this city means "well of the oath." It was given this name when Abraham swore an oath to not punish King Abimelech's men for seizing control of one of Abraham's wells.
+  * Le nom de cette ville signifie "puits du serment". Ce nom lui fut donnée quand Abraham prêta le serment de punir les gens du Roi Abimélek pour avoir saisi contrôle de l'un des puits d'Abraham.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions suggestions de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[ishmael]], [[hagar]], [[en:obe:other:abraham]], [[jerusalem]], [[abimelech]])
+(See also Voir aussi: [[:fr:obe:other:ishmael|Ishmael]], [[:fr:obe:other:hagar|Hagar]], [[:en:obe:other:abraham|Abraham, Abram]], [[:fr:obe:other:jerusalem|Jerusalem]], [[:fr:obe:other:abimelech|Abimelek F]])
 
 ===== Bible References:=====
 
