@@ -6,7 +6,7 @@
 
 "To beg" is to ask for something earnestly, urgently, and often humbly.
 
-"Mendier" est demander quelaquechose avec instance,urgence, et souvent humilité.
+"Mendier" est demander quelquechose avec instance,urgence, et souvent humilité.
 
   * Often people beg when they think that the other person might not want to give them what they ask for.
   * Souvent les gens qui mendient pensent que l'aure personne ne veut pas donner ce qu'ils demandent.
