@@ -1,15 +1,19 @@
 ====== Berea/Bérée ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 In New Testament times, Berea (or Beroea) was a prosperous city in southeast Macedonia, about 50 miles south of Thessalonica. It was located where the modern Greek city of Verria is now.
 
+A l'époque du Nouveau Testament Bérée était une ville prospère au Sud de la Macédoine à environ 80 kilomètres de Thessalonique. Elle était localisée là où se trouve la ville moderne de Verria.
+
   * Paul and Silas fled to the city of Berea after their fellow Christians helped them escape from Jewish opposition in Thessalonica.
+  * Paul et Silas s'enfuirent à Bérée lorsque leurs compagnons croyants les aidèrent à fuir l'opposition Juive à Thessalonique.
   * When the people living in Berea heard Paul preach, they researched the Scriptures to confirm that what he was telling them was true.
+  * Quand les gens de Bérée entendirent Paul prêcher, ils vérifièrent les Ecritures  pour confirmer la vérité de ses paroles.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[macedonia]], [[thessalonica]])
+(See also Voir aussi: [[:fr:obe:other:macedonia|Macedonia]], [[:fr:obe:other:thessalonica|Thessalonica, Thessalonians]])
 
 ===== Bible References: =====
 
