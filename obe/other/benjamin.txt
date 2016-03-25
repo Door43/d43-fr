@@ -1,16 +1,19 @@
 ====== Benjamin/Benjamin ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
-Benjamin was the youngest son born to Jacob and his wife Rachel.
+Benjamin was the youngest son born to Jacob and his wife Rachel.Benjamin était le plus jeune fils de Jacob et Rachel.
 
   * The descendants of Benjamin became one of the twelve tribes of Israel.
+  * Les descendants de Benjamin sont devenus l'une des tribus d'Israël.
   * Israel's king Saul was from the Israelite tribe of Benjamin.
+  * Le roi d'Israël Saül était de la tribu Israélites de Benjamin.
   * Saul of Tarsus, who later became the apostle Paul, was also from the tribe of Benjamin.
+  * Saul de Tarse, qui devint plus tard l'apôtre Paul, était aussi de la tribu de Benjamin.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[jacob]], [[rachel]], [[israel]], [[paul]])
+(See also Voir aussi: [[:fr:obe:other:jacob|Jacob, Israel]], [[:fr:obe:other:rachel|Rachel]], [[:fr:obe:other:israel|Israel, Israelites, nation of Israel]], [[:fr:obe:other:paul|Paul, Saul]])
 
 ===== Bible References: =====
 
