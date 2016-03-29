@@ -2,29 +2,47 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The following terms are the most common Biblical units that were used to measure distance or the length of something.
 
-  * The  ** cubit  ** referred to the length of a man's forearm, from the elbow to the tip of the longest finger.
-  * A  ** stadium  ** (plural,  ** stadia  ** ) referred to a certain footrace that was about 185 meters in length. Some older English versions translated this word as "furlong", which referred to the average length of a plowed field.
-  * The  ** span  ** or handspan was the width of a man's hand with fingers spread out.
-  * The  ** "long" cubit  ** is used only in Ezekiel 40-48. It is the length of a normal cubit plus a span.
+Les termes suivants correspondent aux unités Bibliques utilisées pour mesurer la distance ou la longueur de quelquechose.
 
-
-^  Distance ^  Value ^  Units |
-|  cubit  |  46 |  centimeters |
-|  stadia  |  185 |  meters |
-|  span  |  8 |  centimeters |
-|  "long" cubit  |  54 |  centimeters |
-
+  * The ** cubit **  referred to the length of a man's forearm, from the elbow to the tip of the longest finger.
+  * La **coudée ** est la longueur de l'avant-bras, depuis le coude jusqu'au doigt le plus long.
+  * A ** stadium **  (plural, ** stadia **  ) referred to a certain footrace that was about 185 meters in length. Some older English versions translated this word as "furlong", which referred to the average length of a plowed field.
+  * Un **stade ** (pluriel, **stades**) se réfère à une distance à pied qui était d'environ 185 mètres de long.
+  * The ** span **  or handspan was the width of a man's hand with fingers spread out.
+  * L'**empan** est la largeur d'une main déployée de l'extrémité du pouce à celle du petit doigt.
+  * **The ** "long" cubit **  is used only in Ezekiel 40-48. It is the length of a normal cubit plus a span.**
+  * **La "longue" coudée est mentionnée dans Ezechiel 40-48. C'est la longueur d'une coudée normale plus un empan.**
+^  Distance Distance ^  Value Valeur ^  Units Unités |
+|  cubit coudée  |  46 |  centimeters centimètres |
+|  stadia stades  |  185 |  meters mètres |
+|  span empan  |  8 |  centimeters centimètres |
+|  "long" cubit "longue" coudée  |  54 |  centimeters centimètres |
 
 How to translate units of measure for distance or length in the Bible:
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible. [See Transliterate]
-  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these units of measure during that time period.
-  - If it doesn't work to use the Bible term, then instead, state the same distance or length in terms of a unit of measure that is known.
-  - These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+Comment traduire les unités de mesure pour la distance et la longueur dans la Bible:
+
+1. Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
+
+1. [See Transliterate voir Transcription] Gardez le terme biblique, en l'épelant de la même façon que dans le texte biblique.
+
+2. An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these units of measure during that time period.
+
+2. L'importante raison de garder les termes bibliques est de démontrer l'authenticité de la Bible et l'actualité des mesures utilisées par les gens durant cette période.
+
+3. If it doesn't work to use the Bible term, then instead, state the same distance or length in terms of a unit of measure that is known.
+
+3. Si le terme bibllique ne convient pas, Utilisez alors un terme d'unité de mesure qui est connu.
+
+4. These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
+
+4. On peut combiner ces méthodes, en utilisant le terme biblique mais  en donnant leur équivalence dans le texte ou dans une note.
+
+\\
 
 ===== Bible References: =====
 
