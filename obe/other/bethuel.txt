@@ -1,15 +1,19 @@
 ====== Bethuel/Bethuel ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Bethuel was the son of Abraham's brother Nahor.
 
+Bethuel était le fils du frère d'Abraham, Nahor.
+
   * Bethuel was the father of Rebekah and her brother Laban.
+  * Bethuel était le père de Rebecca et son frère Laban.
   * There was also a town called Bethuel which may have been located in southern Judah, not far from the town of Beersheba.
+  * Il existait aussi une ville du nom de Bethuel se trouvant peut-être au Sud de Juda, pas loin de la ville de Beersheba.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:fr:obe:other:Rebekah]], [[:En:obe:other:Laban]], [[:fr:obe:other:Beersheba]])
+(See also Voir aussi: [[:fr:obe:other:rebekah|Rebekah]], [[:en:obe:other:laban|Laban]], [[:fr:obe:other:beersheba|Beersheba/Beersheba]])
 
 ===== Bible References: =====
 
