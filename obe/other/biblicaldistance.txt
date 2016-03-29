@@ -44,14 +44,8 @@ Comment traduire les unités de mesure pour la distance et la longueur dans la B
 
 \\
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?biblicaldistance&nocomments}}
-
-~~DISCUSSION~~
-
-{{tag>draft}}
-
-\\
+{{topic>:en:bible?biblicaldistance&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
