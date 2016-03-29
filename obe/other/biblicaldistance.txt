@@ -37,7 +37,7 @@ Comment traduire les unités de mesure pour la distance et la longueur dans la B
 
 3. If it doesn't work to use the Bible term, then instead, state the same distance or length in terms of a unit of measure that is known.
 
-3. Si le terme biblique ne convient pas, Utilisez alors un terme d'unité de mesure qui est connu.
+3. Si le terme biblique ne convient pas, utilisez alors un terme d'unité de mesure qui est connu.
 
 4. These methods could be combined, using the Bible term but then also giving the equivalent amount in the text or a note.
 
