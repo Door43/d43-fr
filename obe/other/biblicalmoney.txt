@@ -31,17 +31,25 @@ How to translate biblical units of money:
 
 Comment traduire les unités bibliques de monnaie:
 
-  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
-  - Gardez le terme biblique, en l'épelant comme il est entendu ou épelé dans la Bible
-  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these types of money during that time period.
-  - Il est important de garder les termes bibliques qui prouvent la véracité de la Bible que les gens de cette époque utilisaient actuellement ce genre de monnaie.
-  - If it doesn't work to use the Bible term, then give the same value in terms of what can be earned by a day's work in Bible times or how much weight it represents.
-  - Si vous ne pouvez pas utiliser le terme de la Bible, donnez le même montant en termes de ce qui était gagné pour un salaire journalier au temps de la Bible ou l'équivalent de son poids.
-  - The above methods could be combined by using the Bible term but then also giving the equivalent amount in the text or a note.
-  - On peut combiner les méthodes ci-dessus en utilisant le terme biblique mais en donnant aussi son poids équivalent dans le texte ou en utilisant une note.
-  -
-  - For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become outdated.
-  - Pour les unités de monnaie il est important de ne pas utiliser les valeurs monétaires modernes du fait qu'elles changent d'année en année et causerait une traduction de la Bible non courante.
+1.Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
+
+1.Gardez le terme biblique, en l'épelant comme il est entendu ou épelé dans la Bible
+
+2.An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these types of money during that time period.
+
+2.Il est important de garder les termes bibliques qui prouvent la véracité de la Bible que les gens de cette époque utilisaient actuellement ce genre de monnaie.
+
+3.If it doesn't work to use the Bible term, then give the same value in terms of what can be earned by a day's work in Bible times or how much weight it represents.
+
+3.Si vous ne pouvez pas utiliser le terme de la Bible, donnez le même montant en termes de ce qui était gagné pour un salaire journalier au temps de la Bible ou l'équivalent de son poids.
+
+4.The above methods could be combined by using the Bible term but then also giving the equivalent amount in the text or a note.
+
+4.On peut combiner les méthodes ci-dessus en utilisant le terme biblique mais en donnant aussi son poids équivalent dans le texte ou en utilisant une note.
+
+5.For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become outdated.
+
+5.Pour les unités de monnaie il est important de ne pas utiliser les valeurs monétaires modernes du fait qu'elles changent d'année en année et causerait une traduction de la Bible non courante.
 
 ===== Bible References: =====
 
