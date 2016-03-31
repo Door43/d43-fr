@@ -2,27 +2,46 @@
 
 ====== les Faits: ======  
 
-===== Description: =====
+===== Description: Descr:iption =====
 
 The following terms are some of the most well-known units of money that are used in the Bible. In the Old Testament, the **shekel** referred to a type of weight (made of gold, silver, bronze, brass or iron) that was used for money and trade. In the New Testament, a shekel was a type of silver coin.
 
+Les termes suivants sont les unités de monnaie les plus courantes qui sont mentionnées dans la Bible. Dans L'Ancient Testament, le **sicle **était par rapport à son poids ( en or, argent, bronze, ou fer) utilisé pour la monnaie et l'échange. Dans le Nouveau Testament, un sicle était une pièce en argent.
+
    * shekel
+  * sicle
       * In the Old Testament (11 grams weight of various materials)
+      * Dans l'Ancien testament (11 grammes de matériaux différents)
       * In the New Testament (silver coin = 4 days' wages)
+      * Dans le Nouveau Testament (une pièce en argent = salaire de 4 jours de travail)
   * talent
-      * In the Old Testament (33 kilograms weight of various materials)
-      * In the New Testament (money: silver talent = 6,000 days' wages)
+  * talent
+  * In the Old Testament (33 kilograms weight of various materials)
+  * Dans l'Ancien Testament ( 33 kilogrammes de  matériaux différents)
+  * In the New Testament (money: silver talent = 6,000 days' wages)
+  * Dans le Nouveau Testament (monnaie : talent en  argent = salaire de 6.000 jours de travail)
   * denarius (plural denarii; Roman silver coin = one day's wages)
+  * denier ( pluriel deniers; pièce de monnaie romaine en argent = salaire d'une journée de travail)
   * drachma (Greek silver coin = one day's wages)
+  * drachme ( pièce de monnaie grecque en argent = salaire d'une journée de travail)
   * mite/lepton (copper coin = 1/64 day's wages)
+  * mite/lepton (pièce en cuivre = 1/64 du salaire d'une journée )
 
 How to translate biblical units of money:
 
+Comment traduire les unités biblique de monnaie:
+
   - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
+  - Gardez le terme biblique, en l'épelant comme il est entendu ou épelé dans la Bible
   - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these types of money during that time period.
+  - Il est important de garder les termes bibliques qui prouvent la véracité de la Bible que les gens de cette époque utilisaient actuellement ce genre de monnaie.
   - If it doesn't work to use the Bible term, then give the same value in terms of what can be earned by a day's work in Bible times or how much weight it represents.
+  - Si vous ne pouvez pas utiliser le terme de la Bible, donnez le même montant en termes de ce qui était gagné pour un salaire journalier au temps de la Bible ou l'équivalent de son poids.
   - The above methods could be combined by using the Bible term but then also giving the equivalent amount in the text or a note.
+  - On peut combiner les méthodes ci-dessus en utilisant le terme biblique mais en donnant aussi son poids équivalent dans le texte ou en utilisant une note.
+  -
   - For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become outdated.
+  - Pour les unités de monnaie il est important de ne pas utiliser les valeurs monétaires modernes du fait qu'elles changent d'année en année et causerait une traduction de la Bible non courante.
 
 ===== Bible References: =====
 
