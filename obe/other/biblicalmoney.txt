@@ -29,7 +29,7 @@ Les termes suivants sont les unités de monnaie les plus courantes qui sont ment
 
 How to translate biblical units of money:
 
-Comment traduire les unités biblique de monnaie:
+Comment traduire les unités bibliques de monnaie:
 
   - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
   - Gardez le terme biblique, en l'épelant comme il est entendu ou épelé dans la Bible
