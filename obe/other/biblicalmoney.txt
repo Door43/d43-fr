@@ -51,6 +51,6 @@ Comment traduire les unités bibliques de monnaie:
 
 5. Pour les unités de monnaie il est important de Ne Pas utiliser les valeurs monétaires modernes du fait qu'elles changent d'année en année et causerait une traduction dépassée de la Bible.
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?biblicalmoney&nocomments}}~~DISCUSSION~~{{tag>draft}}
