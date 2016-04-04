@@ -36,7 +36,7 @@ Le terme "sang" est le liquide rouge qui jaillit  de la peau d'une personne lors
 
 {{topic>:en:bible?blood&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires de la Bible: =====
 
   * **[[:fr:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
   * **[[:fr:obs:notes:frames:10-03|[10-03]]]** God turned the Nile River into **blood**, but Pharaoh still would not let the Israelites go.
@@ -44,7 +44,6 @@ Le terme "sang" est le liquide rouge qui jaillit  de la peau d'une personne lors
   * **[[:fr:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
   * **[[:fr:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
   * **[[:fr:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
-
 ~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
