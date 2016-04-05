@@ -15,15 +15,8 @@ Boaz était le mari de Ruth, l'arrière-grandpère du Roi David' et un ancêtre 
 
 (See also Voir Aussi: [[:en:obe:kt:redeem|redeem, redemption, redeemer]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?boaz&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?boaz&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
