@@ -4,7 +4,7 @@
 
 The bow and arrow is a weapon used in battles against enemies or for killing animals for food.
 
-L'arc et flèche est une arme utilisée dans les batailles pour combattre les ennemis ou tuer des animaux pour nous nourrir.
+L'arc et flèche est une arme utilisée dans les batailles pour combattre les ennemis ou tuer des animaux pour se nourrir.
 
   * A bow is a curved weapon made out of wood, bone, metal, or other hard material, such as a deer's antler. It is strung with a string, cord, or vine, in order to shoot arrows.
   * Un arc est une arme avec une forme recourbée fabriquée en bois, en os métal ou d'autres matériaux rigides, tels que les bois d'un cerf. Il est tendu avec une ficelle, corde, lanière de vigne pour tirer des flèches.
