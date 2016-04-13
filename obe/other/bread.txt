@@ -15,15 +15,8 @@ Le pain est un aliment fait avec de la farine mélangée avec de l'eau et de l'h
   * Because bread was the main food, the word "bread" was sometimes used to refer to food in general, as in Luke 4:4. (See: [[:en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
   * Parce que le pain était la nourriture principale, le mot "pain" est quelquefois utilisé comme terme général pour nourriture, comme dans Luc4:4. (voir:.......)
 
-===== Bible References: =====
+===== Bible References: Références Bibliques:  =====
 
-
-{{topic>:en:bible?bread&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?bread&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
