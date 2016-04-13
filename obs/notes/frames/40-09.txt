@@ -1,10 +1,10 @@
-===== The Burial of Jesus L'Ensevelissement De Jésus  [40-09] =====
+===== The Burial of Jesus / L'ensevelissement De Jésus  [40-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
 Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
 
-Ensuite, deux chefs des Juifs, Joseph et Nicodème, qui croyaient que Jésus était le Messie, demandèrent à Pilate le corps de Jésus. Ils l' enveloppèrent de linge funéraire et le déposèrent dans un tombeau taillé dans le roc. Puis ils roulèrent un grand bloc de pierre devant l'entrée du tombeau.
+Ensuite, deux **chefs des Juifs**, **Joseph** et Nicodème, qui **croyaient que Jésus** était le **Messie**, **demandèrent à Pilate le corps de Jésus**. Ils l' enveloppèrent de linge funéraire et le déposèrent dans un **tombeau** taillé dans le roc. Puis ils roulèrent un grand bloc de pierre devant l'entrée du tombeau.
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/jewishleaders]]**
@@ -17,14 +17,14 @@ Ensuite, deux chefs des Juifs, Joseph et Nicodème, qui croyaient que Jésus ét
 
 ===== Translation Notes: =====
 
-  * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body**  - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
+  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
+  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
 ===== Notes de traduction: =====
 
-  * **Joseph**  - Ce n'était pas l'époux de Marie. C'était un autre homme nommé Joseph.
-  * **A demandé à Pilate le corps de Jésus **  - C'est à dire, " a demandé à Pilate de leur permettre de prendre le corps de Jésus descendu de la croix."
-  * //Une histoire de la Bible à partir de //  - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
+  * **Joseph** - Ce n'était pas l'époux de Marie. C'était un autre homme nommé Joseph.
+  * **demandèrent à Pilate le corps de Jésus** - C'est à dire, "demandèrent à Pilate de leur permettre de prendre le corps de Jésus descendu de la croix."
+  * //Une histoire biblique tirée de // - Ces références peuvent être légèrement différentes dans certaines traductions de la Bible.
 //Une histoire biblique tirée de: Matthieu 27:27-61; Marc 15:16-47; Luc 23:26-56; Jean 19:17-42//
 
 **[[:fr:obs:notes:frames:40-08|<<]] | [[:fr:obs:notes:40|Up]] | [[:fr:obs:notes:frames:41-01|>>]]**
