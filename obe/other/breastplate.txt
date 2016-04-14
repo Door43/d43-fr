@@ -2,14 +2,18 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 A breastplate was a piece of armor covering the front of the chest to protect a soldier during battle. It was also the name of part of the special clothing that the Israelite high priest wore.
 
-  * Breastplates used by soldiers could be made of wood, metal, or leather. They were intended to stop arrows, spears, or swords from piercing the chest of the soldier.
-  * The breastplate worn by the Israelite high priest was made of cloth and had valuable gems attached to it. The priest wore this when he was performing his duties of service to God in the Temple.
+Une cuirasse est une pièce d'armure qui couvre le devant de la poitrine pour protéger un soldat au cours d'un combat. C'était aussi le nom d'un vêtement spécial que le prêtre Israélite portait.
 
-(See also: [[en:obe:kt:priest]], [[en:obe:kt:temple]])
+  * Breastplates used by soldiers could be made of wood, metal, or leather. They were intended to stop arrows, spears, or swords from piercing the chest of the soldier.
+  * Les cuirasses des soldats pouvaient être en bois, en métal ou en cuir. Elles étaient utiles pour empêcher  des flèches, ou des épées de percer la poitrine du soldat.
+  * The breastplate worn by the Israelite high priest was made of cloth and had valuable gems attached to it. The priest wore this when he was performing his duties of service to God in the Temple.
+  * Le pectoral porté par le Grand Prêtre Israélite était fait avec de l'étoffe et y avait des pierres précieuses. Le prêtre le portait pour accomplr son service pour Dieu dans le temple.
+
+(See also voir aussi: [[:en:obe:kt:priest|priest, priesthood]], [[:en:obe:kt:temple|temple]])
 
 ===== Bible References: =====
 
