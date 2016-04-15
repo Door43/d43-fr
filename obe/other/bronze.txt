@@ -21,11 +21,9 @@ Le terme "bronze" se réfère à un métal composé d'un mélange de cuivre et d
 
 (See also Voir aussi: [[:en:obe:other:armor|armor]], [[:fr:obe:kt:tabernacle|tabernacle]], [[:fr:obe:kt:temple|temple]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>bronze&nocomments}}
-
-~~DISCUSSION~~
+{{topic>bronze&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
