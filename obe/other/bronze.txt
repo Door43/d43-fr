@@ -2,18 +2,24 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "bronze" refers to a kind of metal that is made from melting together copper and tin. It has a reddish brown color.
 
+Le terme "bronze' se réfère à un métal composé d'un mélange de cuivre et d'étain. Il a  une couleur marron rouge.
+
   * Bronze resists water corrosion and is a good conductor of heat.
-  * In ancient times, bronze was used for making tools, weapons, artwork, altars, cooking pots, and soldiers' armor, among other things.
+  * Il est résistant à la corrosion de l'eau et un bon conducteur de la chaleur.
+  * In ancient times, bronze was used for making tools, weapons, artwork, altars, cooking pots, and soldiers'armor, among other things.
+  * Autrefois,  on utilisait le bronze pour la fabrication des outils, des armes, des oeuvres d'art, des autels, des pots de cuisson,l'armure des soldats, et bien d'autres choses.
   * Many building materials for the tabernacle and temple were made of bronze.
+  * Beaucoup de nmatériaux pour la constrction du tabernacle et du temple était en bronze
   * Idols of false gods were also often made of bronze metal.
+  * Les idoles de faux dieux étaient souvent fabriqués en bronze.
   * Bronze objects were made by first melting the bronze metal into a liquid and then pouring it into molds. This process was called "casting."
+  * on fabriquait les objets en bronze en fondat tout d'abord le bronze en liquide puis on le versait ensuite dans des moules. cette méthode s'appelait " la coulée."
 
-
-(See also: [[:En:obe:other:armor]], [[:fr:obe:kt:tabernacle]], [[:fr:obe:kt:temple]])
+(See also Voir aussi: [[:en:obe:other:armor|armor]], [[:fr:obe:kt:tabernacle|tabernacle]], [[:fr:obe:kt:temple|temple]])
 
 ===== Bible References: =====
 
