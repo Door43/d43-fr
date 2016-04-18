@@ -17,7 +17,7 @@ Le terme "frère" se réfère normalement à un homme qui a au moins en commun p
 
 '
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * It is best to translate this term with the literal word that is used in the target language to refer to a natural or biological brother, unless this would give wrong meaning.
   * In the Old Testament especially, when "brothers" is used very generally to refer to members of the same family, clan, or people group, possible translations could include, "relatives" or "clan members" or "fellow Israelites."
@@ -26,7 +26,7 @@ Le terme "frère" se réfère normalement à un homme qui a au moins en commun p
   * Other ways to translate this term so that it refers to both male and female believers could be, "fellow believers" or "Christian brothers and sisters."
   * Make sure to check the context to determine whether only men are being referred to, or whether both men and women are included.
 
-(See also: [[:fr:obe:kt:apostle|apostle, the twelve, the eleven]], [[:fr:obe:kt:godthefather|God the Father, Heavenly Father]], [[en:obe:other:sister]])
+(See also: [[:fr:obe:kt:apostle|apostle, the twelve, the eleven]], [[:fr:obe:kt:godthefather|God the Father, Heavenly Father]], [[:en:obe:other:sister|sister]])
 
 ===== Bible References: Références Bibliques: =====
 
