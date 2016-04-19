@@ -1,18 +1,19 @@
 ====== Caiaphas/Caïphe ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Caiaphas was the high priest of Israel during the time of John the Baptist and Jesus.
 
+Caïphe était le Grand Prêtre d'Israël durant la vie de Jean Baptiste et Jésus.
 
-    * Caiaphas played a major role in the trial and condemnation of Jesus.
-    * ​Caiaphas was the high priest at the trial of Peter and John.
+  * Caiaphas played a major role in the trial and condemnation of Jesus.
+  * Caïphe  joua un rôle important durant le procès de Jésus et sa condamnation.
+  * ​Caiaphas was the high priest at the trial of Peter and John.
+  * Caïphe était le Grand Prêtre au cours du procès de Pierre et de Jean.
 
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-
-(See also: [[en:obe:kt:highpriest]])
+(See also Voir aussi: [[:en:obe:kt:highpriest|high priest]])
 
 ===== Bible References: =====
 
