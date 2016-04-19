@@ -1,20 +1,24 @@
 ====== Caesar/César ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Caesar was a family name. A man named Augustus Caesar became the first ruler of the Roman Empire. Because of him, "Caesar" also became the title that was given to the rulers of the Roman Empire.
 
+César était un nom de famille. Un homme du nom de César Auguste fut le premier à gouverner l'Empire Romain. A cause de lui, "César" devint aussi le titre donné aux  dirigeants de l'Empire Romain.
 
-    * Augustus Caesar was the ruler of the Roman Empire when Jesus was born.
-    * Tiberius Caesar was the ruler of the Roman Empire when Jesus was an adult.
-    * When "Caesar" is used as a title, it can be translated as: "King" or, "Emperor" or, "Czar" or, "Kaiser."
-    * When "Caesar" is used simply as a family name, it can be transliterated.
+  * Augustus Caesar was the ruler of the Roman Empire when Jesus was born.
+  * Auguste César était le dirigeant de l'Empire Romain à la naissance de Jésus,
+  * Tiberius Caesar was the ruler of the Roman Empire when Jesus was an adult.
+  * Tibère César était le deirigeant de l'Emopire Romain quand Jésus était un adulte.
+  * When "Caesar" is used as a title, it can be translated as: "King" or, "Emperor" or, "Czar" or, "Kaiser."
+  * Quand le titre de " César" est utilisé,on peut le traduire par "roi" ou "Empereur" ou "Czar" ou Kaiser."
+  * When "Caesar" is used simply as a family name, it can be transliterated.
+  * Quand " ésar est utilisé simplement comme nom de famille, on peut employer  la translitération.
 
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(See also Voir aussi: [[:fr:obe:other:rome|Rome, Roman]], [[:fr:obe:other:king|king]])
 
-
-(See also: [[rome]], [[king]])
 ===== Bible References: =====
 
 {{topic>:en:bible?caesar&nocomments}}~~DISCUSSION~~{{tag>draft}}
