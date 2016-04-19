@@ -1,11 +1,13 @@
-====== Complete List of Important Terms - French ======
+====== Complete List of translationWords - French ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:fr:obe:kt:home]]
-  * [[:fr:obe:other:home]]
+  * [[:fr:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:fr:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+
+==== All Terms in the OBE: ====
 
 <nspages fr:obe -r -title -exclude:home -textPages="">
+
 
