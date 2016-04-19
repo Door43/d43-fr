@@ -15,15 +15,8 @@ Caïphe était le Grand Prêtre d'Israël durant la vie de Jean Baptiste et Jés
 
 (See also Voir aussi: [[:en:obe:kt:highpriest|high priest]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?caiaphas&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?caiaphas&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
