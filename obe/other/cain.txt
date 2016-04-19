@@ -1,16 +1,21 @@
 ====== Cain/Caïn ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Cain and his younger brother Abel were the first sons of Adam and Eve mentioned in the Bible.
 
+Caïn et son jeune frère Abel étaient les premiers fils d'Adam et d'Eve mentionnés dans la Bible.
+
   * Cain was a farmer who produced food crops while Abel was a sheep herder.
+  * Caïn ètait un fermier producteur des fruits de la terre tandis qu'Abel était un berger.
   * Cain killed his brother Abel in a fit of jealousy, because God had accepted Abel's sacrifice, but had not accepted Cain's sacrifice.
+  * durant un moment de jalousie Caïn tua son frère Abel, car dieu avait accepté l'offrande d'Abel, mais n'avait pas accepté l'offrande de Caïn.
   * As punishment, God sent him away from Eden and told him that the land would no longer yield crops for him.
+  * Pour le punir, Dieu le chassa loin du jardin d'Eden et lui dit que la terre ne produirait plus de récoltes pour lui.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[abel|Abel]], [[sacrifice]] )
+(See also Voir aussi: [[:fr:obe:other:abel|Abel]], [[:fr:obe:other:sacrifice|sacrifice, offering]] )
 
 ===== Bible References: =====
 
