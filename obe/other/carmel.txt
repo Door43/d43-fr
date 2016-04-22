@@ -1,6 +1,6 @@
 ====== Carmel, Mount Carmel/Carmel, Mont Carmel ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 "Mount Carmel" refers to a mountain range that was located in the kingdom of Judah along the coast of the Mediterranean sea. The town of Carmel was located in this mountain range.
 
@@ -8,9 +8,9 @@
   * This 12-mile long mountain range and its valleys had soil that was very fertile.
   * On Mount Carmel, Elijah challenged the prophets of Baal to a contest on in order to prove that Yahweh is the only true God.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:fr:obe:other:Elijah]], [[:fr:obe:other:Baal]])
+(See also Voir aussi: [[:fr:obe:other:elijah|Elijah]], [[:fr:obe:other:baal|Baal(Baal)]])
 
 ===== Bible References: Références Bibliques: =====
 
