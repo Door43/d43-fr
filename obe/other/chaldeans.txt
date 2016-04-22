@@ -7,17 +7,17 @@ Chaldea was a region in southern Babylonia. The people who lived in this land we
 La Chaldée est la région au sud de la Babylonie.
 
   * The city of Ur, where Abraham was from, was located in Chaldea.
-  * La ville d'Ur ou Abraham est né, se situait en chaldée.
+  * La ville d'Ur ou Abraham est né, se situait en Chaldée.
   * Around 600 BC, Chaldea became known as Babylonia.
   * Environ 600 ans avant Jésus christ, la chaldée était connue sous le nom de Babylonie.
   * A few years after that time, Jerusalem was captured and the Israelites were exiled to Babylonia.
-  * Quelques années après, Jérusalem a été capturée et les  Israélites ont éété exilés en Babylonie.
+  * Quelques années après, Jérusalem a été capturée et les Israélites ont éété exilés en Babylonie.
   * Ten years after Jerusalem was captured, the Babylonian King Nebuchadnezzar destroyed the temple there.
   * dix ans plus tard, jérusalem a été capturée et le Roi babylonien Nebucadnetsar y détruisit le temple.
   * The people living in Babylonia were still sometimes referred to as "Chaldeans."
   * Le peuple vivant en Babylonie étaient souvent quelquefois considérés comme "Chaldèens."
 
-(Translation suggestions  Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also Voir aussi: [[:fr:obe:other:babylon|Babylon]], [[:fr:obe:other:ur|Ur]], [[:en:obe:other:abraham|Abraham]], [[:fr:obe:other:shinar|Shinar]] )
 
