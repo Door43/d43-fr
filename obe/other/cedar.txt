@@ -2,14 +2,18 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 A cedar is a large conifer tree which normally has reddish-brown wood.
 
-  * The Old Testament speaks about the cedars of Lebanon, where they grew plentifully.
-  * Cedar wood was used in the construction of the Jewish temples.
+Un cèdre est un arbre de la famille des conifères qui a un bois marron rouge.
 
-(See also: [[[[:fr:obe:other:fir]])
+  * The Old Testament speaks about the cedars of Lebanon, where they grew plentifully.
+  * l'Ancien testament parle des cèdres du Liban qui poussent en grandes quantité dans ce pays.
+  * Cedar wood was used in the construction of the Jewish temples.
+  * Le cèdre a été utilisé pour la construction des temples juifs.
+
+(See also Voir aussi: [[:fr:obe:other:fir|fir]])
 
 ===== Bible References: =====
 
