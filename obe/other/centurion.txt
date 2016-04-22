@@ -2,15 +2,13 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
-
+===== Definition: Définition: =====
 
 A centurion was a Roman army officer who had 100 soldiers under his command.
 
+Un centurion est un officier de l'armée romaine qui a 100 soldats sous son commandement.
 
-
-(See also: [[rome]])
-
+(See also Voir aussi: [[:fr:obe:other:rome|Rome, Roman]])
 
 ===== Bible References: =====
 
