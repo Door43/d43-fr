@@ -10,15 +10,8 @@ Un centurion est un officier de l'armée romaine qui a 100 soldats sous son comm
 
 (See also Voir aussi: [[:fr:obe:other:rome|Rome, Roman]])
 
-===== Bible References: =====
+===== Bible References: Références bibliques: =====
 
-
-{{topic>:en:bible?centurion&nocomments}}
-
-
-~~DISCUSSION:on~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?centurion&nocomments}}~~DISCUSSION:on~~{{tag>draft}}
 
 ~~NOCACHE~~
