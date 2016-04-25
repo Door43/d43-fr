@@ -1,17 +1,19 @@
 ====== City of David/Ville de David ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 The "City of David" is another name for both Jerusalem and Bethlehem.
 
-    * Jerusalem is where David lived while he ruled Israel.
-    * Bethlehem is where David was born.
+La "Cité de David" est un autre nom pour Jérusalem et  Bethléem.
 
+  * Jerusalem is where David lived while he ruled Israel.
+  * David vécut à jérusalem durant son règne sur Israël.
+  * Bethlehem is where David was born.
+  * Bethléem est la ville de naissance de David.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-
-(See also: [[david]], [[bethlehem]], [[jerusalem]])
+(See also Voir aussi: [[:fr:obe:other:david|David]], [[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]], [[:fr:obe:other:jerusalem|Jerusalem]])
 
 ===== Bible References: =====
 
