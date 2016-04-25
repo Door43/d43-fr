@@ -1,16 +1,21 @@
 ====== Cilicia/Cilicie ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Cilicia was a small Roman province located in the southeastern part of what is now the modern-day country of Turkey. It borders the Aegean Sea.
 
+La Cilicie était une petite province romaine située au sud-est de ce qui est maintenant  la Turquie moderne et est bordée par la Mer Egée.
+
   * The apostle Paul was a citizen from the city of Tarsus located in Cilicia.
+  * L'apôtre Paul était citoyen de la ville de Tarse en cilicie.
   * Paul spent several years in Cilicia after his encounter with Jesus on the road to Damascus.
+  * Paul passa plusieurs années en Cilicie après avoir rencontré Jésus sur la route de Damas.
   * Some of the Jews from Cilicia were among those who confronted Stephen.
+  * Quelques juifs de la Cilicie étaient au nombre de ceux qui confrontèrent  Etienne.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[paul|Paul]], [[stephen|Stephen]], [[tarsus|Tarsus]] )
+(See also Voir aussi: [[:fr:obe:other:paul|Paul]], [[:fr:obe:other:stephen|Stephen]], [[:fr:obe:other:tarsus|Tarsus]] )
 
 ===== Bible References: =====
 
