@@ -2,19 +2,27 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
-The chief priests were important Jewish religious leaders during the time that Jesus lived on earth.Les principaux sacrificateurs étaient
+The chief priests were important Jewish religious leaders during the time that Jesus lived on earth.
+
+Les principaux sacrificateurs étaient des dirigeants religieux juifs durant la vie de Jésus sur terre.
 
   * The word "chief" literally means "head" or "top."
+  * Le mot "dirigeant" signifie littérallement "tête" ou "sommet"
   * The chief priests were responsible for everything needed for the worship services at the temple, They were also in charge of the money that was given to the temple.
+  * Les principaux sacrificateurs étaient à la charge de tout ce qui était nécessaire pour le service religieux au temple. Ils étaient aussi responsables de tout l'argent donné pour le temple.
   * They were higher in rank and power than the ordinary priests. Only the high priest had more authority.
+  * Leur rang hiérarchique et leur pouvoir étaient plus importants que ceux des prêtres ordinaires. Seulement, le grand sacrificateur avait plus d'autorité.
   * The chief priests were some of Jesus' main enemies and they strongly influenced the Roman leaders to arrest and kill him.
+  * Les principaux sacrificateurs étaient parmi certains des principaux  ennemis de Jésus qui influençèrent les dirigeants romains pour l'arrêter et le tuer.
 
-Translation Suggestions:
+**Translation Suggestions: Suggestion de traduction:**
 
   * The term "chief priests" could also be translated as "head priests" or "leading priest" or "ruling priests."
+  * Le terme "principaux sacrificateurs" pourrait se traduire par "à la tête des prêtres" ou "prêtres dirigeants" ou " prêtres gouvernant."
   * Make sure this term is translated differently from the term "high priest."
+  * Soyez sûrs de traduire ce terme différemment que "grand sacrificateur".
 
 (See also: [[:fr:obe:kt:priest|priest]], [[:fr:obe:kt:highpriest|high priest]], [[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders]])
 
