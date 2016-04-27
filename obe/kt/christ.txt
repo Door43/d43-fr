@@ -21,16 +21,20 @@ Le terme "Messie" est un mot hébreu et est employé dans l'Ancient Testament. L
   * The word "Christ" is sometimes used as a name, as in "Jesus Christ."
   * Le mot " Christ" est quelquefois employé comme un nom tel que "Jésus Christ."
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * This term could be translated using its meaning, "the Anointed One" or "God's Anointed Savior."
+  * Ce terme pourrait se traduire par sa définition, "l'Oint de Dieu" ou "Sauveur Oint de Dieu."
   * Or a borrowed word that looks or sounds like "Christ" or "Messiah" could be used. (See: tA How to Translate Unknowns)
-  * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One'.".
+  * Ou bien un mot emprunté qui ressemble ou s'entend comme "Christ" ou "Messie" pourrait être employé. (Voir: Académie de traduction, comment traduire les inconnus)
+  * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One."
+  * Le mot emprunté pourrait être suivi d'une définition du terme tel que "Christ, l'Oint de Dieu."
   * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
+  * Traduisez avec consistence ce terme tout  au long du texte biblique afin qu'il soit clair que vous employez le même mot auquel il réfère.
 
-(See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(See Voir: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:fr:obe:kt:sonofgod]], [[:fr:obe:other:david]], [[:fr:obe:kt:jesus]], [[:En:obe:kt:anoint]])
+(See also Voir aussi: [[:fr:obe:kt:sonofgod|Son of God, the Son]], [[:fr:obe:other:david|David]], [[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:anoint|anoint, anointed]])
 
 ===== Bible References: =====
 
