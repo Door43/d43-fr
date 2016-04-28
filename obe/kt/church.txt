@@ -28,7 +28,7 @@ Dans la Bible, le terme "église" se réfère à un groupe local de croyants en 
 
 (See also Voir aussi: [[:fr:obe:kt:christian|Christian,christians(Chrétien,chrétiens)]], [[:fr:obe:kt:believer|believer(croyant)]], [[:fr:obe:kt:assembly|assembly/assemblée]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques =====
 
 {{topic>:en:bible?church&nocomments}}
 
