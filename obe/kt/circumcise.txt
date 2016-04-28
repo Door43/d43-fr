@@ -19,16 +19,20 @@ Le terme "circoncire" signifie couper le prépuce d'un homme ou d'un enfant de s
   * The term "uncircumcised" refers to those who have not been circumcised physically. It can also refer figuratively to those who have not been circumcised spiritually, who do not have a relationship with God.
   * Le terme "incirconcis" sont ceux qui n'ont pas été circoncis physiquement.Cela peut être au sens figuratif, ceux qui n'ont pas été circoncis spirituellement et qui ne connaissent pas Dieu personnellement.   \\
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * If the culture of the target language performs circumcisions on males, the word used to refer to this should be used for this term.
+  * Si l'on pratique par tradition la circoncision parmi les gens de la langue cible, utilisez le mot local qui s'applique à cette pratique.
   * Other ways to translate this term would be, "cut around" or "cut in a circle" or "cut off the foreskin."
+  * On pourrait traduire aussi ce terme par "inciser autour" ou "couper en rond" ou "couper la peau du prépuce."
   * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
+  * Parmi les peuples qui ne connaissent pas la pratique de la crconcision, il peut être nécessaire de l'expliquer dans une note au bas de la page ou dans uns glossaire.
   * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
+  * Soyez sûrs que le terme employé pour cela ne se réfère pas aux personnes du sexe féminin. Traduisez ce terme avec un mot ou une expression comprenant une référence masculine.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See Voir: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:fr:obe:kt:uncircumcised]], [[:fr:obe:kt:covenant]])
+(See alsoVoir aussi: [[:fr:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:fr:obe:kt:covenant|covenant]])
 
 ===== Bible References: =====
 
