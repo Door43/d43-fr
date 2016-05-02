@@ -1,10 +1,10 @@
-===== The Joyful News  La Bonne Et Joyeuse Nouvelle [41-07] =====
+===== The Joyful News / La Bonne Nouvelle [41-07] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
 The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
 
-Les femmes étaient effrayées mais en même temps remplies d'une grande joie. Elle coururent porter la bonne nouvelle aux disciples.
+Les femmes étaient **effrayées mais en même temps remplies d'une grande joie**. Elle coururent porter la bonne nouvelle aux disciples.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/joy]]**
@@ -17,9 +17,8 @@ Les femmes étaient effrayées mais en même temps remplies d'une grande joie. E
   * **good news**  - This can also be translated as, "the good news that Jesus was alive again." This good news refers to the fact that Jesus had risen from the dead.
 ===== Notes de traduction: =====
 
-  * **Pleine de crainte et de grande joie **  - C'est à dire, "éprouvaient des émotions de peur et aussi une grande joie."
-  * **Bonne nouvelle**
- - Cela peut aussi être traduit par "la bonne nouvelle que Jésus était vivant de nouveau." Cette bonne nouvelle se réfère au fait que Jésus était ressuscité d'entre les morts.
+  * **effrayées mais en même temps remplies d'une grande joie**  - C'est à dire, "éprouvaient des émotions de peur mais aussi une grande joie."
+  * **Bonne nouvelle**  - Cela peut aussi être traduit par "la bonne nouvelle que Jésus était vivant de nouveau." Cette bonne nouvelle se réfère au fait que Jésus était ressuscité d'entre les morts.
 
 **[[:fr:obs:notes:frames:41-06|<<]] | [[:fr:obs:notes:41|Up]] | [[:fr:obs:notes:frames:41-08|>>]]**
 
