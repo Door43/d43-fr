@@ -1,10 +1,10 @@
-===== The Women  Les Femmes [41-03] =====
+===== The Women / Les Femmes [41-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
 The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
 
-Le lendemain de la mise au tombeau de Jésus, était le jour du Sabbat et il n'était pas permis aux Juifs d'aller au tombeau ce jour-là. Très tôt le matin suivant le Sabbat, plusieurs femmes se rendirent au tombeau pour mettre des huiles aromatiques sur le corps de Jésus.
+Le lendemain de la mise au tombeau de **Jésus**, était le jour du **Sabbat** et **il n'était pas permis aux Juifs** d'aller au tombeau ce jour-là. Très tôt le matin suivant le jour du Sabbat, plusieurs femmes se rendirent au **tombeau** pour mettre des **huiles aromatiques** sur le corps de Jésus.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -20,8 +20,8 @@ Le lendemain de la mise au tombeau de Jésus, était le jour du Sabbat et il n'�
   * **burial spices**  - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
 ===== Notes de traduction: =====
 
-  * **Les Juifs n'étaient pas autorisés**  - Les règles de jour du sabbat ne permettent pas un Juif de marcher très loin ou de faire tout autre type de travail.
-  * **Épices funéraires**  - Il s'agit d'épices odorantes qui ont été placées sur un corps mort pour couvrir la mauvaise odeur. Cela peut aussi être traduit par " épices parfumées" ou " des huiles sentant bon" ou "plantes odorantes."
+  * **il n'était pas permis aux Juifs**  - Les règles concernant le jour du sabbat ne permettent pas à un Juif de marcher très loin ou de faire quel que soit le type de travail.
+  * **huiles aromatiques**  - Il s'agit d'épices odorantes qui ont été placées sur un cadavre pour attenueur la puanteur. Cela peut aussi être traduit par "des épices parfumées" ou "des huiles qui sentent bon" ou "des plantes odorantes."
 **[[:fr:obs:notes:frames:41-02|<<]] | [[:fr:obs:notes:41|Up]] | [[:fr:obs:notes:frames:41-04|>>]]**
 
 ~~DISCUSSION~~
