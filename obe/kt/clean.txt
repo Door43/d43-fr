@@ -19,13 +19,16 @@ Le terme "pur(e)" signifie littéralement être sans saleté ou sans tache, et e
   * Sometimes "clean" is used figuratively to refer to moral purity.
   * On utlise quelquefois le terme "pure" au sens figuré pour parler de la pureté morale.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * This term could be translated with the common word for "clean" or "pure" (in the sense of being not dirty).
+  * On pourrait traduire ce terme par le mot commun  "propre" ou "pur(e)" (signifiant ne pas être sale).
   * "Cleanse" could be translated by "wash" or "purify."
+  * On pourrait traduire "purifier" par "laver" pou "purifier."
   * Make sure that the words used for "clean" and "cleanse" can also be understood in a figurative sense.
+  * Soyez sûrs que les mots "pur" et "purifier" sont employés au sens figuré.
 
-(See also: [[:fr:obe:kt:holy]], [[:fr:obe:kt:unclean]], [[:fr:obe:other:sacrifice]] )
+(See also Voir aussi: [[:fr:obe:kt:holy|holy, holiness (Saint, la sainteté)]], [[:fr:obe:kt:unclean|unclean, uncleanness]], [[:fr:obe:other:sacrifice|sacrifice, offering]] )
 
 ===== Bible References: =====
 
