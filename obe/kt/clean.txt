@@ -30,6 +30,6 @@ Le terme "pur(e)" signifie littéralement être sans saleté ou sans tache, et e
 
 (See also Voir aussi: [[:fr:obe:kt:holy|holy, holiness (Saint, la sainteté)]], [[:fr:obe:kt:unclean|unclean, uncleanness]], [[:fr:obe:other:sacrifice|sacrifice, offering]] )
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?clean&nocomments}}{{tag>draft}}
