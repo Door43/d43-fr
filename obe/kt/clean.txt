@@ -22,9 +22,9 @@ Le terme "pur(e)" signifie littéralement être sans saleté ou sans tache, et e
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * This term could be translated with the common word for "clean" or "pure" (in the sense of being not dirty).
-  * On pourrait traduire ce terme par le mot commun  "propre" ou "pur(e)" (signifiant ne pas être sale).
+  * On pourrait traduire ce terme par le mot commun "propre" ou "pur(e)" (signifiant ne pas être sale).
   * "Cleanse" could be translated by "wash" or "purify."
-  * On pourrait traduire "purifier" par "laver" pou "purifier."
+  * On pourrait traduire "purifier" par "laver" ou "purifier."
   * Make sure that the words used for "clean" and "cleanse" can also be understood in a figurative sense.
   * Soyez sûrs que les mots "pur" et "purifier" sont employés au sens figuré.
 
