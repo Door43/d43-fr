@@ -1,15 +1,19 @@
 ====== Cyrene/Cyrène ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Cyrene was a Greek city on the north coast of Africa on the Mediterranean Sea, directly south of the island of Crete.
 
+Cyrène était une ville grecque située au nord de la côte médittéranéenne de l'Afrique du nord, en direct du sud le l'île de Crête.
+
   * In New Testament times, Cyrene had communities of both Jews and Christians.
+  * Au temps du Nouveau testament, Cyrène était composée de communités juives et chrétiennes.
   * Cyrene is probably most well-known in the Bible as the home city of the man who carried the cross of Jesus.
+  * Cyrène est probablement mieux connue dans la Bible pour être la ville de l'homme qui porta la croix de Jésus.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestionsSuggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[crete]])
+(See also Voir aussi: [[:fr:obe:other:crete|Crete, Cretan]])
 
 ===== Bible References: =====
 
