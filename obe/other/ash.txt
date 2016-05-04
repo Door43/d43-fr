@@ -1,9 +1,12 @@
 ====== ash, ashes, dust/cendre,cendres,poussière ======
 
-===== Facts: =====
+===== Facts: les Faits: =====
+
+===== **Définition:**  =====
 
 The term "ashes" refers to the grey powdery substance that is left behind after wood is burned. It is used figuratively in the Bible to refer to something that is worthless or useless.
 
+Le terme "cendres" est le résidu gris et poudreux du bois que l'on a brûlé.
 
   * An "ash heap" is a pile of ashes.
   * In ancient times, sitting in ashes was a sign of mourning or grieving.
@@ -14,8 +17,7 @@ The term "ashes" refers to the grey powdery substance that is left behind after 
   * When translating "ashes," use the word in the project language that refers to the burned-up remains after wood has burned.
   * Note that an "ash tree" is a completely different term.
 
-
-(See also: [[:fr:obe:other:sackcloth]])
+(See also: [[:fr:obe:other:sackcloth|sackcloth and ashes]])
 
 ===== Bible References: =====
 
