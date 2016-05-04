@@ -16,7 +16,7 @@ Les termes "ordre" ou "commandement" signifient ordonner à quelqu'un d'accompli
 ===== Translation Suggestions Suggestions de traduction: =====
 
   * It is best to translate this term differently from the term, "law." Also compare with the definitions of "decree" and "statute."
-  * Il est mieux d'employer un mot différent que "loi", pour traduire ce terme. Comparez aussi avec les définitions des mots " décrets" et "statuts."
+  * Il est mieux d'employer un mot différent que "loi", pour traduire ce terme. Comparez aussi avec les définitions des mots "décrets" et "statuts."
   * Some translators may prefer to translate "command" and "commandment" with the same word in their language.
   * Certains traducteurs préfèrent utiliser le même mot dans leur langue pour "ordre" et "commandement."
   * Others may prefer to use a special word for commandment that refers to lasting, formal commands that God has made.
