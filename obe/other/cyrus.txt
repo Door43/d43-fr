@@ -11,11 +11,9 @@ Text
 
 (See also Voir aussi: other)
 
-===== Bible References: =====
+===== Bible References: Références Bibliques =====
 
-{{topic>cyrus&nocomments}}
-
-~~DISCUSSION~~
+{{topic>cyrus&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
