@@ -13,12 +13,14 @@ Condamner est accuser et juger quelqu'un pour avoir fait quelquechose de mal.
   * Sometimes "condemn" means to falsely accuse or punish someone who is innocent.
   * Quelquefois "condamner" signifie accuser faussement quelqu'un qui est innocent.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * Depending on the context, this term could be translated as "harshly judge" or "criticize falsely."
+  * Selon le contexte, on pourrait  traduire ce terme par "juger sévèrement" ou "critiquer faussement."
   * The phrase "condemn him" could be translated as,"prove that he is guilty" or "state that he must be punished for his sin."
+  * La phrase "le condamner" pourrait se traduire par "prouver qu'il est coupable" ou "déclarer qu'il doit être puni pour son péché."
 
-(See also: [[:fr:obe:kt:judge]], [[:fr:obe:other:punish]])
+(See also Voir aussi: [[:fr:obe:kt:judge|judge, judgment]], [[:fr:obe:other:punish|punish, punishment]])
 
 ===== Bible References: =====
 
