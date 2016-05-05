@@ -25,11 +25,9 @@ Le terme "cendres" est le résidu gris et poudreux du bois que l'on a brûlé. D
 
 (See also Voir aussi: [[:fr:obe:other:sackcloth|sackcloth and ashes]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?ash&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?ash&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
