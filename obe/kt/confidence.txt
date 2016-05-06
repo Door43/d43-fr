@@ -15,11 +15,12 @@ Confiance est avoir l'assurance d'être sûr de quelquechose.
 
 (See also Voir aussi: [[:fr:obe:kt:trust|trust, trustworthy, trustworthiness]], [[:fr:obe:kt:hope|hope]], [[:fr:obe:kt:believe|believe, believe in, belief(croire,croire en,croyance)]])
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * "To be confident" could also be translated as "to trust completely" or "to know without a doubt that something will happen."
+  * "Avoir confiance" pourrait se traduire par "faire totalement confiance" ou "savoir sans aucun doute que la chose arrivera."
   * "Confidence" can be translated as "complete assurance" or "strong belief."
-
+  * On pourrrait traduire "confiance" par "assurance totale" ou "ferme croyance."
 
 ===== Bible References: =====
 
