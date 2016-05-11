@@ -1,18 +1,25 @@
 ====== Corinth, Corinthians/Corinthe, Corinthiens ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Corinth was a city in Greece about 50 miles west of Athens. The Corinthians were the people who lived at Corinth.
 
+Corinthe était une ville en Grèce à environ 50 kilimètres d'Athènes.
+
   * Corinth was the location of one of the early Christian churches.
+  * A Corinthe se trouvait l'une des premières églises chrétiennes.
   * The New Testament books, 1 Corinthians and 2 Corinthians were written to the church at Corinth.
+  * Le Nouveau Testament contient 1Corinthiens et 2Corinthiens qui furent adressés à l'église de Corinthe.
   * On his first missionary journey, Paul stayed in Corinth for approximately 18 months.
+  * Au cours de son premier voyage missionnaire Paul resta près de 18 mois à Corinthe.
   * Paul met Aquila and Priscilla while in Corinth.
+  * Paul rencontre Priscille et Aquilas à Corinthe.
   * Other early church leaders associated with Corinth include Timothy, Titus, Apollos, and Silas.
+  * A Corinthe sont aussi associés d'autres leaders des débuts de l'église tels que Timothée,Tite, Apollos, et  Silas.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: ([[:en:ta:vol1:translate:translate_names|Comment traduire les Noms Propres)(How to Translate Names]])
 
-(See also: [[aquila|Aquila]], [[priscilla|Priscilla]], [[paul|Paul]], other)
+(See also: [[:fr:obe:other:aquila|Aquila]], [[:fr:obe:other:priscilla|Priscilla]], [[:fr:obe:other:paul|Paul]], other)
 
 ===== Bible References: =====
 
