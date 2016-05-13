@@ -1,10 +1,10 @@
-===== What Should We Do? Que Nous Faut-il Faire? [43-10] =====
+===== What Should We Do? Que Nous Faut-il Faire? [43-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
 The people listening to **Peter** were **deeply moved by** the things that he said. So they asked Peter and the **disciples**, “**Brothers**, what should we do?”
 
-Les gens qui écoutaient Pierre étaient profondément touchés par tout ce qu'il disait et lui demandèrent ainsi qu'à ses disciples: “Frères, que devons-nous faire?”
+Les gens qui écoutaient **Pierre** étaient **profondément touchés** par tout ce qu'il disait et lui demandèrent ainsi qu'à ses **disciples**: “**Frères**, que devons-nous faire?”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/peter]]**
@@ -17,8 +17,8 @@ Les gens qui écoutaient Pierre étaient profondément touchés par tout ce qu'i
   * **Brothers**  - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
 ===== Notes de traduction: =====
 
-  * **Profondément émus par **  - C'est à dire, "très troublés par" ou " se sont sentis très tristes quand ils ont entendu. " Être sensibles" est ressentir des émotions fortes.
-  * **Brothers**  - C'était une façon normale pour un Juif d'aborder ses compatriotes juifs. Ceci pourrait également être traduit comme "amis".
+  * **profondément touchés par**  - C'est à dire, "très troublés par" ou " se sont sentis très tristes quand ils ont entendu." Être émus", c'est ressentir des émotions fortes.
+  * **Frères**  - C'était une façon normale pour un Juif de s'adresser à ses compatriotes juifs. Ceci pourrait également être traduit par "Amis".
 **[[:fr:obs:notes:frames:43-09|<<]] | [[:fr:obs:notes:43|Up]] | [[:fr:obs:notes:frames:43-11|>>]]**
 
 ~~DISCUSSION~~
