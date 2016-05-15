@@ -1,10 +1,10 @@
-===== 3000 Believe 3000  Croient [43-12] =====
+===== 3000 Believe / 3000 Croient [43-12] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
 About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
 
-A peu près trois mille personnes crurent ce que Pierre avait dit et devinrent disciples de Jésus. Elles furent baptisées et firent partie de l'église de Jérusalem.
+A peu près trois mille personnes **crurent** ce que **Pierre** avait dit et devinrent **disciples** de **Jésus**. Elles furent **baptisées** et firent partie de **l'église** de **Jérusalem**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/believe]]**
@@ -22,7 +22,7 @@ A peu près trois mille personnes crurent ce que Pierre avait dit et devinrent d
   * //(There are no notes for this frame.)//
 ===== Note de traduction: =====
 
-  * //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes dans ce cadre.) //
 
 **[[:fr:obs:notes:frames:43-11|<<]] | [[:fr:obs:notes:43|Up]] | [[:fr:obs:notes:frames:43-13|>>]]**
 
