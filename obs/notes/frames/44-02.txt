@@ -1,10 +1,10 @@
-===== Get Up and Walk  Lève-Toi Et Marche  [44-02] =====
+===== Get Up and Walk / Lève-Toi Et Marche  [44-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
 **Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
 
-Pierre regarda l'homme estropié et lui dit, “Je n'ai ni argent ni or à te donner. Mais ce que je possède je te le donne. Au nom de Jésus, lève-toi et marche!”
+**Pierre** regarda l'infirme et lui dit, “Je n'ai pas d'argent à te donner. Mais je te le donnerai ce que je possède. **Au nom de Jésus**, **lève-toi** et marche!”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/peter]]**
@@ -17,8 +17,8 @@ Pierre regarda l'homme estropié et lui dit, “Je n'ai ni argent ni or à te do
   * **get up**  - That is, "stand up."
 ===== Notes de traduction: =====
 
-  * **Au nom de Jésus **  - "Nom" ici signifie l'autorité et le pouvoir de la personne. Par conséquent, cette expression signifie ici, "par l'autorité de Jésus."
-  * **Se lever**  - C'est à dire "tiens -toi debout."
+  * **Au nom de Jésus**  - "Nom" ici signifie l'autorité et le pouvoir de la personne. Par conséquent, cette expression signifie ici, "par l'autorité de Jésus."
+  * **lève-toi**  - C'est à dire "tiens-toi debout."
 **[[:fr:obs:notes:frames:44-01|<<]] | [[:fr:obs:notes:44|Up]] | [[:fr:obs:notes:frames:44-03|>>]]**
 
 ~~DISCUSSION~~
