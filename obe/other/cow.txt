@@ -6,7 +6,7 @@
 
 A cow is a female, four-legged bovine animal that eats grass and is primarily raised for its meat and milk. A calf is its offspring. These animals are included in the general term, "cattle."
 
-Une vache est un animal femelle à quatre pattes de la famille des bovins mangeant de l'herbe et élevée pour sa viande et son lait. Un veau est son petit. Le terme général de "bétail" comprend ces animaux.
+Une vache est un animal femelle, à quatre pattes, de la famille des bovins mangeant de l'herbe et élevée pour sa viande et son lait. Un veau est son petit. Le terme général de "bétail" comprend ces animaux.
 
   * Cows and their calves are also used as a trading commodity.
   * Les vaches et leurs sont des produits de commerce.
