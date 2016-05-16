@@ -4,8 +4,12 @@
 
 Crete is an island that is located off the southern coast of Greece. A Cretan is someone who lives on this island.
 
+La Crète est une île située près de la côte orientale de la Grèce. un crétois est un habitant de cette îre.
+
   * The apostle Paul traveled to the island of Crete during his missionary journeys.
+  * L'apôtre paul a parcouru l'île de Crète au cours de ses voyages missionnaires.
   * Paul left his co-worker Titus on Crete to teach the Christians and to help appoint leaders for the church there.
+  * Paul y laissa son compagnon d'oeuvre Tite pour enseigner les Chrétiens et nommer des leaders dans l'église.
 
 (Translation suggestions:[[:en:ta:vol1:translate:translate_names|(Comment traduire les Noms Propres) (How to Translate Names]])
 
