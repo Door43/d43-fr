@@ -4,7 +4,7 @@
 
 Crete is an island that is located off the southern coast of Greece. A Cretan is someone who lives on this island.
 
-La Crète est une île située près de la côte orientale de la Grèce. un crétois est un habitant de cette îre.
+La Crète est une île située près de la côte orientale de la Grèce. Un crétois est un habitant de cette île.
 
   * The apostle Paul traveled to the island of Crete during his missionary journeys.
   * L'apôtre paul a parcouru l'île de Crète au cours de ses voyages missionnaires.
