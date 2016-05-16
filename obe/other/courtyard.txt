@@ -31,7 +31,7 @@ Une cour est un espace fermé qui est clôturé par une construction ou des murs
 
 (See also: [[:fr:obe:kt:temple]], [[:fr:obe:kt:tabernacle]], [[:fr:obe:other:gentile]])
 
-===== Bible References: =====
+===== Bible References:Références Bibliques: =====
 
 {{topic>:en:bible?courtyard&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
