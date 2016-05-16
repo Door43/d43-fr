@@ -2,18 +2,24 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 A cow is a female, four-legged bovine animal that eats grass and is primarily raised for its meat and milk. A calf is its offspring. These animals are included in the general term, "cattle."
 
+Une vache est un animal femelle à quatre pattes de la famille des bovins mangeant de l'herbe et élevée pour sa viande et son lait. Un veau est son petit. Le terme général de "bétail" comprend ces animaux.
+
   * Cows and their calves are also used as a trading commodity.
+  * Les vaches et leurs sont des produits de commerce.
   * In the Bible, the Jewish people used cows for sacrifices, especially a certain type called the red heifer.
+  * Dans la Bible, le peuple juifoffrait des vaches en sacrifices, particulièrement  un certain type appelé la génisse rousse.
   * A heifer is a cow that has not yet had a baby.
+  * Une génisse est une vache qui n'a pas encore eu de petit.
   * The male of this type animal is called a "bull." An "ox" is a special type of bull that is used for agricultural work, like pulling a plow.
+  * On appelle le type masculin de cet animal "taureau." Un "boeuf" est un type de taureau utilisé en agriculture, pour par exemple tirer la charrue.
 
-(See also: [[:fr:obe:other:ox]], [[:fr:obe:other:yoke]])
+(See also Voir aussi: [[:fr:obe:other:ox|ox, oxen]], [[:fr:obe:other:yoke|yoke]])
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]]
+(See Voir:[[:en:ta:vol1:translate:translate_unknown|(Comment Traduire les Mots Inconnus)(How to Translate Unknowns]])
 
 ===== Bible References: =====
 
