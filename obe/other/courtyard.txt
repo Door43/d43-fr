@@ -24,12 +24,14 @@ Une cour est un espace fermé qui est clôturé par une construction ou des murs
   * La cour d'une maison était un espace ouvert au milieu de la maison avec des portes de la maison y donnant accès.
   * Some English Bible versions also use the word 'court' for this term. En anglais le mot "court" est utilisé pour ce terme.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "courtyard" could be translated as "enclosed space" or "walled-in land" or "temple grounds" or "temple enclosure."
+  * On pourrait traduire "cour" par "espace clôturé" ou "espace emmuré" ou "lieu du temple" ou "enclosure du temple."
   * Sometimes the term "temple" may need to be translated as "temple courtyards" or "temple complex." so that it is clear that the courtyards are being referred to, not the temple building.
+  * Quelquefois le terme "temple" a besoin d'être traduit par "les cours du temple" ou "structure du temple" afin de clarifier que l'on parle des cours et non du temple en tant que bâtiment.
 
-(See also: [[:fr:obe:kt:temple]], [[:fr:obe:kt:tabernacle]], [[:fr:obe:other:gentile]])
+(See also voir aussi: [[:fr:obe:kt:temple|temple]], [[:fr:obe:kt:tabernacle|tabernacle]], [[:fr:obe:other:gentile|Gentile]])
 
 ===== Bible References:Références Bibliques: =====
 
