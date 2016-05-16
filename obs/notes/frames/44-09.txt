@@ -1,4 +1,4 @@
-===== The Disciples Were Released  Les Disciples Ont Été Libérés [44-09] =====
+===== The Disciples Were Released Les Disciples Ont Été Libérés [44-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
@@ -6,12 +6,12 @@ The **leaders were shocked** that **Peter** and **John** spoke so boldly because
 
 Les leaders étaient secoués de voir l'assurance de Pierre et de Jean, car ils se rendaient compte que c'étaient des gens simples et sans instruction. Mais, ensuite, ils réalizèrent aussi que ces hommes avaient été avec Jésus. Après avoir fait des nouvelles menaces à Pierre et Jean, il les relâchèrent.
 
-===== Termes Importants =====  
-  * **[[:fr:obe:other/jewishleaders|leaders]]**
-  * **[[:fr:obe:other/peter|Peter]]**
-  * **[[:fr:obe:other/johntheapostle|John]]**
-  * **[[:fr:obe:kt/Jesus]]**
-  
+===== Termes Importants =====
+
+  * **[[:fr:obe:other:jewishleaders|leaders]]**
+  * **[[:fr:obe:other:peter|Peter]]**
+  * **[[:fr:obe:other:johntheapostle|John]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 ===== Translation Notes: =====
 
   * **were shocked**  - That is, "were very surprised" or, "were amazed."
@@ -22,7 +22,6 @@ Les leaders étaient secoués de voir l'assurance de Pierre et de Jean, car ils 
   * **After they threatened**  - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
   * **let them go**  - That is, "allowed them to leave."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
 ===== Notes de traduction: =====
 
   * **Ont été choqués**  - C'est à dire, "étaient très surpris", ou "ont été surpris."
