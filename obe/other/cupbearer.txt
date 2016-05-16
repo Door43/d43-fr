@@ -2,13 +2,14 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition:Définition: =====
 
 Text
+
   * bullet
   * bullet
 
-(See also: other)
+(See also Voir aussi: other)
 
 ===== Bible References: =====
 
