@@ -9,7 +9,7 @@ A courtyard is an enclosed area that is surrounded by a building or walls. It ha
 Une cour(parvis) est un espace fermé qui est clôturé par une construction ou des murs. Il n'y avait pas de toit, c'était plutôt à ciel ouvert.
 
   * The Old Testament tabernacle was surrounded by one courtyard, enclosed by walls made of thick, cloth curtains rather than stone.
-  * Le tabernacle de l'Ancien Testament était entouré par une cour, clôturée par des murs fabriqués avec des tentures épais plutôt que des pierres.
+  * Le tabernacle de l'Ancien Testament était entouré par une cour, clôturée par des murs fabriqués avec des tentures épaisses plutôt par que des pierres.
   * The temple complex in Jerusalem during the time of Jesus had four major courtyards.
   * La structure du temple à Jérusalem au temps de Jésus avait quatre cours principlales:
       * The Courtyard of Priests was just outside the temple building and could only be entered by the priests. This was where the basin for washing and the altar for sacrificing were located.
