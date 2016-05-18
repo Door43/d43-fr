@@ -33,7 +33,7 @@ Une alliance est un accord formel qui lie deux parties qui ont l'obligation de l
 
 {{topic>:en:bible?covenant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   * **[[:fr:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
   * **[[:fr:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
