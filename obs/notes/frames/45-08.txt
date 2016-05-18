@@ -1,10 +1,10 @@
-===== The Ethiopian Read Isaiah  L'Éthiopien Lit Isaïe [45-08] =====
+===== The Ethiopian Read Isaiah / L'Éthiopien Lit Isaïe [45-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
 When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
 
-Quand Philippe arriva près du char, Il entendit l'éthiopien lire ce que le prophète Esaïe avait écrit; l'homme lit “Ils l'ont conduit comme un agneau muet à l'abattoir, il n'a pas dit un mot. Il a été humilié et n'a pas obtenu justice Sa vie a été supprimée.”
+Quand Philippe **arriva près du char**, il entendit l'**éthiopien** lire ce que le **prophète Esaïe** avait écrit. L'homme lit “Ils l'ont conduit comme un **agneau** à l'abattoir, et **comme un agneau est silencieux**, il n'a pas dit un mot. Ils l'ont traité injustement et ne l'ont pas respecté. **Ils lui ont ôté la vie**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/chariot]]**
@@ -20,8 +20,8 @@ Quand Philippe arriva près du char, Il entendit l'éthiopien lire ce que le pro
   * **as a lamb is silent**  - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
 ===== Notes de traduction: =====
 
-  * **Éthiopien**- c'est une personne du pays de l'Ethiopie. Voir note sur **[[:fr:obs:notes:frames:45-07|[45-07]]]**.
-  * **Approché le char **  - C'est à dire, "est arrivé près du char" ou, "est venu près du char."
+  * **Éthiopien**- Il s'agit d'une personne originaire de l'Ethiopie. Voir note sur **[[:fr:obs:notes:frames:45-07|[45-07]]]**.
+  * **arriva près du char**  - C'est à dire, "se trouva près du char" ou, "vint près du char."
   * **Comme un agneau muet **  - Cela pourrait aussi être traduit par, "comme un agneau qui est silencieux, même quand il est sur le point d'être tué."
 **[[:fr:obs:notes:frames:45-07|<<]] | [[:fr:obs:notes:45|Up]] | [[:fr:obs:notes:frames:45-09|>>]]**
 
