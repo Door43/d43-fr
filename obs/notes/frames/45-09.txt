@@ -1,10 +1,10 @@
-===== Philip Met the Ethiopian  Philippe Rencontre L'Éthiopien [45-09] =====
+===== Philip Met the Ethiopian / Philippe Rencontra L'Éthiopien [45-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
 Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
 
-Philippe demanda à l'éthiopien, “Comprends-tu ce que tu lis?” L'éthiopien répondit, “Non. Comment le pourrais-je, si je n'ai personne pour me l'expliquer. Il l'invita à monter s'asseoir à côté de lui. Esaïe parle t-il de lui-même ou de quelqu'un d'autre?”
+Philippe demanda à l'éthiopien, “Comprends-tu ce que tu lis?” L'éthiopien répondit, “Non. Comment le pourrais-je, si je n'ai personne pour me l'expliquer. S'il te plait viens t'asseoir à côté de moi. Est ce qu'Esaïe parlait de lui-même ou de quelqu'un d'autre?”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/Isaiah]]**
@@ -15,7 +15,7 @@ Philippe demanda à l'éthiopien, “Comprends-tu ce que tu lis?” L'éthiopien
   * **Was Isaiah writing about**  - This can also be translated as, "Was Isaiah referring to."
 ===== Note de traduction: =====
 
-  * **Esaïe  écrivait-il à...?    **- Cela peut aussi être traduit comme: "Est ce qu'Esaïe  parlait....?"
+  * **Est ce qu'Esaïe parlait de … ?    **- Cela peut aussi être traduit comme: "Est ce qu'Esaïe  faisait référence à … "
 **[[:fr:obs:notes:frames:45-08|<<]] | [[:fr:obs:notes:45|Up]] | [[:fr:obs:notes:frames:45-10|>>]]**
 
 ~~DISCUSSION~~
