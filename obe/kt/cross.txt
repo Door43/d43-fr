@@ -14,13 +14,16 @@ Une croix est un poteau en bois planté dans le sol, avec une barre en bois hori
   * On accusa faussement Jésus de crimes qu'il n'avait pas commis et les Romains l'ont mis à mort sur une croix.
   * Note that this is a completely different word from the verb "to cross (a river)" or "to cross over." Cette note n'est pas applicable en français.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: suggestions de traduction: =====
 
   * This term could be translated using a term in the target language that refers to the shape of a cross.
+  * On pourrrait traduire ce terme en utilisant un terme de la langue cible qui se réfère à la forme d'une croix
   * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Considérez décrire la croix comme l'objet sur lequel les criminels sont mis à moemployant des expressions telles que "poteau d'exécution" ou "arbre d'exécution"
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Considérez aussi comment ce mot est traduit dans la traduction biblique d'une version locale. (See: [[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Mots inconnus)How to Translate Unknowns]])
 
-(See also: [[:fr:obe:kt:crucify|crucify]], [[:fr:obe:other:rome|Rome, Roman]])
+(See also Voir aussi: [[:fr:obe:kt:crucify|crucify]], [[:fr:obe:other:rome|Rome, Roman]])
 
 ===== Bible References: Références Bibliques: =====
 
