@@ -1,10 +1,10 @@
-===== Saul Became Blind  Saul Est Devenu Aveugle [46-03] =====
+===== Saul Became Blind / Saul Est Devenu Aveugle [46-03] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
 When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
 
-Quand Saul se leva de terre et quoique ses yeux étaient ouverts, il ne voyait rien. Ses compagnons de voyage l'ont aidé à entrer dans Damas. Saul n'a rien mangé ni bu pendant trois jours.
+Quand **Saul** se releva, Il ne voyait rien. Ses compagnons de voyage ont du l'aider à entrer dans Damas. Saul ne mangea rien ni ne but pendant trois jours.
 
 ===== Termes Importants =====
     * **[[:fr:obe:other/paul|Saul]]**
@@ -15,7 +15,7 @@ Quand Saul se leva de terre et quoique ses yeux étaient ouverts, il ne voyait r
   * //(There are no notes for this frame.)//
 ===== Note de traduction: =====
 
-  * //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes dans ce cadre.) //
 
 **[[:fr:obs:notes:frames:46-02|<<]] | [[:fr:obs:notes:46|Up]] | [[:fr:obs:notes:frames:46-04|>>]]**
 
