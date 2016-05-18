@@ -21,13 +21,16 @@ Une alliance est un accord formel qui lie deux parties qui ont l'obligation de l
   * In other covenants, God promised to fulfill his part only if the people obeyed him and fulfilled their part of the covenant.
   * Dans d'autres accords, Dieu a promis de remplir sa part si le peuple lui obéissait et remplissait leur part de cet accord.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * Depending on the context, ways to translate this term could include "binding agreement" or "formal commitment" or "pledge" or "contract."
-  * Some languages may have different words for covenant depending on whether one party or both parties have made a promise they must keep. If the covenant is one-sided, it could be translated as "promise" or "pledge."
+  * Selon le contexte, on pourrait traduire ce terme par "lien d'agrément" ou "entente formelle" ou "promesse" ou "contrat."
+  * Some languages may have different words for covenant depending on whether one party or both parties have made a promise they must keep. If the covenant is one-sided, it could be translated as "promise" or "pledge".
+  * Certaines langues peuvent avoir des mots différents pour alliance, cela dépend si l'une ou les deux parties ont fait une promesse qu'ils doivent tenir. S'il y a un seul garant, on peut traduire ce mot par "promesse" ou "gage."
   * Make sure the translation of this term does not sound like people proposed the covenant. In all cases of covenants between God and people, it was God who initiated the covenant.
+  * Soyez sûrs que la traduction de ce mot n'exprime pas le fait que les gens ont proposé l'alliance. Dans tous les cas d'alliances entre Dieu et le peuple, Dieu est le seul initiateur de l'alliance.
 
-(See also: [[:fr:obe:kt:promise|promise]], [[:fr:obe:kt:newcovenant|New Covenant]])
+(See also Voir aussi: [[:fr:obe:kt:promise|promise]], [[:fr:obe:kt:newcovenant|New Covenant]])
 
 ===== Bible References: Références Bibliques: =====
 
