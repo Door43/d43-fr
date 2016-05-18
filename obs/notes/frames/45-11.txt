@@ -1,10 +1,10 @@
-===== Here Is Water  Voici De L'Eau [45-11] =====
+===== Here Is Water / Voici De L'Eau [45-11] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
 As Philip and the Ethiopian traveled, they came to **some water**. The Ethiopian said, “Look! There is some water! **May I be baptized**?” And he told the driver to stop the **chariot**.
 
-Pendant que Philipe et l'éthiopien continuaient leur route, ils arrivèrent près d'un point d'eau, l'éthiopien dit, “Voici de l'eau, qu'est-ce qui empêche que je sois baptisé?” Et il donna l'ordre d'arrêter le char.
+Pendant que Philipe et l'éthiopien continuaient leur route, ils arrivèrent près d'**un point d'eau**. L'éthiopien dit, “Voici de l'eau! **Est-ce que je peux être baptisé**?” Et il donna l'ordre d'arrêter le **char**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/baptize|baptized]]**
@@ -18,7 +18,7 @@ Pendant que Philipe et l'éthiopien continuaient leur route, ils arrivèrent pr�
   * **May I be baptized?**  - This could also be translated as, "Is there any reason that I cannot be baptized?"
 ===== Notes de traduction: =====
 
-  * **Un peu d'eau **  - Utilisez un terme qui signifie un plus grand corps d'eau comme un étang, un lac ou cours d'eau.
+  * **un point d'eau**  - Utilisez un terme qui signifie un plus grand corps d'eau comme un étang, un lac ou cours d'eau.
   * **Puis-je être baptisé?**  - Cela pourrait aussi être traduit par: " Y-a -t-il une raison qui m'empêche d'être baptisé?"
 **[[:fr:obs:notes:frames:45-10|<<]] | [[:fr:obs:notes:45|Up]] | [[:fr:obs:notes:frames:45-12|>>]]**
 
