@@ -29,7 +29,7 @@ Une alliance est un accord formel qui lie deux parties qui ont l'obligation de l
 
 (See also: [[:fr:obe:kt:promise|promise]], [[:fr:obe:kt:newcovenant|New Covenant]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?covenant&nocomments}}
 
