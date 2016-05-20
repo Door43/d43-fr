@@ -1,10 +1,10 @@
-===== Lydia Was Baptized Lydie a été baptisée [47-02] =====
+===== Lydia Was Baptized / Lydie a été baptisée [47-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
 **God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
 
-Dieu ouvrit le coeur de Lydie de sorte qu'elle croyait au message de Jésus, et elle fut baptisée avec sa famille. Elle invita Paul et Silas à loger chez elle, alors ils ont restés avec elle et sa famille.
+**Dieu ouvrit le coeur de Lydie** pour qu'elle **croie** en Jésus, et **elle fut baptisée avec sa famille**. Elle invita **Paul** et **Silas** à loger chez elle, **alors ils sont restés avec elle et sa famille**.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
@@ -23,9 +23,9 @@ Dieu ouvrit le coeur de Lydie de sorte qu'elle croyait au message de Jésus, et 
   * **so they stayed with her and her family**  - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
 ===== Notes de traduction: =====
 
-  * **Ouvert coeur de Lydie **- Cela signifie, "a rendu Lydie capable de…"
-  * **Elle et sa famille ont été baptisés **  - Cela peut aussi être traduit par, "Ils ont baptisé Lydie et sa famille."
-  * **Donc ils sont restés avec elle et sa famille **  - C'était la coutume en ces temps- là pour les personnes d'offrir l'hospitalité aux visiteurs dans leurs maisons. Il n'y avait pas de motifs immoraux dans cet arrangement.
+  * **ouvrit le coeur de Lydie**- Cela signifie, "a rendu Lydie capable de"
+  * **elle fut baptisée avec sa famille**  - Cela peut aussi être traduit par, "Ils ont baptisé Lydie et sa famille."
+  * **alors ils sont restés avec elle et sa famille**  - C'était la coutume en ces temps là pour les personnes d'offrir l'hospitalité aux visiteurs. Il n'y avait pas de motifs immoraux dans cet arrangement.
 **[[:fr:obs:notes:frames:47-01|<<]] | [[:fr:obs:notes:47|Up]] | [[:fr:obs:notes:frames:47-03|>>]]**
 
 ~~DISCUSSION~~
