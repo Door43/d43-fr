@@ -1,10 +1,10 @@
-===== The Earthquake  Le tremblement de terre [47-09] =====
+===== The Earthquake / Le tremblement de terre [47-09] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
 Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
 
-Soudainement, un violent tremblement de terre secoua la prison. Toutes les portes s'ouvrirent et les chaînes de tous les prisonniers se détachèrent.
+Soudainement, il y eut un violent tremblement. Toutes les portes de la prison **s'ouvrirent** et les chaînes de tous les prisonniers **se détachèrent**.
 
 ===== Termes Importants =====
 ===== Translation Notes: =====
@@ -13,8 +13,8 @@ Soudainement, un violent tremblement de terre secoua la prison. Toutes les porte
   * **fell off**  - That is, "suddenly came off" or, "suddenly came apart so that the prisoners were released."
 ===== Notes de traduction: =====
 
-  * **Soudainement ouvertes **  - Cela signifie, "sont devenues déverrouillées et complètement ouvertes."
-  * **Tombées de…**Cela signifie," se sont soudainement dégagées de…ou se sont détachées soudainement de sorte que les prisoniers étaient libres.
+  * **s'ouvrirent**  - Cela signifie, "se déverrouillèrent et s'ouvrirent."
+  * **se détachèrent**  - Cela signifie," "se délièrent" ou "se rompirent soudainement de sorte que les prisoniers étaient libres."
 **[[:fr:obs:notes:frames:47-08|<<]] | [[:fr:obs:notes:47|Up]] | [[:fr:obs:notes:frames:47-10|>>]]**
 
 ~~DISCUSSION~~
