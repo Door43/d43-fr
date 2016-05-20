@@ -1,10 +1,10 @@
-===== The Jailer Le gardien de la prison [47-10] F =====
+===== The Jailer / Le geôlier [47-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
 **The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
 
-**Le geôlier** se réveilla et quand il vit les portes de la prison grande ouvertes, il était terrifié! Il pensait que tous ses prisonniers s'étaient enfuis. Il tira son épée et allait se tuer.  (Il savait qu'il serait tué par **les autorités Romaines** pour avoir laissé les prisonniers s'enfuir.) Mais **Paul** le vit et cria, “Arrête! Ne te fait pas de mal. **Nous** sommes tous là.”
+**Le geôlier** se réveilla et quand il vit les portes de la prison grande ouvertes, il était terrifié! Il pensait que tous ses prisonniers s'étaient enfuis. Il tira son épée et allait se tuer.  (Il savait qu'il serait tué par **les autorités Romaines** pour avoir laissé les prisonniers s'enfuir.) Mais **Paul** le vit et cria, “Arrête! Ne te fais pas de mal. **Nous** sommes tous là.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/rome]]**
@@ -19,8 +19,8 @@
 
 ===== Notes de traduction: =====
 
-  * **Le geôlier **  - C'est à dire, "le responsable de la prison."
-  * **Nous **  - Certaines langues ont une forme particulière du mot "nous" qui n'inclut pas la personne à qui on parle. Ici, le "nous" ne comprend pas le geôlier, mais seulement Paul et le reste des prisonniers.
+  * **Le geôlier**  - C'est à dire, "le responsable de la prison."
+  * **Nous**  - Certaines langues ont une forme particulière du mot "nous" qui n'inclut pas la personne à qui on parle. Ici, le "nous" ne comprend pas le geôlier, mais seulement Paul et le reste des prisonniers.
 **[[:fr:obs:notes:frames:47-09|<<]] | [[:fr:obs:notes:47|Up]] | [[:fr:obs:notes:frames:47-11|>>]]**
 
 ~~DISCUSSION~~
