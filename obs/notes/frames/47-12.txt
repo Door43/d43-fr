@@ -1,10 +1,10 @@
-===== The Jailer Was Baptized  Le geôlier est baptisé [47-12] =====
+===== The Jailer Was Baptized / Le geôlier est baptisé [47-12] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
 The jailer and his whole family **believed** in **Jesus** and were **baptized**. Then the jailer gave **Paul** and **Silas** a meal and they **rejoiced** together.
 
-Le gardien et toute sa famille ont cru à Jésus et ont été baptisés. Puis le gardien donna a manger à Paul et Silas et ils se réjouissèrent tous ensemble.
+Le geôlier et toute sa famille **crurent** en **Jésus** et furent **baptisés**. Puis le geôlier donna à manger à **Paul** et **Silas** et ils se **réjouirent** tous ensemble.
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/believe|believed]]**
@@ -20,7 +20,7 @@ Le gardien et toute sa famille ont cru à Jésus et ont été baptisés. Puis le
   * //(There are no notes for this frame.)//
 ===== Note de traduction: =====
 
-  * //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes dans ce cadre.) //
 
 **[[:fr:obs:notes:frames:47-11|<<]] | [[:fr:obs:notes:47|Up]] | [[:fr:obs:notes:frames:47-13|>>]]**
 
