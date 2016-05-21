@@ -1,10 +1,10 @@
-===== A Descendant of David  Un descendant de David [48-13] =====
+===== A Descendant of David / Un descendant de David [48-13] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-13.jpg?nolink&}}
 
 **God promised King David** that one of his **descendants** would rule as **king** over God’s people forever. Because **Jesus** is the **Son of God** and the **Messiah**, is that special descendant of David who can rule forever.
 
-Dieu promit au roi David que un de ses descendants règnerait comme roi pour toujours sur tout le peuple. Parce que Jésus est le fils de Dieu et le Messie, il est ce descendant unique de David qui pourra régner pour toujours.
+**Dieu promit au roi David** qu'un de ses **descendants** règnerait en tant que **roi** sur tout le peuple de Dieu à tout jamais. Parce que **Jésus** est le **fils de Dieu** et le **Messie**, il est ce descendant de David qui peut régner pour toujours.
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/God]]**
@@ -21,7 +21,7 @@ Dieu promit au roi David que un de ses descendants règnerait comme roi pour tou
   * //(There are no notes for this frame.)//
 ===== Note de traduction: =====
 
-  * //(Il n'y a pas de notes de ce cadre.) //
+  * //(Il n'y a pas de notes dans ce cadre.) //
 
 **[[:fr:obs:notes:frames:48-12|<<]] | [[:fr:obs:notes:48|Up]] | [[:fr:obs:notes:frames:48-14|>>]]**
 
