@@ -1,10 +1,10 @@
-===== The Word of God  la parole de Dieu [48-12] =====
+===== The Word of God  la parole de Dieu [48-12] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&}}
 
 **Moses** was **a great prophet** who proclaimed the **word of God**. But **Jesus** is **the greatest prophet** of all. He is **God**, so everything he did and said were the actions and words of God. That is why Jesus is called the Word of God.
 
-Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus est un le prophète souverain. Il est Dieu, alors tout ce qu'il a dit et fait était de Dieu son Père. C'est pour cette raison que Jésus est appelé la Parole de Dieu.
+**Moïse** était **un grand prophète** qui proclama la **parole de Dieu**. Mais, **Jésus** est **le plus grand prophète**. Il est **Dieu**, ainsi tout ce qu'il dit et fit étaient les actions et les paroles de Dieu. C'est pour cette raison que Jésus est appelé la Parole de Dieu.
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:other/Moses]]**
@@ -23,8 +23,8 @@ Moïse était un grand prophète qui proclama la parole de Dieu. Mais, Jésus es
 
 ===== Notes de traduction: =====
 
-  * **Un grand prophète - **  Cela signifie, un prophète qui est important.
-  * **Le plus grand prophète**  - cela signifie, le plus important des prophètes.
+  * **un grand prophète**  - Cela signifie, "un prophète très important".
+  * **le plus grand prophète**  - cela signifie, "le plus important des prophètes".
   * **Il est la parole de Dieu**  - Il est appelé " la parole de Dieu", parce qu'il révèle le caractère de Dieu. Les autres prophètes ont prêché le message que Dieu leur a donné, mais Jésus a révélé Dieu dans ses paroles et ses actions.
 **[[:fr:obs:notes:frames:48-11|<<]] | [[:fr:obs:notes:48|Up]] | [[:fr:obs:notes:frames:48-13|>>]]**
 
