@@ -1,10 +1,10 @@
-===== Sins Are Forgiven Les péchés sont pardonnés [49-16] =====
+===== Sins Are Forgiven / Les péchés sont pardonnés [49-16] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
 If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
 
-Si vous êtes un Chrétien, Dieu vous a pardonné vos péchés à cause de ce que Jésus a fait. Maintenant, Dieu vous considère comme un ami très proche au lieu d'un ennemi.
+Si vous êtes un **Chrétien**, **Dieu** vous a **pardonné** vos **péchés** à cause de ce que **Jésus** a fait. Maintenant, Dieu **vous considère comme étant** un ami proche au lieu d'un ennemi.
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Christian]]**
@@ -19,7 +19,7 @@ Si vous êtes un Chrétien, Dieu vous a pardonné vos péchés à cause de ce qu
   * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
 ===== Note de traduction: =====
 
-  * **Considère que vous êtes **- Cela signifie, "pense à vous en tant que", ou "vous considère comme" ou "vous appelle."
+  * **vous considère comme étant**- Cela signifie, "pense à vous en tant que", ou "vous considère comme" ou "vous appelle."
 **[[:fr:obs:notes:frames:49-15|<<]] | [[:fr:obs:notes:49|Up]] | [[:fr:obs:notes:frames:49-17|>>]]**
 
 ~~DISCUSSION~~
