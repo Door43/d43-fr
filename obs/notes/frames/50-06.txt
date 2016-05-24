@@ -1,10 +1,10 @@
-===== The Weeds Les mauvaises herbes [50-06] =====
+===== The Weeds / Les mauvaises herbes [50-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
 “When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
 
-“Quand le grain eut poussé, les serviteurs vinrent demander à leur Maître, 'Maître, tu as planté de la bonne graine dans ton champ. Alors, pourquoi il y-a-t-il des mauvaises herbes dans ton champ? le maître répondit, “Un ennemi a dû les planter.'”
+“Quand le grain eut poussé, les **serviteurs** vinrent demander à leur Maître, '**Maître**, tu as planté de la **bonne** graine dans ce champ. Alors, pourquoi il y-a-t-il des mauvaises herbes dans ton champ? le maître répondit, “**Un ennemi a dû les planter**.'”
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:other/servant]]**
@@ -20,7 +20,7 @@
 ===== Note de traduction: =====
 
   * (Jésus continue à raconter l'histoire.)
-  * **Un ennemi a dû les planter **- Si cela est possible, traduire cela d'une manière qui indique que l'orateur ne s'en n'est pas aperçu.
+  * **Un ennemi a dû les planter**  - Si cela est possible, traduire cela d'une manière qui indique que l'orateur ne s est pas aperçu que cela se produisait.
 **[[:fr:obs:notes:frames:50-05|<<]] | [[:fr:obs:notes:50|Up]] | [[:fr:obs:notes:frames:50-07|>>]]**
 
 ~~DISCUSSION~~
