@@ -1,10 +1,10 @@
-===== The Enemy L'ennemi [50-05] =====
+===== The Enemy L'ennemi [50-05] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
 **Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
 
-Jésus a dit à ses disciples une histoire qui aida à expliquer ce qui arrivera aux gens à la fin. Il dit “Un homme planta des bonnes semences dans ses champs. Pendant qu'il dormait, son ennemi vint et planta des mauvaises herbes au milieu du blé, et après il s'en alla.”
+**Jésus** raconta  à ses **disciples** une parabole pour expliquer ce qui arrivera aux gens à la fin du monde. Il dit “Un homme planta **une bonne semence** dans ses champs. Pendant qu'il dormait, son ennemi vint, planta **des mauvaises herbes** parmi le **blé**, et s'en alla.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
@@ -19,9 +19,9 @@ Jésus a dit à ses disciples une histoire qui aida à expliquer ce qui arrivera
   * **wheat**  - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
 ===== Notes de traduction: =====
 
-  * **Bonne semence**  - Cette graine était le grain de blé. Si ce type de semences n'est pas connu dans votre région de la langue, il est préférable d'utiliser un terme général pour "semence". S'il n'y a pas de terme général, il peut être nécessaire de choisir un type de semences de céréales qui est connu et dire, par exemple, "bonne semence comme le riz."
-  * **Graines de mauvaises herbes **  - Les graines de mauvaises herbes qui ont été plantées grandiraient comme une herbe haute, mais ne pouvaient pas être mangées . Elles étaient inutiles.
-  * **Blé**  - C'est à dire, "semences de blé." Le blé est une sorte de grain qui pousse comme une herbe haute. Il a des graines que les gens utilisent pour la nourriture.
+  * **bonne semence**  - Cette graine était le grain de blé. Si ce type de semences n'est pas connu dans votre région, il est préférable d'utiliser un terme général pour "semence". S'il n'y a pas de terme général, il peut être nécessaire de choisir un type de céréales qui est connu et dire, par exemple, "une bonne semence comme le riz."
+  * **des mauvaises herbes**  - Les graines de mauvaises herbes qui ont été plantées grandiraient comme une herbe haute, mais ne pouvaient pas être mangées. Elles étaient inutiles.
+  * **blé**  - C'est à dire, "semence de blé." Le blé est une sorte de grain qui pousse comme une herbe haute. Il a des graines que les gens utilisent pour la nourriture.
 **[[:fr:obs:notes:frames:50-04|<<]] | [[:fr:obs:notes:50|Up]] | [[:fr:obs:notes:frames:50-06|>>]]**
 
 ~~DISCUSSION~~
