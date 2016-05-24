@@ -1,10 +1,10 @@
-===== Wait for the Harvest Attendez pour la moisson [50-07] =====
+===== Wait for the Harvest / Attendez la moisson [50-07] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
 “The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
-“Les serviteurs demandèrent à leur maître 'Devrons-nous arracher toutes ces mauvaises herbes?' Le maître répondit, 'Non, car en enlevant les mauvaises herbes vous risqueriez d'arracher le blé en même temps. Attendez la moisson, et à ce moment-là vous enlèverez d'abord les mauvaises herbes que vous allez lier en bottes pour les brûler. Ensuite vous couperez le blé et vous le rentrerez dans mon grenier.'”
+“Les **serviteurs** demandèrent à leur **maître** 'Devrons-nous arracher toutes ces mauvaises herbes?' Le maître répondit, 'Non, car en enlevant les mauvaises herbes, **vous allez arracher une partie du blé en même temps**. Attendez **la moisson**, et à ce moment-là vous enlèverez d'abord les mauvaises herbes que vous allez lier en bottes pour les brûler. Ensuite vous couperez **le blé** et vous le rentrerez dans mon **grenier**.'”
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:other/servant|servants]]**
@@ -20,11 +20,11 @@
   * **barn**  - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
 ===== Notes de traduction: =====
 
-  * (Jésus continue à raconter l'histoire.)
-  * **Vous arracherez une partie du blé ainsi **  - Cela signifie, "vous retirerez accidentellement une partie du blé aussi." Il serait trop difficile de distinguer le jeune grain de l'ivraie, et de tirer les mauvaises herbes sans arracher le blé.
-  * **Jusqu'à la moisson **  - "Jusqu'au moment où que le blé est prêt pour la récolte" ou, "jusqu'à ce que le blé est suffisament haut pour être récolté.
+  * (Jésus continue à raconter la parabole.)
+  * **vous allez arracher une partie du blé en même temps**  - Cela signifie, "vous retirerez accidentellement une partie du blé aussi." Il sera trop difficile de distinguer le jeune grain de l'ivraie, et de tirer les mauvaises herbes sans arracher le blé.
+  * **la moisson**  - "Jusqu'au moment où le blé sera prêt pour la récolte" ou, "jusqu'à ce que le blé soit suffisament haut pour être récolté.
   * **le blé **  - C'est à dire, "Les grains de blé récoltés"
-  * **Grange**  - Il s'agit du bâtiment où le grain de blé récolté a été enregistré et stocké. Il pourrait aussi être appelé un "entrepôt."
+  * **grenier**  - Il s'agit du bâtiment où le blé récolté est stocké. Il pourrait aussi être appelé un "entrepôt."
 **[[:fr:obs:notes:frames:50-06|<<]] | [[:fr:obs:notes:50|Up]] | [[:fr:obs:notes:frames:50-08|>>]]**
 
 ~~DISCUSSION~~
