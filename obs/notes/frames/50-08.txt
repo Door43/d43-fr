@@ -1,10 +1,10 @@
-===== The Field Is the World  Le champ est le monde [50-08] =====
+===== The Field Is the World / Le champ est le monde [50-08] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
 The **disciples** did not understand the meaning of the story, so they asked **Jesus** to explain it to them. Jesus said, “The man who planted the **good** seed represents the **Messiah**. The field represents the world. The good seed represents **the people of God’s kingdom**.”
 
-Les disciples ne comprenaient pas la signification de l'histoire et demandèrent à Jesus de leur expliquer. Jésus répondit, “Celui qui sème la bonne semence, représente le Messie. Le champ représente le monde. La bonne semence, représente ceux qui font partie du royaume de Dieu.”
+Les **disciples** ne comprenaient pas la signification de l'histoire et demandèrent à **Jesus** de leur expliquer. Jésus répondit, “Celui qui sème la **bonne** semence, représente le **Messie**. Le champ représente le monde. La bonne semence, représente **les gens qui font partie du royaume de Dieu**.”
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/disciple|disciples]]**
@@ -19,7 +19,7 @@ Les disciples ne comprenaient pas la signification de l'histoire et demandèrent
   * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
 ===== Note de traduction: =====
 
-  * **Le peuple du royaume de Dieu **  - Cela peut aussi être traduit par "les gens qui vivent sous l'autorité de Dieu, ou les personnes qui se sont soumises à l'autorité  de Dieu, ou les personnes qui vivront avec Dieu dans son royaume. "
+  * **les gens qui font partie du royaume de Dieu**  - Cela peut aussi être traduit par "les gens qui vivent sous l'autorité de Dieu", ou "les personnes qui se sont soumises à l'autorité de Dieu", ou "les personnes qui vivront avec Dieu dans son royaume. "
 **[[:fr:obs:notes:frames:50-07|<<]] | [[:fr:obs:notes:50|Up]] | [[:fr:obs:notes:frames:50-09|>>]]**
 
 ~~DISCUSSION~~
