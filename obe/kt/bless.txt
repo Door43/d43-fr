@@ -40,7 +40,7 @@ Bénir quelqu'un ou quelquechose est faire en sorte que du bien ou de bonnes cho
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   * **[[:fr:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
   * **[[:fr:obs:notes:frames:01-15|[01-15]]]** God made Adam and Eve in his own image. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth."
