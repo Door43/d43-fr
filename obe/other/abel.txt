@@ -1,21 +1,19 @@
-====== Abel - F ======
+====== Abel Abel - F ======
 
-===== les Faits: =====
+===== Facts: les Faits: =====
 
-Abel était le second fils d'Adam et d'Eve.
+Abel était le second fils d'Adam et Eve.
 
-  * Abel était un berger.
-  * Dieu était satisfait de la vie et des offrandes d'Abel.
-  * Le fils ainé d'Adam et d'Eve, Cain, a tué Abel.
+  * Abel a travaillé comme berger.
+  * Abel plaît à Dieu avec sa vie et ses offrandes.
+  * Le fils ainé d'Adam et Eve, qui s'est appelé Cain, a tué Abel.
 
-( Suggestions pour la traduction: (Traduire les Noms de personnes)- (voir le Manuel Académique de Traduction)
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(Voir aussi:[[:fr:obe:other:shepherd|(Adam, Eve, berger, garder les moutons)]]
+(See also: [[:fr:obe:other:adam|Adam F]], [[:fr:obe:other:eve|Eve]], [[:fr:obe:other:shepherd|shepherd, to shepherd]])
 
-===== Références bibliques: =====
+===== Bible References: =====
 
 {{topic>:en:bible?abel&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
-
-Genèse 4:12
