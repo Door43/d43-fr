@@ -1,12 +1,10 @@
-===== The Frogs [10-04] =====
-
-===== Les Grenouilles [10-04] =====
+===== The Frogs / Les Grenouilles [10-04] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
 **God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
 
-**Dieu envoya une invasion de grenouilles**.** Pharaon supplia Moïse** d'éloigner les grenouilles, mais une fois que toutes les grenouilles avaient péri,** Pharaon endurcit son cœur** et il ne laissa pas** les Israélites** partir d'Égypte.
+**Dieu envoya une invasion de grenouilles** sur l'Egypte. **Pharaon supplia Moïse** d'éloigner les grenouilles, mais une fois que toutes les grenouilles avaient péri,**Pharaon endurcit son cœur** et il ne laissa pas **les Israélites** partir d'Égypte.
 
 =====Termes Importants =====
 
@@ -24,7 +22,7 @@
   * **hardened his heart**  - He became stubborn again and refused to obey God.
 ===== Notes de Traduction: =====
 
-  * **Dieu envoya une invasion de grenouilles**  - On pourrait traduire ainsi, "Dieu a fait en sorte que beaucoup de grenouilles sont apparues dans toute l'Egypte."
+  * **Dieu envoya une invasion de grenouilles sur l'Egypte**  - On pourrait traduire ainsi, "Dieu a fait en sorte que beaucoup de grenouilles apparaitre dans toute l'Egypte."
   * **endurcit son cœur**  - Il est de nouveau devenu têtu et a refusé d'obéir à Dieu.
 **[[:fr:obs:notes:frames:10-03|<<]] | [[:fr:obs:notes:10|Up]] | [[:fr:obs:notes:frames:10-05|>>]]**
 
