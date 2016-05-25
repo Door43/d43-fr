@@ -1,10 +1,10 @@
-===== Evil People Will Be Judged Les mauvais gens seront jugés [50-10] =====
+===== Evil People Will Be Judged / Les mauvais gens seront jugés [50-10] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
 “When the world ends, the **angels** will gather together all the people **who belong to the devil** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **suffering**. Then **the righteous ones** will **shine like the sun** in the **kingdom** of **God their Father**.”
 
-“A la fin, les anges rassembleront tous les gens qui appartiennent au diable et les précipiteront dans la fournaise ardente, où il y aura beaucoup de pleurs et des grincements de dents et des souffrances terribles. Alors, les justes brilleront comme le soleil dans le royaume de Dieu leur Père.”
+“A la fin du monde, les **anges** rassembleront tous les gens **qui appartiennent au diable** et les précipiteront dans **la fournaise ardente**, où il y aura beaucoup de pleurs et des grincements de dents et des **souffrances** terribles. Alors, **les justes** **brilleront comme le soleil** dans le **royaume** de **Dieu leur Père**.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt:angel]]**
@@ -22,10 +22,10 @@
 
 ===== Notes de traduction: =====
 
-  * **Qui appartiennent au diable **  - Cela pourrait aussi être traduit par "qui obéissent le diable" ou "qui sont gouvernés par le diable." Il s'agit de ceux qui ne croient pas en Jésus, mais qui suivent les mauvaises voies du diable.
-  * **Un incendie qui fait rage **  - C'est "un feu brûlant trés chaud" ou un grand feu très chaud."
-  * **Les Justes **  - Il s'agit des personnes qui appartiennent au Messie. Voir **[[:fr:obs:notes:frames:50-08|[50-08]]]**.
-  * **Resplendiront comme le soleil **  - Cela pourrait aussi être traduit par "seront brillants comme le soleil ou répandront une pure bonté comme le soleil resplendit d'une lumière brillante."
+  * **qui appartiennent au diable**  - Cela pourrait aussi être traduit par "qui obéissent au diable" ou "qui sont gouvernés par le diable." Il s'agit de ceux qui ne croient pas en Jésus, mais qui suivent les mauvaises voies du diable.
+  * **la fournaise ardente**  - C'est "un feu brûlant très chaud" ou "un grand feu très chaud."
+  * **les Justes**  - Il s'agit des personnes qui appartiennent au Messie. Voir **[[:fr:obs:notes:frames:50-08|[50-08]]]**.
+  * **brilleront comme le soleil**  - Cela pourrait aussi être traduit par "seront rayonnants comme le soleil" ou "feront preuve d'une bonté pure comme le soleil répand une lumière brillante."
 **[[:fr:obs:notes:frames:50-09|<<]] | [[:fr:obs:notes:50|Up]] | [[:fr:obs:notes:frames:50-11|>>]]**
 
 ~~DISCUSSION~~
