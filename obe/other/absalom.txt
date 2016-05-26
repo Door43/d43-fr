@@ -1,6 +1,6 @@
 ====== Absalom F ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Absalom était le troisième fils du roi David. Il était renommé pour sa belle apparence et un tempérament furieux.
 
@@ -9,7 +9,7 @@ Absalom était le troisième fils du roi David. Il était renommé pour sa belle
   * Absalom a incité quelques gens du peuple contre le roi David et a conduit cette révolte.
   * L'armée de David a combattu contre Absalom et le tua. David eut beaucoup de chagrin quand cela arriva.
 
-(Suggestions de traduction: Comment traduire les Noms Propres -Voir le manuel d'Académie deTraduction-)
+Suggestion de traduction:( [[https://door43.org/en/ta/vol1/translate/translate_names|Comment Traduire Les Noms Propres)(How to Translate Names]])
 
 (voir aussi: [[:fr:obe:other:geshur|Guechour]], [[:fr:obe:other:amnon|Amnon]])
 
