@@ -16,7 +16,7 @@ Suggestions de traduction: ([[:en:ta:vol1:translate:translate_names|Comment trad
 
 (Voir aussi : [[:fr:obe:other:eve|Eve]])
 
-===== Bible References: Références Bibliques =====
+===== Références Bibliques =====
 
 {{topic>:en:bible?adam&nocomments}}
 
