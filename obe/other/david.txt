@@ -1,20 +1,25 @@
 ====== David(David) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 David was the second king of Israel and he served God faithfully.
 
+David a été le second roi d'Israël et servit dieu fidèlement.
+
   * God chose David to become king when he was still a young boy caring for his family's sheep.
+  * Dieu choisit David pour être le roi d'Israël alors qu'il était un jeune garçon gardant les moutons de sa famille.
   * David became a great fighter and led the Israelite army in battles against their enemies.
+  * David devint un grand guerrier et commanda l'armée d'Israël  durant les batailles contre leurs ennemis.
   * Saul tried to kill David, but God protected him, and made him king after Saul's death.
+  * Saül essaya de tuer David, mais Dieu le protégea et le nomma roi d'Israël après la mort de Saül.
   * David sinned against God, but he repented and God forgave him.
-  * David's son, King Solomon, built the temple for God that David had planned.
-  * Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
+  * David pécha envers Dieu, mais il se repentit et Dieu lui pardonna.
+  * David's son, King Solomon, built the temple for God that David had planned.Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
+  * Le fils de David, le roi Salomon, bâtit le temple pour Dieu dont David avait fait le plan. Jésus, le Messie, est un descendanrt de David, et fut donc appelé "le fils de David."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions Suggestions de traduction: ([[:en:ta:vol1:translate:translate_names|Comment Traduire les Noms Propres)(How to Translate Names]])
 
-(See also: [[saul]], [[solomon]])
-
+(See also Voir aussi: [[:fr:obe:other:saul|Saul (OT)]], [[:fr:obe:other:solomon|Solomon]])
 
 ===== Bible References: =====
 
