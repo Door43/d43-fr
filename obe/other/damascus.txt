@@ -1,19 +1,25 @@
 ====== Damascus/Damas ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Damascus is the capital city of the country of Syria. It is still in the same location as it was in Bible times.
 
+damas est la capitale de la Syrie.Elle se truuve au même endroit que dans les temps bibliques.
+
   * Damascus is one of the oldest, continuously inhabited cities in the world.
+  * Damas est l'une des plus anciennes villes habitées du monde.
   * During the time of Abraham, Damascus was the capital of the Aram kingdom (located in what is now Syria).
+  * A l'époque d'Abraham, Damas était la capitale du royaume d'Aram (situé en Syrie de nos jours).
   * Throughout the Old Testament, there are references to significant historical interactions between the inhabitants of Damascus and the people of Israel.
+  * L'Ancien Testament contient de nombreuses rèférences concernant  d'importantes interactions historiques entre les habitants de Damas et le peuple d'Israël.
   * Several biblical prophecies predict the destruction of Damascus. These prophecies may have been fulfilled when Assyria destroyed the city during Old Testament times or there may be a future destruction that will be more complete.
+  * Plusiueurs prophécies bibliques prédisent la destruction de Damas. Ces prophécies ont pu être réalisées lorsque l'Assyrie détruisit la ville à l'époque de l'Ancienn Testament ou  une destruction totale arrivera peut être dans l'avenir.
   * In the New Testament, the Pharisee Saul (later known as Paul) was on his way to arrest Christians in the city of Damascus when Jesus confronted him and caused him to become a believer.
+  * Dans le Nouveau testament, le pharisien Saul (plus tard Paul) était en chemin pour arrêter des chrétiens de la villle de Damas, lorsque Jésus le confronta et fit que Paul devint un croyant.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment /Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: [[syria|Syria]], [[assyria]] )
-
+(See also Voir aussi: [[:fr:obe:other:syria|Syria]], [[:fr:obe:other:assyria|Assyria, Assyrian, Assyrian Empire(Assyrie,Assyrien,Empire Assyrien)]] )
 
 ===== Bible References: =====
 
