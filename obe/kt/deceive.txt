@@ -22,11 +22,9 @@ Le terme "tromper" signifie faire en sorte que quelqu'un croit à un mensonge. O
 
 (See: [[:fr:obe:kt:true]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?deceive&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?deceive&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
