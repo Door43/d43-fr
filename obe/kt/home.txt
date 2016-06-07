@@ -1,9 +1,8 @@
-====== List of the Key Terms in the OBE Directory ======
+====== List of the Key Terms in the OBE Directory/Liste Des Mots Clés dans Le Directoire de L'OBE ======
 
-Link to [[:fr:obe:other:home]] \\ 
-Link to [[:fr:obe:home]]
+Link to [[:fr:obe:other:home|List of the Other Terms in the OBE Directory]]\\
+Link to [[:fr:obe:home|Complete List of translationWords - French/Liste Complète Des Mots de Traduction- Français]]
 
 <nspages fr:obe:kt -title -exclude:home -textPages="">
-
 
 ~~NOCACHE~~
