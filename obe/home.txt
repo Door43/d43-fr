@@ -5,6 +5,6 @@
   * [[:fr:obe:kt:home|List of the Key Terms in the OBE Directory]]
   * [[:fr:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Terms in the OBE:Tous Les Mots dans l'OBE ====
+==== All Terms in the OBE:Tous Les Mots dans l'OBE: ====
 
 <nspages fr:obe -r -title -exclude:home -textPages="">
