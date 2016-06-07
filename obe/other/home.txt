@@ -1,9 +1,8 @@
-====== List of the Other Terms in the OBE Directory ======
+====== List of the Other Terms in the OBE Directory/Liste Des Autres Mots dans Le Directoire de l'OBE ======
 
 ~~NOCACHE~~
 
-Link to [[:fr:obe:kt:home]] \\ 
-Link to [[:fr:obe:home]]
+Link to/Lien de retour à [[:fr:obe:kt:home|List of the Key Terms in the OBE Directory/ La Liste Des Mots Clés dans Le Directoire de L'OBE]]\\
+Link to/Lien de retour à [[:fr:obe:home|Complete List of translationWords - French/Liste Complète Des Mots de Traduction- Français]]
 
 <nspages fr:obe:other -title -exclude:home -textPages="">
-
