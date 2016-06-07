@@ -1,10 +1,9 @@
 ====== Complete List of translationWords - French/ Liste Complète Des Mots de Traduction- ======
 
-==== "Key Terms" and "Other Terms" in the OBE Directory: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory:"Mots Clés et "Autres Mots" dans le Directoire de l'OBE ====
 
   * [[:fr:obe:kt:home|List of the Key Terms in the OBE Directory]]
   * [[:fr:obe:other:home|List of the Other Terms in the OBE Directory]]
-
 
 ==== All Terms in the OBE: ====
 
