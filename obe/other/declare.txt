@@ -2,20 +2,27 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The terms "declare" and "declaration" refer to making a formal or public statement, often to emphasize something.
 
-  * Many of the Bible's prophetic messages are recorded as God saying, "I declare," which means, "I emphatically say."
-  * A "declaration" calls attention to the importance of what is being proclaimed.
+Les termes "déclarer"et "déclaration" que l'on fait une déclaration formelle et publique, qui met l'importance sur quelquechose.
 
-Translation Suggestions:
+  * Many of the Bible's prophetic messages are recorded as God saying, "I declare," which means, "I emphatically say."
+  * Beaucoup de passages prophétiques de la Bible sont écrits avec Dieu disant," Je déclare" ce qui signifie "Je dis avec force."
+  * A "declaration" calls attention to the importance of what is being proclaimed.
+  * Une "déclaration" met l'importance sur la proclamation.
+
+Translation Suggestions:Suggeations de traduction:
 
   * Depending on the context, "declare" could also be translated as "proclaim" or "publicly state" or "strongly say" or "emphatically state."
+  * Selon le contexte, on pourrairt traduire "déclarer" parv"proclamer" ou dire publiquement" ou dire avec force" ou "exprimer avec emphase."
   * The term "declaration" could also be translated as, "statement" or "proclamation."
-  * The phrase, "this is Yahweh's declaration" could be translated as, "this is what Yahweh declares" or "this is what Yahweh says." 
+  * On pourrait traduire le terme "déclaration" par "annonce avec force" ou "proclamation."
+  * The phrase, "this is Yahweh's declaration" could be translated as, "this is what Yahweh declares" or "this is what Yahweh says.
+  * On pourrait traduire l'expression "voici la déclaraton de Yahvé" par "voici ce que Yahvé déclare" ou "voici ce que Yahvé dit."
 
-(See also: [[:En:obe:other:proclaim]])
+(See also Voir aussi: [[:en:obe:other:proclaim|proclaim, proclamation]])
 
 ===== Bible References: =====
 
