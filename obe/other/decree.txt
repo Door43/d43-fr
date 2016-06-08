@@ -21,11 +21,9 @@ Un decret est une proclamation ou une loi adressée publiquement à tout le peup
 
 (See also Voir aussi: [[:fr:obe:other:law|law, principle]], [[:fr:obe:other:command|command, to command, commandment/ordre,ordonner, commandement]], [[:fr:obe:other:proclaim|proclaim, proclamation]], [[:fr:obe:other:declare|declare, declaration/déclarer, déclaration]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>decree&nocomments}}
-
-~~DISCUSSION~~
+{{topic>decree&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
