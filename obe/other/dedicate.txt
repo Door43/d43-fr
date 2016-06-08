@@ -13,12 +13,10 @@ Dédicacer est mettre à part ou réserver pour un but ou une fonction spéciale
 
 (See also Voir aussi: other)
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>dedicate&nocomments}}
-
-~~DISCUSSION~~
+{{topic>dedicate&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>draft}}								
+{{tag>draft}}
