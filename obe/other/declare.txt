@@ -13,7 +13,7 @@ Les termes "déclarer" et "déclaration" se réfèrent à un discours solennnel 
   * A "declaration" calls attention to the importance of what is being proclaimed.
   * Une "déclaration" adresse l'attention sur l'importance de la proclamation.
 
-Translation Suggestions:Suggeations de traduction:
+**Translation Suggestions: Suggestions de traduction:**
 
   * Depending on the context, "declare" could also be translated as "proclaim" or "publicly state" or "strongly say" or "emphatically state."
   * Selon le contexte, on pourrairt traduire "déclarer" par "proclamer" ou "dire publiquement" ou "dire avec force" ou "exprimer avec emphase."
