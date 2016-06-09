@@ -17,14 +17,18 @@ Tous ces termes se réfèrent aux démons qui sont des êtres spirituels qui s'o
   * Demons are more powerful than humans, but not as powerful as God.
   * Des démons sont plus puissants que les humains, mais pas autant que Dieu.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "demon" could also be translated as "evil spirit."
+  * On pourrait traduire le terme "démon" par  mauvais esprit."
   * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
+  * On pourrait traduire "esprit impur" par "esprit dépravé" ou "esprit corrompu" ou "esprit pervers."
   * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Soyez sûrs d'employer un mot ou une expression différents que le mot diable quand vous traduisez ce terme.
+  * Also consider how the term "demon" is translated in a local or national language. (See: Voir: ([[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Inconnus) (How to Translate Unknowns]])
+  * Considérez aussi comment on traduit ce terme dans la langue locale ou nationale.
 
-(See also: [[:fr:obe:kt:demonpossessed]], [[:fr:obe:kt:satan]], [[:fr:obe:other:idol]], [[:fr:obe:kt:falsegod]], [[:fr:obe:kt:angel]], [[:fr:obe:kt:evil]], [[:fr:obe:kt:unclean]])
+(See also Voir aussi: [[:fr:obe:kt:demonpossessed|demon-possessed]], [[:fr:obe:kt:satan|Satan, devil, evil one]], [[:fr:obe:other:idol|idol, idolatrous]], [[:fr:obe:kt:falsegod|false god, foreign god, god, goddess]], [[:fr:obe:kt:angel|angel(ange)]], [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]], [[:fr:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
