@@ -6,10 +6,12 @@
 
 A descendant is someone who is a direct blood relative of someone else further back in history.
 
+Un descendant est un membre de famille en directe lignée  par le sang avec quelqu'un d'autre de génération en génération.
+
   * For example, Abraham was a descendant of Noah.
   * par exemple, abraham était un descendant de Noé.
   * A person's descendants are his children, grandchildren, great-great-grandchildren, etc
-  * Les descendants d'une personne sont ses enfants, ses petits enfants, ses arrière petits enfants,etc.
+  * Les descendants d'une personne sont ses enfants, ses petits- enfants, ses arrière petits- enfants,etc.
 
 ===== Bible References: =====
 
