@@ -2,15 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "dishonor" means to do or say something that is disrespectful to someone or that causes shame or disgrace.
 
-  * Children are supposed to honor their parents. When children disobey they dishonor their parents.
-  * The Israelites dishonored Yahweh when they worshiped false gods and practiced immoral behavior.
-  * The Jews dishonored Jesus by saying that he was possessed by a demon.
+Le Terme  "déshonorer" signifie parler ou agir envers quelqu'un avec irrespect causant honte et disgrace.
 
-(See also: [[:fr:obe:other:honor]])
+  * Children are supposed to honor their parents. When children disobey they dishonor their parents.
+  * Des enfants sont supposés honorer leurs parents. Lorsque des  enfants désobéissent ils déshonorent leurs parents.
+  * The Israelites dishonored Yahweh when they worshiped false gods and practiced immoral behavior.
+  * Les Israélites déshonorèrent Yahvé quand ils adorèrent des faux dieux et ont agi avec immoralité.
+  * The Jews dishonored Jesus by saying that he was possessed by a demon.
+  * Les Juifs déshonorèrent Jésus en disant qu'un démon le possédait.
+
+(See also: [[:fr:obe:other:honor|honor]])
 
 ===== Bible References: =====
 
