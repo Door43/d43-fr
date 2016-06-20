@@ -2,16 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
-The terms "disperse" and  "dispersion" refer to people or things that are scattered in many different directions.
+The terms "disperse" and "dispersion" refer to people or things that are scattered in many different directions.
+
+Les termes "disperser" et "dispersion" se réfèrent à des gens ou objets que l'on a disséminés dans des directions différentes. .
 
   * In the New Testament, this term refers specifically to persecuted Christians who had to leave their homes and move to many different locations.
+  * Dans Le nouveau Testament , ce terme se réfèrent aux chrétiens persécutés qui ont dû quitter leurs maisons et s'en aller vers bien des endroits différents.
   * The phrase "the dispersion" could be translated as "believers in many different places" or "the people who are scattered"
+  * On pourrait traduire l'expression "dispersion" par "croyants vivant aillleurs dans différents lieux " ou " les gens disséminés."
   * The term "disperse" could be translated as, "send out" or "send away" or "scatter."
-  
+  * On ppourrait traduire le terme "disperser" par "envoyer" ou " envoyer au loin" ou "disséminer."
 
-(See also: [[:fr:obe:other:persecute]], [[:fr:obe:kt:believer]])
+"(See also voir aussi: [[:fr:obe:other:persecute|persecute, persecution]], [[:fr:obe:kt:believer|believer(croyant)]])
 
 ===== Bible References: =====
 
