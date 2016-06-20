@@ -1,4 +1,4 @@
-====== divination ======
+====== divination/divination ======
 
 ====== les Faits: ======  
 
