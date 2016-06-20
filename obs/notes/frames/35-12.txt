@@ -7,9 +7,11 @@
 “Le fils aîné dit à son père, “Voici, il y a tant d'années que je te sers sans Je n'ai jamais **désobéi**** ** tes ordres, et jamais tu ne m'as donné un chevreau pour me réjouir avec mes amis. Mais quand **ton fils** est rentré, celui qui a **mangé ton bien** par une conduite **scandaleuse**, c'est pour lui que tu as tué le veau gras!'”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/faithful|faithfully]]**
-  * **[[:fr:obe:other/disobey|disobeyed]]**
-  * **[[:fr:obe:kt/sin|sinful]]**
+
+  * **[[:fr:obe:kt:faithful|faithfully]]**
+  * **[[:fr:obe:other:disobey|disobey]]**
+  * **[[:fr:obe:kt:sin|sinful]]**
+
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
