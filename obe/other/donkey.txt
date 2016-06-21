@@ -6,7 +6,7 @@
 
 A donkey is a four-legged work animal, similar to a horse, but smaller and with longer ears.
 
-Un âne est un animal domestique à quatre pattes, semblable à un cheval, mais plus petit et avec de longues oreilles.
+Un âne est un animal domestique à quatre pattes, semblable à un cheval, mais plus petit et avec des oreilles plus longues.
 
   * A mule is the sterile offspring of a male donkey and a female horse.
   * Une mûle est la progéniture infertile d'un âne et d'une jument.
