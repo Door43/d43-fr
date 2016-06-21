@@ -15,6 +15,6 @@ Un divorce est un acte juridique qui met fin à un mariage.
   * A "certificate of divorce" could be translated as, a "paper stating that the marriage has ended."
   * On pourrait traduire un "certificat de divorce" par "document spécifiant que le mariage est terminé."
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?divorce&nocomments}}~~DISCUSSION~~{{tag>draft}}
