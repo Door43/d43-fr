@@ -24,11 +24,9 @@ Le terme "terre" a différents sens.
 
 (See also Voir aussi: [[:fr:obe:kt:world|world, worldly]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques =====
 
-{{topic>earth&nocomments}}
-
-~~DISCUSSION~~
+{{topic>earth&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
