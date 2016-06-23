@@ -2,17 +2,22 @@
 
 ====== les Faits: ======  
 
-===== Facts: =====
+=====   =====
 
 Eden was a place that existed in ancient times that had a garden where God placed the first man and woman to live.
 
+Eden était un endroit  existant dans les temps anciens, qui était un jardin où Dieu y mit le premier homme et la femme pour y vivre.
+
   * The garden was only part of the region called "Eden".
+  * Le jardin était le seul endroit de la région appelé Eden.
   * The exact location of the region of Eden is not certain.
+  * On ne connait pas l'endroit exact d'Eden.
   * The garden is also called the "garden of Yahweh."
+  * On appelle aussi ce jardin "le jardin d'Eden."
   * The word "Eden" comes from a Hebrew word meaning "to take great delight in".
+  * Le mot Eden vient d'un mot hébreu qui signifie "éprouver un grand plaisir dans."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
+(Translation suggestions suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire les Noms Propres) (How to Translate Names]])
 
 ===== Bible References: =====
 
