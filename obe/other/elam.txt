@@ -1,15 +1,19 @@
 ====== Elam/Elam ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Elam was a son of Noah's son, Shem.
 
+Elam était un fils du fils de Noé,Sem.
+
   * The descendants of Elam were called "Elamites" and lived in a region called Elam.
+  * On appelait les descendants d'Elam "Elamites"qui vivaient dans une région appelée Elam.
   * The region of Elam was located to the southeast of the Tigris River, in what is now western Iran.
+  * la région d'Elam se situait au Sud-Est du fleuve Tigres, qui est maintenant la partie Ouest de l'Iran.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de Traduction: ([[:en:ta:vol1:translate:translate_names|Comment Traduire les Noms Propres) (How to Translate Names]])
 
-(See also: [[:fr:obe:other:|Noah]], [[:fr:obe:other:|Shem]])
+(See also Voir aussi: [[:fr:obe:other:home|Noah]], [[:fr:obe:other:home|Shem]])
 
 ===== Bible References: =====
 
