@@ -17,13 +17,8 @@ Elisée était un prophète en Israël durant les règnes des rois Achab, Ahazia
 
 (See also Voir aussi: [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:fr:obe:other:elijah|Elijah(Elie)]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?elisha&nocomments}}
+{{topic>:en:bible?elisha&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
 ~~NOCACHE~~
