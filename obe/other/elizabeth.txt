@@ -17,15 +17,8 @@ Elisabeth était la mère de Jean-Baptiste. Son mari s'appelait Zacharie.
 
 (See also Voir aussi: [[:fr:obe:other:zechariahnt|Zechariah (NT)]], [[:fr:obe:other:johnthebaptist|John (the Baptist)]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?elizabeth&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?elizabeth&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
