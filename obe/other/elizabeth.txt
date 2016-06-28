@@ -1,17 +1,21 @@
 ====== Elizabeth/Elisabeth ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Elizabeth was the mother of John the Baptist. Her husband's name was Zechariah.
 
-    * Elizabeth was not able to bear children, but when she was too old to have children, God promised Zechariah that Elizabeth would bear him a son.
-    * God kept his promise, and soon Zechariah and Elizabeth were able to conceive, and she gave birth to a son. They named the baby John.
-    * Elizabeth was a relative of Mary, Jesus' mother.
+Elisabeth était la mère de Jean Baptiste. Son mari s'appelait Zacharie.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Elizabeth was not able to bear children, but when she was too old to have children, God promised Zechariah that Elizabeth would bear him a son.
+  * Elisabeth n'avait pas pu avoir d'enfant, mais quand elle fut trop vieille pour avoir des enfants, Dieu promit à Zacharie qu'Elisabeth lui donnerait un fils.
+  * God kept his promise, and soon Zechariah and Elizabeth were able to conceive, and she gave birth to a son. They named the baby John.
+  * dieu garda sa promesse et bientôt Zacharie et elizsabeth furent capables de concevoir et elle lui donna naissance à un fils. ils l'appelèrent Jean.
+  * Elizabeth was a relative of Mary, Jesus' mother.
+  * Elisabeth était une parente de marie, la mère de Jésus.
 
-(See also: [[zechariahnt]], [[johnthebaptist]])
+(Translation suggestions Suggestion de traduction: ([[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
 
+(See also Voir aussi: [[:fr:obe:other:zechariahnt|Zechariah (NT)]], [[:fr:obe:other:johnthebaptist|John (the Baptist)]])
 
 ===== Bible References: =====
 
