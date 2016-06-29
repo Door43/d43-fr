@@ -21,10 +21,9 @@ Ephèse était une ancienne ville grecque située sur la côte Ouest de la Turqu
 
 (See also Voir aussi: [[:fr:obe:other:paul|Paul, Saul]], [[:fr:obe:other:timothy|Timothy]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?Ephesus&nocomments}}
-~~DISCUSSION~~
+{{topic>:en:bible?Ephesus&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
