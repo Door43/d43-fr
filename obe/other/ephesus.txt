@@ -17,7 +17,7 @@ Ephèse était une ancienne ville grecque située sur la côte Ouest de la Turqu
   * The book of Ephesians in the New Testament is a letter that Paul wrote to the believers in Ephesus.
   * Le livre des Ephésiens dans le Nouveau testament est une lettre que Paul écrivit aux croyants d'Ephèse.
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also Voir aussi: [[:fr:obe:other:paul|Paul, Saul]], [[:fr:obe:other:timothy|Timothy]])
 
