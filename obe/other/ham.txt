@@ -1,15 +1,19 @@
 ====== Ham/Cham ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Ham was the second of Noah's three sons who are mentioned in the Old Testament.
 
+Cham était le cadet des trois fils de Noé qui sont mentionnés dans l'Ancien Testament.
+
   * During the worldwide flood that covered the whole earth, Ham and his brothers were with Noah in the ark, along with their wives.
+  * Durant le déluge qui couvrit toute la terre, Cham et ses frères étaient dans l'arche avec Noé, ainsi que leurs épouses.
   * After the flood, there was an occasion where Ham was very disrespectful to his father, Noah. As a result, Noah cursed Ham's son Canaan and all his descendants, who eventually became known as the Canaanites.
+  * Après le déluge, au cours d'un incident, Cham fut très irrespectueux envers son père, Noé. En conséquence, Noé maudit le fils de Cham, Canaan et tous ses descendants, que l'on connut plus tard sous le nom des Cananéens.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|H(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: [[ark]], [[noah|Noah]], [[canaan|Canaan]] )
+(See also Voir aussi: [[:fr:obe:other:ark|ark/arche]], [[:fr:obe:other:noah|Noah]], [[:fr:obe:other:canaan|Canaan]] )
 
 ===== Bible References: =====
 
