@@ -1,16 +1,21 @@
 ====== Ethiopia/Ethiopie ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Ethiopia was a country in Africa located just south of Egypt, bordered by the Nile River to the west and by the Red Sea to the east.
 
+Ethiopie était un pays situé juste.au Sud de l'Egypte,avec le fleuve Nil à l'Ouest et la Mer Rouge à l'Est.
+
   * Ancient Ethiopia covered an area which included land that is now part of several modern-day African countries.
+  * L'ancienne Ethiopie couvrait une surface qui comprend de nos jours plusieurs pays de l'Afrique moderne.
   * Ethiopia is sometimes called "Cush" or "Nubia."
+  * On appelle souvent l'Ethiopie, "Cush" ou "Nubie."
   * The countries of Ethiopia and Egypt were often closely associated in the Bible.
+  * On associait souvent les pays del'Ethiopie avec l'Egypte dans la Bible.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: Cush, Egypt other)
+(See alsoVoir aussi: Cush, Egypt other)
 
 ===== Bible References: =====
 
