@@ -15,11 +15,12 @@ Un évangéliste est une personne qui communique la bonne nouvelle au sujet de J
   * All Christians are exhorted to share this good news and some of them have been given a special spiritual gift to do this. These people are said to have the gift of evangelism and are called "evangelists."
   * Tous les chrétiens reçoivent l'exhortation de partager la bonne nouvelle, et certains ont reçu un don spirirituel à cet effet.on dit que ces personnes ont le don d'évangélisme et sont appelés évangélistes.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "evangelist" could be translated as, "someone who preaches the good news" or "teacher of the good news" or "person who proclaims the good news (about Jesus)" or "good news proclaimer."
+  * On pourrait traduire le terme "évangéliste" par "quelqu'un qui prêche la bonne nouvelle" ou "enseignant la bonne nouvelle" ou "quelqu'un qui proclame la bonne nouvelle (au sujet de Jésus)" ou "hérault de la bonne nouvelle."
 
-(See also: [[:fr:obe:kt:goodnews]], [[:fr:obe:kt:spirit]], [[:fr:obe:kt:gift]])
+(See also Voir aussi: [[:fr:obe:kt:goodnews|good news, gospel]], [[:fr:obe:kt:spirit|spirit, spiritual]], [[:fr:obe:kt:gift|gift]])
 
 ===== Bible References: =====
 
