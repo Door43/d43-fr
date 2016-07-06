@@ -15,12 +15,10 @@ Le terme "faiseur de mal" se réfère généralement aux gens qui commettent des
 
 (See also Voir aussi: [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>evildoer&nocomments}}
+{{topic>evildoer&nocomments}}~~DISCUSSION~~
 
-~~DISCUSSION~~
-
-~~NOCACHE~~ 
+~~NOCACHE~~
 
 {{tag>draft}}
