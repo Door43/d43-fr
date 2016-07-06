@@ -17,11 +17,9 @@ L'Euphrate est le nom de l'un des quatre fleuves qui irriguaient le jardin d'Ede
 
 (Translation suggestions Suggestion de traduction:: [[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-{{topic>:en:bible?euphrates&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?euphrates&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
