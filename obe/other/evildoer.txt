@@ -2,14 +2,18 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "evil-doer" is a general reference to people who perform sinful and destructive acts.
 
-  * It can also be a general word for people who do not obey God.
-  * This could be translated using the word for "evil" or "wicked," with the word for "doing" or "making" or "causing" something.
+Le terme "faiseur de mal" se réfère généralement aux gens qui commettent des actions mauvaises et destructives.
 
-(See also: [[:fr:obe:kt:evil]])
+  * It can also be a general word for people who do not obey God.
+  * Cela peut aussi se référer aux personnes qui n'obéissent pas Dieu.
+  * This could be translated using the word for "evil" or "wicked," with the word for "doing" or "making" or "causing" something.
+  * On pourrait le traduire par "mauvais" ou "méchant", avec les mots "accomplissant" ou "faisant" ou "causant" quelquechose.
+
+(See also Voir aussi: [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]])
 
 ===== Bible References: =====
 
