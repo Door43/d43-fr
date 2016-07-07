@@ -1,17 +1,23 @@
 ====== Ezra/Esdras ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Ezra was an Israelite priest and expert in Jewish law who recorded the history of the Israelites' return to Jerusalem from Babylon where Israel had been held captive for 70 years.
 
+Esdras était un prêtre Israélite Juif et expert de la Loi qui écrivit l'histoire du retour des Israélites à Jérusalem depuis Babylone où Israël était tenu en captivité pendant 70 ans.
+
   * Ezra recorded this part of Israel's history in the biblical book of Ezra. He may also have written the book of Nehemiah, since these two books had originally been one single book.
+  * Cette époque historique  d'Israël se trouve dans le livre d'Esdras. Il est possible qu'il écrivit aussi le livre de Néhémie, car ces deux  livres étaient au début un seul ouvrage.
   * When Ezra returned to Jerusalem he re-established the Law, since the Israelites had stopped obeying the Sabbath laws and had intermarried with women who practiced pagan religions.
+  * Quand Esdras retourna à Jérusalem il rétablit la Loi, car les Israélites avaient désobéi les lois du sabbath et s'étaient mariés avec des femmes qui pratiquaient les religions païennes.
   * Ezra also helped rebuild the temple which had been destroyed by the Babylonians when they captured Jerusalem.
+  * Esdras aida aussi à reconstruire le temple que les babyloniens avaient détruit  lors de la capture de Jérusalem.
   * There are two other men named Ezra mentioned in the Old Testament.
+  * ils existent aussi deux autres hommes du non d'Esdras mentionnés dans l'Ancien Testament.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: [[:fr:obe:other:nehemiah]], [[:fr:obe:other:jerusalem]], [[:fr:obe:kt:temple]], [[:fr:obe:kt:lawofmoses]])
+(See also Voir aussi: [[:fr:obe:other:nehemiah|Nehemiah]], [[:fr:obe:other:jerusalem|Jerusalem]], [[:fr:obe:kt:temple|temple]], [[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]])
 
 ===== Bible References: Références Bibliques: =====
 
