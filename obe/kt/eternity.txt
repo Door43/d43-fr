@@ -17,15 +17,18 @@ Les définitions de "perpétuel" et "éternel" sont très proches et se référe
   * The phrase “forever and ever” has the idea of time that never ends and expresses what eternity or eternal life is like.
   * L'expression "à jamais"  exprime une durée qui est sans fin et décrit le concept d'éternité ou de vie éternelle.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traductions: =====
 
   * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
+  * D'autres moyens de traduire "éternel" ou "pour toujours" seraient " sans fin" ou " ne s'arrêtant jamais" ou "continuant pour toujours."
   * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
+  * On pourrait traduire "vie éternelle" et "vie perpétuelle" par "vie qui ne s'arrête jamais" ou "vie qui se continue sans arrêt" ou " résurrection de nos corps pour vivre à jamais."
   * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * selon le contexte, il y a diverses façons de traduire "éternité" par exemple, "existence hors du temps", ou "vie sans fin" ou "vie au ciel."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See Voir:([[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Inconnus) (How to Translate Unknowns]])
+  * Considérez aussi comment une traduction de la Bible traduit ce mot dans la langue locale ou nationale.
 
-
-(See also: [[:fr:obe:kt:forever]], [[:fr:obe:kt:life]])
+(See also Voir aussi: [[:fr:obe:kt:forever|forever]], [[:fr:obe:kt:life|life, live, living, alive (à jamais, vie, vivre, vivant,​vivant)]])
 
 ===== Bible References: =====
 
