@@ -2,15 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 When used literally the term "father" refers to a person's male parent. There are also several figurative uses of this term, which often include the meaning of being the leader or founder of a group of people.
 
-  * The terms "father" and "forefather" are often used to refer to the ancestors of a certain person or people group. This could also be translated as, "ancestor" or "ancestral father."
-  * The expression "the father of" can have a figurative meaning. For example, in Genesis 4, "the father of all who live in tents…" could mean, "the first person ever to live in tents."
-  * The apostle Paul figuratively called himself the "father" of those he had helped to become Christians through sharing the gospel with them. One way to translate this would be "spiritual father" or "father in Christ."
+Employé au sens littéral, le terme "père" fait référence au parent masculin. il y a aussi plusieurs sens figurés de ce mot, qui inclut souvent le sens d'être le dirigeant ou le fondateur d'un groupe de gens.
 
-(See also: [[en:obe:kt:godthefather]])
+  * The terms "father" and "forefather" are often used to refer to the ancestors of a certain person or people group. This could also be translated as, "ancestor" or "ancestral father."
+  * On emploie souvent les termes de "père" et "ancêtre' pour se référer aux ancêtres d'une certaine personne ou d'un groupe de gens. Cela pourrait aussi se traduire par "ancêtre" "ou père ancestral."
+  * The expression "the father of" can have a figurative meaning. For example, in Genesis 4, "the father of all who live in tents…" could mean, "the first person ever to live in tents."
+  * l'expression "le père de" peut aussi avoir un sens figutatif. par exemple, dans Genèse 4 "le père de tous ceux qui vivent dans des tentes..." pourrait dire "la première personne ayant vécu dans des tentes."
+  * The apostle Paul figuratively called himself the "father" of those he had helped to become Christians through sharing the gospel with them. One way to translate this would be "spiritual father" or "father in Christ."
+  * L'apôtre Paul utilise au sens figuré le terme "père" lorsqu'il parle de ceux qu'il aida à devenir chrétiens en partageant l'évangile avec eus. On pourrait traduire ceci par "père spirituel" ou "père en Christ."
+
+(See also voir aussi: [[:en:obe:kt:godthefather|God the Father, heavenly Father, Father]])
 
 ===== Bible References: =====
 
