@@ -2,16 +2,22 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The biblical family was a community of persons related by marriage or kinship including what today is called "extended" family.
 
-  * The Hebrew family was a religious community passing on traditions through worship and instruction.
-  * Usually the father was the major authority of the family.
-  * Family could also include servants, concubines, even foreigners.
-  * Some languages may have a broader word such as "clan" or "household" that would fit better in contexts where more than just parents and children are being referred to.
+La famille biblique était une communauté de gens reliés les uns autres par mariage ou lien de parenté comprenant
 
-(See also: [[:En:obe:other:clan]])
+  * The Hebrew family was a religious community passing on traditions through worship and instruction.
+  * La famille hébraïque était une communauté religieuse se passant les traditions par l'intermédiaire de leurs cérémonies relidgieuses et instruction.
+  * Usually the father was the major authority of the family.
+  * Généralement le père était le représentant de l'autorité familliale.
+  * Family could also include servants, concubines, even foreigners.
+  * La famille pouvait comprendre aussi des serviteurs, des concubines, et même des étrangers.
+  * Some languages may have a broader word such as "clan" or "household" that would fit better in contexts where more than just parents and children are being referred to.
+  * Certaines langues peuvent avoir un mot plus large tel que "clan" ou "tribu" qui correspond mieux dans les situations comprenant plus que les parents et les enfants.
+
+(See also Voir aussi: [[:en:obe:other:clan|clan]])
 
 ===== Bible References: =====
 
