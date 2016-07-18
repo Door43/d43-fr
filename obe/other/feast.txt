@@ -2,17 +2,24 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 A feast is an event where a group of people take part in a very large meal, often to celebrate something together.
 
-  * The religious festivals that God commanded the Jews to celebrate often included having a feast together.
-  * Kings and other rich and powerful people often gave elaborate feasts.
-  * In the story about the lost son, the father had a special feast prepared to celebrate the return of his son.
-  * A feast sometimes lasted for several days or more.
-  * In some English versions, the word "feasts" is used to refer to the religious holidays or "festivals" that the Jews celebrated.
+Un festin est un évènement au cours duquel uu groupe de gens participe à un très grand repas, souvent pour célébrer quelquechose ensemble.
 
-(See also: [[:En:obe:other:festival]])
+  * The religious festivals that God commanded the Jews to celebrate often included having a feast together.
+  * Les fêtes religieuses que Dieu a ordonnè aux Juifs de célébrer comportent souvent un festin.
+  * Kings and other rich and powerful people often gave elaborate feasts.
+  * Les rois et d'autres personnes qui sont riches et puissantes  donnent souvent des festins grandioses.
+  * In the story about the lost son, the father had a special feast prepared to celebrate the return of his son.
+  * Dans l'histoire du fils perdu, le père a un festin spécial préparé pour célébrer le retour de son fils.
+  * A feast sometimes lasted for several days or more.
+  * Un festin durait plusieurs jours ou davantage.
+  * In some English versions, the word "feasts" is used to refer to the religious holidays or "festivals" that the Jews celebrated.
+  * Dans certaines versions françaises, le mot "fêtes" est employé pour faire référence aux fêtes religieuses ou "festivals" que les Juifs célébraient.
+
+(See also Voir aussi: [[:en:obe:other:festival|festival]])
 
 ===== Bible References: =====
 
