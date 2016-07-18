@@ -20,7 +20,7 @@ Un faux dieu est quelquechose que les gens adorent au lieu du véritable Dieu. L
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * There may already be a word for "god" or "false god" in the language or in a nearby language.
-  * Il se peut qu'un mot pour "dieu" ou "faux dieu" existe dans la langue ou une
+  * Il se peut qu'un mot pour "dieu" ou "faux dieu" existe dans la langue ou une langue voisine.
   * The term "idol" could be used to refer to false gods.
   * On peut utiliser le terme "idole" pour faire référence au faux dieu.
   * In English, a lower case “g” is used to refer to false gods, and upper case “G” is used to refer to the one true God. Other languages also do that.
