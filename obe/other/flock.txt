@@ -6,8 +6,11 @@
 
 In the Bible, "flock" refers to a group of sheep or goats and "herd" refers to a group of cattle, oxen, or pigs.
 
+Dans la Bible, "troupeau" fait référence à un rassemblement de moutons ou de chèvres. Le même mot en Français s'emploie pour parler d'un groupe de bétail, boeufs, ou cochons.
+
   * In English the term "herd" can also be used for sheep or goats, but in the Bible text it is usually not used this way.
   * The term "flock" can not be used for pigs, oxen or cattle. Other languages may have similar rules for how terms for animal groups are used.
+  * D'autres langues peuvent avoir des termes spéciaux , lorsqu'elles se réfèrent à un groupe d'animaux.
 
 (See also Voir aussi: [[:fr:obe:other:sheep|sheep, ram]], [[:fr:obe:other:goat|goat]], [[:fr:obe:other:ox|ox, oxen]], [[:fr:obe:other:pig|pig, hog]])
 
