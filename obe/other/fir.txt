@@ -17,11 +17,9 @@ Le terme "pin" fait référence à une variété d'arbres avec des aiguilles qui
 
 (See Voir: ([[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Inconnus) (How to Translate Unknowns]])
 
-===== Bible References: =====
+===== Bible References:Références Bibliques: =====
 
-{{topic>fir&nocomments}}
-
-~~DISCUSSION~~
+{{topic>fir&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
