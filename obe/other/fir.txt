@@ -2,15 +2,20 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The term "fir" refers to a kind of tree with needles that remain green all year round and that has cones containing the seeds.
 
-  * Fir trees are also referred to as "evergreen" trees.
-  * In ancient times, the wood of fir trees was used for making musical instruments and for building structures such as boats, houses, and the temple.
-  * Some examples of fir trees mentioned in the Bible are pine, cedar, cypress, and juniper.
+Le terme "pin" fait référence à une variété d'arbres avec des aiguilles qui restent vertes toute l'année et qui ont des cônes qui contiennent des graines.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Fir trees are also referred to as "evergreen" trees.
+  * On se réfère aux pins comme des "arbres à feuilles persistantes."
+  * In ancient times, the wood of fir trees was used for making musical instruments and for building structures such as boats, houses, and the temple.
+  * Dans l'ancien temps, on utilisait le bois des pins pour fabriquer des instrunements de musique, et construire des structures telles que des bâteaux, maisons, et le temple.
+  * Some examples of fir trees mentioned in the Bible are pine, cedar, cypress, and juniper.
+  * Quelques exemples de sapins mentionnés dans la Bible sont les pins, les cyprés, et genévrier.
+
+(See Voir: ([[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Inconnus) (How to Translate Unknowns]])
 
 ===== Bible References: =====
 
