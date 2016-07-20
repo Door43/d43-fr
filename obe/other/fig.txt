@@ -9,7 +9,7 @@ A fig is a small sweet fruit that grows on fig trees. People can eat figs fresh,
 Une figue est un petit fruit sucré qui pousse sur les figuiers. On peut manger des figues, fraîches, cuites, ou sèches. En général on peut les couper en petits morceaux et les presser en formes de gâteaux à manger pour plus tard.
 
   * Fig trees can grow to be as tall as 6 meters high and their large leaves provide pleasant shade.
-  * Des figuiers  peuvent atteindre 6 mètres de haut et leur large feuillage produit de un ombrage agréable.
+  * Des figuiers peuvent atteindre 6 mètres de haut et leur large feuillage produit un ombrage agréable.
   * Fig trees were an important crop in the land of Canaan before the Israelites arrived there.
   * Des figuiers étaient une récolte importante dans le pays de Canaan avant l'arrivée des Israélites.
   * In Bible times, figs were important as a source of food and income.
