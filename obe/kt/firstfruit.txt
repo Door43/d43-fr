@@ -24,9 +24,10 @@ Le terme "premiers fruits" fait référence aux premiers fruitset légumes qui s
 
 (See also voir aussi: [[:fr:obe:kt:firstborn|firstborn]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?firstfruit&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
+
 {{tag>draft}}
