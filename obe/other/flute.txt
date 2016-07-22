@@ -2,15 +2,22 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
+
 In Bible times, pipes were musical instruments made of bones or wood with holes to allow the sound to come out. Most pipes also had reeds that would vibrate as air was blown over them.
 
-  * A flute was a kind of pipe that did not have a reed.
-  * Pipes were commonly used by shepherds to calm their flocks.
-  * Flutes were some of the musical instruments that King Nebuchadnezzar commanded to be played as a signal for people to worship his idol.
-  * Pipes and flutes were used for playing sad or joyful music.
+/Dans la Bible, des pipeaux étaient des instruments de musique fabriqués en os ou en bois avec des trous qui permettent d'entendre le son qui en sort. La plupart des pipeaux avaient aussi des canelures qui vibraient lorsqu'on soufflait de l'air.
 
-(See also: [[:fr:obe:other:|shepherd]], [[:fr:obe:other:|Nebuchadnezzar]], [[:fr:obe:other:|flock]])
+  * A flute was a kind of pipe that did not have a reed.
+  * Une flûte était un genre de pipeau qui n'avait pas de canelure.
+  * Pipes were commonly used by shepherds to calm their flocks.
+  * Les bergers jouaient de leurs pipeaux pur calmer leurs troupeaux.
+  * Flutes were some of the musical instruments that King Nebuchadnezzar commanded to be played as a signal for people to worship his idol.
+  * Les flûtes étaient parmi les instruments de musique que le roi Nebucadnetsar ordonna  de jouer pour signaler à son peuple d'adorer son image.
+  * Pipes and flutes were used for playing sad or joyful music.
+  * On utilisait des pipeaux et des flûtes pour jouer de la musique triste ou gaie.
+
+(See also Voir aussi: [[:fr:obe:other:home|shepherd]], [[:fr:obe:other:home|Nebuchadnezzar]], [[:fr:obe:other:home|flock]])
 
 ===== Bible References: =====
 
