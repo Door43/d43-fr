@@ -18,9 +18,9 @@ Le terme "premiers fruits" fait référence aux premiers fruits et légumes qui 
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * The literal use of this term could be translated as "first portion (of crops)" or "first part of the harvest."
-  * On pourrait traduire ce terme au sens littéral par "première portion " (de la récolte)" ou "première part de la récolte."
+  * On pourrait traduire ce terme au sens littéral par "première portion" (de la récolte)" ou "première part de la récolte."
   * If possible, the figurative uses should also be translated literally, to allow for different meanings in different contexts.
-  * Si possible. les emplois figuratifs pourraient se traduire au sens littéral, pour permettre différentes interprétations dans des contextes différentes..
+  * Si possible. les emplois figuratifs pourraient se traduire au sens littéral, pour permettre différentes interprétations dans des contextes différents..
 
 (See also voir aussi: [[:fr:obe:kt:firstborn|firstborn]])
 
