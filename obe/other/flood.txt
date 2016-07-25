@@ -16,13 +16,13 @@ Un déluge est une énorme quantité d'eau qui recouvre complèment le sol si bi
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * Ways to translate "flood" could include, "an overflowing of water" or "large amounts of water."
-  * On pourrait traduire " déluge' par " Un débordement d'eau" ou " une énorme quantité d'eau."
+  * On pourrait traduire "déluge par " Un débordement d'eau" ou "une énorme quantité d'eau."
   * For the expression "like a flood of water" where water is already mentioned, the word "flood" could be translated as "an overwhelming amount" or "an overflowing."
-  * En ce qui concerne l'expresssion "comme une inondation d'eau" où eau est déjà mentionné, on pourrait traduire par "Une quantité énorme" ou " un débordement."
+  * En ce qui concerne l'expresssion "comme une inondation d'eau" où "eau" est déjà mentionné, on pourrait traduire par "une quantité énorme" ou "un débordement."
   * The term "flood" can also be used figuratively, as in "let not the flood sweep over me" or "they surround me like a flood." If possible, this figurative language should be kept in a translation.
-  * On peut aussi employer le terme "déluge"  comme dans " que les eaux ne me submergent pas" ou "elles me submergent comme une inondation." Si c'est possible on devrait garder le language figuratif.
+  * On peut aussi employer le terme "déluge" comme dans "que les eaux ne me submergent pas" ou "elles me submergent comme une inondation." Si c'est possible, on devrait garder le language figuratif.
   * For example, "I flood my bed with tears" could be translated as "my tears soak my bed with water like a flood."
-  * Par exemple, on npourrat traduire "j'inonde mon lit avec mes larmes" par " Mes larmes mouillent mon lit comme une inondation."
+  * Par exemple, on pourrat traduire "j'inonde mon lit avec mes larmes" par "Mes larmes trempent mon lit comme une inondation."
 
 (See also: [[:fr:obe:other:noah|Noah]], [[:fr:obe:other:ark|ark]] )
 
