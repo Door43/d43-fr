@@ -1,4 +1,4 @@
-====== apostles, apostleship / apôtres, apostolat ======
+====== apostles, apostleship / apôtres, apostolat F ======
 
 ====== les Faits: ======  
 
@@ -9,13 +9,13 @@ The apostles were men sent by Jesus to preach about God and his kingdom. His twe
 Les apôtres étaient des hommes envoyés par Jésus pour prêcher au sujet de Dieu et de Son royaume. Ses douze plus proches disciples devinrent les premiers apôtres.
 
   * The word "apostle" means, "someone who is sent out for a special purpose." The one who is sent has the same authority as the one sending him.
-  * Le mot "apôtre" signifie, quelqu'un qui est envoyé pour un but déterminé. Celui qui est envoyé a la même autorité que celui qui l'envoie.
+  * Le mot "apôtre" signifie, quelqu'un qui est envoyé dans un but précis. Celui qui est envoyé a la même autorité que celui qui l'envoie.
   * Jesus chose twelve apostles from among his followers, and gave these apostles special responsibilities. The apostles had a closer relationship to Jesus than his other disciples did.
-  * Jésus choisit douze apôtres parmi ceux qui le suivaient et leur donna des responsabilités spéciales. Les apôtres avaient une relation avec Jésus beaucoup plus profonde que celle des autres disciples.
+  * Jésus choisit douze apôtres parmi ceux qui le suivaient et leur donna des responsabilités spéciales. Les apôtres avaient une relation plus étroite avec Jésus que les autres disciples.
   * The New Testament also refers to some people were sent out to preach as "apostles" even though they were not members of "the twelve" apostles.
-  * Le Nouveau Testament mentionne aussi d'autres personnes qui étaient envoyés en tant "qu'apôtres" bien qu'ils ne fassent pas partie des douze apôtres.
+  * Le Nouveau Testament mentionne aussi d'autres personnes qui étaient envoyés en tant "qu'apôtres" bien qu'ils ne faisaient pas partie des douze apôtres.
   * By God's power, the apostles were able to boldly preach the gospel and heal people, including forcing demons to come out of people.
-  * Par la puissance de Dieu, les apôtres étaient capables de prêcher avec audace l'évangile et d'accomplir des guérisons et même de chasser des démons qui possédaient les gens.
+  * Par la puissance de Dieu, les apôtres étaient capables de prêcher l'évangile avec audace et d'accomplir des guérisons, y compris chasser des démons des gens.
   * The twelve apostles had the same authority as Jesus, who sent them out.
   * Les douze apôtres possédaient la même autorité que Jésus qui les envoya.
   * The term "apostleship" refers to the position and authority of those who were chosen as apostles.
@@ -28,8 +28,7 @@ Les apôtres étaient des hommes envoyés par Jésus pour prêcher au sujet de D
   * It is important to translate the terms "apostle" and "disciple" in different ways from each other.
   * Il est important que la traduction de chaque terme "apôtre" et "disciple" soit différente pour chacun des deux mots.
   * Also consider how this term was translated in a Bible translation in a local or national language. (See [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
-  * Considérez aussi comment ce terme a été traduit dans une version de la Bible en langue locale ou nationale. (Voir )
-
+  * Considérez aussi comment ce terme a été traduit dans une version de la Bible en langue locale ou nationale. (Voir [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 (See also Voir aussi: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:kt:thetwelve|the twelve, the eleven]], [[:fr:obe:kt:authority|authority]])
 
 ===== Bible References: Références Bibliques: =====
