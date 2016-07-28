@@ -2,14 +2,18 @@
 
 ====== les Faits: ======  
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 Frankincense is a fragrant spice made from tree resin. It is used to make perfumes and incense.
 
-  * This was an important spice used to prepare dead bodies for burial. It also has natural healing and calming properties.
-  * When learned men came from an eastern country to visit baby Jesus in Bethlehem, frankincense was one of the three gifts they brought him.
+Encens est un épice parfumé fabriqué à partir de la résine de pin. Il est utilisé pour faire des parfums et de l'encens.
 
-(See also: [[:fr:obe:other:bethlehem]], [[:fr:obe:other:learnedmen]])
+  * This was an important spice used to prepare dead bodies for burial. It also has natural healing and calming properties.
+  * C'était un épice important que l'on utilisait pour l'enterrement des morts. Il a aussi des vertus soignantes et calmantes.
+  * When learned men came from an eastern country to visit baby Jesus in Bethlehem, frankincense was one of the three gifts they brought him.
+  * Lorsque les sages de l'Orient vinrent visiter Jésus à Bethléem,  l'encens était l'un des trois présents qu'il apportèrent.
+
+(See also: [[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]], [[:fr:obe:other:learnedmen|learned men, astrologers]])
 
 ===== Bible References: =====
 
