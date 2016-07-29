@@ -17,13 +17,15 @@ Le terme "fondé" signifie être constriuit ou basé sur quelquechose. Une fonda
   * A "foundation stone" was a stone that was laid as part of the foundation. These stones were "tried" or "tested" to make sure they were strong enough to support an entire building.
   * Une  "pierre de fondation" était une pierre posée en tant que partie de la fondation. Ces pierres étaient   "vérifiées " ou "testées" pour s'assurer qu'elles étaient assez solides pour supporter tout le bâtiment.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The phrase "before the foundation of the world" could be translated as "before the creation of the world" or "before the time when the world first existed" or "before everything was first created."
+  * On pourrait traduire l'expression "avant la fondation du monde"  par "avant la création du monde" ou " avant l'exisrtence du monde" ou "avant la création de toutes  choses."
   * The term "founded on" could be translated as "securely built on."
   * Depending on the context, "foundation" could be translated as "strong base" or "solid support" or "beginning" or "creation."
+  * Selon le contexte, on pourrait traduire le mot "fondation" par " base solide" ou "support solide" ou "commencement" ou création."
 
-(See also: [[:fr:obe:kt:cornerstone]], [[:fr:obe:other:creation]])
+(See also Voir aussi: [[:fr:obe:kt:cornerstone|cornerstone/pierre d'angle]], [[:fr:obe:other:creation|create, creation, Creator/créer, création, créateur]])
 
 ===== Bible References: =====
 
