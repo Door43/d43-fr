@@ -19,15 +19,8 @@ Un fruit est la nourriture comestible produite par une plante. Dans la Bible, fr
   * It is best to use the general word for "fruit" that is commonly used in the local language area to refer to the edible fruit of a fruit tree.
   * Il est mieux d'utiliser le mot général pour "fruit" qui est normalement employé dans la langue locale pour faire référence au fruit comestible d'un arbre fruitier.
 
-===== Bible References: =====
+===== Bible References: Références Bibliques =====
 
-
-{{topic>:en:bible?fruit&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?fruit&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
