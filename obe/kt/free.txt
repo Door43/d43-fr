@@ -18,9 +18,9 @@ Dans la bible le mot "libre" signifie souvent ne plus être esclave ou ne plus �
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "free" could be translated with a word or phrase that means, "not bound" or "not enslaved."
-  * le terme "libre" pourrait se traduire par un mot ou une  expression  qui signifie "ne pas être lié" ou "ne pas être esclave."
+  * Le terme "libre" pourrait se traduire par un mot ou une expression qui signifie "ne pas être lié" ou "ne pas être esclave."
   * The term "freedom" or "liberty" could be translated with a word or phrase that means, "the state of being free" or "the condition of not being a slave."
-  * les termes "liberté' et "indépendance" pourrait se traduire  par un mot ou une expression qui signifie " le fait d'être libre" ou "le fait de ne plus être un esclave."
+  * Les termes "liberté" et "indépendance" pourrait se traduire par un mot ou une expression qui signifie "le fait d'être libre" ou "le fait de ne plus être un esclave."
 
 (See also Voir aussi: [[:fr:obe:kt:enslave|enslave, in bondage]], [[:fr:obe:other:servant|servant, slave, slavery (serviteur,servante, esclave, esclavage)]], [[:fr:obe:kt:bond|bind, bond/lier,lien]])
 
