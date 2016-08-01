@@ -1,6 +1,6 @@
 ====== fulfill(accomplir) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 ===== Definition: =====
 
@@ -30,9 +30,8 @@ Le terme "accomplir" signifie compléter ou réaliser quelquechose qui était pr
 
 {{topic>:en:bible?fulfill&nocomments}}
 
-
-
   *
+
 ===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   * **[[:fr:obs:notes:frames:24-04|[24-04]]]** John fulfilled what the prophets said, "See I send my messenger ahead of you, who will prepare your way."
@@ -43,4 +42,3 @@ Le terme "accomplir" signifie compléter ou réaliser quelquechose qui était pr
 ~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
-
