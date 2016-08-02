@@ -1,15 +1,19 @@
 ====== Galilee, Galilean(Galilée,Galiléen) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 Galilee is the most northern part of Israel, farther north than Samaria.
 
+Galilée est la région la plus au Nord d'Israël, plus au Nord que la Samarie.
+
   * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
+  * La Galilée est bordée à l'Est par un large lac appelé "la Mer de Galilée."
   * Jesus grew up and lived in the town of Nazareth in Galilee.
+  * Jésus a grandi et vécu dans la ville de Nazareth en Galilée.
   * A Galilean is a person who lives in Galilee.
+  * Un Galiléen est une  personne qui vit en Galilée.
 
-(See also: [[samaria]], [[nazareth]])
-
+(See also Voir aussi: [[:fr:obe:other:samaria|Samaria, Samaritan]], [[:fr:obe:other:nazareth|Nazareth, Nazarene]])
 
 ===== Bible References: =====
 
