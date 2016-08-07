@@ -15,15 +15,8 @@ Gabriel est le nom de l'un des anges de Dieu.
 
 (See also Voir aussi: [[:en:obe:kt:angel|angel(ange), archangel]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?gabriel&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?gabriel&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
