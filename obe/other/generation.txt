@@ -6,7 +6,7 @@
 
 A generation is a group of people who are born and live at the same time.
 
-Une génération est un ensemble de gens qui sont nés et vivent à la même époque.
+Une génération est un groupe de gens qui sont nés et vivent à la même époque.
 
   * A generation is usually the group of people that span from parents to children.
   * Une génération est généralement un groupe de gens qui comprend les parents et leurs enfants.
