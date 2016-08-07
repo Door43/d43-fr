@@ -1,16 +1,21 @@
 ====== Galatia/Galatie ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
 In New Testament times, Galatia was a Roman province located in the central part of what is now the present-day country of Turkey.
 
+A l'époque du Nouveau Teastament , la Galatie était une province romaine située au centre de la Turquie moderne.
+
   * The apostle Paul wrote a letter to the Christians who lived in the province of Galatia. This letter is the New Testament book called Galatians.
+  * L'apôtre Paul écrivit une letre aux chrétiens qui vivaient dans la province de Galatie. Cette lettre est dans le livre du Nouveau Testament s'appelle Galates.
   * The Gentile Christians in Galatia were being influenced by the Jewish Christians there to keep some of the Jewish laws.
+  * Les païens de Galatie devenus chrétiens étaient influencés par les juifs chrétiens de garder certaines des lois juives.
   * One reason that Paul wrote his letter to the Galatians was to emphasize again the gospel of salvation by grace, not by works.
+  * Une des raisons pour laquelle Paul écrivit sa lettre aux Galatiens était de montrer l'importance de l'évangile du salut par la grâce,  non pas par les oeuvres.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestion de Traductions: ([[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: [[en:obe:kt:circumcise]], [[paul]])
+(See also Voir aussi : [[:en:obe:kt:circumcise|circumcise, circumcision]], [[:fr:obe:other:paul|Paul, Saul]])
 
 ===== Bible References: =====
 
