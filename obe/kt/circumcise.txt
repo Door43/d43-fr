@@ -30,7 +30,7 @@ Le terme "circoncire" signifie couper le prépuce d'un homme ou d'un enfant de s
   * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
   * Soyez sûrs que le terme employé pour cela ne se réfère pas aux personnes du sexe féminin. Traduisez ce terme avec un mot ou une expression comprenant une référence masculine.
 
-(See Voir: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See Voir: [[:en:ta:vol1:translate:translate_unknown|Comment Traduire Les Inconnus) (How to Translate Unknowns]])
 
 (See also Voir aussi: [[:fr:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:fr:obe:kt:covenant|covenant]])
 
