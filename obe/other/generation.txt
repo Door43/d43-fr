@@ -13,15 +13,8 @@ Une génération est un ensemble de gens qui sont nés et vivent à la même ép
   * In the Bible, a generation is usually considered to be 40 years long.
   * Dans la Bible , la durée dune génération est normalement 40 ans.
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
-
-{{topic>:en:bible?generation&nocomments}}
-
-
-~~DISCUSSION~~
-
-
-{{tag>draft}}
+{{topic>:en:bible?generation&nocomments}}~~DISCUSSION~~{{tag>draft}}
 
 ~~NOCACHE~~
