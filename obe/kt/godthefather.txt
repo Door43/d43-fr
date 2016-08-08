@@ -15,14 +15,16 @@ Le terme "Dieu le Père" est une des références à Yahvé, le vrai Dieu.
   * Anyone who believes in God the Son becomes a child of God the Father and God the Holy Spirit comes to live in that person. This is another mystery that human beings cannot fully understand.
   * Quiconque croit en Dieu le fils devient un enfant de Dieu le Père et dieu le Saint Esprit vient résider en lui. C'est un autre mystère que les être humains ont du mal à comprendre.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestion de traduction: =====
 
   * It is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
+  * Il est mieux de traduire "Père" avec le même mot que la langue emploie naturellement pour faire référence à un père humain.
   * The term "Heavenly Father" could be translated by "Father God who lives in Heaven" or "God our Father from Heaven" or "Father who lives in Heaven."
+  * On pourrait traduire le terme "Père Céleste" par " Dieu le Père qui vit aux cieux" ou "Dieu notre Père qui est au ciel" ou "Père qui vit au ciel."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions:Suggestion de traduction: ([[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: [[en:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:fr:obe:kt:sonofgod]], [[:En:obe:kt:jesus]], [[:fr:obe:kt:heaven]])
+(See also Voir aussi: [[:en:obe:kt:god|God]], [[:en:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:fr:obe:kt:sonofgod|Son of God, the Son]], [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:fr:obe:kt:heaven|heaven, sky, heavens, heavenly]])
 
 ===== Bible References: =====
 
