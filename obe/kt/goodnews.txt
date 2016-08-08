@@ -16,7 +16,9 @@ La phrase, "bonne nouvelle" se référe à un message ou une annonce qui informe
 ===== Translation Suggestions: Suggestions de traductions: =====
 
   * Different ways to translate this term could include, "good message" or "good announcement" or "glad word" or "God's message of salvation" or "the good things God teaches about Jesus."
-  * Depending on the context, ways to translate the phrase, "good news of" could include, "good news/message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
+  * Diverses manières de traduire ce terme pourraient inclure " bon message" ou "bonne annonce" ou "heureuse nouvelle" ou " message du salut de Dieu" ou " les bonnes choses que Dieu enseignent au sujet de Jésus."
+  * Depending on the context, ways to translate the phrase, "good news of" could include, "good news message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
+  * Selon le contexte, on pourrrait traduire "bonne nouvelle"  par "bon message" ou "la bonne chose que Dieu dit au sujet de.." ou "ce que Dieu dit concernant ce qu'il fait pour sauver les gens."
 
 (See Voir aussi: [[:fr:obe:kt:salvation|salvation]], [[:fr:obe:other:sacrifice|sacrifice, offering]], [[:fr:obe:other:kingdom|kingdom]])
 
