@@ -8,18 +8,17 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other/fast|fasting]]**
-  * **[[:fr:obe:other/pray|praying]]**
-  * **[[:fr:obe:kt/holyspirit]]**
-  * **[[:fr:obe:kt/church]]**
-  * **[[:fr:obe:other/pray|prayed]]**
-  * **[[:fr:obe:other/Barnabas]]**
-  * **[[:fr:obe:other/paul|Saul]]**
-  * **[[:fr:obe:other/preach]]**
-  * **[[:fr:obe:kt/goodnews]]**
-  * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/believe|believed]]**
-
+  * **[[:fr:obe:other:fast|fasting(jeûner)]]**
+  * **[[:fr:obe:other:pray|praying]]**
+  * **[[:fr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Le Saint Esprit, l'Esprit de Dieu, L'Esprit du Seigneur)]]**
+  * **[[:fr:obe:kt:church|church, Church(église, Eglise)]]**
+  * **[[:fr:obe:other:pray|prayed]]**
+  * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
+  * **[[:fr:obe:other:paul|Saul]]**
+  * **[[:fr:obe:other:preach|preach]]**
+  * **[[:fr:obe:kt:goodnews|good news, gospel(bonne nouvelle, évangile)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:believe|believed]]**
 
 ===== Translation Notes: =====
 
