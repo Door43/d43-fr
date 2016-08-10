@@ -7,14 +7,14 @@
 **Saul alla à Jérusalem** pour se joindre aux **disciples**, mais ils avaient tous peur de lui. Puis un **croyant** nommé **Barnabas** amena Saul aux **apôtres** et leur raconta comment Saul avait **prêché** courageusement à Damas. Après cela, les disciples **acceptèrent Saul**.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/paul|Saul]]**
-  * **[[:fr:obe:other/Jerusalem]]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
-  * **[[:fr:obe:kt/believer]]**
-  * **[[:fr:obe:other/Barnabas]]**
-  * **[[:fr:obe:kt/apostle|apostles]]**
-  * **[[:fr:obe:other/preach|preached]]**
 
+  * **[[:fr:obe:other:paul|Saul]]**
+  * **[[:fr:obe:other:jerusalem|Jerusalem]]**
+  * **[[:fr:obe:kt:disciple|disciples]]**
+  * **[[:fr:obe:kt:believer|believer(croyant)]]**
+  * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
+  * **[[:fr:obe:kt:apostle|apostles(apôtres)]]**
+  * **[[:fr:obe:other:preach|preached]]**
 
 ===== Translation Notes: =====
 
