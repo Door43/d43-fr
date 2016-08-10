@@ -13,7 +13,7 @@ Dans la Bible " Ararat" correspond à un pays, un royaume et des montagnes.
   * In modern times, a mountain called "Mount Ararat" is often thought to be the location of the "mountains of Ararat" in the Bible.
   * De nos jours, une montagne appelée "mont Ararat" est souvent considérée comme le lieu des "montagnes d'Ararat" dans la Bible.
 
-(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also Voir aussi: [[:fr:obe:other:noah|Noah]], [[:fr:obe:other:ark|ark]] )
 
