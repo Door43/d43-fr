@@ -29,7 +29,8 @@ Les apôtres étaient des hommes envoyés par Jésus pour prêcher au sujet de D
   * Il est important que la traduction de chaque terme "apôtre" et "disciple" soit différente pour chacun des deux mots.
   * Also consider how this term was translated in a Bible translation in a local or national language. (See [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
   * Considérez aussi comment ce terme a été traduit dans une version de la Bible en langue locale ou nationale. (Voir [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
-(See also Voir aussi: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:kt:thetwelve|the twelve, the eleven]], [[:fr:obe:kt:authority|authority]])
+
+(See also Voir aussi: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:kt:thetwelve|the twelve, the eleven]], [[:fr:obe:kt:authority|authority(autorité)]]
 
 ===== Bible References: Références Bibliques: =====
 
