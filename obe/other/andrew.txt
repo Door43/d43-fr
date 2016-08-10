@@ -13,7 +13,7 @@ André était l'un des douze hommes que Jésus choisit pour être ses disciples 
   * Before Peter and Andrew met Jesus, they had been disciples of John the Baptizer.
   * Avant de faire la connaissance de Jésus, Pierre et André étaient des disciples de Jean-Baptiste.
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]]) ( Suggestions de Traduction:
+(Translation suggestionsSuggestion de traduction:[[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also : (Voir aussi: [[:fr:obe:other:peter|Peter, Simon Peter, Cephas]], [[:fr:obe:other:seaofgalilee|Sea of Galilee]], [[:fr:obe:other:johnthebaptist|John (the Baptist)]], [[:en:obe:kt:apostle|apostle, apostleship]], [[:en:obe:kt:disciple|disciple]])
 
