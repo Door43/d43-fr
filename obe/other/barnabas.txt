@@ -13,7 +13,7 @@ Barnabas fut l'un des premiers chrétiens qui a vécu au temps des apôtres. Son
   * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
   * Barnabas et Paul voyagèrent ensemble prêchant la bonne nouvelle au sujet de Jésus dans différentes villes.
 
-(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions Suggestions de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also Voir aussi : [[:fr:obe:other:paul|Paul, Saul]], [[:en:obe:kt:christian|Christian]])
 
