@@ -13,7 +13,7 @@
   * **[[:fr:obe:kt:power|power]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:christ|Messiah]]**
-  * **[[:fr:obe:kt:crucify|crucified]]**
+  * **[[:fr:obe:kt:crucify|crucified(crucifier)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:kt:raise|raised]]**
   * **[[:fr:obe:kt:life|life, live, living, alive (La vie, vivre, vivant,​vivant)]]**
