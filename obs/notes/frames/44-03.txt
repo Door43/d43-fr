@@ -7,11 +7,11 @@ Immediately, **God healed** the lame man, and he began to walk and jump around, 
 **Dieu guérit** sur le champ l'homme, et il commença à marcher et sauter de joie et à **louer** Dieu. Les gens qui se trouvaient dans la **cour du Temple** étaient remplis de stupeur.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/heal|healed]]**
-  * **[[:fr:obe:other/praise]]**
-  * **[[:fr:obe:kt/temple|Temple]]**
 
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:heal|healed(guérir)]]**
+  * **[[:fr:obe:other:praise|praise]]**
+  * **[[:fr:obe:kt:temple|Temple]]**
 
 ===== Translation Notes: =====
 
