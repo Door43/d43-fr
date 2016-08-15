@@ -8,9 +8,10 @@
 
 
 ===== Termes Importants =====
+
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:baptize|baptize, baptism]]**
+  * **[[:fr:obe:kt:baptize|baptize, baptism(baptiser, baptême)]]**
   * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
 
 ===== Translation Notes: =====
