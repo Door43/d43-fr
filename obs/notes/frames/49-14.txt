@@ -6,18 +6,18 @@
 
 **Jésus** vous invite à **croire en lui** et à **être baptisé**. **Croyez-vous que** Jésus est le **Messie**, l'unique **Fils de Dieu**? Croyez-vous que vous êtes un **pécheur** et que vous méritez la punition de **Dieu**? Croyez-vous que Jésus **est mort** sur la **croix** pour **enlever** vos péchés?
 
-===== Termes Importants =====  
-  * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:kt/baptize|baptized]]**
-  * **[[:fr:obe:kt/Christ|Messiah]]**
-  * **[[:fr:obe:kt/sonofgod]]**
-  * **[[:fr:obe:kt/sin|sinner]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/punish]]**
-  * **[[:fr:obe:kt/death|died]]**
-  * **[[:fr:obe:kt/cross]]**
+===== Termes Importants =====
 
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:believe|believe, believe in, belief(croire,croire en,croyance)]]**
+  * **[[:fr:obe:kt:baptize|baptized(baptiser)]]**
+  * **[[:fr:obe:kt:christ|Messiah]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:fr:obe:kt:sin|sinner]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:other:punish|punish, punishment]]**
+  * **[[:fr:obe:kt:death|died]]**
+  * **[[:fr:obe:kt:cross|cross(croix)]]**
 
 ===== Translation Notes: =====
 
