@@ -13,13 +13,14 @@ Le grand prêtre était le dirigeant au- dessus de tous les prêtres d 'Israël.
   * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the temple to offer a special sacrifice once a year.
   * Le grand prêtre avait des responsabiblités spéciales. Il était le seul à avoir la permission d'entrer dans le lieu très saint du temple pour offir un sacrifice spécial une fois par an.
 
-===== Translation Suggestions: ======
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * "High priest" could be translated as "supreme priest" or "highest ranking priest."
+  * On pourrait traduire "grand prêtre" par "prêtre suprême"  ou "prêtre au plus haut rang."
   * Make sure this term is translated differently from the term "chief priest."
+  * soyez sûrs de traduire ce terme différemment du terme "principal sacrificateur."
 
-(See also: [[priest]], [[en:obe:other:chiefpriests]],   [[temple]])
-
+(See also Voir aussi: [[:fr:obe:kt:priest|priest, priesthood]], [[:en:obe:other:chiefpriests|chief priests]], [[:fr:obe:kt:temple|temple]])
 
 ===== Bible References: =====
 
