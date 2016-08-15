@@ -16,7 +16,7 @@
   * **[[:fr:obe:kt:sin|sinner]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:other:punish|punish, punishment]]**
-  * **[[:fr:obe:kt:death|died]]**
+  * **[[:fr:obe:kt:death|died(mourir)]]**
   * **[[:fr:obe:kt:cross|cross(croix)]]**
 
 ===== Translation Notes: =====
