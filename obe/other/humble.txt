@@ -30,8 +30,5 @@ Une personne humble ne se considère pas meilleure que les autres.
 ===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   * **[[:fr:obs:notes:frames:17-02|[17-02]]]** David was a **humble**  and righteous man who trusted and obeyed God. David était un homme **modeste **  et **vertueux **  qui **avait confiance **  en Dieu et qui lui **obéissait.**  .
-  * **[[:fr:obs:notes:frames:34-10|[34-10]]]**"God will **humble**  everyone who is proud, and he will lift up whoever **humbles**  himself."
-Dieu  **abaisse**quiconque  **s'élève**
-, et il élève celui  **qui s'abaisse**
-.”
+  * **[[:fr:obs:notes:frames:34-10|[34-10]]]**"God will **humble**  everyone who is proud, and he will lift up whoever **humbles**  himself. "Dieu **abaisse ** quiconque **s'élève**  , et il élève celui **qui s'abaisse**  .”
 ~~DISCUSSION~~{{tag>draft}}
