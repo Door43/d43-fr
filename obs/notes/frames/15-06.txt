@@ -10,9 +10,10 @@
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
   * **[[:fr:obe:other:peace|peace, peaceful]]**
-  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:fr:obe:other:gibeon|Gibeon, Gibeonite]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanite(Canaan, Cananéen)]]**
+  * **[[:fr:obe:other:gibeon|Gibeon, Gibeonite(Gabaon, Gabaonite)]]**
   * **[[:fr:obe:other:joshua|Joshua]]**
+
 ==== Translation Notes: ====
 
   * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
