@@ -6,17 +6,15 @@ Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, 
 
 Parce qu'**Adam** et **Eve ont désobéi à Dieu** et **ont amené le péché dans** le monde, Dieu le **maudit** et décida de le détruire. Mais un jour,Dieu créera **un ciel nouveau** et **une terre nouvelle** qui seront parfaits.
 
-===== Termes Inportants =====  
-  * **[[:fr:obe:other/Adam]]**
-  * **[[:fr:obe:other/Eve]]**
-  * **[[:fr:obe:other/disobey|disobeyed]]**
-  * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/curse|cursed]]**
-  * **[[:fr:obe:kt/heaven]]**
+===== Termes Inportants =====
 
-
-
+  * **[[:fr:obe:other:adam|Adam F]]**
+  * **[[:fr:obe:other:eve|Eve/Eve]]**
+  * **[[:fr:obe:other:disobey|disobeyed(désobéir)]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(le péché,coupable,pécher,péchant)]]**
+  * **[[:fr:obe:kt:curse|cursed(maudire)]]**
+  * **[[:fr:obe:kt:heaven|heaven, sky, heavens, heavenly(ciel, firmament, cieux, céleste)]]**
 
 ===== Translation Notes: =====
 
