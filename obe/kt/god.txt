@@ -30,7 +30,7 @@ Dans la Bible, le mot "Dieu" fait référence à Celui qui a existé en toute é
   * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
   * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
 
-**(Translation suggestions**:[[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres)(How to Translate Names]])
+**(Translation suggestions**:[[:en:ta:vol1:translate:translate_names|(How to Translate Names]])
 
 (See also Voir aussi: [[:fr:obe:kt:yahweh|Yahweh]], [[:fr:obe:kt:godthefather|God the Father, Heavenly Father]], [[:fr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:fr:obe:kt:sonofgod|Son of God, the Son]], [[:fr:obe:kt:falsegod|false god, god]], [[:fr:obe:other:creation|create, creation, Creator]], [[:fr:obe:other:idol|idol]])
 
@@ -40,9 +40,7 @@ Dans la Bible, le mot "Dieu" fait référence à Celui qui a existé en toute é
   * Lorsque les traductions en anglais parlent d'un faux dieu le mot est écrit avec "g minuscule" et lorsqu'elles se réfèrent à Dieu le seul vrai Dieu, elles utilisent "G majuscule." D'autres langues peuvent aussi choisir de l'écrire pareillement. Un autre moyen de les distinguer serait d'utiliser des mots différents pour "Dieu" et "dieu.
   * La phrase "Je serai leur Dieu et ils seront mon peuple" pourrait être traduit comme,"Moi, Dieu, Je gouvernerai ce peuple; ils m'appartiendront et m'adoreront."
 
-**(Translation suggestions**
-: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres)(How to Translate Names]]
-)
+**(Translation suggestions**  : [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres)(How to Translate Names]] )
 
 ===== Bible References: Références bibliques: =====
 {{topic>:en:bible?god&nocomments&nocomments}}
