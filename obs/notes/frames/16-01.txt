@@ -10,16 +10,17 @@ Après la mort de** Josué**, les **Israélites désobéirent Dieu** et i**ls ne
 
   * **[[:fr:obe:other:joshua|Joshua]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:disobey|disobey, disobedient, disobedience]]**
+  * **[[:fr:obe:other:disobey|disobey, disobedient, disobedience(désobéir, désobéissant, désobéissance)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:fr:obe:other:canaan|Canaan, Canaanites(Canaan, Cananéens)]]**
   * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
   * **[[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
   * **[[:fr:obe:kt:worship|worship]]**
-  * **[[:fr:obe:kt:falsegod|false god, god]]**
+  * **[[:fr:obe:kt:falsegod|false god, god(faux dieu, dieu)]]**
   * **[[:fr:obe:kt:yahweh|Yahweh]]**
   * **[[:fr:obe:kt:true|true, truth(vrai,la vérité)]]**
   * **[[:fr:obe:other:king|king]]**
+
 ==== Translation Notes: ====
 
   * **and did not drive out**  – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, "They did not."
