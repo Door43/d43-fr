@@ -40,7 +40,7 @@ Dans la Bible, le mot "Dieu" fait référence à Celui qui a existé en toute é
   * Lorsque les traductions en anglais parlent d'un faux dieu le mot est écrit avec "g minuscule" et lorsqu'elles se réfèrent à Dieu le seul vrai Dieu, elles utilisent "G majuscule." D'autres langues peuvent aussi choisir de l'écrire pareillement. Un autre moyen de les distinguer serait d'utiliser des mots différents pour "Dieu" et "dieu.
   * La phrase "Je serai leur Dieu et ils seront mon peuple" pourrait être traduit comme,"Moi, Dieu, Je gouvernerai ce peuple; ils m'appartiendront et m'adoreront."
 
-**(Translation suggestions**  : [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres)(How to Translate Names]] )
+**(Suggestion de traduction:** [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres)]]
 
 ===== Bible References: Références bibliques: =====
 {{topic>:en:bible?god&nocomments&nocomments}}
