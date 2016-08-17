@@ -8,12 +8,13 @@
 
 
 ===== Termes Importants =====
+
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
   * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
   * **[[:fr:obe:kt:worship|worship]]**
   * **[[:fr:obe:kt:lord|lord, master, sir]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:god|God(Dieu)]]**
 
 ===== Translation Notes: =====
 
