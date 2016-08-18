@@ -12,7 +12,7 @@
   * **[[:fr:obe:kt:god|God(Dieu)]]**
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
   * **[[:fr:obe:kt:holyspirit|Holy Spirit(Saint Esprit)]]**
-  * **[[:fr:obe:kt:baptize|baptize, baptis(baptiser, baptême)]]**
+  * **[[:fr:obe:kt:baptize|baptize, baptism(baptiser, baptême)]]**
   * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
   * **[[:fr:obe:kt:godthefather|God the Father,Heavenly Father (Dieu le Père,Père Céleste) ]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
