@@ -10,9 +10,10 @@ Beaucoup de **nations** n'avaient toujours pas entendu parler de **Jésus**. Ava
 
   * **[[:fr:obe:other:peoplegroup|people group, people]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:christian|Christians]]**
-  * **[[:fr:obe:kt:goodnews|good news, gospel]]**
+  * **[[:fr:obe:kt:christian|Christian (Chrétiens)]]**
+  * **[[:fr:obe:kt:goodnews|good news, gospel(bonne nouvelle,évangile) ]]**
   * **[[:fr:obe:kt:disciple|disciples]]**
+
 ===== Translation Notes: =====
 
   * **make disciples**  - This has the meaning, "help people to become my disciples."
