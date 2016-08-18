@@ -18,7 +18,7 @@
   * **[[:fr:obe:other:preach|preach]]**
   * **[[:fr:obe:kt:goodnews|good news, gospel(bonne nouvelle, évangile)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:believe|believed]]**
+  * **[[:fr:obe:kt:believe|believed(croire)]]**
 
 ===== Translation Notes: =====
 
