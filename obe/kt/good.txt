@@ -1,8 +1,8 @@
 ====== good, goodness (Bon, la bonté) ======
 
-====== les Faits: ======  
+====== les Faits: ======
 
-===== Definition:  =====
+===== Definition: =====
 
 The word "good" has different meanings depending on the context. Many languages will use different words to translate these different meanings.
 
@@ -28,7 +28,7 @@ Comprendre le mot "bon" est en rapport avec ce dont nous parlons et peut donc av
   * Le mot "bonté" signifie généralement être moralement bon ou juste en pensées ou en actions.
   * La bonté de Dieu décrit la façon dont il bénit les gens en leur donnant des choses bonnes et profitables. Ce mot peut aussi se référer à sa perfection morale.
 
-===== Translation Suggestions:  =====
+===== Translation Suggestions: =====
 
   * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
   * Depending on the context, other ways to translate this term could include, "kind" or "excellent" or "pleasing to God" or "righteous" or "morally upright" or "profitable."
@@ -62,7 +62,6 @@ Comprendre le mot "bon" est en rapport avec ce dont nous parlons et peut donc av
   * **[[:fr:obs:notes:frames:14-15|[14-15]]]** Joshua was a **good**  leader because he trusted and obeyed God.
   * **[[:fr:obs:notes:frames:18-13|[18-13]]]** Some of these kings were **good**  men who ruled justly and worshiped God.
   * **[[:fr:obs:notes:frames:28-01|[28-01]]]**"**Good**  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '**good**?' There is only one who is **good**, and that is God."
-
 =====   =====
 
 ~~DISCUSSION~~{{tag>draft}}
