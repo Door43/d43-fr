@@ -13,11 +13,7 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing that a
 
 ===== Translation Suggestions: =====
 
-  * The term "innocent" could also be translated as "not guilty" or "having done nothing wrong."
-  * If possible, it is best to translate "sinless" and "innocent" differently.
-  * The frequently occurring idiom, "innocent blood" could be translated as, "people who did nothing wrong to deserve being killed."
-  * Depending on the context, other ways to translate "innocent" could include, "naive" or "pure" or "unsuspecting of evil" or "not mixed up in evil."
-
+  
 (See also: [[:fr:obe:kt:guilt|guilt, guilty]])
 
 ===== Bible References: =====
