@@ -9,7 +9,7 @@
 ===== Termes Importants =====
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:fr:obe:kt:teacher|teacher, Teacher]]**
-  * **[[:fr:obe:kt:inherit|inherit, inheritance(hériter, héritage]]**
+  * **[[:fr:obe:kt:inherit|inherit, inheritance(hériter, héritage)]]**
   * **[[:fr:obe:kt:eternity|everlasting, eternal, eternity]]**
   * **[[:fr:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
 
