@@ -3,15 +3,22 @@
 ====== les Faits: ======  
 Isaiah was a prophet of God who prophesied during the reigns of four kings of Judah: Uzziah, Jotham, Ahaz, and Hezekiah.
 
-  * He lived in Jerusalem during the time when the Assyrians were attacking the city, during the reign of Hezekiah.
-  * The Old Testament book of Isaiah is one of the major books of the Bible.
-  * Isaiah wrote many prophecies that came true while he was still living.
-  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
-  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
-   
-  (Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+Esaïe était un prophète de Dieu qui prophétisa durant les règnes de quatre rois de Juda: Ozias, Yotam, Achab, et Ezéchias.
 
-(See also: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
+  * He lived in Jerusalem during the time when the Assyrians were attacking the city, during the reign of Hezekiah.
+  * Il vivait à Jérusalem durant l'époque où les Assyriens attaquaient  la ville, sous le règne d'Ezéchias.
+  * The Old Testament book of Isaiah is one of the major books of the Bible.
+  * Le livre de l'Ancien Testament "Esaïe" est l'un des livres majeurs de la Bible.
+  * Isaiah wrote many prophecies that came true while he was still living.
+  * Esaïe écrit beaucoup de prophécies qui se réalisėrent durant sa vie.
+  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
+  * Esaïe est spécialement connu pour les prophécies écrites au sujet du Messie qui s'accomplirent 700 ans plus tard lorsque Jésus vivait sur la terre.
+  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
+  * Jésus et ses disciples ont cité les prophécies d'Esaïe pour enseigner les gens au sujet du Messie.
+   
+  (Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
+
+(See also Voir aussi: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
 
 
 ===== Bible References: =====
