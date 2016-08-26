@@ -1,12 +1,13 @@
 ====== Isaiah(Esaïe) ======
 
-====== les Faits: ======  
+====== les Faits: ======
+
 Isaiah was a prophet of God who prophesied during the reigns of four kings of Judah: Uzziah, Jotham, Ahaz, and Hezekiah.
 
 Esaïe était un prophète de Dieu qui prophétisa durant les règnes de quatre rois de Juda: Ozias, Yotam, Achab, et Ezéchias.
 
   * He lived in Jerusalem during the time when the Assyrians were attacking the city, during the reign of Hezekiah.
-  * Il vivait à Jérusalem durant l'époque où les Assyriens attaquaient  la ville, sous le règne d'Ezéchias.
+  * Il vivait à Jérusalem durant l'époque où les Assyriens attaquaient la ville, sous le règne d'Ezéchias.
   * The Old Testament book of Isaiah is one of the major books of the Bible.
   * Le livre de l'Ancien Testament "Esaïe" est l'un des livres majeurs de la Bible.
   * Isaiah wrote many prophecies that came true while he was still living.
@@ -15,11 +16,10 @@ Esaïe était un prophète de Dieu qui prophétisa durant les règnes de quatre 
   * Esaïe est spécialement connu pour les prophécies écrites au sujet du Messie qui s'accomplirent 700 ans plus tard lorsque Jésus vivait sur la terre.
   * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
   * Jésus et ses disciples ont cité les prophécies d'Esaïe pour enseigner les gens au sujet du Messie.
-   
-  (Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
-(See also Voir aussi: [[en:obe:kt:prophet]], [[en:obe:kt:christ]])
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les noms Propres) (How to Translate Names]])
 
+(See also Voir aussi: [[:en:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess]], [[:en:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: Références Bibliques: =====
 
