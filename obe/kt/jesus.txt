@@ -20,14 +20,13 @@ Jésus est le fils de Dieu. Le nom "Jésus" signifie "Yahvé sauve". Le terme "C
   * Some languages may prefer to use some form of the term "Messiah" throughout.
   * Certaines langues peuvent préférer employer d'autre forme du terme "Messie."
   * Other languages may prefer to use a word or phrase that means "anointed (one)."
-  * D'autres langues peuvent préférer employer un mot ou une expression qui signifie "l'oint." 
+  * D'autres langues peuvent préférer employer un mot ou une expression qui signifie "l'oint."
   * Also consider how these names are spelled in a nearby local or national language.
   * Considérez aussi comment on a traduit ces termes dans une langue voisine locale ou nationale.
 
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also Voir aussi: [[:En:obe:kt:sonofgod]], [[en:obe:kt:godthefather]], [[en:obe:kt:god]], [[en:obe:other:mary]], [[:fr:obe:kt:kingdomofgod]], [[en:obe:kt:highpriest]], [[en:obe:kt:christ]], [[:En:obe:kt:Savior]])
+(See also Voir aussi: [[:en:obe:kt:sonofgod|Son of God, the Son, Son]], [[:en:obe:kt:godthefather|God the Father, heavenly Father, Father]], [[:en:obe:kt:god|God]], [[:en:obe:other:mary|Mary, the mother of Jesus]], [[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]], [[:en:obe:kt:highpriest|high priest]], [[:en:obe:kt:christ|Christ, Messiah]], [[:en:obe:kt:savior|Savior]])
 
 ===== Bible References Références Bibliques: =====
 
