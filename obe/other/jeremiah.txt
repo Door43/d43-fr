@@ -1,15 +1,22 @@
 ====== Jeremiah(Jérémie) ======
 
-===== Facts: =====
+===== Facts: Les Faits: =====
 
 Jeremiah was a prophet of God in the kingdom of Judah.The Old Testament book of Jeremiah contains his prophecies.
 
-  * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
-  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
-  * Jeremiah wrote that he wished his eyes could be a "fountain of tears," to express his deep sadness over the rebellion and sufferings of his people.
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+Jérémie était un prophète de Dieu dans le royaume de Juda.
 
-(See also: [[en:obe:kt:prophet]], [[kingdomofjudah]], [[babylon]])
+  * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
+  * Comme la plupart des prophètes,Jérémie a dû souvent avertir le peuple que Dieu allait les punir à cause de leurs péchés. 
+  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
+  * Jérémie prophétisa que les Babyloniens captureraient Jérusalem,ce qui mit en colère  quelques-uns de Juda. alors ils le jetèrent dans un puits pour l'y laisser mourir. Mais le roi de Juda ordonna à ses serviteurs de le délivrer hors du puits.
+  * Jeremiah wrote that he wished his eyes could be a "fountain of tears," to express his deep sadness over the rebellion and sufferings of his people.
+  * Jérémie écrivit qu'il souhaitait que ses yeux soient "une fontaine de larmes", pour exprimer sa profonde peine à cause de la rébellion et des souffrances de son peuple.
+(Translation suggestions: Suggestion de traduction:
+
+ [[en:ta:vol1:translate:translate_names]])
+
+(See also: Voir aussi [[en:obe:kt:prophet]], [[kingdomofjudah]], [[babylon]])
 
 
 ===== Bible References: Références Bibliques: =====
