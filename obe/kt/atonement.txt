@@ -1,4 +1,4 @@
-====== atonement, atone/expiation,expier,racheter ======
+====== atonement, atone / expiation, expier, racheter F ======
 
 ====== les Faits: ======  
 
@@ -6,12 +6,12 @@
 
 The term "atonement" refers to God's action in providing a sacrifice that would pay for sins. To "atone" for something means to make amends or make restitution for an injury or wrong that was done against someone.
 
-L'expression "expiation" se réfère à Dieu qui a pourvu au sacrifice payant pour des péchés. "Expier" pour quelquechose signifie faire réparation ou restitution pour une injure ou un mal accompli envers quelqu'un.
+L'expression "expiation" fait référence à ce qui a été fait par Dieu quand il fait un sacrifice payant pour des péchés. "Expier" pour quelque chose signifie faire réparation ou restitution pour une injure ou un mal accompli envers quelqu'un.
 
   * In the Old Testament, atonement for the sins of the Israelites was accomplished by a blood sacrifice, that is, by taking the life of an animal.
-  * Dans l'Ancient testament, l'expiation pour les péchés des Israélites se faisait par un sacrifice de sang, c'est à dire,en prenant la vie d'un animal.
+  * Dans l'Ancient testament, l'expiation des péchés des Israélites se faisait par un sacrifice de sang, c'est à dire, en ôtant la vie d'un animal.
   * As recorded in the New Testament, Christ's death on the cross is the only atonement for sin. When he died, he took the punishment that people deserved because of their sin. His death was the last blood sacrifice needed.
-  * Selon les Ecrits du Nouveau Testament, la mort de Christ sur la croix est l'unique expiation pour nos péchés. Quand Il est mort, Il a pris le châtiment réservé aux gens à cause de leur péchés. Sa mort était le sacrifice de sang qui était nécessaire.
+  * Selon les Ecrits du Nouveau Testament, la mort de Christ sur la croix est l'unique expiation de nos péchés. Quand Il est mort, Il a pris le châtiment que les gens méritaient pour leur péchés. Sa mort était le dernier sacrifice de sang nécessaire.
 
 ===== Translation Suggestions: Suggestions de traduction: =====
 
@@ -20,7 +20,7 @@ L'expression "expiation" se réfère à Dieu qui a pourvu au sacrifice payant po
   * Ways to translate "atonement" could include, "restitution" or "restoration" or "payment."
   * On pourrait traduire "expiation" par "restitution" ou "restauration" ou "paiement."
   * Make sure the translation of this term does not refer to payment of money.
-  * Soyez sûrs que la traduction de ce terme ne se réfère pas à un paiement monétaire.
+  * Assurez-vous que la traduction de ce terme ne se réfère pas à un paiement monétaire.
 
 (See also Voir aussi: [[:en:obe:kt:propitiation|propitiation]], [[:en:obe:kt:forgive|forgive, forgiveness]], [[:fr:obe:kt:reconcile|reconcile, reconciliation]])
 
