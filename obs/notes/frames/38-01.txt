@@ -15,7 +15,7 @@ Chaque année, les **Juifs** célébraient la **Pâque**. C'était une fête pou
   * **[[:fr:obe:other/Egypt]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/preach|preaching]]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
   * **[[:fr:obe:other/Jerusalem]]**
 ===== Translation Notes: =====
 
