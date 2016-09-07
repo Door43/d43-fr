@@ -1,19 +1,24 @@
 ====== John (the apostle)(Jean(l'apôtre)  ======
 
 
-===== Facts: =====
+===== Facts: les Faits:  =====
 
-John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
+John was one of Jesus' twelve apostles and one of Jesus' closest friends.
+Jean était l'un des 12 apôtres de Jésus et l'un de ses plus proches amis.
 
 
   * John and his brother James were the sons of a fisherman named Zebedee.
+  * Jean et son frère étaient les fils d'un pêcheurs qui s'appelait Zébédée.
   * In the gospel that he wrote about Jesus' life, John referred to himself as "the disciple whom Jesus loved." This seems to indicate that John was an especially close friend to Jesus.
+  * Dans l'évangile qu'il écrivit au sujet de la vie de Jésus, Jean parle de lui-même en tant que "le disciple que Jésus aimait."Ceci semble indiquer que Jean était un ami trés proche de Jésus.  
   * The apostle John wrote five of the books in the New Testament: the gospel of John, the Revelation of Jesus Christ, and three letters written to other believers.
+  * L'apôtre Jean écrivit 5 des livres du Nouveau Testament: l'Evangile de Jean, l'Apocalypse, et trois lettres écrites aux autres croyants. 
   * Note that the apostle John was a different person than John the Baptist.
+  * remarquez que Jean est une personne différente de Jean-Baptiste.
  
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
-(See also: [[johnthebaptist]], [[en:obe:kt:apostle]])
+(See also: Voir aussi: [[johnthebaptist]], [[en:obe:kt:apostle]])
 
 
 ===== Bible References: =====
