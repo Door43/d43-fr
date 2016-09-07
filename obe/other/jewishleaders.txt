@@ -4,16 +4,22 @@
 
 The term "Jewish leaders" or "Jewish authorities" refers to religious leaders such as the priests and teachers of God's laws. They also had the authority to make judgments about non-religious matters as well.
 
-Le terme "Dirigeants Juifs ou Autorités Juives" font référence aux dirigeants juifs tels que les prêtres et enseignants des lois de Dieu. ils possèdent aussi l'autorité de rendre des jugements 
-
+Le terme "irigeants Juifs" ou "autorités Juives" font référence aux dirigeants Juifs tels que les prêtres et enseignants des lois de Dieu. Ils possèdent aussi l'autorité de rendre des jugements sur des sujets pas nécessairement religieux.
+, surtout dans les contextes où 
   * The Jewish leaders were the high priests, chief priests, and scribes (teachers of God's laws).
+  * Les dirigeants Juifs étaient les sacrificateurs , les grands prêtres et les scribes (enseignants des lois de Dieu).
   * Two main groups of Jewish leaders were the Pharisees and Saduccees.
+  * Les principaux groupes de dirigeants Juifs étaient les Pharisiens et les Sadducéens.
   * Seventy Jewish leaders met together in the Jewish Council in Jerusalem to make judgments about matters of law.
+  * 70 dirigeants Juifs se rassemblèrent au Conseil Juif de Jérusalem pour décider de sujets se rapportant à la oi.
   * Many Jewish leaders were proud and thought they were righteous.They were jealous of Jesus and wanted to harm him.They claimed to know God but did not obey him.
+  * Beaucoup de dirigeants Juifs étaient fiers et pensaient qu'ils étaient justes. Ils étaient jaloux de Jésus et voulaient lui faire du mal. Ils proclamaient qu'ils connaissaient Dieu mais ne lui obéissaient pas.
   * Often the phrase "the Jews" refers to the Jewish leaders, especially in contexts where they are angry at Jesus and are trying to trick or harm him.
+  * Souvent l'expression "les Juifs" fait référence aux religieux Juifs, surtout lorsqu'ils sont en colère envers Jésus et essayent de le tromper ou de lui faire du mal.
   * These terms could also be translated as "Jewish rulers" or "men who ruled over the Jewish people" or "Jewish religious leaders."
+  * On pourrait aussi traduire ces termes par "chefs Juifs" ou " hommes qui gouvernent le peuple Juif" ou dirigeants religieux Juifs."
 
-(See also: [[:fr:obe:other:jew|Jew, Jewish(Juif)]], [[:en:obe:kt:priest|priest, priesthood]])
+(See also Voir aussi: [[:fr:obe:other:jew|Jew, Jewish(Juif)]], [[:en:obe:kt:priest|priest, priesthood]])
 
 ===== Biblical References: =====
 {{topic>:en:bible?Jewishleaders&nocomments}}
