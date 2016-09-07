@@ -16,7 +16,7 @@ Jean était l'un des 12 apôtres de Jésus et l'un de ses plus proches amis.
   * Note that the apostle John was a different person than John the Baptist.
   * Remarquez que Jean est une personne différente de Jean-Baptiste.
 
-(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also: Voir aussi: [[:fr:obe:other:johnthebaptist|John (the Baptist)(Jean-Baptiste)]], [[:en:obe:kt:apostle|apostle, apostleship]])
 
