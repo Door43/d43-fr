@@ -8,7 +8,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:david|David]]**
-  * **[[:fr:obe:kt:justice|just, justice, justly]]**
+  * **[[:fr:obe:kt:justice|just, justice, justly(juste, justement, avec justice)]]**
   * **[[:fr:obe:kt:faithful|faithful, faithfulness]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:kt:bless|bless, blessed, blessing (Bénir, a béni ou béni, la bénédiction)]]**
