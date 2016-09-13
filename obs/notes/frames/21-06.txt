@@ -12,7 +12,7 @@
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah]]**
   * **[[:fr:obe:kt:priest|priest, priesthood]]**
-  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:king|king(roi)]]**
 
 ==== Translation Notes: ====
 
