@@ -8,7 +8,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:other:king|king]]**
+  * **[[:fr:obe:other:king|king(roi)]]**
 ==== Translation Notes: ====
 
   * **Finally**  - This could be translated as, "After their enemies attacked them many times" or, "After many years of being attacked by many different nations."
