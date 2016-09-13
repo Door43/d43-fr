@@ -1,7 +1,7 @@
 ====== king(roi) ======
 
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 A king is the ruler of an independent city, state, or country.
 
