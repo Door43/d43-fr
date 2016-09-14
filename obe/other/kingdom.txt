@@ -31,7 +31,7 @@ Un royaume est un groupe de gens qu'un roi gouverne. Cela fait référence aussi
 
 (See also Voir aussi: [[:fr:obe:other:king]], [[:fr:obe:kt:kingdomofgod]], [[:fr:obe:other:kingdomofisrael]], [[:fr:obe:other:kingdomofjudah]], [[:fr:obe:other:Judah]], [[:fr:obe:kt:priest]])
 
-===== Bible References: références Bibliques: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?kingdom&nocomments}}
 
