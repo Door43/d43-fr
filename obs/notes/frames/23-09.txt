@@ -11,7 +11,7 @@
   * **[[:fr:obe:kt:wise|wise, wisdom]]**
   * **[[:fr:obe:kt:kingofthejews|King of the Jews(Roi des Juifs)]]**
   * **[[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]]**
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus Christ)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
 
 ===== Translation Notes: =====
 
