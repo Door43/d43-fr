@@ -8,11 +8,11 @@ Un **roi** est quelqu'un qui gouverne un **royaume** et **juge** les gens. Le **
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:king|king]]**
-  * **[[:fr:obe:other:kingdom|kingdom]]**
+  * **[[:fr:obe:other:king|king(roi)]]**
+  * **[[:fr:obe:other:kingdom|kingdom(royaume)]]**
   * **[[:fr:obe:kt:judge|judge, judgment(juger, jugement)]]**
-  * **[[:fr:obe:kt:christ|Christ, Messiah]]**
-  * **[[:fr:obe:other:david|David]]**
+  * **[[:fr:obe:kt:christ|Christ, Messiah(Christ, Messie)]]**
+  * **[[:fr:obe:other:david|David(David)]]**
 
 ==== Translation Notes: ====
 
