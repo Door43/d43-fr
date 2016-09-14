@@ -25,9 +25,11 @@ Un royaume est un groupe de gens qu'un roi gouverne. Cela fait référence aussi
   * One way to translate "kingdom of priests" might be, "spiritual priests who are ruled by God."
   * On pourrait traduire "royaume des prêtres" par " prêtres spirituels que Dieu gouverne."
   * The phrase, "kingdom of light" could be translated as, "God's reign that is good like light" or "when God, who is light, rules people" or "the light and goodness of God's kingdom." It is best to keep the word "light" in this expression since that is a very important term in the Bible.
+  * On pourrait traduire l'expression "royaume des lumières" par "le règne de Dieu qui est bon comme la lumière" ou "quand Dieu, qui est lumière, règne sur les gens" ou "la lumière et la bonté du royaume de Dieu."
   * Note that the term "kingdom" is different from an empire, which is ruled by an emperor.
+  * Remarquez que le terme "royaume" est différent d'un empire qu'un empereur gouverne.
 
-(See also: [[:fr:obe:other:king]], [[:fr:obe:kt:kingdomofgod]], [[:fr:obe:other:kingdomofisrael]], [[:fr:obe:other:kingdomofjudah]], [[:fr:obe:other:Judah]], [[:fr:obe:kt:priest]])
+(See also Voir aussi: [[:fr:obe:other:king]], [[:fr:obe:kt:kingdomofgod]], [[:fr:obe:other:kingdomofisrael]], [[:fr:obe:other:kingdomofjudah]], [[:fr:obe:other:Judah]], [[:fr:obe:kt:priest]])
 
 ===== Bible References: =====
 
