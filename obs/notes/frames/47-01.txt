@@ -13,7 +13,7 @@ Pendant que Saul voyageait dans l'Empire Romain, il commença a utiliser son nom
   * **[[:fr:obe:other/Philippi]]**
   * **[[:fr:obe:kt/goodnews]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/love|loved]]**
+  * **[[:fr:obe:kt/love|loved(aimer)]]**
   * **[[:fr:obe:kt/worship|worshiped]]**
  
 
