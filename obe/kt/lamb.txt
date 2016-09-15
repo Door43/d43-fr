@@ -25,7 +25,7 @@ Le terme "agneau" fait référence à un jeune mouton. Les moutons sont des anim
   * Also consider how this term is translated in a Bible translation of a nearby local or national language.
   * Considérez aussi comment on traduit ce terme dans une Bible d'un langage voisin ou national. 
    
-   (See: Voir [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+   (See: Voir [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns(Comment Traduire Les Termes Inconnus)]])
    
 
 (See also Voir aussi: [[en:obe:other:sheep]], [[en:obe:other:shepherd]])
