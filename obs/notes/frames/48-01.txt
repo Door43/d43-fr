@@ -11,7 +11,7 @@ Quand **Dieu créa le monde**, tout était **parfait**. **Il n'y avait pas de p�
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:other/Adam]]**
   * **[[:fr:obe:other/Eve]]**
-  * **[[:fr:obe:kt/love|loved]]**
+  * **[[:fr:obe:kt/love|loved(aimer)]]**
   * **[[:fr:obe:kt/death]]**
 
 
