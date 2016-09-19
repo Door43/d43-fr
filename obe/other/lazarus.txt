@@ -3,9 +3,7 @@
 
 ===== Facts: Les Faits: =====
 
-
 Lazarus and his sisters, Mary and Martha, were special friends of Jesus. He often stayed with them in their home in Bethany.
-
 
 Lazare et ses soeurs, Marie et Marthe, étaient des amis intimes de Jésus. Jésus restait souvent dans leur maison à Béthanie.
 
@@ -16,11 +14,9 @@ Lazare et ses soeurs, Marie et Marthe, étaient des amis intimes de Jésus. Jés
   * Jesus also told a parable about a poor beggar and a rich man in which the beggar was named "Lazarus."
   * Jésus raconta aussi une parabole d'un pauvre mendiant et d'un riche dans laquelle le mendiant s'appelait Lazare.
 
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
-
-(See also Voir aussi: [[en:obe:kt:raise]], [[jewishleaders]])
-
+(See also Voir aussi: [[:en:obe:kt:raise|raise, rise, risen, arise, arose]], [[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders(dirigeants juifs, dirigeants religieux)]])
 
 ===== Bible References: Références bibliques: =====
 
