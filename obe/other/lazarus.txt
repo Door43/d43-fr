@@ -1,19 +1,23 @@
 ====== Lazarus(Lazare) ======
 
 
-===== Facts: =====
+===== Facts: Les Faits: =====
 
 
 Lazarus and his sisters, Mary and Martha, were special friends of Jesus. He often stayed with them in their home in Bethany.
+Lazare et ses soeurs, Marie et Marthe, étaient des amis intimes de Jésus.Jésus restait souvent dans leur maison à Béthanie.
 
   * Lazarus is best known for the fact that Jesus raised him from the dead after he had been buried in a tomb for several days.
+  * Lazare est mieux connu par le fait que Jésus l'a réssuscité des morts après l'avoir placé dans une tombe pendant plusieurs jours.
   * The Jewish leaders were angry and jealous that Jesus had done this miracle and they tried to find a way to kill both Jesus and Lazarus.
+  * Les dirigeants juifs étaient en colère et jaloux car Jésus avait ce miracle et ils essayèrent de tuer Jésus et Lazare.
   * Jesus also told a parable about a poor beggar and a rich man in which the beggar was named "Lazarus."
+  * Jésus raconta aussi une parabole d'un pauvre mendiant et d'un riche dans laquelle le mendiant s'appelait Lazare.
 
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
-(See also: [[en:obe:kt:raise]], [[jewishleaders]])
+(See also Voir aussi: [[en:obe:kt:raise]], [[jewishleaders]])
 
 
 ===== Bible References: =====
