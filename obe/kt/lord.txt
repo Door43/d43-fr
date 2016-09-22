@@ -11,14 +11,18 @@ Le terme "seigneur" fait référence à quelqu'un qui a des droits et autorité 
   * On traduit quelquefois ce mot par "maïtre" quand on parle de Jésus ou quand lorsqu'on fait référence à quelqu'un qui possède ses propres esclaves.
   * Some English versions translate this as "sir" in contexts where someone is politely addressing someone of higher status.
    
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * This term should be translated as "master" when it refers to a person who owns slaves. It could also be used by a servant to address the person he works for.
+  * on pourrait traduire ce terme par "maïtre" quand on fait référence à quelqu'un qui a des esclaves. Un serviteur qui travaille pour celui à qui il appartient pourrait aussi  utiliser ce terme. 
+  
   * When it refers to Jesus, it could be translated as "master" if the context shows it means "religious teacher."
-  * If the person addressing Jesus does not know him, "lord" could be translated as "sir." This translation would also be used for other contexts in which a polite form of address to a man is called for.
+  * Quand on se réfère à Jésus, on pourrait traduire ce mot par "maïtre" si le contexte définit  en tant que" enseignant religieux."
+  * If the person addressing Jesus does not know him, "lord" could be translated as "sir." This translation would also be used for other contexts in which a polite form of address to a man is called for.   
   * When it refers to God, a term such as "Lord" should be used. Some languages would use "Master" or some other word that communicates ownership or supreme ruler.
+  * Quand on se réfère à Dieu, on pourrait employer un terme comme"Seigneur."Certaines langues pourraient employer"Maïtre" ou d'autres mots qui exprime appartenance ou dirigeant suprême.
 
-(See also: [[:fr:obe:kt:lordgod]])
+(See also: Voir aussi [[:fr:obe:kt:lordgod]])
 
   
 
