@@ -24,7 +24,7 @@ Marie était une jeune fille qui vivait dans la ville de Nazareth et était prom
   * The gospels also mention that Mary was at the cross when Jesus was dying. He told his disciple John to take care of her like his own mother.
   * Les évangiles mentionnent aussi que Marie était au pied de la croix lorsque Jésus mourrait. Il dit à son disciple Jean de prendre soin d'elle comme si elle était sa propre mère.
 
-(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire  Les Noms Propres) (How to Translate Names]])
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also Voir aussi: [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:fr:obe:other:josephnt|Joseph (NT)]], [[:en:obe:kt:sonofgod|Son of God, the Son, Son]], [[:fr:obe:other:virgin|virgin(vierge)]])
 
