@@ -8,9 +8,9 @@ Après que l'**ange** ait parlé à **Marie**, elle alla rendre visite à **Elis
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:angel|angel]]**
-  * **[[:fr:obe:other:mary|Mary]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:angel|angel(ange)]]**
+  * **[[:fr:obe:other:mary|Mary(Marie)]]**
+  * **[[:fr:obe:kt:god|God(Dieu)]]**
 
 ===== Translation Notes: =====
 
