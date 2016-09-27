@@ -9,7 +9,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:miracle|miracles]]**
+  * **[[:fr:obe:kt:miracle|miracles(miracle)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:other:heal|healed(guérir)]]**
   * **[[:fr:obe:kt:demon|demons(démons)]]**
