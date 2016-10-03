@@ -3,15 +3,12 @@
 
 ===== Facts: Les Faits: =====
 
-
 Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered many people groups and nations.
 
-
 Nébucadnetsar était un roi de l'Empire de Babylonie dont la puissante armée a conquis de nombreux groupes ethniques et nations.
- 
-   
+
   * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This "Babylonian Exile" lasted 70 years.
-  * Sous le commandement de Nébucadnetsar, l'armée Babylonienne attaqua et fit la conquête du royaume de Juda et emmena prisoniers la plupart de la population de Juda à Babylone. 
+  * Sous le commandement de Nébucadnetsar, l'armée Babylonienne attaqua et fit la conquête du royaume de Juda et emmena prisoniers la plupart de la population de Juda à Babylone.
   * One of the exiles, Daniel, interpreted dreams that King Nebuchadnezzar had.
   * Un des exilés, Daniel, interpréta les rêves du roi Nébucadnetsar.
   * Three other captured Israelites, Hananiah, Meshael, and Azariah, were thrown into a fiery furnace when they refused to bow down to a gigantic gold statue that Nebuchadnezzar had made.
@@ -19,12 +16,11 @@ Nébucadnetsar était un roi de l'Empire de Babylonie dont la puissante armée a
   * King Nebuchadnezzar was very arrogant and worshiped false gods. When he conquered Judah, he stole many gold and silver objects from the temple in Jerusalem.
   * Le roi Nébucadnetsar était très arrogant et adorait de faux dieux. Quand il fit la conquête de Juda, Il déroba beaucoup d'objets en or et en argent qui se trouvaient dans le temple de Jérusalem.
   * Because Nebuchadnezzar was proud and refused to turn away from worshiping false gods, Yahweh caused him to be destitute for seven years, living like an animal. After the seven years, God restored Nebuchadnezzar when he humbled himself and praised the one true God, Yahweh.
-  * Parce que Nébucadnetsar était fier et refusa de se détourner de  l'adoration des faux dieux, Dieu le destitua pendant 7 ans, et il viva comme un animal. Après 7 ans, Dieu restaura Nébucadnetsar qand il s'humilia et loua le seul vrai Dieu, Yahvé.  
-  
-(Translation suggestions Suggestion de traduction:: [[en:ta:vol1:translate:translate_names]])
+  * Parce que Nébucadnetsar était fier et refusa de se détourner de l'adoration des faux dieux, Dieu le destitua pendant 7 ans, et il viva comme un animal. Après 7 ans, Dieu restaura Nébucadnetsar qand il s'humilia et loua le seul vrai Dieu, Yahvé.
 
-(See also: Voir aussi [[babylon]], [[kingdomofjudah]])
+(Translation suggestions Suggestion de traduction:: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (ow to Translate Names]])
 
+(See also: Voir aussi [[:fr:obe:other:babylon|Babylon, Babylonian(Babylone,Babylonien)]], [[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah(royaume de Juda,Juda)]])
 
 ===== Bible References: Références Bibliques: =====
 
