@@ -23,7 +23,7 @@ Nazareth est une ville dans  la région de Galilée, au nord d'Israël. Elle est
 
 {{topic>:en:bible?Nazareth&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   ***[[:fr:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in **Nazareth** to Bethlehem because their ancestor was David whose hometown was Bethlehem.
   ***[[:fr:obs:notes:frames:26-02|[26-02]]]** Jesus went to the town of **Nazareth** where he had lived during his childhood.
