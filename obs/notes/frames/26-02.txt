@@ -9,8 +9,8 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
+  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene(Nazareth, Nazaréen)]]**
   * **[[:fr:obe:kt:sabbath|Sabbath]]**
   * **[[:fr:obe:kt:worship|worship]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
