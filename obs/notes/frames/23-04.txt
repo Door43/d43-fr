@@ -11,8 +11,8 @@
   * **[[:fr:obe:other:mary|Mary(Marie)]]**
   * **[[:fr:obe:other:rome|Rome, Roman]]**
   * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
-  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene]]**
-  * **[[:fr:obe:other:bethlehem|Bethlehem]]**
+  * **[[:fr:obe:other:nazareth|Nazareth, Nazarene(Nazareth, Nazaréen)]]**
+  * **[[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]]**
   * **[[:fr:obe:other:david|David]]**
 
 ===== Translation Notes: =====
