@@ -1,15 +1,23 @@
 ====== Noah(Noé) ======
 
-===== Facts: =====
+===== Facts: Les Faits: =====
 
 Noah was a man who lived over 4,000 years ago, at the time when God sent a worldwide flood to destroy all the evil people in the world. God told Noah to build a gigantic boat in which he and his family could live while the flood waters covered the earth.
 
-  * Noah was a righteous man who obeyed God in everything.
-  * When God told Noah how to build the gigantic boat, Noah built it exactly the way God told him to.
-  * Inside the boat, Noah and his family were kept safe and later their children and grandchildren filled the earth with people again.
-  * Everyone born since the flood is a descendant of Noah's family.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+Noé était un homme qui vivait il y a 4000 ans quand Dieu envoya une inondation mondiale pour détruire tous les méchants du monde. dieu dit à Noé de costruire un bateau gigantesque dans lequel toute sa famille pourrait vivre durant l'inondation qui couvrit la terre.
+
+
+  * Noah was a righteous man who obeyed God in everything.
+  * Noé était un homme juste qui obéissait Dieu en toute chose.
+  * When God told Noah how to build the gigantic boat, Noah built it exactly the way God told him to.
+  * Quand Dieu dit à Noé de construire le bateau gigantesque, il le construisit comme Dieu le lui avait dit.    
+  * Inside the boat, Noah and his family were kept safe and later their children and grandchildren filled the earth with people again.
+  * A l'intérieur du bateau, Noé et sa famille étaient sains et saufs et plus tard leur enfants et leurs grand-enfants repeuplèrent la  terre.
+  * Everyone born since the flood is a descendant of Noah's family.
+  * Tout personne née après le déluge est un descendant de la famille de  Noé.
+
+(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
 
 ===== Bible References: =====
