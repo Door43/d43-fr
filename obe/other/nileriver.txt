@@ -7,7 +7,7 @@
 The Nile is a very long and wide river in northeastern Africa. It is especially well-known as the main river of Egypt.
 
 
-Le Nil est un fleuve très long et large au Nord Est de l'Afrique. C'est en particulier le principal fleuve d'Egypte.
+Le Nil est un fleuve très long et large au Nord-Est de l'Afrique. C'est en particulier le principal fleuve que l'on connait de l'Egypte.
 
   *  The Nile River flows north through Egypt and into the Mediterranean Sea.
   * Le Nil coule du nord à travers l'Egypte jusqu'à la mer Méditerranée.
