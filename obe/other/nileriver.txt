@@ -10,7 +10,7 @@ The Nile is a very long and wide river in northeastern Africa. It is especially 
 Le Nil est un fleuve très long et large au Nord-Est de l'Afrique. C'est en particulier le principal fleuve que l'on connait de l'Egypte.
 
   *  The Nile River flows north through Egypt and into the Mediterranean Sea.
-  * Le Nil coule du nord à travers l'Egypte jusqu'à la mer Méditerranée.
+  * Le Nil coule en direction du nord à travers l'Egypte jusqu'à la mer Méditerranée.
   * Crops grow well in the fertile land on either side of the Nile River.
   * Les récoltes sont bonnes dans la terre fertile des deux rives du Nil.
   * Most Egyptians live near the Nile River since it is an important source of water and food crops.
