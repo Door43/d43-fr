@@ -10,7 +10,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israéles, nation d'Israël)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israélites, nation d'Israël)]]**
   * **[[:fr:obe:kt:passover|Passover(Pâque)]]**
   * **[[:fr:obe:other:egypt|Egypt, Egyptian(Egypte, Egyptien)]]**
   * **[[:fr:obe:other:servant|servant, slave, slavery (servante, esclave, esclavage)]]**
