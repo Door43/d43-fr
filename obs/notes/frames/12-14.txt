@@ -10,11 +10,11 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:kt:passover|Passover]]**
-  * **[[:fr:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israéles, nation d'Israël)]]**
+  * **[[:fr:obe:kt:passover|Passover(Pâque)]]**
+  * **[[:fr:obe:other:egypt|Egypt, Egyptian(Egypte, Egyptien)]]**
   * **[[:fr:obe:other:servant|servant, slave, slavery (servante, esclave, esclavage)]]**
-  * **[[:fr:obe:kt:lamb|lamb, Lamb of God]]**
+  * **[[:fr:obe:kt:lamb|lamb, Lamb of God(agneau,Agneau de Dieu)]]**
 ==== Translation Notes: ====
 
   * **the Passover**  - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
