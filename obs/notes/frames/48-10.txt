@@ -10,7 +10,7 @@
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Passover]]**
   * **[[:fr:obe:kt/lamb]]**
-  * **[[:fr:obe:kt/believe|believes]]**
+  * **[[:fr:obe:kt/believe|believes(croire)]]**
   * **[[:fr:obe:kt/blood]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:kt/God|God's]]**
