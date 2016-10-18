@@ -7,16 +7,16 @@ Every year, the **Jews** celebrated the **Passover**. This was a celebration of 
 Chaque année, les **Juifs** célébraient la **Pâque**. C'était une fête pour remercier **Dieu** d'avoir **libéré** leurs ancêtres de **l'esclavage** en **Egypte il y a plusieurs siècles**. Environ trois ans après que Jesus ait commencé à **prêcher** et à enseigner publiquement, Jésus dit à ses **disciples** qu'il voulait fêter la Pâque avec eux à **Jerusalem** et qu'il serait tué là bas.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/Jew|Jews]]**
-  * **[[:fr:obe:kt/Passover]]**
-  * **[[:fr:obe:kt/God]]**
+  * **[[:fr:obe:other/Jew|Jews(Juifs)]]**
+  * **[[:fr:obe:kt/PassoverPâque)]]**
+  * **[[:fr:obe:kt/God(Dieu)]]**
   * **[[:fr:obe:kt/save|saved]]**
   * **[[:fr:obe:other/servant]]**
-  * **[[:fr:obe:other/Egypt]]**
-  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/Egypt(Egypte)]]**
+  * **[[:fr:obe:kt/Jesus(Jésus)]]**
   * **[[:fr:obe:other/preach|preaching]]**
   * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
-  * **[[:fr:obe:other/Jerusalem]]**
+  * **[[:fr:obe:other/Jerusalem(Jérusalem)]]**
 ===== Translation Notes: =====
 
   * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
