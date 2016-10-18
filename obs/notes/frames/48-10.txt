@@ -13,7 +13,7 @@
   * **[[:fr:obe:kt/believe|believes(croire)]]**
   * **[[:fr:obe:kt/blood]]**
   * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/God|God's]]**
+  * **[[:fr:obe:kt/God|God(Dieu)]]**
   * **[[:fr:obe:other/punish|punishment]]**
 
 
