@@ -10,7 +10,7 @@ A Jerusalem, **Jésus célébra**  la **Pâque** avec ses **disciples**. Durant 
   * **[[:fr:obe:other/Jerusalem]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Passover]]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
   * **[[:fr:obe:other/sacrifice|sacrificed]]**
 ===== Translation Notes: =====
 
