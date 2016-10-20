@@ -13,7 +13,7 @@
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/kingdomofgod|kingdom(royaume)]]**
   * **[[:fr:obe:kt/justice]]**
-  * **[[:fr:obe:other/peace(paix)]]**
+  * **[[:fr:obe:other/peace]]**
 
 
 
