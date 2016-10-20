@@ -10,7 +10,7 @@ Après cette bataille, **Dieu donna à chaque tribu d'Israël leur propre portio
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israélites, nation d'Israël)]]**
   * **[[:fr:obe:kt:promisedland|Promised Land]]**
-  * **[[:fr:obe:other:peace|peace, peaceful]]**
+  * **[[:fr:obe:other:peace|peace, peaceful(paix,paisible)]]**
 ==== Translation Notes: ====
 
   * **God gave…Land**  – this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
