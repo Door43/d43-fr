@@ -7,12 +7,12 @@
 **David** était le **roi** d'**Israel**, mais **Jésus** est **le Roi de l'univers**! Il reviendra pour gouverner son **royaume** avec **justice** et la **paix**, pour toujours.
 
 ===== Termes Importants =====  
-  * **[[:fr:obe:other/David(David)]]**
-  * **[[:fr:obe:other/king(roi)]]**
-  * **[[:fr:obe:other/Israel(Israël)]]**
+  * **[[:fr:obe:other/David]]**
+  * **[[:fr:obe:other/king]]**
+  * **[[:fr:obe:other/Israel]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/kingdomofgod|kingdom(royaume)]]**
-  * **[[:fr:obe:kt/justice(justice)]]**
+  * **[[:fr:obe:kt/justice]]**
   * **[[:fr:obe:other/peace(paix)]]**
 
 
