@@ -3,11 +3,9 @@
 
 ===== Facts: Les Faits: =====
 
-
 Peter was one of Jesus' twelve apostles. He was an important leader of the early Church.
 
-
-Pierre était l'un des 12 apôtres de Jésus. Il était un important dirigeant de l'Eglise  à ses débuts.
+Pierre était l'un des 12 apôtres de Jésus. Il était un important dirigeant de l'Eglise à ses débuts.
 
   * Before Jesus called him to be his disciple, Peter's name was Simon.
   * Avant l'appel de Jésus pour être son disciple, le nom de Pierre était Simon.
@@ -18,11 +16,9 @@ Pierre était l'un des 12 apôtres de Jésus. Il était un important dirigeant d
   * Two books in the New Testament are letters that Peter wrote to encourage and teach fellow believers.
   * Il y a deux lettres dans le Nouveau Testament que Pierre écrivit pour encourager et enseigner les croyants.
 
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: Voir aussi [[en:obe:kt:disciple]], [[en:obe:kt:apostle]])
-
+(See also: Voir aussi [[:en:obe:kt:disciple|disciple]], [[:en:obe:kt:apostle|apostle, apostleship]])
 
 ===== Bible References: Références Bibliques: =====
 
