@@ -8,11 +8,11 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:fr:obe:other:peter|Peter, Simon Peter, Cephas(Pierre, Simon Pierre, Céphas)]]**
   * **[[:fr:obe:other:heal|healed(guérir)]]**
   * **[[:fr:obe:kt:power|power]]**
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:christ|Messiah]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus, Jésus Christ)]]**
+  * **[[:fr:obe:kt:christ|Messiah(Messie)]]**
   * **[[:fr:obe:kt:crucify|crucified(crucifier)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:kt:raise|raised]]**
