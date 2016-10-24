@@ -15,7 +15,7 @@ Dans l'ancien temps, les rois qui gouvernaient l'Egypte s'appelaient des pharaon
   * Often this title is used as a name rather than as a title. In these cases, it is capitalized as "Pharaoh."
   * On utilise souvent ce titre en tant que nom plutôt qu'un titre. Dans ces cas, on l'écrit avec une lettre majuscule.
 
-(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: Suggestion de traduction:[[:en:ta:vol1:translate:translate_names|H(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
 (See also: Voir aussi: [[:fr:obe:other:egypt|Egypt, Egyptian]], [[:fr:obe:other:king|king]])
 
