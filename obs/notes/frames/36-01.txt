@@ -11,7 +11,7 @@ Un jour, **Jésus** prit avec lui trois de ses **disciples**, **Pierre**, **Jacq
   * **[[:fr:obe:kt/disciple|disciples]]**
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/Johntheapostle]]**
-  * **[[:fr:obe:kt/baptize|baptized]]**
+  * **[[:fr:obe:kt/baptize|baptized(baptiser)]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
