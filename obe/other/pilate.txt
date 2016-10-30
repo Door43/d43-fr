@@ -1,17 +1,23 @@
 ====== Pilate(Pilate) ======
 
 
-===== Facts: =====
+===== Facts: Les Faits: =====
 
 Pilate was the Roman governor who sentenced Jesus to death.
 
+
+Pilate était le gouverneur romain qui comdemna Jésus à mourir.
+
   * Because Pilate was the governor, he had the authority to put criminals to death.
+  * Parce que Pilate était le gouverneur il avait l'autorité de comdamner à mort les criminels.
   * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
+  * les dirigeants religieux juifs voulait que Pilate crucifie Jésus, et ont menti et dit que Jésus était un criminel.
   * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+  * Pilate réalisa que Jésus n'était pas coupable, mais il avait peur de la foule, alors il ordonna à ses soldats de crucifier Jésus.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: Suggestion de traduction [[en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[rome|Rome, Roman]], [[en:obe:kt:crucify|crucify]], [[en:obe:kt:guilt|guilt, guilty]], [[governor]])
+(See also: Voir aussi: [[rome|Rome, Roman]], [[en:obe:kt:crucify|crucify]], [[en:obe:kt:guilt|guilt, guilty]], [[governor]])
 
 
 ===== Bible References: =====
