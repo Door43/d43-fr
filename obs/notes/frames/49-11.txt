@@ -9,7 +9,7 @@
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/sin|sinned]]**
-  * **[[:fr:obe:other/punish|punished]]**
+  * **[[:fr:obe:other/punish|punished(punir)]]**
   * **[[:fr:obe:kt/death|die]]**
   * **[[:fr:obe:other/sacrifice]]**
   * **[[:fr:obe:kt/God]]**
