@@ -9,11 +9,11 @@
 ===== Termes Importants ===== 
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:kt/Christian]]**
-  * **[[:fr:obe:other/preach|preaching]]**
+  * **[[:fr:obe:other/preach|preaching(prêcher)]]**
   * **[[:fr:obe:kt/goodnews]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/believer|believers]]**
-  * **[[:fr:obe:kt/church|churches]]**
+  * **[[:fr:obe:kt/believer|believers(croyants)]]**
+  * **[[:fr:obe:kt/church|churches(église,églises)]]**
 
 
 ===== Translation Notes: =====
