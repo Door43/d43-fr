@@ -9,15 +9,15 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:fast|fasting(jeûner)]]**
-  * **[[:fr:obe:other:pray|praying]]**
+  * **[[:fr:obe:other:pray|praying(prier)]]**
   * **[[:fr:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Le Saint Esprit, l'Esprit de Dieu, L'Esprit du Seigneur)]]**
   * **[[:fr:obe:kt:church|church, Church(église, Eglise)]]**
-  * **[[:fr:obe:other:pray|prayed]]**
+  * **[[:fr:obe:other:pray|prayed(prier)]]**
   * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
   * **[[:fr:obe:other:paul|Saul]]**
-  * **[[:fr:obe:other:preach|preach]]**
+  * **[[:fr:obe:other:preach|preach(prêcher)]]**
   * **[[:fr:obe:kt:goodnews|good news, gospel(bonne nouvelle, évangile)]]**
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
   * **[[:fr:obe:kt:believe|believed(croire)]]**
 
 ===== Translation Notes: =====
