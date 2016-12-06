@@ -14,7 +14,7 @@
   * **[[:fr:obe:kt:church|church, Church(église, Eglise)]]**
   * **[[:fr:obe:other:pray|prayed(prier)]]**
   * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
-  * **[[:fr:obe:other:paul|Saul]]**
+  * **[[:fr:obe:other:paul|Saul(Saul)]]**
   * **[[:fr:obe:other:preach|preach(prêcher)]]**
   * **[[:fr:obe:kt:goodnews|good news, gospel(bonne nouvelle, évangile)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
