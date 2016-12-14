@@ -10,7 +10,7 @@ Un jeune homme qui s'appelait **Saul** approuva l'exécution d'Étienne et **gar
 
   * **[[:fr:obe:other/paul|Saul(Saul)]]**
   * **[[:fr:obe:other/Jerusalem]]**
-  * **[[:fr:obe:other/persecute|persecuting]]**
+  * **[[:fr:obe:other/persecute|persecuting(persécuter)]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/believer|believers(croyants)]]**
   * **[[:fr:obe:other/preach|preached(prêcher)]]**
