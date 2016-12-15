@@ -1,11 +1,15 @@
 ====== promise(promettre, promesse) ======
 
-===== Definition:Définition:  =====
+===== Definition: Définition:  =====
 A promise is a pledge to do a certain thing. When someone promises something, it means he is committing to do something.
+Une promesse est un engagement à accomplir une chose particulière. Quand quelqu'un promet de faire quelquechose cela veut dire qu'il prend l'engagement de l'accomplir.
 
-  * The Bible records many promises that God has made for His people.     
+  * The Bible records many promises that God has made for His people.
+  * La Bible contient beaucoup de promesses que Dieu a fait pour Son peuple.     
   * Promises are an important part of formal agreements such  as covenants.
+  * Une inportante partie des promesses  sont des accords formels tels que les alliances. 
   * A promise is often accompanied by an oath to confirm that it will be done.
+  * Une promesse s'accompagne souvent d'un serment  pour confimer son accomplissement.
     
   
 ===== Translation Suggestions:Suggestions de traduction: =====
