@@ -1,6 +1,6 @@
 ====== promise(promesse) ======
 
-===== Definition:  =====
+===== Definition:Définition:  =====
 A promise is a pledge to do a certain thing. When someone promises something, it means he is committing to do something.
 
   * The Bible records many promises that God has made for His people.     
