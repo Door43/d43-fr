@@ -1,4 +1,4 @@
-====== promise(promettre) ======
+====== promise(promettre, promesse)) ======
 
 ===== Definition:Définition:  =====
 A promise is a pledge to do a certain thing. When someone promises something, it means he is committing to do something.
