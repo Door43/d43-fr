@@ -15,7 +15,7 @@ A promise is a pledge to do a certain thing. When someone promises something, it
   
 (See also: Voir aussi: [[:fr:obe:kt:covenant]], [[:fr:obe:other:oath]], [[:fr:obe:kt:vow]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?promise&nocomments}}
 
