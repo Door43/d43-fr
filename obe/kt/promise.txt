@@ -16,10 +16,11 @@ Une promesse est un engagement à accomplir une chose particulière. Quand quelq
   
 ===== Translation Suggestions:Suggestions de traduction: =====
 
-  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
+  * The term "promise" could be translated as, "commitment" or "assurance" or "guarantee."
+  * On pourrait traduire le terme "promesse "par "engagement" ou "assurance" ou "garantie. 
+  *  The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
   * On pourrait traduire le terme "promettre" par "confirmer que quelqu'un accomplira quelquechose" ou "s'engager à faire quelquechose."
-  * To "promise to do something" could be translated as, "assure someone that you will do something" or "commit to doing something."
-  * On pourrsit tesduire "promettre de faire quelquechose" par " 
+ 
   
 (See also: Voir aussi: [[:fr:obe:kt:covenant]], [[:fr:obe:other:oath]], [[:fr:obe:kt:vow]])
 
