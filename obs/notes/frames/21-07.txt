@@ -8,7 +8,7 @@
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,israélites, nation d'Israël)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israélites, nation d'Israël)]]**
   * **[[:fr:obe:kt:priest|priest, priesthood(prêtre, sacerdoce)]]**
   * **[[:fr:obe:other:sacrifice|sacrifice, offering]]**
   * **[[:fr:obe:kt:god|God(Dieu)]]**
