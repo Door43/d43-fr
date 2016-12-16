@@ -1,4 +1,4 @@
-====== praise(louer) ======
+====== praise(louer,louange) ======
 
 ===== Definition: =====
 
