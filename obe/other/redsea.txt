@@ -1,6 +1,7 @@
 ====== Red Sea, Sea of Reeds(Mer Rouge, Mer des Roseaux) ======
 
 
+====== Titre ======
 ===== Facts: Les Faits: =====
 
 The "Sea of Reeds" was the name of a body of water located between Egypt and Arabia. It is now called the "Red Sea."
@@ -12,8 +13,7 @@ The "Sea of Reeds" was the name of a body of water located between Egypt and Ara
 
 (See also: [[:fr:obe:other:egypt|Egypt, Egyptian(Egypte, Egyptiens)]], [[:en:obe:kt:promisedland|Promised Land]])
 
-
-**Bible References:**
+Bible References:
 
   * Acts 07:35-37
   * Exodus 13:17-18
