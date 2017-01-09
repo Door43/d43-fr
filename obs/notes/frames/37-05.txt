@@ -11,8 +11,8 @@ Jésus répondit, “**je suis la Résurrection et la Vie**. Celui qui **croit**
   * **[[:fr:obe:kt/resurrection]]**
   * **[[:fr:obe:kt/life]]**
   * **[[:fr:obe:kt/believe]]**
-  * **[[:fr:obe:kt/death|dies]]**
-  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/death|dies(mourir)]]**
+  * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:kt/christ]]**
   * **[[:fr:obe:kt/SonofGod]]**
 ===== Translation Notes: =====
