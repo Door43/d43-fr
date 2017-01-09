@@ -9,7 +9,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:mary|Mary(Marie)]]**
-  * **[[:fr:obe:other:rome|Rome, Roman]]**
+  * **[[:fr:obe:other:rome|Rome, Roman(Rome,Romain)]]**
   * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
   * **[[:fr:obe:other:nazareth|Nazareth, Nazarene(Nazareth, Nazaréen)]]**
   * **[[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]]**
