@@ -2,22 +2,18 @@
 
 ===== Facts: Les Faits: =====
 
-Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
-Roboam était l'un des fils de Salomon et devint le roi de la nation d'Israël lorsqu'il mourut.
-
+Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died. Roboam était l'un des fils de Salomon et devint le roi de la nation d'Israël lorsqu'il mourut.
 
   * At the beginning of his reign, Rehoboam was severe with his people, so ten of the tribes of Israel rebelled against him and formed the "kingdom of d'Israel" in the north.
-  *Au début de son règne, Roboam était rude envers son peuple, alors dix des tribus d'Israël se révoltèrent contre lui et formèrent le "royaume d'Israël"  au Nord.
+  * Au début de son règne, Roboam était rude envers son peuple, alors dix des tribus d'Israël se révoltèrent contre lui et formèrent le "royaume d'Israël" au Nord.
   * Rehoboam continued as king of the southern kingdom of Judah which consisted of the two tribes, Judah and Benjamin.
   * Roboam continua d'être le roi du royaume de Juda au Sud qui comprenait deux tribus, Juda et Benjamin.
   * Rehoboam was a wicked king who did not obey Yahweh, but worshiped false gods.
   * Roboam était un roi mauvais qui n'obéissait pas Yavhé mais adorait de faux dieux.
 
+(Translation suggestions Suggestion de traduction:: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(Translation suggestions Suggestion de traduction:: [[en:ta:vol1:translate:translate_names]])
-
-(See also: Voir aussi: [[solomon]], [[kingdomofjudah]])
-
+(See also: Voir aussi: [[:fr:obe:other:solomon|Solomon]], [[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah(royaume de Juda,Juda)]])
 
 ===== Bible References: Références Bibliques: =====
 
