@@ -19,13 +19,16 @@ Généralement, le mot "élever" signifie "faire monter" ou "hausser". "Se lever
   * Some day in the future, Jesus will raise to life all the people who trust in him, and they will never die again.
   * Un jour, Jésus ressuscitera toux ceux qui ont cru en Lui, et ils ne mourront plus jamais.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "raise" can be translated as "to lift up" or "to make higher."
+  * On peut traduire le terme "élever" par "faire monter" ou "hausser." 
   * To "raise up" could be translated as, "to cause to appear" or "to appoint" or "to bring into existence."
+  * On pourrait traduire "lever(produire)" par "faire apparaitre" ou "désigner" ou " faire venir à l'existence."
   * When used figuratively, "raise" means "to return from death to life."
+  * Au sens figuré, "lever" signifie "faire revenir de la mort à la vie."
 
-(See also: [[:fr:obe:kt:resurrection]], [[:En:obe:kt:appoint]])
+(See also: Voir aussi: [[:fr:obe:kt:resurrection]], [[:En:obe:kt:appoint]])
 
 ===== Bible References: =====
 
