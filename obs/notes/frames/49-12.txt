@@ -13,9 +13,9 @@
   * **[[:fr:obe:kt/sin|sins]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/sonofgod]]**
-  * **[[:fr:obe:kt/death|died]]**
+  * **[[:fr:obe:kt/death|died(mourir)]]**
   * **[[:fr:obe:kt/cross]]**
-  * **[[:fr:obe:kt/raise|raised]]**
+  * **[[:fr:obe:kt/raise|raised(réssuscité)]]**
   * **[[:fr:obe:kt/life]]**
 
 
