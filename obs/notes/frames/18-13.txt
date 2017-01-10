@@ -7,8 +7,8 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
 Les** rois** de Juda furent des **descendants** de **David**. Certains d'entre eux étaient des hommes **bons qui régnaient avec justice** qui **adoraient Dieu**. Mais la plupart des rois de Juda furent **méchants**, **corrompus**, et ils adorèrent des idoles. Quelques-uns de ces rois** sacrifièrent** même leurs propres enfants pour les faux **dieux**. La majorité du peuple de Judas se** révolta** aussi contre Dieu et adora d'autres dieux.
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:king|king]]**
-  * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
+  * **[[:fr:obe:other:king|king(roi)]]**
+  * **[[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah(royaume de Juda,Juda)]]**
   * **[[:fr:obe:other:descendant|descendant(descendant)]]**
   * **[[:fr:obe:other:david|David]]**
   * **[[:fr:obe:kt:good|good, goodness (Bon, la bonté)]]**
@@ -16,10 +16,10 @@ Les** rois** de Juda furent des **descendants** de **David**. Certains d'entre e
   * **[[:fr:obe:kt:worship|worship]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]]**
-  * **[[:fr:obe:other:idol|idol, idolatrous ]]**
+  * **[[:fr:obe:other:idol|idol, idolatrous(idole, idolâtre) ]]**
   * **[[:fr:obe:other:sacrifice|sacrifice, offering]]**
   * **[[:fr:obe:kt:falsegod|false god, god (faux dieu,dieu)]]**
-  * **[[:fr:obe:other:rebel|rebel, rebellious]]**
+  * **[[:fr:obe:other:rebel|rebel, rebellious(se révolter,rebelle)]]**
 ===== Translation Notes: =====
 
   * **ruled justly**  - This means they ruled according to God's laws. This can be translated as, "when they ruled, they did what was right."
