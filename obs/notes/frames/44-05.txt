@@ -12,7 +12,7 @@
   * **[[:fr:obe:kt/life]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/raise|raised(élever,réssuscité)]]**
-  * **[[:fr:obe:kt/death|dead(mort,mort)]]**
+  * **[[:fr:obe:kt/death|dead(mort)]]**
   * **[[:fr:obe:kt/fulfill]]**
   * **[[:fr:obe:kt/prophet|prophecies(prophéties)]]**
   * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
