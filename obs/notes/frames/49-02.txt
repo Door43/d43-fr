@@ -13,7 +13,7 @@
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:other:heal|healed(guérir)]]**
   * **[[:fr:obe:kt:demon|demons(démons)]]**
-  * **[[:fr:obe:kt:raise|raised]]**
+  * **[[:fr:obe:kt:raise|raised(réssuscité)]]**
   * **[[:fr:obe:kt:death|dead(mort)]]**
 
 ===== Translation Notes: =====
