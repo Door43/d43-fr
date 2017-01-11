@@ -17,13 +17,16 @@ Les termes "se repentir" et "repentance" font référence au fait de se détourn
   
 
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn the mind away from sin and toward God" or "turn toward God, away from sin."
+  * On peut traduire le terme "se repentir" par un mot ou une phrase qui signifient "revenir à Dieu" ou "détourner son esprit du péché et se tourner vers Dieu" ou "se tourner vers Dieu, et loin du péché."
   *  Often the term, "repentance" can be translated using the verb "repent." For example, "God has given repentance to Israel" could be translated as, "God has enabled Israel to repent."
+  *   * On peut souvent traduire le terme "repentance" par le verbe "se repentir." Par exemple, on pourrait traduire "Dieu a donné la repentance à Israël" par "Dieu a permis à Israël de se repentir."
   * Other ways to translate "repentance" could include "to turn away from sin" or "turning to God and away from sin."
+  * On pourrait aussi traduire "repentance" par "se détourner du péché" ou " se tourner vers Dieu et loin du péché."
   
-   (See also: [[:fr:obe:kt:forgive]], [[:fr:obe:kt:sin]])
+   (See also: Voir aussi: [[:fr:obe:kt:forgive]], [[:fr:obe:kt:sin]])
 ===== Bible References: =====
 
 {{topic>:en:bible?repent&nocomments}}
