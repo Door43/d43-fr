@@ -12,10 +12,12 @@ In the Bible, the terms "sacrifice" and "offering" refer to special gifts given 
 
 
 ===== Translation Suggestions =====
+  * The term "offering" could also be translated as "a gift to God" or "something given to God" or "something valuable that is presented to God."
+  * Depending on the context, the term "sacrifice" could also be translated as "something valuable given in worship" or "a special animal killed and presented to God."
+  * The action, "to sacrifice" could be translated as, "to give up something valuable" or "to kill an animal and give it to God."
+  * Another way to translate "present yourself as a living sacrifice" could be, "As you live your life, offer yourself to God as completely as an animal that is offered on an altar."
 
-  * "Offering" can be translated as "a gift to God" or "something given to God" or "something valuable that is presented to God" or "sacred gift."
-  * "Sacrifice" can be translated as "to kill and animal and give it to God" or "meat presented to God" or "meat presented to an idol."
-
+ 
 (See also: [[:fr:obe:kt:priest|priest]], [[:fr:obe:other:altar|altar]], [[:fr:obe:other:burntoffering]], [[:fr:obe:other:sinoffering]], [[:fr:obe:other:drinkoffering]])
 
 ===== Bible References: =====
