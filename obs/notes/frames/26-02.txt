@@ -11,9 +11,9 @@
 
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
   * **[[:fr:obe:other:nazareth|Nazareth, Nazarene(Nazareth, Nazaréen)]]**
-  * **[[:fr:obe:kt:sabbath|Sabbath]]**
+  * **[[:fr:obe:kt:sabbath|Sabbath(Sabbat)]]**
   * **[[:fr:obe:kt:worship|worship]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète, prophétiser,prophétie,voyant) ]]**
   * **[[:fr:obe:other:isaiah|Isaiah(Esaïe)]]**
 
 ===== Translation Notes: =====
