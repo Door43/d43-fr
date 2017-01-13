@@ -20,7 +20,7 @@
 {{topic>:en:bible?sarah&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   ***[[:fr:obs:notes:frames:05-01|[05-01]]]** "So Abram's wife, **Sarai**, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
   ***[[:fr:obs:notes:frames:05-04|[05-04]]]** "'Your wife, **Sarai**, will have a son--he will be the son of promise.'"
