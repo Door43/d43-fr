@@ -9,16 +9,16 @@ Un **disciple** de **Jésus** nommé Philippe était un des **croyants** qui se 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/disciple]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/believer|believers]]**
+  * **[[:fr:obe:kt/believer|believers(croyants)]]**
   * **[[:fr:obe:other/Jerusalem]]**
-  * **[[:fr:obe:other/persecute|persecution]]**
+  * **[[:fr:obe:other/persecute|persecution(persécution)]]**
   * **[[:fr:obe:other/Samaria]]**
   * **[[:fr:obe:other/preach|preached(prêcher)]]**
   * **[[:fr:obe:kt/save|saved]]**
   * **[[:fr:obe:kt/angel]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/chariot]]**
-  * **[[:fr:obe:kt/holyspirit|Holy Spirit]]**
+  * **[[:fr:obe:kt/holyspirit|Holy Spirit(Saint Esprit)]]**
 
 
 ===== Translation Notes: =====
