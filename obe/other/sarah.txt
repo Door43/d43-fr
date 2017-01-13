@@ -3,17 +3,16 @@
 
 ===== Facts: les Faits: =====
 
-    * Sarah was Abraham's wife.
-    * Sara était la femme d'Abraham.
-    * Sarah's name was originally "Sarai," but God changed it to Sarah.
-    * A l'origine, le nom de Sara était "Saraï", mais Dieu le changea en Sara.
-    * Sarah gave birth to the son God had promised to her and Abraham.
-    * Sara donna naissance au fils que Dieu avait promis à Sara et à Abraham. 
- 
-(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
-   
-(See also: Voir aussi: [[en:obe:other:abraham]], [[isaac]])
+  * Sarah was Abraham's wife.
+  * Sara était la femme d'Abraham.
+  * Sarah's name was originally "Sarai," but God changed it to Sarah.
+  * A l'origine, le nom de Sara était "Saraï", mais Dieu le changea en Sara.
+  * Sarah gave birth to the son God had promised to her and Abraham.
+  * Sara donna naissance au fils que Dieu avait promis à Sara et à Abraham.
 
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
+
+(See also: Voir aussi: [[:en:obe:other:abraham|Abraham, Abram]], [[:fr:obe:other:isaac|Isaac(Isaac)]])
 
 ===== Bible References: Références Bibliques: =====
 
