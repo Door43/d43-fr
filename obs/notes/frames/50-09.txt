@@ -8,9 +8,9 @@
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/evil]]**
-  * **[[:fr:obe:kt/satan|devil]]**
-  * **[[:fr:obe:kt/God|God's]]**
-  * **[[:fr:obe:kt/angel|angels]]**
+  * **[[:fr:obe:kt/satan|devil(diable)]]**
+  * **[[:fr:obe:kt/God|God's(Dieu)]]**
+  * **[[:fr:obe:kt/angel|angels(ange)]]**
 
 ===== Translation Notes: =====
 
