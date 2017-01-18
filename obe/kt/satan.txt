@@ -26,12 +26,12 @@ Le diable est un être spirituel que Dieu créa, mais il se révolta contre Dieu
   * "Satan" peut être rtraduit par "celui qui s'oppose" ou "l'Adversaire" ou quelqu'autre nom qui indique qu'il est le diable.
   * These terms should be translated differently from demon and evil spirit.
   * On pourrait traduire ces termes différemment que démon et esprit méchant.
-  * Consider how these terms are translated in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Consider how these terms are translated in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|(Comment Traduire Les termes Inconnus) (How to Translate Unknowns]])
   * Considérez la traduction de ces termes dans la langue locale ou nationale.( Voir:
 
-(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(See also: Voir aussi [[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven(royaume de Dieu, royaume des cieux)]], [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]], [[:fr:obe:kt:tempt|tempt, temptation]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
+(See also: Voir aussi: [[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven(royaume de Dieu, royaume des cieux)]], [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]], [[:fr:obe:kt:tempt|tempt, temptation]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
 
 ===== Bible References: Références Bibliques: =====
 
