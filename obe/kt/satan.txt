@@ -18,16 +18,20 @@ Le diable est un être spirituel que Dieu créa, mais il se révolta contre Dieu
   * The word "devil" means "accuser.
   * Le mot "diable" signifie "accusateur."
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
+  * On pourrait traduire le mot "diable" par "celui qui accuse" ou "le méchant," ou "le roi des esprits méchants, ou " Le suprême esprit méchant."
   * "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
+  * "Satan" peut être rtraduit par "celui qui s'oppose" ou "l'Adversaire" ou quelqu'autre nom qui indique qu'il est le diable.
   * These terms should be translated differently from demon and evil spirit.
+  * On pourrait traduire ces termes différemment que démon et esprit méchant.
   * Consider how these terms are translated in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Considérez la traduction de ces termes dans la langue locale ou nationale.( Voir:
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven(royaume de Dieu, royaume des cieux)]], [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]], [[:fr:obe:kt:tempt|tempt, temptation]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
+(See also: Voir aussi [[:fr:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven(royaume de Dieu, royaume des cieux)]], [[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]], [[:fr:obe:kt:tempt|tempt, temptation]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
 
 ===== Bible References: Références Bibliques: =====
 
