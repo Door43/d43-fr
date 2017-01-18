@@ -8,11 +8,11 @@
 
 ===== Termes Importants =====  
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/promise|promised]]**
-  * **[[:fr:obe:other/eve|Eve's]]**
-  * **[[:fr:obe:other/descendant|descendants]]**
-  * **[[:fr:obe:kt/satan|Satan's]]**
-  * **[[:fr:obe:kt/Christ|Messiah]]**
+  * **[[:fr:obe:kt/promise|promised(promettre)]]**
+  * **[[:fr:obe:other/eve|Eve's(Eve)]]**
+  * **[[:fr:obe:other/descendant|descendants(descendants)]]**
+  * **[[:fr:obe:kt/satan|Satan's(Satan)]]**
+  * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
   * **[[:fr:obe:kt/raise]]**
   * **[[:fr:obe:kt/life]]**
   * **[[:fr:obe:kt/Jesus]]**
