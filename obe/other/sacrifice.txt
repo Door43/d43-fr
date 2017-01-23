@@ -30,7 +30,7 @@ Dans la bible les termes "sacrifice" et "offrande" font référence aux cadeaux 
  
 (See also: [[:fr:obe:kt:priest|priest]], [[:fr:obe:other:altar|altar]], [[:fr:obe:other:burntoffering]], [[:fr:obe:other:sinoffering]], [[:fr:obe:other:drinkoffering]])
 
-===== Bible References: =====
+===== Bible References: Références Bibliques: =====
 
 {{topic>:en:bible?sacrifice&nocomments}}
 
