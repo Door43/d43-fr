@@ -3,13 +3,20 @@
 ===== Definition: Définition: =====
 
 A sheep is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a ram.The female sheep is called a "ewe."
-  *  A young sheep is called a lamb.  
-  * The Israelites often used rams and lambs for sacrifices.
-  * People eat meat from sheep and use their wool to make clothing and other things.
-  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction, to protect them, and to provide them with food, water, and shelter.
-  * In the Bible, people are compared to sheep who have God as their shepherd.
 
-(See also: [[:fr:obe:other:shepherd|shepherd]], [[:fr:obe:kt:lamb|lamb, Lamb of God]])
+un mouton est un animal de taille moyenne à quatre pattes avec de la laine sur tout son corps. le mâle s'appelle un bélier. La femelle s'appelle une "brebis.
+  *  A young sheep is called a lamb.  
+  * un jeune mouton s'appelle un agneau.
+  * The Israelites often used rams and lambs for sacrifices.
+  * Les Israélites utilisaient des béliers et des agneaux pour des sacrifices.
+  * People eat meat from sheep and use their wool to make clothing and other things.
+  * les gens mangent la viande de mouton et se servent de leur laine por faire des vêtements et d'autres choses.
+  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction, to protect them, and to provide them with food, water, and shelter.
+  * les moutons sont très confiants, faibles, et timides. Ils ont très facilement tendance à s'égarer. ils ont besoin d'un berger pour les guider dans la bonne direction, pour les protéger, les nourrir, les abreuver, et leur donner un abri.
+  * In the Bible, people are compared to sheep who have God as their shepherd.
+  * Dans la Bible, on compare les gens à un mouton dont Dieu est le berger.
+
+(See also: Voir aussi: [[:fr:obe:other:shepherd|shepherd]], [[:fr:obe:kt:lamb|lamb, Lamb of God]])
 
 ===== Bible References: =====
 
