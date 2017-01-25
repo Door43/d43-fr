@@ -9,7 +9,7 @@
 ===== Termes Importants =====  
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/servant]]**
-  * **[[:fr:obe:kt/lord|master]]**
+  * **[[:fr:obe:kt/lord|master(maître)]]**
   * **[[:fr:obe:kt/suffer]]**
   * **[[:fr:obe:kt/satan]]**
   * **[[:fr:obe:kt/faithful]]**
