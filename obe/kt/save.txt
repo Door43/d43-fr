@@ -14,11 +14,12 @@ Sauver quelqu'un ou quelquechose c'est les délivrer de quelquechose de mauvais 
   * Only God can save people from being punished for their sins.
   * Dieu seul peut sauver les gens de leur péché. 
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestion de traduction: =====
 
   * Ways to translate "save" could include, "deliver" or "rescue" or "pull away from danger."
+  * Plusieurs façons de traduire "sauver" seraient "délivrer" ou "sauvegarder" ou "retirer du danger."
 
-(See also: [[:fr:obe:kt:salvation]], [[:fr:obe:kt:sin]], [[:fr:obe:other:punish]], [[:fr:obe:kt:cross]], [[:fr:obe:kt:deliverer]])
+(See also: Voir aussi: [[:fr:obe:kt:salvation]], [[:fr:obe:kt:sin]], [[:fr:obe:other:punish]], [[:fr:obe:kt:cross]], [[:fr:obe:kt:deliverer]])
 
 ===== Bible References: =====
 
