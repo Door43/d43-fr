@@ -4,7 +4,7 @@
 
 A sheep is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a ram.The female sheep is called a "ewe."
 
-un mouton est un animal de taille moyenne à quatre pattes avec de la laine sur tout son corps. le mâle s'appelle un bélier. La femelle s'appelle une "brebis.
+Un mouton est un animal de taille moyenne à quatre pattes avec de la laine sur tout son corps. le mâle s'appelle un bélier. La femelle s'appelle une "brebis.
   *  A young sheep is called a lamb.  
   * un jeune mouton s'appelle un agneau.
   * The Israelites often used rams and lambs for sacrifices.
