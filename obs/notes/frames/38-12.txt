@@ -10,7 +10,7 @@
   * **[[:fr:obe:kt/jesus]]**
   * **[[:fr:obe:other/pray]]**
   * **[[:fr:obe:kt/godthefather]]**
-  * **[[:fr:obe:kt/suffer]]**
+  * **[[:fr:obe:kt/suffer(souffrir,souffrance)]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:kt/forgive]]**
   * **[[:fr:obe:kt/blood]]**
