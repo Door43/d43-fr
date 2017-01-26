@@ -15,10 +15,12 @@
   * Some people worship false gods.
   * Certaines personnes adorent de faux dieux.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The term "worship" could be translated as "bow down to" or "honor and serve" or "honor and obey."
+  * On pourrait traduire le terme "adorer" par "s'abaisser" ou "honorer et servir" ou "honorer et obéir."
   * In some contexts, it could also be translated as "humbly praise" or "give honor and praise."
+  * Selon certains contextes, on pourrait aussi traduire ce terme par "louer humblement" ou "rendre honneur et louange."
  
 (See also: [[en:obe:other:sacrifice]], [[en:obe:other:praise]], [[:fr:obe:other:honor]])  
 
