@@ -8,9 +8,9 @@ Alors **Jésus** dit: “En **vérité**, je vous le dis, **Dieu** entendit la *
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/true|truth]]**
+  * **[[:fr:obe:kt/true|truth(vérité)]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/taxcollector|tax collector's]]**
+  * **[[:fr:obe:other/taxcollector|tax collector's(collecteur d'impôt0]]**
   * **[[:fr:obe:other/pray|prayer]]**
   * **[[:fr:obe:kt/righteous]]**
   * **[[:fr:obe:other/jewishleaders]]**
