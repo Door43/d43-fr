@@ -11,7 +11,7 @@
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:kt/heaven]]**
   * **[[:fr:obe:other/pray|prayed(prier)]]**
-  * **[[:fr:obe:kt/God(Dieu)]]**
+  * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/mercy|merciful]]**
   * **[[:fr:obe:kt/sin|sinner]]**
 ===== Translation Notes: =====
