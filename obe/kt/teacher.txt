@@ -27,7 +27,7 @@ Un maître est quelqu'un qui instruit d'autres gens. Des maîtres aident les aut
 
 {{topic>:en:bible?teacher&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   * **[[:fr:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
   * **[[:fr:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
