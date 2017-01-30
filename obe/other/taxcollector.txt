@@ -1,4 +1,4 @@
-====== tax collector(collecteur d'impot) ======
+====== tax collector(collecteur d'impôt) ======
 
 ===== Definition: =====
 
