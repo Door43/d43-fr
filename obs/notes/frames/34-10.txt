@@ -10,8 +10,8 @@ Alors **Jésus** dit: “En **vérité**, je vous le dis, **Dieu** entendit la *
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/true|truth(vérité)]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:other/taxcollector|tax collector's(collecteur d'impôt0]]**
-  * **[[:fr:obe:other/pray|prayer]]**
+  * **[[:fr:obe:other/taxcollector|tax collector's(collecteur d'impôt)]]**
+  * **[[:fr:obe:other/pray|prayer(prière)]]**
   * **[[:fr:obe:kt/righteous]]**
   * **[[:fr:obe:other/jewishleaders]]**
   * **[[:fr:obe:other/humble]]**
