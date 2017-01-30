@@ -12,13 +12,16 @@ Un maître est quelqu'un qui instruit d'autres gens. Des maîtres aident les aut
   * In some Bible translations, this term is capitalized ("Teacher") when it is used as a title for Jesus.
   * Dans certaines traductions bibliques, ce terme est mis en majuscule (Maître) quand on l'utilise en tant que titre de Jésus.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * The usual word for a teacher can be used to translate this term, unless that word is only used for a school teacher.
+  * On peut employer le mot usuel de maître pour traduire ce terme, à moins qu'on emploie ce mot pour un maître d'école.
+   
   * Some cultures may have a special title that is used for religious teachers such as "Sir" or "Rabbi" or "Preacher."
+  * Certaines cultures peuvent avoir un titre spécifique pour des maîtres religieux tels que "Monsieur" ou "Rabbi" ou "Prêcheur."
  
 
-(See also: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:other:preach|preach]])
+(See also: Voir aussi: [[:fr:obe:kt:disciple|disciple]], [[:fr:obe:other:preach|preach]])
 
 ===== Bible References: =====
 
