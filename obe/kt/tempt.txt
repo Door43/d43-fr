@@ -30,7 +30,7 @@ Tenter quelqu'un c'est essayer d'amener cette personne à mal agir.
 
 ===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
-  * **[[:fr:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
+  * **[[:fr:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin. Puis, Satan vint vers Jésus et le **tenta**.
   * **[[:fr:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
   * **[[:fr:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
