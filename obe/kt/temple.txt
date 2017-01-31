@@ -21,7 +21,7 @@ Le temple était un bâtiment avec  tout autour des cours avec murettes où les 
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
-  * Normalement quand le texte dit que le peuple était dans le temple, il fait référence aux cours en dehors du bâtiment. On pourrait le traduire par "dans les cours du temple" ou "dans les alentours du temple." 
+  * Normalement quand le texte dit que le peuple était "dans le temple", il fait référence aux cours en dehors du bâtiment. On pourrait le traduire par "dans les cours du temple" ou "dans les alentours du temple." 
   * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
   * Quand on se réfère seulement au bâtiment, certaines traductions pourraient dire "temple" en tant que "bâtiment du temple" pour clarification.
   * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
