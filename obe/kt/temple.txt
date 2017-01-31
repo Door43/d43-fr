@@ -15,14 +15,17 @@ Le temple était un bâtiment avec autour des cours avec murettes où les Israé
   * In the New Testament, the term "temple of the Holy Spirit" is used to refer to believers in Jesus, because the Holy Spirit lives in them.
   * Dans le Nouveau Testament, on emploie le terme "temple du Saint Esprit" pour faire référence aux croyants en Jésus, car le Saint Esprit réside en eux.
 
-===== Translation Suggestions: =====
+===== Translation Suggestions: Suggestions de traduction: =====
 
   * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
+  * Normalement quand le texte dit qui le peuple était dans le temple, il fait référence au "bâtiment du temple" pour clarification.
   * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
   * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
+  * On pourrait traduire "templ" par "sainte habitation de Dieu" ou "place sacrée d'adoration."
   * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
+  * Souvent dans la Bible, on fait référence au temple en tant que "la maison de Yahvé" ou "la maison de Dieu." 
 
-(See also: [[:fr:obe:other:sacrifice]], [[:fr:obe:other:solomon]], [[:fr:obe:other:babylon]], [[:fr:obe:kt:holyspirit]], [[:fr:obe:kt:tabernacle]], [[:fr:obe:other:courtyard]] [[:fr:obe:other:zion]] [[:fr:obe:other:house]])
+(See also: Voir aussi: [[:fr:obe:other:sacrifice]], [[:fr:obe:other:solomon]], [[:fr:obe:other:babylon]], [[:fr:obe:kt:holyspirit]], [[:fr:obe:kt:tabernacle]], [[:fr:obe:other:courtyard]] [[:fr:obe:other:zion]] [[:fr:obe:other:house]])
 
 ===== Bible References: Références Bibliques: =====
 
