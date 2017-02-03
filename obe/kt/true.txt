@@ -7,6 +7,7 @@ The terms "true" and "truth" refer to concepts that are facts, events that actua
 
 Les termes "vrai" et "vérité" font référence à des faits et des évènements qui se sont vraiment passés, et des paroles qui ont été vraiment dites.
   * True things are real, genuine, actual, rightful, legitimate, and factual.
+  * Les choses vraies sont réelles, authentiques, actuelles, véritables, légitimes, et s'en tiennent aux faits.
   * The truth is an understanding, belief, fact, or statement that is true.
   * The expression "come true" or "came true" is an expression that means that a prophecy actually happened as it was predicted that it would.
   * Truth includes the concept of acting in a way that is reliable and faithful.
