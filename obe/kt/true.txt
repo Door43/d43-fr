@@ -1,6 +1,6 @@
 ====== true, truth(vrai,la vérité) ======
 
-===== Definition: =====
+===== Definition: Définition: =====
 
 The terms "true" and "truth" refer to concepts that are facts, events that actually happened, and statements that were actually said.
 
