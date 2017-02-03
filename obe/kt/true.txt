@@ -32,7 +32,7 @@ Les termes "vrai" et "vérité" font référence à des faits et des évènement
 {{topic>:en:bible?truth&nocomments}}
 
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: Exemples tirés des histoires bibliques: =====
 
   ***[[:fr:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
   ***[[:fr:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
