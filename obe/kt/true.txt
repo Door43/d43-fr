@@ -23,7 +23,7 @@ Les termes "vrai" et "vérité" font référence à des faits et des évènement
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * Depending on the context and what is being described, the term "true" could be translated by "real" or "factual" or "correct" or "right" or "certain" or "genuine."
-  * Selon le contexte et la description, on pourrait traduire le terme "vrai" par "réel" ou "qui s'en tient aux faits" ou " correct" ou "sûr" ou "certain" ou "authentique."
+  * Selon le contexte et la description, on pourrait traduire le terme "vrai" par "réel" ou "qui s'en tient aux faits" ou "correct" ou "sûr" ou "certain" ou "authentique."
   * Ways to translated the term "truth" could include, "what is true" or "fact" or "certainty" or "principle."
   * On pourrait traduire "vérité" par "ce qui est vrai" ou "fait" ou "probable" ou 
   * The expression "come true" could also be translated as, "actually happen" or "be fulfilled" or "happen as predicted."
