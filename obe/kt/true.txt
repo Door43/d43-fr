@@ -3,7 +3,7 @@
 ===== Definition: =====
 
 The terms "true" and "truth" refer to concepts that are facts, events that actually happened, and statements that were actually said.
-
+Les termes "vrai" et "vérité" font référence à des faits et des évènements qui se sont vraiment passés, et des paroles qui ont été vraiment dites.
   * True things are real, genuine, actual, rightful, legitimate, and factual.
   * The truth is an understanding, belief, fact, or statement that is true.
   * The expression "come true" or "came true" is an expression that means that a prophecy actually happened as it was predicted that it would.
