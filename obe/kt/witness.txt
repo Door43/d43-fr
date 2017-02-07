@@ -1,7 +1,12 @@
 ====== witness, eyewitness(témoin,témoignage) ======
 
 ===== Definition: =====
-
+The term "witness" refers to a person who has personally experienced something that happened. Usually a witness is also someone who testifies about they know is true. The term "eyewitness" emphasizes that the person was actually there and saw what happened.   
+  * "To witness" something means to see it happen.
+  * At a trial, a witness "gives witness" or "bears witness." This has the same meaning as "testify."
+  * Witnesses are expected to tell the truth about what they have seen or heard.
+  * A witness who does not tell the truth about what happened is called a "false witness." He is said to "give false witness" or to "bear false witness."
+  * The expression, "be a witness between" means that something or someone will be evidence that a contract has been made. The witness will make sure each person does what he has promised to do.
 ===== Translation Suggestions: =====
 
   * The term "witness" or "eyewitness" could be translated with a word or phrase that means, "person-seeing-it" or "the one who saw it happen" or "those who saw and heard (those things)."
