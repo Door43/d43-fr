@@ -1,4 +1,4 @@
-====== beg, beggar(supplier,mendiant) ======
+====== beg, beggar(supplier,mendier,mendiant) ======
 
 ====== les Faits: ======  
 
