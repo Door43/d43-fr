@@ -10,7 +10,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
-  * **[[:fr:obe:kt:satan|Satan, devil, evil one9Satan, le diable,le méchant)]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one(Satan, le diable,le méchant)]]**
   * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture(parole de Dieu,parole de Yahvé,parole du Seigneur,écriture)]]**
   * **[[:fr:obe:kt:worship|worship]]**
   * **[[:fr:obe:kt:lord|lord, master, sir(seigneur,maître,sire)]]**
