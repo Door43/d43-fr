@@ -10,7 +10,7 @@
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/johntheapostle|John]]**
   * **[[:fr:obe:kt/Temple]]**
-  * **[[:fr:obe:other/beg|begging]]**
+  * **[[:fr:obe:other/beg|begging(mendier)]]**
 
 
 
