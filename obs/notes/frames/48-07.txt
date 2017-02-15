@@ -11,8 +11,8 @@ Dieu dit à **Abraham**, “Par Toi, **toutes les nations sur terre** seront **b
   * **[[:fr:obe:other/Abraham]]**
   * **[[:fr:obe:other/peoplegroup|people groups(groupes ethniques)]]**
   * **[[:fr:obe:kt/bless|blessed(bénir)]]**
-  * **[[:fr:obe:kt/Jesus(Jésus)]]**
-  * **[[:fr:obe:other/descendant(descendant)]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/descendant]]**
   * **[[:fr:obe:kt/believe|believes(croire)]]**
   * **[[:fr:obe:kt/save|slaved]]**
   * **[[:fr:obe:kt/spirit|spiritual(esprit, spirituel)]]**
