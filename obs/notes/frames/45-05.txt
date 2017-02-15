@@ -10,9 +10,9 @@
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/receive]]**
   * **[[:fr:obe:kt/spirit]]**
-  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/death|died]]**
+  * **[[:fr:obe:kt/death|died(mourir)]]**
 
 
 ===== Translation Notes: =====
