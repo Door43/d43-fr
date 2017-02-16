@@ -28,7 +28,7 @@ Le fils de Dieu est Jésus qui est venu dans le monde en tant qu'être humain po
   * The phrase "the Son" is a shortened form of "the Son of God", especially when in the same context as "the Father."
   * L'expression "Le Fils" est la forme abbréviée de "le Fils de Dieu", en particulier dans le même contexte que "Le Père."
 
-(Translation suggestions: suggestion detraduction: [[:en:ta:vol1:translate:translate_names|(Comment traduire Les Noms propres) (How to Translate Names]])
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment traduire Les Noms propres) (How to Translate Names]])
 
 (See also: Voir aussi: [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:christ|Christ, Messiah]], [[:fr:obe:kt:son|son]], [[:en:obe:kt:god|God]], [[:en:obe:kt:godthefather|God the Father, Heavenly Father]])
 
