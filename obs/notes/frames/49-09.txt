@@ -10,7 +10,7 @@ Mais **Dieu a tant aimé** le monde qu'il **donna son fils unique**, Jésus, pou
 
   * **[[:fr:obe:kt:god|God (Dieu)]]**
   * **[[:fr:obe:kt:love|loved(aimer)]]**
-  * **[[:fr:obe:kt:sonofgod|Son]]**
+  * **[[:fr:obe:kt:sonofgod|Son(Fils)]]**
   * **[[:fr:obe:kt:believe|believes(croire)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
   * **[[:fr:obe:other:punish|punished(puni)]]**
