@@ -11,7 +11,7 @@
   * **[[:fr:obe:other/preach|preaching(prêcher)]]**
   * **[[:fr:obe:other/jew|Jews(Juifs)]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/sonofgod|Son of God]]**
+  * **[[:fr:obe:kt/sonofgod|Son of God(Fils de Dieu)]]**
   * **[[:fr:obe:kt/believer|believers(croyants)]]**
   * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
 
