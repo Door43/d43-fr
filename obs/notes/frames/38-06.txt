@@ -8,7 +8,7 @@ Puis **Jésus** dit aux **disciples**: “l'un d'entre vous me **trahira**.” L
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt:disciple|disciples]]**
+  * **[[:fr:obe:kt:disciple|disciples(disciple)]]**
   * **[[:fr:obe:kt:betray]]**
   * **[[:fr:obe:other:judasiscariot]]**
 ===== Translation Notes: =====
