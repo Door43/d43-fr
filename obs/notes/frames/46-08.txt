@@ -8,13 +8,13 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:paul|Saul]]**
-  * **[[:fr:obe:other:jerusalem|Jerusalem]]**
+  * **[[:fr:obe:other:paul|Saul(Saul)]]**
+  * **[[:fr:obe:other:jerusalem|Jerusalem(Jérusalem)]]**
   * **[[:fr:obe:kt:disciple|disciples]]**
   * **[[:fr:obe:kt:believer|believer(croyant)]]**
   * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
   * **[[:fr:obe:kt:apostle|apostles(apôtres)]]**
-  * **[[:fr:obe:other:preach|preached]]**
+  * **[[:fr:obe:other:preach|preached(prêcher)]]**
 
 ===== Translation Notes: =====
 
