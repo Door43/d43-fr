@@ -11,9 +11,9 @@
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/persecute|persecuted(persécuter)]]**
-  * **[[:fr:obe:kt/believer|believers]]**
+  * **[[:fr:obe:kt/believer|believers(croire,croyants]]**
   * **[[:fr:obe:other/Jerusalem]]**
-  * **[[:fr:obe:kt/highpriest|high priest]]**
+  * **[[:fr:obe:kt/highpriest|high priest(grand prêtre)]]**
 
 
 
