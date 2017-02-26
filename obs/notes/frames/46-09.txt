@@ -11,7 +11,7 @@ Certains croyants qui avaient fuit la persécution à Jérusalem partirent très
   * **[[:fr:obe:other/Jerusalem]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:other/Barnabas]]**
-  * **[[:fr:obe:other/paul|Saul]]**
+  * **[[:fr:obe:other/paul|Saul(Saul)]]**
   * **[[:fr:obe:kt/church]]**
   * **[[:fr:obe:kt/Christian|Christians(Chrétiens)]]**
 
