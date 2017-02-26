@@ -10,7 +10,7 @@
 
   * **[[:fr:obe:other:paul|Saul(Saul)]]**
   * **[[:fr:obe:other:jerusalem|Jerusalem(Jérusalem)]]**
-  * **[[:fr:obe:kt:disciple|disciples9disciple)]]**
+  * **[[:fr:obe:kt:disciple|disciples(disciple)]]**
   * **[[:fr:obe:kt:believer|believer(croyant)]]**
   * **[[:fr:obe:other:barnabas|Barnabas(Barnabas)]]**
   * **[[:fr:obe:kt:apostle|apostles(apôtres)]]**
