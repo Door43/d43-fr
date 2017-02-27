@@ -10,10 +10,10 @@ Si vous êtes un ami de **Dieu** et un **serviteur** de Jésus, le **Seigneur**,
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:other/obey]]**
   * **[[:fr:obe:kt/Christian]]**
-  * **[[:fr:obe:kt/tempt|tempted]]**
+  * **[[:fr:obe:kt/tempt|tempted(tenter)]]**
   * **[[:fr:obe:kt/sin]]**
   * **[[:fr:obe:kt/faithful]]**
   * **[[:fr:obe:kt/forgive]]**
