@@ -9,8 +9,8 @@
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Christian]]**
-  * **[[:fr:obe:kt/death|died]]**
-  * **[[:fr:obe:kt/raise|rise]]**
+  * **[[:fr:obe:kt/death|died(mourir)]]**
+  * **[[:fr:obe:kt/raise|rise(ressusciter)]]**
 
 
 ===== Translation Notes: =====
