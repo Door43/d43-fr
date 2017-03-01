@@ -10,7 +10,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:kt:god|God(Dieu)]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète, prophétie,prophétiser,voyant)]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah(Christ, Messie)]]**
   * **[[:fr:obe:other:isaiah|Isaiah(Esaïe)]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
