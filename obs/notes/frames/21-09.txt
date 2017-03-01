@@ -13,8 +13,7 @@
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète, prophétie,prophétiser,voyant)]]**
   * **[[:fr:obe:kt:christ|Christ, Messiah(Christ, Messie)]]**
   * **[[:fr:obe:other:isaiah|Isaiah(Esaïe)]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:other:virgin|virgin(vierge)]]**
+   * **[[:fr:obe:other:virgin|virgin(vierge)]]**
   * **[[:fr:obe:other:bethlehem|Bethlehem(Bethléem)]]**
 
 ==== Translation Notes: ====
