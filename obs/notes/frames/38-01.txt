@@ -10,11 +10,11 @@ Chaque année, les **Juifs** célébraient la **Pâque**. C'était une fête pou
   * **[[:fr:obe:other/Jew|Jews(Juifs)]]**
   * **[[:fr:obe:kt/Passover]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:kt/save|saved(sauver)]]**
   * **[[:fr:obe:other/servant]]**
   * **[[:fr:obe:other/Egypt]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:other/preach|preaching]]**
+  * **[[:fr:obe:other/preach|preaching(prêcher)]]**
   * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
   * **[[:fr:obe:other/Jerusalem]]**
 ===== Translation Notes: =====
