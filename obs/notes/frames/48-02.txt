@@ -10,9 +10,9 @@
   * **[[:fr:obe:kt/Satan]]**
   * **[[:fr:obe:other/Eve]]**
   * **[[:fr:obe:other/Adam]]**
-  * **[[:fr:obe:kt/sin|sinned]]**
+  * **[[:fr:obe:kt/sin|sinned(pécher)]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/death|dies]]**
+  * **[[:fr:obe:kt/death|dies(mourir)]]**
 
 
 ===== Translation Notes: =====
