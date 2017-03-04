@@ -8,13 +8,13 @@
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:other/jew|Jews]]**
-  * **[[:fr:obe:other/jewishleaders|religious leaders]]**
+  * **[[:fr:obe:other/jew|Jews(Juifs)]]**
+  * **[[:fr:obe:other/jewishleaders|religious leaders(dirigeants religieux)]]**
   * **[[:fr:obe:kt/evil]]**
   * **[[:fr:obe:other/Moses]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/highpriest|high priest]]**
-  * **[[:fr:obe:kt/witness|witnesses]]**
+  * **[[:fr:obe:kt/highpriest|high priest(grand prêtre)]]**
+  * **[[:fr:obe:kt/witness|witnesses(témoins)]]**
 
 
 
