@@ -8,11 +8,11 @@
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other:mary|Mary]]**
-  * **[[:fr:obe:kt:righteous|righteous, righteousness]]**
-  * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
-  * **[[:fr:obe:kt:angel|angel]]**
-  * **[[:fr:obe:other:dream|dream]]**
+  * **[[:fr:obe:other:mary|Mary(Marie)]]**
+  * **[[:fr:obe:kt:righteous|righteous, righteousness(vertueux,vertu)]]**
+  * **[[:fr:obe:other:josephnt|Joseph (NT)(Joseph]]**
+  * **[[:fr:obe:kt:angel|angel(ange)]]**
+  * **[[:fr:obe:other:dream|dream(rêve)]]**
 
 ===== Translation Notes: =====
 
