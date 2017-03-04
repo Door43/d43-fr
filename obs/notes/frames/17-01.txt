@@ -8,10 +8,10 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:other:saul|Saul (OT)]]**
-  * **[[:fr:obe:other:king|king]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:fr:obe:other:saul|Saul (OT)(Saul)]]**
+  * **[[:fr:obe:other:king|king(roi)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israélites,nation d'Israël)]]**
+  * **[[:fr:obe:other:obey|obey, obedient, obedience(obéir,obéissant,obéissance)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
 ==== Translation Notes: ====
 
