@@ -21,13 +21,19 @@ un berger est quelqu'un qui prend soin des moutons. Le verbe "s'occuper de" veut
 ===== Translation Suggestions: Suggestions de traduction: =====
 
   * When used literally, the action "shepherd" could be translated as "take care of sheep" or "watch over sheep."
+  * Pour l'emploi littéral , l'action "s'occuper de" pourrait se traduire par "prendre soin des moutons" ou "surveiller les moutons."
   * The person "shepherd" could be translated as, "person who takes care of sheep" or "sheep tender" or "sheep caregiver."
+  * On pourrait traduire la personne "berger" par "personne qui prend soin des moutons" ou "qui garde des moutons" ou "s'occupe des moutons."
   * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "spiritual leader" or "one who is like a shepherd" or "one who cares for his people like a shepherd cares for his sheep" or "one who leads his people like a shepherd guides his sheep" or "one who takes care of God's sheep."
+  * En tant que métaphore, il y a diverses façons de traduire ce terme telles que "berger spirituel" ou "dirigeant spirituel" ou celui qui est comme un berger" celui qui prend soin de son peuple" comme un berger prend soin de son troupeau" ou " celui qui dirige son peuple comme un berger guide son troupeau' ou "celui qui prend soin du troupeau de Dieu."
   * In some contexts, "shepherd" could be translated as "leader" or "guide" or "caregiver."
+  * Dans certains contextes on pourrait traduire "berger" par "dirigeant" ou "guide" ou "donneur de soin." 
   * The expression, "to shepherd (a flock)" could be translated as, "to take care of" or "to spiritually nourish" or "to guide and teach" or "to lead and take care of (like a shepherd cares for sheep)"
+  * On pourrait traduire l'expression " s'occuper d'(une assemblée) par prendre sioin de" ou "nourrir spirituellement" ou "guider et enseigner" ou "guider et prendre soin de ( comme un berger prend soin de son troupeau)."
   * In figurative uses, it is best to use or include the literal word for "shepherd" in the translation of this term.
+  * Dans les emplois au sens figuré, il est mieux d'employer ou d'inclure le mot littéral de "berger" pour la traduction de ce terme.
 
-(See also: [[:fr:obe:other:sheep|sheep, ram]], [[:fr:obe:kt:pastor|pastor]], [[:fr:obe:kt:believer|believer]])
+(See also: Voir aussi [[:fr:obe:other:sheep|sheep, ram]], [[:fr:obe:kt:pastor|pastor]], [[:fr:obe:kt:believer|believer]])
 
 ===== Bible References: Références Bibliques: =====
 
