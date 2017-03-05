@@ -9,7 +9,7 @@
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/kingdomofgod]]**
-  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:kt/save|saved(sauver)]]**
   * **[[:fr:obe:kt/sin]]**
 
 
