@@ -8,9 +8,9 @@
 
 ===== Terms Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/promise|promised]]**
-  * **[[:fr:obe:kt/believe|believes]]**
-  * **[[:fr:obe:kt/life|live]]**
+  * **[[:fr:obe:kt/promise|promised(promettre)]]**
+  * **[[:fr:obe:kt/believe|believes(croire)]]**
+  * **[[:fr:obe:kt/life|live(vivre)]]**
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/peace]]**
 
