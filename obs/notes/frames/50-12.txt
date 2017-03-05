@@ -6,10 +6,10 @@ Then the **Christians** who are **still alive** will rise up into the sky and jo
 
 Puis les **Chrétiens**, qui seront **encore en vie** seront tous élever sur des nuées et se joindront aux autres Chrétiens ressuscités. Ils seront tous avec **Jésus** pour toujours. 
 ===== Terms Importants =====
-  * **[[:fr:obe:kt/Christian|Christians]]**
-  * **[[:fr:obe:kt/life|alive]]**
-  * **[[:fr:obe:kt/raise|rose]]**
-  * **[[:fr:obe:kt/death|dead]]**
+  * **[[:fr:obe:kt/Christian|Christians(Chrétiens)]]**
+  * **[[:fr:obe:kt/life|alive(vivant)]]**
+  * **[[:fr:obe:kt/raise|rose(ressusciter)]]**
+  * **[[:fr:obe:kt/death|dead(mort)]]**
   * **[[:fr:obe:kt/Jesus]]**
 
 
