@@ -7,8 +7,8 @@
 “Les **serviteurs** demandèrent à leur **maître** 'Devrons-nous arracher toutes ces mauvaises herbes?' Le maître répondit, 'Non, car en enlevant les mauvaises herbes, **vous allez arracher une partie du blé en même temps**. Attendez **la moisson**, et à ce moment-là vous enlèverez d'abord les mauvaises herbes que vous allez lier en bottes pour les brûler. Ensuite vous couperez **le blé** et vous le rentrerez dans mon **grenier**.'”
 
 ===== Termes Importants ===== 
-  * **[[:fr:obe:other/servant|servants]]**
-  * **[[:fr:obe:kt/lord|master]]**
+  * **[[:fr:obe:other/servant|servants(serviteur)]]**
+  * **[[:fr:obe:kt/lord|master(maître)]]**
 
 
 ===== Translation Notes: =====
