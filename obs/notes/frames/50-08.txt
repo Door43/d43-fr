@@ -8,7 +8,7 @@ Les **disciples** ne comprenaient pas la signification de l'histoire et demandè
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/disciple|disciples(disciples)]]**
-  * **[[:fr:obe:kt/Jesus(Jésus)]]**
+  * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/good]]**
   * **[[:fr:obe:kt/Christ|Messiah]]**
   * **[[:fr:obe:kt/kingdomofgod|God's kingdom]]**
