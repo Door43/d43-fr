@@ -8,7 +8,7 @@
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/sin|sinned]]**
+  * **[[:fr:obe:kt/sin|sinned(pécher)]]**
   * **[[:fr:obe:other/punish|punished(punir)]]**
   * **[[:fr:obe:kt/death|die(mourir)]]**
   * **[[:fr:obe:other/sacrifice]]**
