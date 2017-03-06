@@ -11,7 +11,7 @@
   * **[[:fr:obe:kt/save]]**
   * **[[:fr:obe:kt/believe|believe(croire)]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/receive|receives]]**
+  * **[[:fr:obe:kt/receive|receives(recevoir)]]**
   * **[[:fr:obe:kt/lord|Master(seigneur, maître)]]**
   * **[[:fr:obe:kt/love|love(aimer)]]**
 ===== Translation Notes: =====
