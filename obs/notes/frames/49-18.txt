@@ -9,7 +9,7 @@
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:other/pray]]**
-  * **[[:fr:obe:kt/wordofgod|his word]]**
+  * **[[:fr:obe:kt/wordofgod|his word(parole de Dieu)]]**
   * **[[:fr:obe:kt/worship]]**
   * **[[:fr:obe:kt/Christian|Christians(Chrétien,Chrétiens))]]**
 
