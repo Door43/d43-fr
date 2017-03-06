@@ -12,10 +12,10 @@
   * **[[:fr:obe:kt:believe|believe, believe in, belief(croire,croire en,croyance)]]**
   * **[[:fr:obe:kt:baptize|baptized(baptiser)]]**
   * **[[:fr:obe:kt:christ|Messiah]]**
-  * **[[:fr:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:fr:obe:kt:sin|sinner]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son(Fils de Dieu, le Fils)]]**
+  * **[[:fr:obe:kt:sin|sinner(pécheur)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
-  * **[[:fr:obe:other:punish|punish, punishment]]**
+  * **[[:fr:obe:other:punish|punish, punishment(punir)]]**
   * **[[:fr:obe:kt:death|died(mourir)]]**
   * **[[:fr:obe:kt:cross|cross(croix)]]**
 
