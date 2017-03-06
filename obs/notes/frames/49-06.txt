@@ -9,7 +9,7 @@
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/receive]]**
-  * **[[:fr:obe:kt/save|saved]]**
+  * **[[:fr:obe:kt/save|saved(sauver)]]**
   * **[[:fr:obe:kt/goodnews]]**
   * **[[:fr:obe:kt/wordofgod|God's word]]**
   * **[[:fr:obe:kt/kingdomofgod|his kingdom]]**
