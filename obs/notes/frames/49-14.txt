@@ -8,10 +8,10 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
   * **[[:fr:obe:kt:believe|believe, believe in, belief(croire,croire en,croyance)]]**
   * **[[:fr:obe:kt:baptize|baptized(baptiser)]]**
-  * **[[:fr:obe:kt:christ|Messiah]]**
+  * **[[:fr:obe:kt:christ|Messiah(Messie)]]**
   * **[[:fr:obe:kt:sonofgod|Son of God, the Son(Fils de Dieu, le Fils)]]**
   * **[[:fr:obe:kt:sin|sinner(pécheur)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
