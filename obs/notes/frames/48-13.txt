@@ -8,11 +8,11 @@
 
 ===== Termes Importants ===== 
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/promise|promised]]**
-  * **[[:fr:obe:other/david|King David]]**
-  * **[[:fr:obe:kt/sonofgod|Son of God]]**
-  * **[[:fr:obe:kt/Christ|Messiah]]**
-  * **[[:fr:obe:other/descendant|descendants]]**
+  * **[[:fr:obe:kt/promise|promised(promettre)]]**
+  * **[[:fr:obe:other/david|King David(David)]]**
+  * **[[:fr:obe:kt/sonofgod|Son of God](Fils de Dieu)]**
+  * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
+  * **[[:fr:obe:other/descendant|descendants(descendants)]]**
   * **[[:fr:obe:kt/Jesus]]**
 
 
