@@ -9,8 +9,8 @@ Quand **Dieu** détruisit toute la terre par le déluge, il fournit une arche po
 ===== Termes Importants =====
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/save]]**
-  * **[[:fr:obe:kt/believe|believed]]**
-  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/believe|believed(croire)]]**
+  * **[[:fr:obe:kt/sin|sins(péché)]]**
   * **[[:fr:obe:kt/Jesus]]**
 
 
