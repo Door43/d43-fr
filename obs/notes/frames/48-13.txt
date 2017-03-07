@@ -10,7 +10,7 @@
   * **[[:fr:obe:kt/God]]**
   * **[[:fr:obe:kt/promise|promised(promettre)]]**
   * **[[:fr:obe:other/david|King David(David)]]**
-  * **[[:fr:obe:kt/sonofgod|Son of God](Fils de Dieu)]**
+  * **[[:fr:obe:kt/sonofgod|Son of God]]**
   * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
   * **[[:fr:obe:other/descendant|descendants(descendants)]]**
   * **[[:fr:obe:kt/Jesus]]**
