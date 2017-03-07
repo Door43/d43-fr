@@ -9,7 +9,7 @@ Pendant des centaines d'années, **les prêtres** offraient continuellement des 
   * **[[:fr:obe:kt/priest|priests(prêtre)]]**
   * **[[:fr:obe:other/sacrifice|sacrifices(sacrifice)]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/sin|sins(péché)]]**
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/highpriest|Great High Priest(Grand Prêtre)]]**
   * **[[:fr:obe:other/punish|punishment(punition)]]**
