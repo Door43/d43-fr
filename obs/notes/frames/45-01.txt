@@ -8,9 +8,9 @@ Un des leaders **de l'église primitive** était un homme qui s'appelait Etienne
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Church]]**
-  * **[[:fr:obe:kt/holyspirit|Holy Spirit]]**
-  * **[[:fr:obe:kt/wise|wisdom]]**
-  * **[[:fr:obe:kt/miracle|miracles]]**
+  * **[[:fr:obe:kt/holyspirit|Holy Spirit(Saint Esprit)]]**
+  * **[[:fr:obe:kt/wise|wisdom(sagesse)]]**
+  * **[[:fr:obe:kt/miracle|miracles(miracle)]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/Jesus]]**
 
