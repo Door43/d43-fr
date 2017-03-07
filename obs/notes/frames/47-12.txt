@@ -7,12 +7,12 @@ The jailer and his whole family **believed** in **Jesus** and were **baptized**.
 Le geôlier et toute sa famille **crurent** en **Jésus** et furent **baptisés**. Puis le geôlier donna à manger à **Paul** et **Silas** et ils se **réjouirent** tous ensemble.
 
 ===== Termes Importants ===== 
-  * **[[:fr:obe:kt/believe|believed]]**
+  * **[[:fr:obe:kt/believe|believed(croire)]]**
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/baptize|baptized]]**
+  * **[[:fr:obe:kt/baptize|baptized(baptiser)]]**
   * **[[:fr:obe:other/Paul]]**
   * **[[:fr:obe:other/Silas]]**
-  * **[[:fr:obe:kt/joy|rejoiced]]**
+  * **[[:fr:obe:kt/joy|rejoiced(joie)]]**
 
 
 ===== Translation Notes: =====
