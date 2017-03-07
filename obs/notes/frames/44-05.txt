@@ -18,7 +18,7 @@
   * **[[:fr:obe:kt/Christ|Messiah(Messie)]]**
   * **[[:fr:obe:kt/suffer]]**
   * **[[:fr:obe:kt/repent]]**
-  * **[[:fr:obe:kt/sin|sins]]**
+  * **[[:fr:obe:kt/sin|sins(péché)]]**
 
 
 ===== Translation Notes: =====
