@@ -9,7 +9,7 @@ Parce que **Adam** et **Eve** avaient péché, quelque chose **de plus terrible 
 ===== Termes Importants =====  
   * **[[:fr:obe:other/Adam]]**
   * **[[:fr:obe:other/Eve]]**
-  * **[[:fr:obe:kt/sin|sinned]]**
+  * **[[:fr:obe:kt/sin|sinned(pécher)]]**
   * **[[:fr:obe:kt/God]]**
 
 
