@@ -11,7 +11,7 @@ A Jerusalem, **Jésus célébra**  la **Pâque** avec ses **disciples**. Durant 
   * **[[:fr:obe:kt/Jesus]]**
   * **[[:fr:obe:kt/Passover]]**
   * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
-  * **[[:fr:obe:other/sacrifice|sacrificed]]**
+  * **[[:fr:obe:other/sacrifice|sacrificed(sacrifier)]]**
 ===== Translation Notes: =====
 
   * **celebrated**  - That is, "was celebrating."
