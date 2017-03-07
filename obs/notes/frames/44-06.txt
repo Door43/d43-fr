@@ -7,10 +7,10 @@ The leaders of the **Temple** were very upset by what **Peter** and **John** wer
 Les leaders du **Temple** étaient très irrités par ce que **Pierre** et **Jean** disaient. Alors, ils les arrêtèrent et les jetèrent en prison. Cependant, beaucoup **crurent au message de Pierre**, et le **nombre d'hommes** qui croyaient en Jesus s'éleva à environ 5,000.
 
 ===== Termes Importants =====  
-  * **[[:fr:obe:kt/temple|Temple]]**
+  * **[[:fr:obe:kt/temple|Temple(Temple)]]**
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/johntheapostle]]**
-  * **[[:fr:obe:kt/believe|believed]]**
+  * **[[:fr:obe:kt/believe|believed(croire)]]**
 ===== Translation Notes: =====
 
   * **Peter's message**  - That is, "the message that Peter had preached to them."
