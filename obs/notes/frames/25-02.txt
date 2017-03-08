@@ -10,8 +10,8 @@
 ===== Termes Importants =====
   * **[[:fr:obe:kt:satan|Satan, devil, evil one(Satan,diable,le méchant)]]**
   * **[[:fr:obe:kt:tempt|tempt, temptation9tenter,tentation)]]**
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus9Jésus,Jésus-christ)]]**
-  * **[[:fr:obe:kt:sonofgod|Son of God, the Son(Fils de Dieu,le Fils))]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-christ)]]**
+  * **[[:fr:obe:kt:sonofgod|Son of God, the Son(Fils de Dieu,le Fils)]]**
 
 ===== Translation Notes: =====
 
