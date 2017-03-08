@@ -13,8 +13,8 @@
   * **[[:fr:obs:notes:key-terms:word-of-god|God's word (la parole de Dieu)]]**
   * **[[:fr:obs:notes:key-terms:god|God (Dieu)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture(parole de Dieu, parole de Yahvé, parole du Seigneur,écriture)]]**
+  * **[[:fr:obe:kt:god|God(Dieu)]]**
 
 ===== Translation Notes: =====
 
