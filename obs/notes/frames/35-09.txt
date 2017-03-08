@@ -7,10 +7,10 @@
 “Mais son père dit à un de ses **serviteurs**: 'Apportez vite le plus beau vêtement et mettez le sur mon **fils**! Mettez lui un anneau au doigt et des sandales aux pieds. Puis tuez le **veau gras** pour que nous puissions manger et nous réjouir parce que **mon fils était mort**, **mais il est revenu à la vie**! **Il était perdu**, **mais il a été retrouvé**'”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/servant|servants]]**
+  * **[[:fr:obe:other/servant|servants(serviteur)]]**
   * **[[:fr:obe:kt/son]]**
   * **[[:fr:obe:kt/death]]**
-  * **[[:fr:obe:kt/life|alive]]**
+  * **[[:fr:obe:kt/life|alive(vivant)]]**
 
 
 ===== Translation Notes: =====
