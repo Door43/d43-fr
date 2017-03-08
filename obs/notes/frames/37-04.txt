@@ -8,9 +8,9 @@ Quand **Jésus** arriva dans la ville natale de **Lazare**, Lazare était déjà
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:other/Lazarus|Lazarus']]**
-  * **[[:fr:obe:kt/death|dead]]**
-  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:other/Lazarus|Lazarus(Lazare)]]**
+  * **[[:fr:obe:kt/death|dead(mort)]]**
+  * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:kt/believe]]**
   * **[[:fr:obe:kt/God]]**
 ===== Translation Notes: =====
