@@ -9,11 +9,11 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:angel|angel]]**
-  * **[[:fr:obe:kt:god|God]]**
-  * **[[:fr:obe:kt:glory|glory, glorious]]**
+  * **[[:fr:obe:kt:angel|angel(ange)]]**
+  * **[[:fr:obe:kt:god|God(Dieu)]]**
+  * **[[:fr:obe:kt:glory|glory, glorious(gloire, glorieux)]]**
   * **[[:fr:obe:kt:heaven|heaven, sky, heavens, heavenly(ciel, firmament,cieux, céleste)]]**
-  * **[[:fr:obe:other:peace|peace, peaceful]]**
+  * **[[:fr:obe:other:peace|peace, peaceful(paix,paisible)]]**
 
 ===== Translation Notes: =====
 
