@@ -9,12 +9,12 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète, prophétie,prophétiser,voyant)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël,Israélites,nation d'Israël)]]**
   * **[[:fr:obe:other:heal|heal, cure(guérir)]]**
-  * **[[:fr:obe:other:naaman|Naaman]]**
-  * **[[:fr:obe:other:jew|Jew, Jewish]]**
+  * **[[:fr:obe:other:naaman|Naaman(Naamam)]]**
+  * **[[:fr:obe:other:jew|Jew, Jewish(Juif)]]**
 
 ===== Translation Notes: =====
 
