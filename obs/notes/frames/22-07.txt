@@ -14,9 +14,9 @@ Après qu'**Elisabeth** ait donné naissance à un fils, **Zacharie** et elle le
   * **[[:fr:obe:kt:angel|angel(ange)]]**
   * **[[:fr:obe:kt:god|God(Dieu)]]**
   * **[[:fr:obe:other:praise|praise(louer)]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète, prophétie,prophétiser,voyant)]]**
   * **[[:fr:obe:kt:forgive|forgive, forgiveness(pardonner, pardon)]]**
-  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(péché,coupable,pécheur,péchant du verbe pécher)]]**
 
 ===== Translation Notes: =====
 
