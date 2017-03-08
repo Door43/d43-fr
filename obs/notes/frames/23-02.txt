@@ -12,10 +12,10 @@ L'**ange** dit, “**Joseph, ne crains pas de prendre Marie pour femme**. L'enfa
   * **[[:fr:obe:other:josephnt|Joseph (NT)]]**
   * **[[:fr:obe:other:mary|Mary(Marie)]]**
   * **[[:fr:obe:kt:holyspirit|Holy Spirit(Saint Esprit)]]**
-  * **[[:fr:obe:kt:son|son]]**
+  * **[[:fr:obe:kt:son|son(fils)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
-  * **[[:fr:obe:kt:save|save]]**
-  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning]]**
+  * **[[:fr:obe:kt:save|save(sauver)]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(péché,coupable,pécheur,péchant du verbe pécher)]]**
 ===== Translation Notes: =====
 
   * **do not be afraid to take Mary as your wife**  - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
