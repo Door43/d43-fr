@@ -7,9 +7,9 @@
 **Les disciples de Jésus** répondirent, “**Seigneur**, si **Lazare** dort, alors **il ira mieux**.” Alors Jésus leur dit clairement, “**Lazare est mort**. **Je me réjouis** de ne pas avoir été présent, ainsi vous **croirez** en moi.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/jesus|Jesus']]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
-  * **[[:fr:obe:kt/lord|Master]]**
+  * **[[:fr:obe:kt/jesus|Jesus(Jésus)]]**
+  * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
+  * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:other/Lazarus]]**
   * **[[:fr:obe:kt/death|dead]]**
   * **[[:fr:obe:kt/believe]]**
