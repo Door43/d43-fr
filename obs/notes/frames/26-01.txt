@@ -8,8 +8,8 @@
 
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:satan|Satan, devil, evil one]]**
-  * **[[:fr:obe:kt:tempt|tempt, temptation]]**
+  * **[[:fr:obe:kt:satan|Satan, devil, evil one(Satan,diable,le méchant)]]**
+  * **[[:fr:obe:kt:tempt|tempt, temptation(tenter,tentation)]]**
   * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus, Jésus-Christ)]]**
   * **[[:fr:obe:kt:power|power(puissance)]]**
   * **[[:fr:obe:kt:holyspirit|Holy Spirit(Saint Esprit)]]**
