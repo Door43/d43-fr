@@ -8,10 +8,10 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:fr:obe:kt:repent|repent, repentance]]**
+  * **[[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders(dirigeants juifs, dirigeants religieux)]]**
+  * **[[:fr:obe:kt:repent|repent, repentance(se repentir,repentance)]]**
   * **[[:fr:obe:kt:fulfill|fullfill(accomplir)]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète,prophétie,prophétiser,voyant)]]**
 ===== Translation Notes: =====
 
   * **You poisonous snakes**  - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
