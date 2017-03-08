@@ -10,7 +10,7 @@
 ===== Termes Importants =====
 
   * **[[:fr:obe:other:johnthebaptist|John (the Baptist)(Jean-Baptiste)]]**
-  * **[[:fr:obe:other:zechariahnt|Zechariah (NT)]]**
+  * **[[:fr:obe:other:zechariahnt|Zechariah (NT)(ZacharieNT)]]**
   * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète,prophétie,prophétiser,voyant)]]**
 
 ===== Translation Notes: =====
