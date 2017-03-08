@@ -11,7 +11,7 @@
   * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
   * **[[:fr:obe:kt/lord|Master(Maître)]]**
   * **[[:fr:obe:other/Lazarus]]**
-  * **[[:fr:obe:kt/death|dead]]**
+  * **[[:fr:obe:kt/death|dead(mort)]]**
   * **[[:fr:obe:kt/believe]]**
 
 ===== Translation Notes: =====
