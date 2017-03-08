@@ -8,12 +8,12 @@ Puis **Jésus** dit: “Je vous le dis **en vérité**, **aucun prophète n'est 
 
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:fr:obe:kt:true|true, truth]]**
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:other:elijah|Elijah]]**
-  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:fr:obe:kt:god|God]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus,Jésus-Christ)]]**
+  * **[[:fr:obe:kt:true|true, truth(vrai,vérité)]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète,prophétie,prophétiser,voyant)]]**
+  * **[[:fr:obe:other:elijah|Elijah(Elie)]]**
+  * **[[:fr:obe:other:israel|Israel, Israelites, nation of Israel(Israël, Israélites,nation d'Israël)]]**
+  * **[[:fr:obe:kt:god|God(Dieu)]]**
 
 ===== Translation Notes: =====
 
