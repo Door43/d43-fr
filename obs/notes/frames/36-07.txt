@@ -7,9 +7,9 @@
 **Jésus** et les trois **disciples** descendirent de la montagne. Puis Jésus leur dit: “Gardez le silence sur ce qui s'est passé ici. Je vais bientôt **mourir** puis je reviendrai à la **vie**. Après ma résurrection, vous pourrez en parler.”
 
 ===== Termes Importants =====
-  * **[[:fr:obe:kt/jesus|Jesus]]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
-  * **[[:fr:obe:kt/death|die]]**
+  * **[[:fr:obe:kt/jesus|Jesus(Jésus)]]**
+  * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
+  * **[[:fr:obe:kt/death|die(mourir)]]**
   * **[[:fr:obe:kt/life]]**
 
 ===== Translation Notes: =====
