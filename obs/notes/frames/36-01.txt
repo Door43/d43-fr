@@ -8,7 +8,7 @@ Un jour, **Jésus** prit avec lui trois de ses **disciples**, **Pierre**, **Jacq
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/disciple|disciples]]**
+  * **[[:fr:obe:kt/disciple|disciples(disciple)]]**
   * **[[:fr:obe:other/Peter]]**
   * **[[:fr:obe:other/Johntheapostle]]**
   * **[[:fr:obe:kt/baptize|baptized(baptiser)]]**
