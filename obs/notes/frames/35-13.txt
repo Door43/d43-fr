@@ -8,8 +8,8 @@
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/son]]**
-  * **[[:fr:obe:kt/death|dead]]**
-  * **[[:fr:obe:kt/life|alive]]**
+  * **[[:fr:obe:kt/death|dead(mort)]]**
+  * **[[:fr:obe:kt/life|alive(vivant)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
