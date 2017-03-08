@@ -8,7 +8,7 @@
 
 ===== Termes Importants =====
   * **[[:fr:obe:kt/jesus]]**
-  * **[[:fr:obe:kt/God|God's]]**
+  * **[[:fr:obe:kt/God|God(Dieu)]]**
   * **[[:fr:obe:kt/glory]]**
   * **[[:fr:obe:kt/believe]]**
 
