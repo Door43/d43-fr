@@ -12,7 +12,7 @@
   * **[[:fr:obe:kt/heaven]]**
   * **[[:fr:obe:other/pray|prayed(prier)]]**
   * **[[:fr:obe:kt/God]]**
-  * **[[:fr:obe:kt/mercy|merciful]]**
+  * **[[:fr:obe:kt/mercy|merciful(pitié,miséricordieux)]]**
   * **[[:fr:obe:kt/sin|sinner(pécheur)]]**
 ===== Translation Notes: =====
 
