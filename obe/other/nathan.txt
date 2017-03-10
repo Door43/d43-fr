@@ -4,14 +4,18 @@
 ===== Facts: =====
 
 Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+Nathan était un prophèle de Dieu qui vivait durant le règne de David qui était roi d'Israël.
 
   * God sent Nathan to confront David after David sinned grievously against Uriah.
+  * Dieu envoya Nathan pour confronter David après qu'il ait péché gravement cotre Urie.
   * Nathan rebuked David, in spite of the fact that David was the king.
+  * Nathan réprimanda David, malgré le fait que David  était le roi.
   * David repented of his sin after Nathan spoke to him.
+  * David se repentit après les paroles de Nathan.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
-(See also: [[david]], [[uriah]])
+(See also: Voir aussi: [[david]], [[uriah]])
 
 
 ===== Bible References: =====
