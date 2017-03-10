@@ -7,9 +7,9 @@ Then the **prophets** of **Baal prayed to Baal**, “Hear us, Baal!” All day l
 Puis les** prophètes** de** Baal** prièrent **Baal**, “Écoutez-nous, oh Baal!” Ils prièrent et **crièrent** toute la journée. Ils **se coupèrent même avec les couteaux** mais **il n'y eut pas de répons****e**.
 ===== Termes Importants =====
 
-  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:fr:obe:other:baal|Baal]]**
-  * **[[:fr:obe:other:pray|pray, prayer]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer(prophète,prophétie,prophétiser,voyant))]]**
+  * **[[:fr:obe:other:baal|Baal(Baal)]]**
+  * **[[:fr:obe:other:pray|pray, prayer(prier,prière)]]**
 ==== Translation Notes: ====
 
   * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
