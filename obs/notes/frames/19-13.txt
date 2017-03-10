@@ -10,7 +10,7 @@ Puis **Elie** dit au **roi Achab**, “Retourne tout de suite à la ville, parce
   * **[[:fr:obe:other:elijah|Elijah(Elie)]]**
   * **[[:fr:obe:other:king|king(roi)]]**
   * **[[:fr:obe:other:ahab|Achab]]**
-  * **[[:fr:obe:kt:yahweh|Yahweh(Yavhé)]]**
+  * **[[:fr:obe:kt:yahweh|Yahweh(Yahvé)]]**
   * **[[:fr:obe:kt:god|God (Dieu)]]**
 ==== Translation Notes: ====
 
