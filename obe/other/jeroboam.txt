@@ -1,7 +1,7 @@
 ====== Jeroboam(Jéroboam) ======
 
 
-===== Facts: =====
+===== Facts: Les faits: =====
 Jeroboam son of Nebat was the first king of the northern kingdom of Israel around 900-910 BC. Another Jeroboam, son of King Jehoash, ruled over Israel about 120 years later.
   * Yahweh gave Jeroboam son of Nebat a prophecy that he would become king after Solomon and that he would rule ten tribes of Israel.
   * When Solomon died, the ten northern tribes of Israel rebelled against Solomon's son Rehoboam and instead made Jeroboam their king, leaving Rehoboam as king of only the southern two tribes, Judah and Benjamin.
@@ -10,7 +10,7 @@ Jeroboam son of Nebat was the first king of the northern kingdom of Israel aroun
   * In spite of this, God had mercy on Israel and helped this King Jeroboam to gain land and establish boundaries for their territory.
 
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
 
 (See also: [[kingdomofisrael]], [[kingdomofjudah]])
 
