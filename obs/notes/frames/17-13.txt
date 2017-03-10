@@ -7,17 +7,19 @@ After **Uriah** was killed, **David** married **Bathsheba**. Later, she gave bir
 Une fois que **Urie** fut tué, David se maria à **Bethsabée**. Quelque temps après, elle lui donna un fils.** Dieu** était très en colère **à cause de ce que David avait fait**, alors il envoya le **prophète Nathan** dire à David que son péché était très grave. David **se repentit** de son péché et Dieu le lui pardonna. David **suivit Dieu et lui obéit** le restant de sa vie même pendant les moments difficiles.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/uriah]]**
-  * **[[:fr:obe:other/david]]**
-  * **[[:fr:obe:other/bathsheba]]**
-  * **[[:fr:obe:kt/god]]**
-  * **[[:fr:obe:kt/prophet]]**
-  * **[[:fr:obe:other/nathan]]**
-  * **[[:fr:obe:kt/evil]]**
-  * **[[:fr:obe:kt/sin]]**
-  * **[[:fr:obe:kt/repent]]**
-  * **[[:fr:obe:kt/forgive]]**
-  * **[[:fr:obe:other/obey]]**
+
+  * **[[:fr:obe:other:uriah|Uriah(Urie)]]**
+  * **[[:fr:obe:other:david|David(David)]]**
+  * **[[:fr:obe:other:bathsheba|Bathsheba(Bethsabée)]]**
+  * **[[:fr:obe:kt:god|God (Dieu)]]**
+  * **[[:fr:obe:kt:prophet|prophet, prophecy, prophesy, seer, prophetess(prophète,prophétie, prophétiser, voyant, prophétesse)]]**
+  * **[[:fr:obe:other:nathan|(Nathan)]]**
+  * **[[:fr:obe:kt:evil|evil, wicked, wickedness (Le mal, méchant, la méchanceté)]]**
+  * **[[:fr:obe:kt:sin|sin, sinful, sinner, sinning(péché,coupable,pécheur,péchant du verbe pécher)]]**
+  * **[[:fr:obe:kt:repent|repent, repentance(se repentir,repentance)]]**
+  * **[[:fr:obe:kt:forgive|forgive, forgiveness(pardonner, pardon)]]**
+  * **[[:fr:obe:other:obey|obey, obedient, obedience(obéir, obéissant, obéissance)]]**
+
 ==== Translation Notes: ====
 
   * **what David had done**  - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
