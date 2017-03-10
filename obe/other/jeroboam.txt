@@ -2,13 +2,15 @@
 
 
 ===== Facts: Les faits: =====
+
 Jeroboam son of Nebat was the first king of the northern kingdom of Israel around 900-910 BC. Another Jeroboam, son of King Jehoash, ruled over Israel about 120 years later.
 
-Jéroboam, fils de Nebath, était le premier roi du royaume du nord d'Israël environ 900-910 BC. Un autre Jéroboam, fils du roi  Joas, régna sur Israël 120 ans plus tard. 
+Jéroboam, fils de Nebath, était le premier roi du royaume du nord d'Israël environ 900-910 BC. Un autre Jéroboam, fils du roi Joas, régna sur Israël 120 ans plus tard.
+
   * Yahweh gave Jeroboam son of Nebat a prophecy that he would become king af ter Solomon and that he would rule ten tribes of Israel.
-  * Yavhé prophétisa à Jéroboam fils de Nébath, qu'il deviendrait roi après Salomon et qu'il gouvernerait  10 tribus d'Israël.
+  * Yavhé prophétisa à Jéroboam fils de Nébath, qu'il deviendrait roi après Salomon et qu'il gouvernerait 10 tribus d'Israël.
   * When Solomon died, the ten northern tribes of Israel rebelled against Solomon's son Rehoboam and instead made Jeroboam their king, leaving Rehoboam as king of only the southern two tribes, Judah and Benjamin.
-  * A la mort de Salomon, les 10 tribus du nord d'Israël se révoltèrent contre le fils de Salomon et à sa place choisirent  Jéroboam pour leur roi, laissant Roboam comme roi des deux tribus du sud, Juda et Benjamin.
+  * A la mort de Salomon, les 10 tribus du nord d'Israël se révoltèrent contre le fils de Salomon et à sa place choisirent Jéroboam pour leur roi, laissant Roboam comme roi des deux tribus du sud, Juda et Benjamin.
   * Jeroboam became a wicked king who led the people away from worshiping Yahweh and instead set up idols for them to worship. All the other kings of Israel followed Jeroboam's example and were evil like he was.
   * Jéroboam devint un mauvais roi qui amena le peuple à abandonner l'adoration de Yahvé et érigea des idoles pour qu'ils les adorent. Tous les autres rois d'Israël suivirent l'exemple de Jéroboam et devinrent mauvais comme lui.
   * Almost 120 years later, another King Jeroboam began ruling the northern kingdom of Israel. This Jeroboam was the son of King Jehoash and was wicked like all the previous kings of Israel had been.
@@ -16,11 +18,9 @@ Jéroboam, fils de Nebath, était le premier roi du royaume du nord d'Israël en
   * In spite of this, God had mercy on Israel and helped this King Jeroboam to gain land and establish boundaries for their territory.
   * Malgré cela, Dieu avait compassion d'Israël et aida ce roi Jéroboam à conquérir le pays et à établir des frontières pour leurs territoires.
 
+(Translation suggestions: Suggestion de traduction: [[:en:ta:vol1:translate:translate_names|(Comment Traduire Les Noms Propres) (How to Translate Names]])
 
-(Translation suggestions: Suggestion de traduction: [[en:ta:vol1:translate:translate_names]])
-
-(See also: Voir aussi: [[kingdomofisrael]], [[kingdomofjudah]])
-
+(See also: Voir aussi: [[:fr:obe:other:kingdomofisrael|kingdom of Israel(royaume d'Israël)]], [[:fr:obe:other:kingdomofjudah|kingdom of Judah, Judah(royaume de Juda,Juda)]])
 
 ===== Bible References: Références Bibliques: =====
 
