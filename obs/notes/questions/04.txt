@@ -21,7 +21,7 @@
   - **What was the name of the city that they were building?**
   - * **//Quel a été le nom de la ville qu'ils avaient construite?//** 
   -      * //Babel. [04-03]//
-      * **//Babel// **
+      * **//Babel. [04-03]// **
   - **What does the name "Babel" mean?**
   - **Qu'est ce que le nom "Babel" signifie?**
       * //Confused. [04-03]//
