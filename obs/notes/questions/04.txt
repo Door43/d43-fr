@@ -23,7 +23,7 @@
   -      * //Babel. [04-03]//
       * **//Babel// **
   - **What does the name "Babel" mean?**
-  - **Qu'est ce que le nom Babel signifie?**
+  - **Qu'est ce que le nom "Babel" signifie?**
       * //Confused. [04-03]//
       * **//Confus.// **
   - **What did God tell Abram to do?**
