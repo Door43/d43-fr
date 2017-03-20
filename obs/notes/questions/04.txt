@@ -65,5 +65,5 @@
   - **What is a covenant?**
   - **Qu'est ce qu'une Alliance?**
       * //An agreement between two parties. [04-09]//
-      * **//Un engagement ( convention, contrat, entente )entre//// deux ////parties.
+      * **//Un engagement ( convention, contrat, entente) entre//// deux ////parties.
       * **[[:fr:obs:notes:questions:03|<< ]] | [[:fr:obs:notes:questions:05| >>]]**
