@@ -3,23 +3,24 @@
 ===== Comprehension Questions and Answers: Questions de Compréhension et Réponses:  =====
 
   - **Why did Abraham send his servant back to the land of Abraham's relatives?** \\  **Pourquoi Abraham a t-il envoyé son serviteur dans le pays des membres de sa famille?**
-    * //To bring back a wife for his son, Isaac. [06-01]// \\ //Afin de ramener une femme for son fils Isaac//
-  - **How did the servant find Rebekah?** \\ **Comment le serviteur a trouve Rebeca**
-    * //God led him to her. [06-02]// \\ //Dieu la lui a laissee//
-  - **How was Rebekah related to Abraham?** \\ **Quelle a ete la relation entre Rebeca et Abraham**
-    * //Rebekah was the granddaughter of Abraham's brother. [06-02] \\ Rebeca a ete  petite fille du frere d'Abraham//
-  - **Was Rebekah forced to go with the servant to marry Isaac? \\ Rebeca avait-elle ete forcee de partir avec le serviteur  et de se marier avec Isaac**
-    * //No, she agreed to go. [06-03] \\ marier isaak :No,elle avait  consenti de partir//
-  - **What promises of God were passed on to Isaac when Abraham died?** \\ **quelles ont ete les peomesses de Dieu pour Isaac quand Abraham etait decede**
-    * //All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]// \\ //Toutes les promesses que Dieu avait faites a Abraham, y compris les mutitudes promesses faites aux  descendants//
-  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?** \\ **Pourquoi  il apparait que la promesse faite aux multitudes des  descendants n'ont pas ete accomplies a travers Isaac**
-    * //Rebekah could not have children. [06-04] \\ Rebeca  ne doit pas avoir d'enfants//
-  - **What did God tell Rebekah about her two twin sons before they were born? \\ Qu'est ce que Dieu a dit a Rebeca au sujet de ses deux fils  jumeaux  avant qu'ils soient nes**
-    * //They would become two nations, and the older son will serve the younger one. [06-06]// \\ // ils deviendront deux nations, et le plus grand enfant servira le plus petit//
-  - **What was the name of the older son? \\ Quel est le nom du plus grand**
-    * //Esau. [06-07] \\ Esau//
-  - **What was the name of the younger son? \\ quel est le nom du plus enfant**
-    * //Jacob. [06-07] \\ Jacob//
+    * //To bring back a wife for his son, Isaac. [06-01]// \\ //Afin de ramener une femme for son fils Isaac.[06-01]//
+  - **How did the servant find Rebekah?** \\ **Comment le serviteur a t-il trouvé Rebecca?**
+    * //God led him to her. [06-02]// \\ //Dieu l'a guidé vers elle.[06-02]//
+  - **How was Rebekah related to Abraham?** \\ **Quelle était la parenté entre Rebecca et Abraham?*
+    * //Rebekah was the granddaughter of Abraham's brother. [06-02] \\ Rebecca était la petite fille du frère d'Abraham.[06-02]//
+  - **Was Rebekah forced to go with the servant to marry Isaac? \\ Rebecca avait-elle été forcée de partir avec le serviteur  et de se marier avec Isaac?**
+    * //No, she agreed to go. [06-03] \\ marier isaak :Non, elle avait  consenti de partir.[06-03] //
+  - **What promises of God were passed on to Isaac when Abraham died?** \\ **Quelles ont été les promesses de Dieu pour Isaac quand Abraham mourut?**
+    * //All of the promises that God had made to Abraham, including that he would have countless descendants. [06-04]// \\ //Toutes les promesses que Dieu avait faites à Abraham, y compris qu'il aurait une multitude de descendants. [06-04]//
+  - **Why did it appear that the promise of countless descendants would not be fulfilled through Isaac?** \\ **Pourquoi  il semblait que la promesse d'une multitude de  descendants n'allait pas s'accomplir au travers d'Isaac?**
+    * //Rebekah could not have children. [06-04] \\ Rebecca  ne pouvait pas avoir d'enfants. [06-04]//
+  - **What did God tell Rebekah about her two twin sons before they were born? \\ Qu'est ce que Dieu a dit a Rebecca au sujet de ses deux fils jumeaux avant qu'ils soient nés?**
+    * //They would become two nations, and the older son will serve the younger one. [06-06]// \\ // ils deviendraient deux nations, et l'aîné servirait le plus jeune. [06-06]//
+  - **What was the name of the older son? \\ Quel était le nom de l'aîné?**
+
+    * //Esau. [06-07] \\ Esaü.[06-07]//
+  - **What was the name of the younger son? \\ Quel était le nom du plus jeune enfant?**
+    * //Jacob. [06-07] \\ Jacob.[06-07]//
 
 
 **[[:fr:obs:notes:questions:05|<< ]] | [[:fr:obs:notes:questions:07| >>]]**
