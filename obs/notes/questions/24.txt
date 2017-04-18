@@ -7,7 +7,7 @@
     *//Il vivait au désert.[24-01]//
   - **What message did John preach to the people?** \\ **Quel message Jean prêchait-il au peuple?**
     *//“Repent, for the kingdom of God is near!” [24-02]//
-    *//"repentez-vous, car le royaume de Dieu est proche."//
+    *//"repentez-vous, car le royaume de Dieu est proche."[24-02]//
   - **What did John do to the people who repented at his preaching?** \\ **Que faisait Jean lorsque les gens se repentaient?**
     *//He baptized them. [24-03]//
     *// Il les baptisait. [24-03]//
