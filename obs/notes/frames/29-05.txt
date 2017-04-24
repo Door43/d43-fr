@@ -4,7 +4,7 @@
 
 “But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
 
-“Mais quand le **serviteur** quitta le roi, il rencontra un **autre serviteur** qui avait envers lui une dette équivalant à quatre mois de salaire. Le premier serviteur saisit l'homme et lui dit: 'Rends moi ce que tu me dois.'”
+“Mais quand le **serviteur** quitta le roi, il rencontra un **autre serviteur** qui avait envers lui une dette équivalent à quatre mois de salaire. Le premier serviteur saisit l'homme et lui dit: "Rends moi ce que tu me dois.”
 
 ===== Termes Importants =====
   * **[[:fr:obe:other/servant]]**
