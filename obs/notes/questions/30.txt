@@ -30,7 +30,7 @@
   - **How many people ate and were satisfied from the food?** \\ **Combien de personnes mangèrent et se rassasièrent?**
     *//Five thousand men, not counting the women and children. [30-03]//
     *//5000 hommes, sans compter les femmes et les enfants.//
-  - **How much food was left over after everyone had eaten?** \\ **Combien de nourriture restait-il après que tout le monde ait mangé?**
+  - **How much food was left over after everyone had eaten?** \\ **Quelle quantité de nourriture restait-il après que tout le monde ait mangé?**
     *//Twelve baskets full. [30-09]//
     *12 paniers. [30-09]//
 
