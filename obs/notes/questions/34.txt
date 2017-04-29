@@ -5,7 +5,8 @@
 
   - **How does a mustard seed compare to other seeds?** \\ **Comment la graine de moutarde compare t-elle aveC les autres graines?**
     *//It is the smallest seed of all. [34-01]//
-    *//Elle est la plus petite de toutes.[34-01]//s  - **What happens to a mustard seed when it grows?** \\ **Qu'est ce qui se passe quand la graine de moutarde pousse?**
+    *//Elle est la plus petite de toutes.[34-01]//
+  - **What happens to a mustard seed when it grows?** \\ **Qu'est ce qui se passe quand la graine de moutarde pousse?**
     *//It becomes the largest of all the garden plants. [34-02]//
     *//Elle devient la plus grande de toutes les plantes du jardin.[34-02]//
   - **What happens to yeast when it is mixed into bread dough?** \\ **Qu'est ce qui se passe quand on mélange la levure avec la pâte?**
