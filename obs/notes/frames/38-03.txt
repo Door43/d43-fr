@@ -7,12 +7,13 @@ The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver c
 Les **chefs des Juifs**, avec l'accord du **Grand-Prêtre**, donnèrent à **Judas trente pièces d'argent** pour **trahir Jésus**. Ceci se passa exactement comme les **prophètes** l'avaient prédit. Judas accepta l'argent, et partit. Il commença à chercher une occasion favorable pour les aider à arrêter Jesus.
 
 ===== Termes Importants =====
-  * **[[:fr:obe:other/jewishleaders]]**
-  * **[[:fr:obe:kt/highpriest]]**  
-  * **[[:fr:obe:other/judasiscariot]]**
-  * **[[:fr:obe:kt/betray]]**
-  * **[[:fr:obe:kt/Jesus]]**
-  * **[[:fr:obe:kt/prophet|prophets(prophète)]]**
+
+  * **[[:fr:obe:other:jewishleaders|Jewish leaders, religious leaders(chefs juifs, dirigeants religieux)]]**
+  * **[[:fr:obe:kt:highpriest|high priest(grand prêtre)]]**
+  * **[[:fr:obe:other:judasiscariot|Judas Iscariot(Judas l'Iscariot)]]**
+  * **[[:fr:obe:kt:betray|betray, betrayer(trahir,traître)]]**
+  * **[[:fr:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus(Jésus, Jésus-Christ)]]**
+  * **[[:fr:obe:kt:prophet|prophets(prophète)]]**
 
 ===== Translation Notes: =====
 
