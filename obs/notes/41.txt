@@ -1,10 +1,10 @@
-====== 41. God Raises Jesus from the Dead / Dieu Réssuscite Jésus Des Morts F ======
+====== 41. God Raises Jesus from the Dead / Dieu Ressuscite Jésus Des Morts F ======
 
 ===== Overview: =====
 
 After three days in the tomb, Jesus rose from the dead! It did not matter that soldiers guarded his tomb. When an angel appeared to open the tomb, the soldiers were terrified. When some of the women who followed Jesus came to put spices on his body, the angel told them that Jesus was alive. Then Jesus also appeared to the women and told them to tell the disciples that he had risen.
 
-Aprés trois jours dans la tombe Jésus est réssuscité des morts! Des soldats avaient été placés devant l'entrée de sa tombe pour rien. Quand un ange est apparu  pour ouvrir la tombe, les soldats ont été épouvantés. Quand quelques unes des femmes, qui suivaient Jesus, sont venues pour mettre les aromates sur son corps, l'ange leur a dit que Jésus était  vivant. Alors Jésus est aussi apparu aux femmes et leur a dit de dire aux disciples qu'Il était réssuscité.
+Aprés trois jours dans la tombe Jésus est ressuscité des morts! Des soldats avaient été placés devant l'entrée de sa tombe pour rien. Quand un ange est apparu  pour ouvrir la tombe, les soldats ont été épouvantés. Quand quelques unes des femmes, qui suivaient Jesus, sont venues pour mettre les aromates sur son corps, l'ange leur a dit que Jésus était  vivant. Alors Jésus est aussi apparu aux femmes et leur a dit de dire aux disciples qu'Il était ressuscité.
 
 ====== Translate the Story ======
 
@@ -23,7 +23,7 @@ The Women les Femmes [41-03]
 The Angel Appeared  L'ange Est Apparu [41-04]
 
 [[:fr:obs:notes:frames:41-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&200}}]]\\
-Jesus Is Risen  Jésus Est Réssuscité [41-05]
+Jesus Is Risen  Jésus Est Ressuscité [41-05]
 
 [[:fr:obs:notes:frames:41-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&200}}]]\\
 Tell the Disciples  Allez Dire Aux Disciples [41-06]
